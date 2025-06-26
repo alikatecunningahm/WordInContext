@@ -1,0 +1,2294 @@
+bible_chapter,bible_verse,verse_part_type,verse_part,hebrew_id,lit_type,testament_type,bible_book,version
+1,Ephesians1:1 ,WORD,"Paul,",G3972,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:1 ,PHRASE,an apostle,G652,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:1 ,PHRASE,of Jesus,G2424,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:1 ,WORD,Christ,G5547,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:1 ,WORD,by,G1223,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:1 ,PHRASE,the will,G2307,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:1 ,PHRASE,"of God,",G2316,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:1 ,PHRASE,to the,G3588,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:1 ,WORD,saints,G40,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:1 ,WORD,which,G3588,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:1 ,WORD,are,G5607,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:1 ,WORD,at,G1722,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:1 ,WORD,"Ephesus,",G2181,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:1 ,WORD,and,G2532,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:1 ,PHRASE,to the faithful,G4103,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:1 ,WORD,in,G1722,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:1 ,WORD,Christ,G5547,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:1 ,WORD,Jesus:,G2424,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:2 ,WORD,Grace,G5485,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:2 ,WORD,[be],,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:2 ,PHRASE,"to you,",G5213,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:2 ,WORD,and,G2532,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:2 ,WORD,"peace,",G1515,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:2 ,WORD,from,G575,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:2 ,WORD,God,G2316,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:2 ,WORD,our,G2257,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:2 ,WORD,"Father,",G3962,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:2 ,WORD,and,G2532,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:2 ,WORD,[from],,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:2 ,PHRASE,the Lord,G2962,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:2 ,WORD,Jesus,G2424,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:2 ,WORD,Christ.,G5547,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:3 ,WORD,Blessed,G2128,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:3 ,WORD,[be],,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:3 ,WORD,the,G3588,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:3 ,WORD,God,G2316,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:3 ,WORD,and,G2532,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:3 ,WORD,Father,G3962,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:3 ,PHRASE,of our,G2257,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:3 ,WORD,Lord,G2962,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:3 ,WORD,Jesus,G2424,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:3 ,WORD,"Christ,",G5547,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:3 ,WORD,who,G3588,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:3 ,PHRASE,hath blessed,G2127,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:3 ,WORD,us,G2248,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:3 ,WORD,with,G1722,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:3 ,WORD,all,G3956,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:3 ,WORD,spiritual,G4152,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:3 ,WORD,blessings,G2129,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:3 ,WORD,in,G1722,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:3 ,WORD,heavenly,G2032,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:3 ,WORD,[places],,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:3 ,PHRASE,in Christ:,G5547,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:4 ,PHRASE,According as,G2531,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:4 ,PHRASE,he hath chosen,G1586,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:4 ,WORD,us,G2248,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:4 ,WORD,in,G1722,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:4 ,WORD,him,G846,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:4 ,WORD,before,G4253,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:4 ,PHRASE,the foundation,G2602,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:4 ,PHRASE,"of the world,",G2889,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:4 ,PHRASE,that we,G2248,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:4 ,PHRASE,should be,G1511,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:4 ,WORD,holy,G40,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:4 ,WORD,and,G2532,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:4 ,PHRASE,without blame,G299,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:4 ,WORD,before,G2714,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:4 ,WORD,him,G846,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:4 ,WORD,in,G1722,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:4 ,WORD,love:,G26,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:5 ,PHRASE,Having predestinated,G4309,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:5 ,WORD,us,G2248,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:5 ,WORD,unto,G1519,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:5 ,PHRASE,the adoption of children,G5206,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:5 ,WORD,by,G1223,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:5 ,WORD,Jesus,G2424,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:5 ,WORD,Christ,G5547,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:5 ,WORD,to,G1519,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:5 ,WORD,"himself,",G846,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:5 ,WORD,according,G2596,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:5 ,PHRASE,to the,G3588,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:5 ,PHRASE,good pleasure,G2107,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:5 ,PHRASE,of his,G846,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:5 ,WORD,"will,",G2307,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:6 ,WORD,To,G1519,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:6 ,PHRASE,the praise,G1868,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:6 ,PHRASE,of the glory,G1391,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:6 ,PHRASE,of his,G846,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:6 ,WORD,"grace,",G5485,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:6 ,WORD,wherein,G1722,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:6 ,WORD,,G3739,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:6 ,PHRASE,he hath made,G5487,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:6 ,WORD,us,G2248,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:6 ,WORD,accepted,G5487,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:6 ,WORD,in,G1722,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:6 ,WORD,the,G3588,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:6 ,WORD,beloved.,G25,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:7 ,WORD,In,G1722,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:7 ,WORD,whom,G3739,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:7 ,PHRASE,we have,G2192,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:7 ,WORD,redemption,G629,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:7 ,WORD,through,G1223,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:7 ,WORD,his,G846,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:7 ,WORD,"blood,",G129,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:7 ,WORD,the,G3588,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:7 ,WORD,forgiveness,G859,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:7 ,PHRASE,"of sins,",G3900,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:7 ,WORD,according,G2596,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:7 ,PHRASE,to the,G3588,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:7 ,WORD,riches,G4149,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:7 ,PHRASE,of his,G846,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:7 ,WORD,grace;,G5485,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:8 ,WORD,Wherein,G3739,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:8 ,PHRASE,he hath abounded,G4052,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:8 ,WORD,toward,G1519,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:8 ,WORD,us,G2248,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:8 ,WORD,in,G1722,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:8 ,WORD,all,G3956,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:8 ,WORD,wisdom,G4678,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:8 ,WORD,and,G2532,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:8 ,WORD,prudence;,G5428,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:9 ,PHRASE,Having made known,G1107,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:9 ,PHRASE,unto us,G2254,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:9 ,WORD,the,G3588,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:9 ,WORD,mystery,G3466,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:9 ,PHRASE,of his,G846,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:9 ,WORD,"will,",G2307,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:9 ,PHRASE,according to,G2596,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:9 ,WORD,his,G846,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:9 ,PHRASE,good pleasure,G2107,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:9 ,WORD,which,G3739,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:9 ,PHRASE,he hath purposed,G4388,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:9 ,WORD,in,G1722,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:9 ,WORD,himself:,G846,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:10 ,PHRASE,That in,G1519,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:10 ,PHRASE,the dispensation,G3622,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:10 ,PHRASE,of the,G3588,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:10 ,WORD,fulness,G4138,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:10 ,PHRASE,of times,G2540,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:10 ,PHRASE,he might gather together in one,G346,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:10 ,PHRASE,all things,G3956,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:10 ,WORD,in,G1722,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:10 ,WORD,"Christ,",G5547,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:10 ,WORD,both,G5037,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:10 ,WORD,which,G3588,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:10 ,PHRASE,are in,G1722,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:10 ,WORD,"heaven,",G3772,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:10 ,WORD,and,G2532,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:10 ,WORD,which,G3588,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:10 ,PHRASE,are on,G1909,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:10 ,WORD,earth;,G1093,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:10 ,WORD,[even],,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:10 ,WORD,in,G1722,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:10 ,WORD,him:,G846,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:11 ,WORD,In,G1722,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:11 ,WORD,whom,G3739,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:11 ,WORD,also,G2532,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:11 ,PHRASE,"we have obtained an inheritance,",G2820,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:11 ,PHRASE,being predestinated,G4309,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:11 ,PHRASE,according to,G2596,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:11 ,PHRASE,the purpose,G4286,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:11 ,PHRASE,of him,G3588,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:11 ,PHRASE,who worketh,G1754,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:11 ,PHRASE,all things,G3956,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:11 ,WORD,after,G2596,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:11 ,WORD,the,G3588,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:11 ,WORD,counsel,G1012,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:11 ,PHRASE,of his own,G846,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:11 ,WORD,will:,G2307,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:12 ,WORD,That,G1519,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:12 ,WORD,we,G2248,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:12 ,PHRASE,should be,G1511,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:12 ,WORD,to,G1519,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:12 ,PHRASE,the praise,G1868,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:12 ,PHRASE,of his,G846,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:12 ,WORD,"glory,",G1391,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:12 ,WORD,who,G3588,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:12 ,PHRASE,first trusted,G4276,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:12 ,WORD,in,G1722,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:12 ,WORD,Christ.,G5547,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:13 ,WORD,In,G1722,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:13 ,WORD,whom,G3739,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:13 ,WORD,ye,G5210,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:13 ,WORD,also,G2532,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:13 ,WORD,"[trusted],",,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:13 ,PHRASE,after that ye heard,G191,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:13 ,WORD,the,G3588,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:13 ,WORD,word,G3056,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:13 ,PHRASE,"of truth,",G225,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:13 ,WORD,the,G3588,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:13 ,WORD,gospel,G2098,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:13 ,PHRASE,of your,G5216,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:13 ,WORD,salvation:,G4991,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:13 ,WORD,in,G1722,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:13 ,WORD,whom,G3739,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:13 ,WORD,also,G2532,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:13 ,PHRASE,"after that ye believed,",G4100,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:13 ,PHRASE,ye were sealed with,G4972,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:13 ,PHRASE,that holy,G40,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:13 ,WORD,Spirit,G4151,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:13 ,PHRASE,"of promise,",G1860,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:14 ,WORD,Which,G3739,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:14 ,WORD,is,G2076,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:14 ,PHRASE,the earnest,G728,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:14 ,PHRASE,of our,G2257,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:14 ,WORD,inheritance,G2817,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:14 ,WORD,until,G1519,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:14 ,PHRASE,the redemption,G629,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:14 ,PHRASE,of the,G3588,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:14 ,PHRASE,"purchased possession,",G4047,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:14 ,WORD,unto,G1519,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:14 ,PHRASE,the praise,G1868,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:14 ,PHRASE,of his,G846,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:14 ,WORD,glory.,G1391,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:15 ,WORD,Wherefore,G1223,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:15 ,WORD,,G5124,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:15 ,PHRASE,"I also,",G2504,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:15 ,PHRASE,after I heard,G191,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:15 ,WORD,of,G2596,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:15 ,WORD,your,G5209,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:15 ,WORD,faith,G4102,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:15 ,WORD,in,G1722,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:15 ,WORD,the,G3588,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:15 ,WORD,Lord,G2962,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:15 ,WORD,"Jesus,",G2424,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:15 ,WORD,and,G2532,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:15 ,WORD,love,G26,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:15 ,WORD,unto,G1519,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:15 ,WORD,all,G3956,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:15 ,WORD,the,G3588,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:15 ,WORD,"saints,",G40,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:16 ,WORD,Cease,G3973,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:16 ,WORD,not,G3756,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:16 ,PHRASE,to give thanks,G2168,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:16 ,WORD,for,G5228,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:16 ,WORD,"you,",G5216,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:16 ,WORD,making,G4160,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:16 ,WORD,mention,G3417,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:16 ,PHRASE,of you,G5216,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:16 ,WORD,in,G1909,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:16 ,WORD,my,G3450,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:16 ,WORD,prayers;,G4335,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:17 ,WORD,That,G2443,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:17 ,WORD,the,G3588,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:17 ,WORD,God,G2316,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:17 ,PHRASE,of our,G2257,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:17 ,WORD,Lord,G2962,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:17 ,WORD,Jesus,G2424,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:17 ,WORD,"Christ,",G5547,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:17 ,WORD,the,G3588,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:17 ,WORD,Father,G3962,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:17 ,PHRASE,"of glory,",G1391,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:17 ,PHRASE,may give,G1325,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:17 ,PHRASE,unto you,G5213,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:17 ,PHRASE,the spirit,G4151,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:17 ,PHRASE,of wisdom,G4678,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:17 ,WORD,and,G2532,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:17 ,WORD,revelation,G602,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:17 ,WORD,in,G1722,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:17 ,PHRASE,the knowledge,G1922,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:17 ,PHRASE,of him:,G846,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:18 ,WORD,The,G3588,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:18 ,WORD,eyes,G3788,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:18 ,PHRASE,of your,G5216,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:18 ,WORD,understanding,G1271,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:18 ,PHRASE,being enlightened;,G5461,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:18 ,WORD,that,G1519,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:18 ,WORD,ye,G5209,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:18 ,PHRASE,may know,G1492,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:18 ,WORD,what,G5101,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:18 ,WORD,is,G2076,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:18 ,WORD,the,G3588,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:18 ,WORD,hope,G1680,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:18 ,PHRASE,of his,G846,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:18 ,WORD,"calling,",G2821,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:18 ,WORD,and,G2532,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:18 ,WORD,what,G5101,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:18 ,WORD,the,G3588,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:18 ,WORD,riches,G4149,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:18 ,PHRASE,of the,G3588,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:18 ,WORD,glory,G1391,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:18 ,PHRASE,of his,G846,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:18 ,WORD,inheritance,G2817,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:18 ,WORD,in,G1722,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:18 ,WORD,the,G3588,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:18 ,WORD,"saints,",G40,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:19 ,WORD,And,G2532,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:19 ,WORD,what,G5101,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:19 ,WORD,[is],,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:19 ,WORD,the,G3588,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:19 ,WORD,exceeding,G5235,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:19 ,WORD,greatness,G3174,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:19 ,PHRASE,of his,G846,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:19 ,WORD,power,G1411,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:19 ,WORD,to,G1519,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:19 ,WORD,us-ward,G2248,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:19 ,WORD,who,G3588,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:19 ,WORD,"believe,",G4100,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:19 ,PHRASE,according to,G2596,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:19 ,WORD,the,G3588,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:19 ,WORD,working,G1753,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:19 ,PHRASE,of his,G846,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:19 ,WORD,mighty,G2479,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:19 ,WORD,"power,",G2904,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:20 ,WORD,Which,G3739,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:20 ,PHRASE,he wrought,G1754,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:20 ,WORD,in,G1722,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:20 ,WORD,"Christ,",G5547,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:20 ,PHRASE,when he raised,G1453,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:20 ,WORD,him,G846,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:20 ,WORD,from,G1537,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:20 ,PHRASE,"the dead,",G3498,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:20 ,WORD,and,G2532,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:20 ,WORD,set,G2523,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:20 ,WORD,[him],,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:20 ,WORD,at,G1722,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:20 ,PHRASE,his own,G846,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:20 ,PHRASE,right hand,G1188,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:20 ,WORD,in,G1722,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:20 ,WORD,the,G3588,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:20 ,WORD,heavenly,G2032,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:20 ,WORD,"[places],",,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:21 ,PHRASE,Far above,G5231,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:21 ,WORD,all,G3956,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:21 ,WORD,"principality,",G746,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:21 ,WORD,and,G2532,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:21 ,WORD,"power,",G1849,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:21 ,WORD,and,G2532,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:21 ,WORD,"might,",G1411,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:21 ,WORD,and,G2532,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:21 ,WORD,"dominion,",G2963,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:21 ,WORD,and,G2532,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:21 ,WORD,every,G3956,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:21 ,WORD,name,G3686,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:21 ,PHRASE,"that is named,",G3687,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:21 ,WORD,not,G3756,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:21 ,WORD,only,G3440,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:21 ,WORD,in,G1722,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:21 ,WORD,this,G5129,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:21 ,WORD,"world,",G165,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:21 ,WORD,but,G235,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:21 ,WORD,also,G2532,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:21 ,WORD,in,G1722,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:21 ,PHRASE,that which,G3588,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:21 ,PHRASE,is to come:,G3195,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:22 ,WORD,And,G2532,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:22 ,PHRASE,hath put,G5293,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:22 ,WORD,all,G3956,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:22 ,WORD,[things],,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:22 ,WORD,under,G5259,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:22 ,WORD,his,G846,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:22 ,WORD,"feet,",G4228,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:22 ,WORD,and,G2532,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:22 ,WORD,gave,G1325,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:22 ,WORD,him,G846,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:22 ,PHRASE,[to be],,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:22 ,PHRASE,the head,G2776,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:22 ,WORD,over,G5228,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:22 ,WORD,all,G3956,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:22 ,WORD,[things],,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:22 ,PHRASE,to the,G3588,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:22 ,WORD,"church,",G1577,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:23 ,WORD,Which,G3748,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:23 ,WORD,is,G2076,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:23 ,WORD,his,G846,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:23 ,WORD,"body,",G4983,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:23 ,WORD,the,G3588,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:23 ,WORD,fulness,G4138,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:23 ,PHRASE,of him,G3588,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:23 ,PHRASE,that filleth,G4137,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:23 ,WORD,all,G3956,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:23 ,WORD,in,G1722,Epistles,New Testament,Ephesians,KJV
+1,Ephesians1:23 ,WORD,all.,G3956,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:1 ,WORD,And,G2532,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:1 ,WORD,you,G5209,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:1 ,PHRASE,"[hath he quickened],",,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:1 ,PHRASE,who were,G5607,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:1 ,WORD,dead,G3498,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:1 ,PHRASE,in trespasses,G3900,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:1 ,WORD,and,G2532,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:1 ,WORD,sins;,G266,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:2 ,WORD,Wherein,G1722,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:2 ,WORD,,G3739,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:2 ,PHRASE,in time past,G4218,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:2 ,PHRASE,ye walked,G4043,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:2 ,PHRASE,according to,G2596,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:2 ,WORD,the,G3588,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:2 ,WORD,course,G165,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:2 ,PHRASE,of this,G5127,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:2 ,WORD,"world,",G2889,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:2 ,PHRASE,according to,G2596,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:2 ,WORD,the,G3588,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:2 ,WORD,prince,G758,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:2 ,PHRASE,of the,G3588,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:2 ,WORD,power,G1849,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:2 ,PHRASE,of the,G3588,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:2 ,WORD,"air,",G109,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:2 ,WORD,the,G3588,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:2 ,WORD,spirit,G4151,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:2 ,PHRASE,that now,G3568,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:2 ,WORD,worketh,G1754,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:2 ,WORD,in,G1722,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:2 ,WORD,the,G3588,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:2 ,WORD,children,G5207,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:2 ,PHRASE,of disobedience:,G543,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:3 ,WORD,Among,G1722,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:3 ,WORD,whom,G3739,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:3 ,WORD,also,G2532,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:3 ,WORD,we,G2249,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:3 ,WORD,all,G3956,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:3 ,PHRASE,had our conversation,G390,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:3 ,PHRASE,in times past,G4218,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:3 ,WORD,in,G1722,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:3 ,WORD,the,G3588,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:3 ,WORD,lusts,G1939,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:3 ,PHRASE,of our,G2257,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:3 ,WORD,"flesh,",G4561,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:3 ,WORD,fulfilling,G4160,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:3 ,WORD,the,G3588,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:3 ,WORD,desires,G2307,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:3 ,PHRASE,of the,G3588,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:3 ,WORD,flesh,G4561,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:3 ,WORD,and,G2532,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:3 ,PHRASE,of the,G3588,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:3 ,WORD,mind;,G1271,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:3 ,WORD,and,G2532,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:3 ,WORD,were,G1510,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:3 ,PHRASE,by nature,G5449,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:3 ,PHRASE,the children,G5043,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:3 ,PHRASE,"of wrath,",G3709,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:3 ,WORD,even,G2532,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:3 ,WORD,as,G5613,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:3 ,WORD,others.,G3062,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:4 ,WORD,But,G1161,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:4 ,WORD,"God,",G2316,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:4 ,PHRASE,who is,G5607,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:4 ,WORD,rich,G4145,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:4 ,WORD,in,G1722,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:4 ,WORD,"mercy,",G1656,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:4 ,WORD,for,G1223,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:4 ,WORD,his,G846,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:4 ,WORD,great,G4183,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:4 ,WORD,love,G26,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:4 ,WORD,wherewith,G3739,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:4 ,PHRASE,he loved,G25,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:4 ,WORD,"us,",G2248,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:5 ,WORD,Even,G2532,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:5 ,PHRASE,when we,G2248,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:5 ,WORD,were,G5607,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:5 ,WORD,dead,G3498,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:5 ,PHRASE,"in sins,",G3900,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:5 ,PHRASE,hath quickened us together with,G4806,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:5 ,WORD,"Christ,",G5547,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:5 ,PHRASE,(by grace,G5485,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:5 ,PHRASE,ye are,G2075,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:5 ,WORD,saved;),G4982,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:6 ,WORD,And,G2532,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:6 ,PHRASE,"hath raised [us] up together,",G4891,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:6 ,WORD,and,G2532,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:6 ,PHRASE,made [us] sit together,G4776,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:6 ,WORD,in,G1722,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:6 ,WORD,heavenly,G2032,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:6 ,WORD,[places],,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:6 ,WORD,in,G1722,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:6 ,WORD,Christ,G5547,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:6 ,WORD,Jesus:,G2424,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:7 ,WORD,That,G2443,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:7 ,WORD,in,G1722,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:7 ,WORD,the,G3588,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:7 ,WORD,ages,G165,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:7 ,PHRASE,to come,G1904,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:7 ,PHRASE,he might shew,G1731,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:7 ,WORD,the,G3588,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:7 ,WORD,exceeding,G5235,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:7 ,WORD,riches,G4149,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:7 ,PHRASE,of his,G846,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:7 ,WORD,grace,G5485,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:7 ,WORD,in,G1722,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:7 ,WORD,[his],,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:7 ,WORD,kindness,G5544,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:7 ,WORD,toward,G1909,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:7 ,WORD,us,G2248,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:7 ,WORD,through,G1722,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:7 ,WORD,Christ,G5547,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:7 ,WORD,Jesus.,G2424,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:8 ,WORD,For,G1063,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:8 ,PHRASE,by grace,G5485,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:8 ,PHRASE,are ye,G2075,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:8 ,WORD,saved,G4982,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:8 ,WORD,through,G1223,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:8 ,WORD,faith;,G4102,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:8 ,WORD,and,G2532,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:8 ,WORD,that,G5124,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:8 ,WORD,not,G3756,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:8 ,WORD,of,G1537,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:8 ,WORD,yourselves:,G5216,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:8 ,PHRASE,[it is],,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:8 ,WORD,the,G3588,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:8 ,WORD,gift,G1435,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:8 ,PHRASE,of God:,G2316,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:9 ,WORD,Not,G3756,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:9 ,WORD,of,G1537,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:9 ,WORD,"works,",G2041,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:9 ,WORD,,G2443,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:9 ,WORD,lest,G3361,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:9 ,PHRASE,any man,G5100,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:9 ,PHRASE,should boast.,G2744,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:10 ,WORD,For,G1063,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:10 ,PHRASE,we are,G2070,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:10 ,WORD,his,G846,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:10 ,WORD,"workmanship,",G4161,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:10 ,WORD,created,G2936,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:10 ,WORD,in,G1722,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:10 ,WORD,Christ,G5547,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:10 ,WORD,Jesus,G2424,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:10 ,WORD,unto,G1909,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:10 ,WORD,good,G18,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:10 ,WORD,"works,",G2041,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:10 ,WORD,which,G3739,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:10 ,WORD,God,G2316,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:10 ,PHRASE,hath before ordained,G4282,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:10 ,WORD,that,G2443,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:10 ,PHRASE,we should walk,G4043,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:10 ,WORD,in,G1722,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:10 ,WORD,them.,G846,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:11 ,WORD,Wherefore,G1352,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:11 ,WORD,"remember,",G3421,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:11 ,WORD,that,G3754,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:11 ,WORD,ye,G5210,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:11 ,WORD,[being],,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:11 ,PHRASE,in time past,G4218,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:11 ,WORD,Gentiles,G1484,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:11 ,WORD,in,G1722,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:11 ,PHRASE,"the flesh,",G4561,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:11 ,WORD,who,G3588,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:11 ,PHRASE,are called,G3004,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:11 ,WORD,Uncircumcision,G203,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:11 ,WORD,by,G5259,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:11 ,PHRASE,that which,G3588,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:11 ,PHRASE,is called,G3004,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:11 ,PHRASE,the Circumcision,G4061,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:11 ,WORD,in,G1722,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:11 ,PHRASE,the flesh,G4561,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:11 ,PHRASE,made by hands;,G5499,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:12 ,WORD,That,G3754,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:12 ,WORD,at,G1722,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:12 ,WORD,that,G1565,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:12 ,WORD,time,G2540,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:12 ,PHRASE,ye were,G2258,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:12 ,WORD,without,G5565,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:12 ,WORD,"Christ,",G5547,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:12 ,PHRASE,being aliens,G526,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:12 ,PHRASE,from the,G3588,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:12 ,WORD,commonwealth,G4174,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:12 ,PHRASE,"of Israel,",G2474,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:12 ,WORD,and,G2532,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:12 ,WORD,strangers,G3581,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:12 ,PHRASE,from the,G3588,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:12 ,WORD,covenants,G1242,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:12 ,PHRASE,"of promise,",G1860,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:12 ,WORD,having,G2192,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:12 ,WORD,no,G3361,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:12 ,WORD,"hope,",G1680,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:12 ,WORD,and,G2532,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:12 ,PHRASE,without God,G112,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:12 ,WORD,in,G1722,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:12 ,WORD,the,G3588,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:12 ,WORD,world:,G2889,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:13 ,WORD,But,G1161,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:13 ,WORD,now,G3570,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:13 ,WORD,in,G1722,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:13 ,WORD,Christ,G5547,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:13 ,WORD,Jesus,G2424,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:13 ,WORD,ye,G5210,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:13 ,WORD,who,G3588,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:13 ,WORD,sometimes,G4218,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:13 ,WORD,were,G5607,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:13 ,PHRASE,far off,G3112,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:13 ,PHRASE,are made,G1096,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:13 ,WORD,nigh,G1451,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:13 ,WORD,by,G1722,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:13 ,WORD,the,G3588,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:13 ,WORD,blood,G129,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:13 ,PHRASE,of Christ.,G5547,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:14 ,WORD,For,G1063,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:14 ,WORD,he,G846,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:14 ,WORD,is,G2076,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:14 ,WORD,our,G2257,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:14 ,WORD,"peace,",G1515,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:14 ,WORD,who,G3588,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:14 ,PHRASE,hath made,G4160,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:14 ,WORD,both,G297,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:14 ,WORD,"one,",G1520,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:14 ,WORD,and,G2532,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:14 ,PHRASE,hath broken down,G3089,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:14 ,WORD,the,G3588,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:14 ,PHRASE,middle wall,G3320,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:14 ,PHRASE,of partition,G5418,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:14 ,PHRASE,[between us];,,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:15 ,PHRASE,Having abolished,G2673,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:15 ,WORD,in,G1722,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:15 ,WORD,his,G846,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:15 ,WORD,flesh,G4561,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:15 ,WORD,the,G3588,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:15 ,WORD,"enmity,",G2189,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:15 ,WORD,[even],,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:15 ,WORD,the,G3588,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:15 ,WORD,law,G3551,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:15 ,PHRASE,of commandments,G1785,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:15 ,WORD,[contained],,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:15 ,WORD,in,G1722,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:15 ,WORD,ordinances;,G1378,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:15 ,PHRASE,for to,G2443,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:15 ,WORD,make,G2936,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:15 ,WORD,in,G1722,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:15 ,WORD,himself,G1438,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:15 ,PHRASE,of twain,G1417,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:15 ,WORD,one,G1519,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:15 ,WORD,,G1520,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:15 ,WORD,new,G2537,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:15 ,WORD,"man,",G444,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:15 ,WORD,[so],,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:15 ,WORD,making,G4160,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:15 ,WORD,peace;,G1515,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:16 ,WORD,And,G2532,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:16 ,PHRASE,that he might reconcile,G604,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:16 ,WORD,both,G297,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:16 ,PHRASE,unto God,G2316,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:16 ,WORD,in,G1722,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:16 ,WORD,one,G1520,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:16 ,WORD,body,G4983,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:16 ,WORD,by,G1223,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:16 ,WORD,the,G3588,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:16 ,WORD,"cross,",G4716,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:16 ,PHRASE,having slain,G615,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:16 ,WORD,the,G3588,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:16 ,WORD,enmity,G2189,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:16 ,WORD,thereby:,G1722,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:16 ,WORD,,G846,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:17 ,WORD,And,G2532,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:17 ,WORD,came,G2064,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:17 ,PHRASE,and preached,G2097,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:17 ,WORD,peace,G1515,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:17 ,PHRASE,to you,G5213,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:17 ,WORD,which,G3588,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:17 ,PHRASE,"were afar off,",G3112,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:17 ,WORD,and,G2532,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:17 ,PHRASE,to them,G3588,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:17 ,PHRASE,that were nigh.,G1451,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:18 ,WORD,For,G3754,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:18 ,WORD,through,G1223,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:18 ,WORD,him,G846,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:18 ,WORD,we,G2192,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:18 ,WORD,both,G297,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:18 ,WORD,have,G2192,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:18 ,WORD,access,G4318,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:18 ,WORD,by,G1722,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:18 ,WORD,one,G1520,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:18 ,WORD,Spirit,G4151,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:18 ,WORD,unto,G4314,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:18 ,WORD,the,G3588,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:18 ,WORD,Father.,G3962,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:19 ,WORD,Now,G3767,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:19 ,WORD,therefore,G686,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:19 ,PHRASE,ye are,G2075,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:19 ,PHRASE,no more,G3765,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:19 ,WORD,strangers,G3581,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:19 ,WORD,and,G2532,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:19 ,WORD,"foreigners,",G3941,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:19 ,WORD,but,G235,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:19 ,WORD,fellowcitizens,G4847,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:19 ,PHRASE,with the,G3588,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:19 ,WORD,"saints,",G40,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:19 ,WORD,and,G2532,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:19 ,PHRASE,of the household,G3609,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:19 ,PHRASE,of God;,G2316,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:20 ,PHRASE,And are built,G2026,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:20 ,WORD,upon,G1909,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:20 ,WORD,the,G3588,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:20 ,WORD,foundation,G2310,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:20 ,PHRASE,of the,G3588,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:20 ,WORD,apostles,G652,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:20 ,WORD,and,G2532,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:20 ,WORD,"prophets,",G4396,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:20 ,WORD,Jesus,G2424,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:20 ,WORD,Christ,G5547,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:20 ,WORD,himself,G846,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:20 ,WORD,being,G5607,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:20 ,PHRASE,the chief corner,G204,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:20 ,WORD,[stone];,,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:21 ,WORD,In,G1722,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:21 ,WORD,whom,G3739,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:21 ,WORD,all,G3956,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:21 ,WORD,the,G3588,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:21 ,WORD,building,G3619,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:21 ,PHRASE,fitly framed together,G4883,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:21 ,WORD,groweth,G837,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:21 ,WORD,unto,G1519,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:21 ,PHRASE,an holy,G40,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:21 ,WORD,temple,G3485,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:21 ,WORD,in,G1722,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:21 ,PHRASE,the Lord:,G2962,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:22 ,WORD,In,G1722,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:22 ,WORD,whom,G3739,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:22 ,WORD,ye,G5210,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:22 ,WORD,also,G2532,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:22 ,PHRASE,are builded together,G4925,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:22 ,WORD,for,G1519,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:22 ,PHRASE,an habitation,G2732,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:22 ,PHRASE,of God,G2316,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:22 ,WORD,through,G1722,Epistles,New Testament,Ephesians,KJV
+2,Ephesians2:22 ,PHRASE,the Spirit.,G4151,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:1 ,PHRASE,For this,G5127,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:1 ,WORD,cause,G5484,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:1 ,WORD,I,G1473,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:1 ,WORD,"Paul,",G3972,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:1 ,WORD,the,G3588,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:1 ,WORD,prisoner,G1198,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:1 ,PHRASE,of Jesus,G2424,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:1 ,WORD,Christ,G5547,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:1 ,WORD,for,G5228,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:1 ,WORD,you,G5216,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:1 ,WORD,"Gentiles,",G1484,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:2 ,WORD,If,G1489,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:2 ,PHRASE,ye have heard,G191,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:2 ,PHRASE,of the,G3588,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:2 ,WORD,dispensation,G3622,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:2 ,PHRASE,of the,G3588,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:2 ,WORD,grace,G5485,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:2 ,PHRASE,of God,G2316,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:2 ,WORD,which,G3588,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:2 ,PHRASE,is given,G1325,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:2 ,WORD,me,G3427,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:2 ,WORD,to,G1519,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:2 ,WORD,you-ward:,G5209,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:3 ,PHRASE,How that,G3754,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:3 ,WORD,by,G2596,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:3 ,WORD,revelation,G602,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:3 ,PHRASE,he made known,G1107,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:3 ,PHRASE,unto me,G3427,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:3 ,WORD,the,G3588,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:3 ,WORD,mystery;,G3466,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:3 ,WORD,(as,G2531,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:3 ,PHRASE,I wrote afore,G4270,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:3 ,WORD,in,G1722,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:3 ,PHRASE,"few words,",G3641,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:4 ,WORD,"Whereby,",G4314,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:4 ,WORD,,G3739,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:4 ,PHRASE,"when ye read,",G314,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:4 ,PHRASE,ye may,G1410,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:4 ,WORD,understand,G3539,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:4 ,WORD,my,G3450,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:4 ,WORD,knowledge,G4907,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:4 ,WORD,in,G1722,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:4 ,WORD,the,G3588,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:4 ,WORD,mystery,G3466,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:4 ,PHRASE,of Christ),G5547,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:5 ,WORD,Which,G3739,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:5 ,WORD,in,G1722,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:5 ,WORD,other,G2087,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:5 ,WORD,ages,G1074,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:5 ,WORD,was,G1107,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:5 ,WORD,not,G3756,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:5 ,PHRASE,made known,G1107,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:5 ,PHRASE,unto the,G3588,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:5 ,WORD,sons,G5207,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:5 ,PHRASE,"of men,",G444,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:5 ,WORD,as,G5613,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:5 ,PHRASE,it is,G601,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:5 ,WORD,now,G3568,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:5 ,WORD,revealed,G601,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:5 ,PHRASE,unto his,G846,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:5 ,WORD,holy,G40,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:5 ,WORD,apostles,G652,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:5 ,WORD,and,G2532,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:5 ,WORD,prophets,G4396,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:5 ,WORD,by,G1722,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:5 ,PHRASE,the Spirit;,G4151,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:6 ,PHRASE,That the,G3588,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:6 ,WORD,Gentiles,G1484,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:6 ,PHRASE,should be,G1511,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:6 ,WORD,"fellowheirs,",G4789,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:6 ,WORD,and,G2532,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:6 ,PHRASE,"of the same body,",G4954,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:6 ,WORD,and,G2532,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:6 ,WORD,partakers,G4830,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:6 ,PHRASE,of his,G846,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:6 ,WORD,promise,G1860,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:6 ,WORD,in,G1722,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:6 ,WORD,Christ,G5547,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:6 ,WORD,by,G1223,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:6 ,WORD,the,G3588,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:6 ,WORD,gospel:,G2098,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:7 ,WORD,Whereof,G3739,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:7 ,PHRASE,I was made,G1096,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:7 ,PHRASE,"a minister,",G1249,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:7 ,WORD,according,G2596,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:7 ,PHRASE,to the,G3588,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:7 ,WORD,gift,G1431,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:7 ,PHRASE,of the,G3588,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:7 ,WORD,grace,G5485,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:7 ,PHRASE,of God,G2316,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:7 ,WORD,given,G1325,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:7 ,PHRASE,unto me,G3427,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:7 ,WORD,by,G2596,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:7 ,WORD,the,G3588,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:7 ,PHRASE,effectual working,G1753,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:7 ,PHRASE,of his,G846,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:7 ,WORD,power.,G1411,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:8 ,PHRASE,"Unto me,",G1698,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:8 ,WORD,who,G3588,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:8 ,PHRASE,am less than the least,G1647,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:8 ,PHRASE,of all,G3956,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:8 ,WORD,"saints,",G40,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:8 ,WORD,is,G1325,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:8 ,WORD,this,G3778,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:8 ,WORD,grace,G5485,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:8 ,WORD,"given,",G1325,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:8 ,PHRASE,that I should preach,G2097,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:8 ,WORD,among,G1722,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:8 ,WORD,the,G3588,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:8 ,WORD,Gentiles,G1484,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:8 ,WORD,the,G3588,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:8 ,WORD,unsearchable,G421,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:8 ,WORD,riches,G4149,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:8 ,PHRASE,of Christ;,G5547,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:9 ,WORD,And,G2532,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:9 ,PHRASE,to make,G5461,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:9 ,WORD,all,G3956,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:9 ,WORD,[men],,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:9 ,WORD,see,G5461,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:9 ,WORD,what,G5101,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:9 ,WORD,[is],,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:9 ,WORD,the,G3588,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:9 ,WORD,fellowship,G2842,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:9 ,PHRASE,of the,G3588,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:9 ,WORD,"mystery,",G3466,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:9 ,WORD,which,G3588,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:9 ,WORD,from,G575,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:9 ,WORD,the,G3588,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:9 ,PHRASE,beginning of the world,G165,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:9 ,PHRASE,hath been hid,G613,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:9 ,WORD,in,G1722,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:9 ,WORD,"God,",G2316,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:9 ,WORD,who,G3588,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:9 ,WORD,created,G2936,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:9 ,PHRASE,all things,G3956,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:9 ,WORD,by,G1223,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:9 ,WORD,Jesus,G2424,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:9 ,WORD,Christ:,G5547,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:10 ,PHRASE,To the intent that,G2443,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:10 ,WORD,now,G3568,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:10 ,PHRASE,unto the,G3588,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:10 ,WORD,principalities,G746,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:10 ,WORD,and,G2532,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:10 ,WORD,powers,G1849,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:10 ,WORD,in,G1722,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:10 ,WORD,heavenly,G2032,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:10 ,WORD,[places],,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:10 ,PHRASE,might be known,G1107,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:10 ,WORD,by,G1223,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:10 ,WORD,the,G3588,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:10 ,WORD,church,G1577,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:10 ,WORD,the,G3588,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:10 ,WORD,manifold,G4182,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:10 ,WORD,wisdom,G4678,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:10 ,PHRASE,"of God,",G2316,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:11 ,PHRASE,According to,G2596,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:11 ,WORD,the,G3588,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:11 ,WORD,eternal,G165,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:11 ,WORD,purpose,G4286,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:11 ,WORD,which,G3739,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:11 ,PHRASE,he purposed,G4160,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:11 ,WORD,in,G1722,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:11 ,WORD,Christ,G5547,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:11 ,WORD,Jesus,G2424,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:11 ,WORD,our,G2257,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:11 ,WORD,Lord:,G2962,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:12 ,WORD,In,G1722,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:12 ,WORD,whom,G3739,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:12 ,PHRASE,we have,G2192,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:12 ,WORD,boldness,G3954,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:12 ,WORD,and,G2532,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:12 ,WORD,access,G4318,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:12 ,WORD,with,G1722,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:12 ,WORD,confidence,G4006,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:12 ,WORD,by,G1223,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:12 ,WORD,the,G3588,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:12 ,WORD,faith,G4102,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:12 ,PHRASE,of him.,G846,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:13 ,WORD,Wherefore,G1352,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:13 ,PHRASE,I desire,G154,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:13 ,PHRASE,that ye faint,G1573,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:13 ,WORD,not,G3361,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:13 ,WORD,at,G1722,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:13 ,WORD,my,G3450,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:13 ,WORD,tribulations,G2347,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:13 ,WORD,for,G5228,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:13 ,WORD,"you,",G5216,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:13 ,WORD,which,G3748,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:13 ,WORD,is,G2076,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:13 ,WORD,your,G5216,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:13 ,WORD,glory.,G1391,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:14 ,PHRASE,For this,G5127,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:14 ,WORD,cause,G5484,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:14 ,PHRASE,I bow,G2578,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:14 ,WORD,my,G3450,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:14 ,WORD,knees,G1119,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:14 ,WORD,unto,G4314,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:14 ,WORD,the,G3588,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:14 ,WORD,Father,G3962,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:14 ,PHRASE,of our,G2257,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:14 ,WORD,Lord,G2962,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:14 ,WORD,Jesus,G2424,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:14 ,WORD,"Christ,",G5547,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:15 ,WORD,Of,G1537,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:15 ,WORD,whom,G3739,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:15 ,PHRASE,the whole,G3956,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:15 ,WORD,family,G3965,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:15 ,WORD,in,G1722,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:15 ,WORD,heaven,G3772,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:15 ,WORD,and,G2532,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:15 ,WORD,earth,G1909,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:15 ,WORD,,G1093,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:15 ,PHRASE,"is named,",G3687,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:16 ,WORD,That,G2443,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:16 ,PHRASE,he would grant,G1325,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:16 ,WORD,"you,",G5213,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:16 ,PHRASE,according to,G2596,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:16 ,WORD,the,G3588,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:16 ,WORD,riches,G4149,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:16 ,PHRASE,of his,G846,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:16 ,WORD,"glory,",G1391,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:16 ,PHRASE,to be strengthened,G2901,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:16 ,PHRASE,with might,G1411,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:16 ,WORD,by,G1223,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:16 ,WORD,his,G846,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:16 ,WORD,Spirit,G4151,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:16 ,WORD,in,G1519,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:16 ,WORD,the,G3588,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:16 ,WORD,inner,G2080,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:16 ,WORD,man;,G444,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:17 ,WORD,That,G3588,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:17 ,WORD,Christ,G5547,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:17 ,PHRASE,may dwell,G2730,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:17 ,WORD,in,G1722,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:17 ,WORD,your,G5216,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:17 ,WORD,hearts,G2588,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:17 ,WORD,by,G1223,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:17 ,WORD,faith;,G4102,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:17 ,PHRASE,"that ye, being rooted",G4492,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:17 ,WORD,and,G2532,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:17 ,WORD,grounded,G2311,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:17 ,WORD,in,G1722,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:17 ,WORD,"love,",G26,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:18 ,PHRASE,May be able,G1840,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:18 ,PHRASE,to comprehend,G2638,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:18 ,WORD,with,G4862,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:18 ,WORD,all,G3956,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:18 ,WORD,saints,G40,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:18 ,WORD,what,G5101,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:18 ,WORD,[is],,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:18 ,WORD,the,G3588,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:18 ,WORD,"breadth,",G4114,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:18 ,WORD,and,G2532,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:18 ,WORD,"length,",G3372,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:18 ,WORD,and,G2532,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:18 ,WORD,"depth,",G899,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:18 ,WORD,and,G2532,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:18 ,WORD,height;,G5311,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:19 ,WORD,And,G5037,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:19 ,PHRASE,to know,G1097,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:19 ,PHRASE,the love,G26,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:19 ,PHRASE,"of Christ,",G5547,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:19 ,WORD,which,G3588,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:19 ,WORD,passeth,G5235,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:19 ,WORD,"knowledge,",G1108,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:19 ,WORD,that,G2443,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:19 ,PHRASE,ye might be filled,G4137,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:19 ,WORD,with,G1519,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:19 ,WORD,all,G3956,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:19 ,WORD,the,G3588,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:19 ,WORD,fulness,G4138,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:19 ,PHRASE,of God.,G2316,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:20 ,WORD,Now,G1161,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:20 ,PHRASE,unto him that,G3588,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:20 ,PHRASE,is able,G1410,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:20 ,PHRASE,to do,G4160,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:20 ,WORD,exceeding,G5228,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:20 ,WORD,abundantly,G4057,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:20 ,WORD,above,G5228,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:20 ,WORD,all,G3956,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:20 ,WORD,that,G3739,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:20 ,PHRASE,we ask,G154,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:20 ,WORD,or,G2228,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:20 ,WORD,"think,",G3539,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:20 ,PHRASE,according to,G2596,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:20 ,WORD,the,G3588,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:20 ,WORD,power,G1411,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:20 ,PHRASE,that worketh,G1754,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:20 ,WORD,in,G1722,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:20 ,WORD,"us,",G2254,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:21 ,PHRASE,Unto him,G846,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:21 ,WORD,[be],,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:21 ,WORD,glory,G1391,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:21 ,WORD,in,G1722,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:21 ,WORD,the,G3588,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:21 ,WORD,church,G1577,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:21 ,WORD,by,G1722,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:21 ,WORD,Christ,G5547,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:21 ,WORD,Jesus,G2424,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:21 ,WORD,throughout,G1519,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:21 ,WORD,all,G3956,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:21 ,WORD,"ages,",G1074,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:21 ,WORD,world,G165,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:21 ,PHRASE,without end.,G165,Epistles,New Testament,Ephesians,KJV
+3,Ephesians3:21 ,WORD,Amen.,G281,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:1 ,WORD,I,G1473,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:1 ,WORD,"therefore,",G3767,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:1 ,WORD,the,G3588,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:1 ,WORD,prisoner,G1198,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:1 ,WORD,of,G1722,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:1 ,PHRASE,"the Lord,",G2962,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:1 ,WORD,beseech,G3870,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:1 ,WORD,you,G5209,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:1 ,PHRASE,that ye walk,G4043,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:1 ,WORD,worthy,G516,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:1 ,PHRASE,of the,G3588,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:1 ,WORD,vocation,G2821,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:1 ,WORD,wherewith,G3739,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:1 ,PHRASE,"ye are called,",G2564,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:2 ,WORD,With,G3326,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:2 ,WORD,all,G3956,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:2 ,WORD,lowliness,G5012,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:2 ,WORD,and,G2532,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:2 ,WORD,"meekness,",G4236,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:2 ,WORD,with,G3326,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:2 ,WORD,"longsuffering,",G3115,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:2 ,WORD,forbearing,G430,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:2 ,PHRASE,one another,G240,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:2 ,WORD,in,G1722,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:2 ,WORD,love;,G26,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:3 ,WORD,Endeavouring,G4704,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:3 ,PHRASE,to keep,G5083,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:3 ,WORD,the,G3588,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:3 ,WORD,unity,G1775,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:3 ,PHRASE,of the,G3588,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:3 ,WORD,Spirit,G4151,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:3 ,WORD,in,G1722,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:3 ,WORD,the,G3588,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:3 ,WORD,bond,G4886,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:3 ,PHRASE,of peace.,G1515,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:4 ,PHRASE,[There is],,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:4 ,WORD,one,G1520,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:4 ,WORD,"body,",G4983,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:4 ,WORD,and,G2532,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:4 ,WORD,one,G1520,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:4 ,WORD,"Spirit,",G4151,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:4 ,PHRASE,even as,G2531,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:4 ,WORD,,G2532,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:4 ,PHRASE,ye are called,G2564,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:4 ,WORD,in,G1722,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:4 ,WORD,one,G1520,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:4 ,WORD,hope,G1680,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:4 ,PHRASE,of your,G5216,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:4 ,WORD,calling;,G2821,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:5 ,WORD,One,G1520,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:5 ,WORD,"Lord,",G2962,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:5 ,WORD,one,G1520,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:5 ,WORD,"faith,",G4102,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:5 ,WORD,one,G1520,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:5 ,WORD,"baptism,",G908,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:6 ,WORD,One,G1520,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:6 ,WORD,God,G2316,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:6 ,WORD,and,G2532,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:6 ,WORD,Father,G3962,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:6 ,PHRASE,"of all,",G3956,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:6 ,WORD,who,G3588,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:6 ,WORD,[is],,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:6 ,WORD,above,G1909,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:6 ,WORD,"all,",G3956,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:6 ,WORD,and,G2532,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:6 ,WORD,through,G1223,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:6 ,WORD,"all,",G3956,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:6 ,WORD,and,G2532,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:6 ,WORD,in,G1722,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:6 ,WORD,you,G5213,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:6 ,WORD,all.,G3956,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:7 ,WORD,But,G1161,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:7 ,PHRASE,unto every,G1538,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:7 ,WORD,one,G1520,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:7 ,PHRASE,of us,G2257,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:7 ,PHRASE,is given,G1325,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:7 ,WORD,grace,G5485,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:7 ,PHRASE,according to,G2596,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:7 ,WORD,the,G3588,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:7 ,WORD,measure,G3358,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:7 ,PHRASE,of the,G3588,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:7 ,WORD,gift,G1431,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:7 ,PHRASE,of Christ.,G5547,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:8 ,WORD,Wherefore,G1352,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:8 ,PHRASE,"he saith,",G3004,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:8 ,PHRASE,When he ascended,G305,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:8 ,WORD,up,G1519,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:8 ,PHRASE,"on high,",G5311,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:8 ,PHRASE,he led captivity,G162,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:8 ,WORD,"captive,",G161,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:8 ,WORD,and,G2532,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:8 ,WORD,gave,G1325,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:8 ,WORD,gifts,G1390,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:8 ,PHRASE,unto men.,G444,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:9 ,WORD,(Now,G1161,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:9 ,PHRASE,"that he ascended,",G305,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:9 ,WORD,what,G5101,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:9 ,PHRASE,is it,G2076,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:9 ,WORD,,G1487,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:9 ,WORD,but,G3361,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:9 ,WORD,that,G3754,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:9 ,WORD,he,G2597,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:9 ,WORD,also,G2532,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:9 ,WORD,descended,G2597,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:9 ,WORD,first,G4412,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:9 ,WORD,into,G1519,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:9 ,WORD,the,G3588,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:9 ,WORD,lower,G2737,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:9 ,WORD,parts,G3313,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:9 ,PHRASE,of the,G3588,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:9 ,WORD,earth?,G1093,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:10 ,WORD,He,G846,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:10 ,PHRASE,that descended,G2597,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:10 ,WORD,is,G2076,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:10 ,PHRASE,the same also,G2532,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:10 ,PHRASE,that ascended up,G305,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:10 ,PHRASE,far above,G5231,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:10 ,WORD,all,G3956,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:10 ,WORD,"heavens,",G3772,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:10 ,WORD,that,G2443,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:10 ,PHRASE,he might fill,G4137,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:10 ,PHRASE,all things.),G3956,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:11 ,WORD,And,G2532,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:11 ,WORD,he,G846,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:11 ,WORD,gave,G1325,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:11 ,WORD,"some,",G3303,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:11 ,WORD,apostles;,G652,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:11 ,WORD,and,G1161,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:11 ,PHRASE,"some, prophets;",G4396,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:11 ,WORD,and,G1161,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:11 ,PHRASE,"some, evangelists;",G2099,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:11 ,WORD,and,G1161,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:11 ,PHRASE,"some, pastors",G4166,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:11 ,WORD,and,G2532,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:11 ,WORD,teachers;,G1320,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:12 ,WORD,For,G4314,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:12 ,WORD,the,G3588,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:12 ,WORD,perfecting,G2677,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:12 ,PHRASE,of the,G3588,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:12 ,WORD,"saints,",G40,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:12 ,WORD,for,G1519,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:12 ,PHRASE,the work,G2041,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:12 ,PHRASE,"of the ministry,",G1248,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:12 ,WORD,for,G1519,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:12 ,PHRASE,the edifying,G3619,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:12 ,PHRASE,of the,G3588,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:12 ,WORD,body,G4983,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:12 ,PHRASE,of Christ:,G5547,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:13 ,WORD,Till,G3360,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:13 ,PHRASE,we all,G3956,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:13 ,WORD,come,G2658,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:13 ,WORD,in,G1519,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:13 ,WORD,the,G3588,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:13 ,WORD,unity,G1775,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:13 ,PHRASE,of the,G3588,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:13 ,WORD,"faith,",G4102,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:13 ,WORD,and,G2532,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:13 ,PHRASE,of the,G3588,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:13 ,WORD,knowledge,G1922,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:13 ,PHRASE,of the,G3588,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:13 ,WORD,Son,G5207,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:13 ,PHRASE,"of God,",G2316,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:13 ,WORD,unto,G1519,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:13 ,PHRASE,a perfect,G5046,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:13 ,WORD,"man,",G435,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:13 ,WORD,unto,G1519,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:13 ,PHRASE,the measure,G3358,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:13 ,PHRASE,of the stature,G2244,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:13 ,PHRASE,of the,G3588,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:13 ,WORD,fulness,G4138,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:13 ,PHRASE,of Christ:,G5547,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:14 ,WORD,That,G2443,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:14 ,PHRASE,we [henceforth] be,G5600,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:14 ,PHRASE,no more,G3371,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:14 ,WORD,"children,",G3516,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:14 ,PHRASE,"tossed to and fro,",G2831,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:14 ,WORD,and,G2532,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:14 ,PHRASE,carried about with,G4064,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:14 ,WORD,every,G3956,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:14 ,WORD,wind,G417,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:14 ,PHRASE,"of doctrine,",G1319,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:14 ,WORD,by,G1722,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:14 ,WORD,the,G3588,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:14 ,WORD,sleight,G2940,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:14 ,PHRASE,"of men,",G444,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:14 ,WORD,[and],,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:14 ,PHRASE,"cunning craftiness,",G3834,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:14 ,WORD,whereby,G4314,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:14 ,WORD,they,G3588,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:14 ,PHRASE,lie in wait,G3180,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:14 ,PHRASE,to deceive;,G4106,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:15 ,WORD,But,G1161,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:15 ,PHRASE,speaking the truth,G226,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:15 ,WORD,in,G1722,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:15 ,WORD,"love,",G26,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:15 ,PHRASE,may grow up,G837,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:15 ,WORD,into,G1519,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:15 ,WORD,him,G846,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:15 ,PHRASE,"in all things,",G3956,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:15 ,WORD,which,G3739,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:15 ,WORD,is,G2076,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:15 ,WORD,the,G3588,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:15 ,WORD,"head,",G2776,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:15 ,WORD,[even],,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:15 ,WORD,Christ:,G5547,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:16 ,WORD,From,G1537,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:16 ,WORD,whom,G3739,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:16 ,WORD,the,G3588,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:16 ,WORD,whole,G3956,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:16 ,WORD,body,G4983,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:16 ,PHRASE,fitly joined together,G4883,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:16 ,WORD,and,G2532,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:16 ,WORD,compacted,G4822,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:16 ,WORD,by,G1223,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:16 ,PHRASE,that which every,G3956,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:16 ,WORD,joint,G860,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:16 ,WORD,"supplieth,",G2024,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:16 ,WORD,according,G2596,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:16 ,PHRASE,to the effectual working,G1753,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:16 ,WORD,in,G1722,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:16 ,PHRASE,the measure,G3358,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:16 ,PHRASE,of every,G1538,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:16 ,WORD,"part,",G1520,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:16 ,WORD,,G3313,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:16 ,WORD,maketh,G4160,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:16 ,WORD,increase,G838,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:16 ,PHRASE,of the,G3588,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:16 ,WORD,body,G4983,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:16 ,WORD,unto,G1519,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:16 ,PHRASE,the edifying,G3619,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:16 ,PHRASE,of itself,G1438,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:16 ,WORD,in,G1722,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:16 ,WORD,love.,G26,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:17 ,WORD,This,G5124,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:17 ,PHRASE,I say,G3004,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:17 ,WORD,"therefore,",G3767,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:17 ,WORD,and,G2532,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:17 ,WORD,testify,G3143,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:17 ,WORD,in,G1722,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:17 ,PHRASE,"the Lord,",G2962,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:17 ,PHRASE,that ye,G5209,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:17 ,WORD,henceforth,G3371,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:17 ,WORD,walk,G4043,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:17 ,WORD,not,G3371,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:17 ,WORD,as,G2531,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:17 ,WORD,,G2532,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:17 ,WORD,other,G3062,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:17 ,WORD,Gentiles,G1484,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:17 ,WORD,"walk,",G4043,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:17 ,WORD,in,G1722,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:17 ,PHRASE,the vanity,G3153,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:17 ,PHRASE,of their,G846,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:17 ,WORD,"mind,",G3563,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:18 ,WORD,Having,G4654,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:18 ,WORD,the,G3588,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:18 ,WORD,understanding,G1271,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:18 ,WORD,"darkened,",G4654,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:18 ,WORD,being,G5607,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:18 ,WORD,alienated,G526,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:18 ,PHRASE,from the,G3588,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:18 ,WORD,life,G2222,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:18 ,PHRASE,of God,G2316,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:18 ,WORD,through,G1223,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:18 ,WORD,the,G3588,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:18 ,WORD,ignorance,G52,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:18 ,PHRASE,that is,G5607,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:18 ,WORD,in,G1722,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:18 ,WORD,"them,",G846,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:18 ,WORD,because,G1223,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:18 ,PHRASE,of the,G3588,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:18 ,WORD,blindness,G4457,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:18 ,PHRASE,of their,G846,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:18 ,WORD,heart:,G2588,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:19 ,WORD,Who,G3748,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:19 ,PHRASE,being past feeling,G524,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:19 ,PHRASE,have given,G3860,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:19 ,WORD,themselves,G1438,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:19 ,WORD,over,G3860,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:19 ,PHRASE,"unto lasciviousness,",G766,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:19 ,WORD,to,G1519,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:19 ,WORD,work,G2039,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:19 ,WORD,all,G3956,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:19 ,WORD,uncleanness,G167,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:19 ,WORD,with,G1722,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:19 ,WORD,greediness.,G4124,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:20 ,WORD,But,G1161,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:20 ,WORD,ye,G5210,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:20 ,WORD,have,G3129,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:20 ,WORD,not,G3756,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:20 ,WORD,so,G3779,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:20 ,WORD,learned,G3129,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:20 ,WORD,Christ;,G5547,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:21 ,PHRASE,If so be that,G1489,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:21 ,PHRASE,ye have heard,G191,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:21 ,WORD,"him,",G846,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:21 ,WORD,and,G2532,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:21 ,PHRASE,have been taught,G1321,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:21 ,WORD,by,G1722,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:21 ,WORD,"him,",G846,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:21 ,WORD,as,G2531,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:21 ,PHRASE,the truth,G225,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:21 ,WORD,is,G2076,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:21 ,WORD,in,G1722,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:21 ,WORD,Jesus:,G2424,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:22 ,PHRASE,That ye,G5209,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:22 ,PHRASE,put off,G659,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:22 ,WORD,concerning,G2596,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:22 ,WORD,the,G3588,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:22 ,WORD,former,G4387,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:22 ,WORD,conversation,G391,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:22 ,WORD,the,G3588,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:22 ,WORD,old,G3820,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:22 ,WORD,"man,",G444,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:22 ,WORD,which,G3588,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:22 ,PHRASE,is corrupt,G5351,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:22 ,WORD,according,G2596,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:22 ,PHRASE,to the,G3588,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:22 ,WORD,deceitful,G539,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:22 ,WORD,lusts;,G1939,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:23 ,WORD,And,G1161,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:23 ,PHRASE,be renewed,G365,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:23 ,PHRASE,in the,G3588,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:23 ,WORD,spirit,G4151,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:23 ,PHRASE,of your,G5216,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:23 ,WORD,mind;,G3563,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:24 ,WORD,And,G2532,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:24 ,PHRASE,that ye put on,G1746,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:24 ,WORD,the,G3588,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:24 ,WORD,new,G2537,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:24 ,WORD,"man,",G444,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:24 ,WORD,which,G3588,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:24 ,WORD,after,G2596,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:24 ,WORD,God,G2316,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:24 ,PHRASE,is created,G2936,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:24 ,WORD,in,G1722,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:24 ,WORD,righteousness,G1343,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:24 ,WORD,and,G2532,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:24 ,WORD,true,G225,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:24 ,WORD,holiness.,G3742,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:25 ,WORD,Wherefore,G1352,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:25 ,PHRASE,putting away,G659,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:25 ,WORD,"lying,",G5579,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:25 ,WORD,speak,G2980,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:25 ,PHRASE,every man,G1538,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:25 ,WORD,truth,G225,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:25 ,WORD,with,G3326,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:25 ,WORD,his,G846,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:25 ,WORD,neighbour:,G4139,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:25 ,WORD,for,G3754,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:25 ,PHRASE,we are,G2070,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:25 ,WORD,members,G3196,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:25 ,PHRASE,one of another.,G240,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:26 ,PHRASE,"Be ye angry,",G3710,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:26 ,WORD,and,G2532,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:26 ,WORD,sin,G264,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:26 ,WORD,not:,G3361,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:26 ,WORD,let,G1931,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:26 ,WORD,not,G3361,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:26 ,WORD,the,G3588,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:26 ,WORD,sun,G2246,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:26 ,PHRASE,go down,G1931,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:26 ,WORD,upon,G1909,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:26 ,WORD,your,G5216,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:26 ,WORD,wrath:,G3950,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:27 ,WORD,Neither,G3383,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:27 ,WORD,give,G1325,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:27 ,WORD,place,G5117,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:27 ,PHRASE,to the,G3588,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:27 ,WORD,devil.,G1228,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:28 ,WORD,Let,G2813,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:28 ,PHRASE,him that,G3588,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:28 ,WORD,stole,G2813,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:28 ,WORD,steal,G2813,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:28 ,PHRASE,no more:,G3371,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:28 ,WORD,but,G1161,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:28 ,WORD,rather,G3123,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:28 ,PHRASE,"let him labour,",G2872,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:28 ,WORD,working,G2038,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:28 ,PHRASE,with [his] hands,G5495,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:28 ,WORD,the,G3588,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:28 ,PHRASE,"thing which is good,",G18,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:28 ,WORD,that,G2443,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:28 ,PHRASE,he may have,G2192,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:28 ,PHRASE,to give,G3330,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:28 ,PHRASE,to him,G3588,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:28 ,PHRASE,that needeth.,G5532,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:28 ,WORD,,G2192,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:29 ,WORD,Let,G4550,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:29 ,WORD,no,G3361,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:29 ,WORD,,G3956,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:29 ,WORD,corrupt,G4550,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:29 ,WORD,communication,G3056,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:29 ,WORD,proceed,G1607,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:29 ,PHRASE,out of,G1537,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:29 ,WORD,your,G5216,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:29 ,WORD,"mouth,",G4750,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:29 ,WORD,but,G235,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:29 ,WORD,,G1487,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:29 ,PHRASE,that which,G5100,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:29 ,PHRASE,is good,G18,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:29 ,WORD,to,G4314,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:29 ,WORD,the,G3588,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:29 ,WORD,use,G5532,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:29 ,PHRASE,"of edifying,",G3619,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:29 ,WORD,that,G2443,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:29 ,PHRASE,it may minister,G1325,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:29 ,WORD,grace,G5485,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:29 ,PHRASE,unto the,G3588,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:29 ,WORD,hearers.,G191,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:30 ,WORD,And,G2532,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:30 ,WORD,grieve,G3076,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:30 ,WORD,not,G3361,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:30 ,WORD,the,G3588,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:30 ,WORD,holy,G40,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:30 ,WORD,Spirit,G4151,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:30 ,PHRASE,"of God,",G2316,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:30 ,WORD,whereby,G1722,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:30 ,WORD,,G3739,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:30 ,PHRASE,ye are sealed,G4972,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:30 ,WORD,unto,G1519,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:30 ,PHRASE,the day,G2250,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:30 ,PHRASE,of redemption.,G629,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:31 ,WORD,Let,G142,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:31 ,WORD,all,G3956,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:31 ,WORD,"bitterness,",G4088,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:31 ,WORD,and,G2532,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:31 ,WORD,"wrath,",G2372,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:31 ,WORD,and,G2532,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:31 ,WORD,"anger,",G3709,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:31 ,WORD,and,G2532,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:31 ,WORD,"clamour,",G2906,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:31 ,WORD,and,G2532,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:31 ,PHRASE,"evil speaking,",G988,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:31 ,PHRASE,be put away,G142,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:31 ,WORD,from,G575,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:31 ,WORD,"you,",G5216,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:31 ,WORD,with,G4862,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:31 ,WORD,all,G3956,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:31 ,WORD,malice:,G2549,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:32 ,WORD,And,G1161,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:32 ,WORD,be,G1096,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:32 ,PHRASE,ye kind,G5543,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:32 ,PHRASE,"one to another,",G1519,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:32 ,WORD,,G240,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:32 ,WORD,"tenderhearted,",G2155,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:32 ,WORD,forgiving,G5483,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:32 ,PHRASE,"one another,",G1438,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:32 ,PHRASE,even as,G2531,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:32 ,WORD,,G2532,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:32 ,WORD,God,G2316,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:32 ,WORD,for,G1722,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:32 ,WORD,Christ's,G5547,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:32 ,WORD,sake,G1722,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:32 ,PHRASE,hath forgiven,G5483,Epistles,New Testament,Ephesians,KJV
+4,Ephesians4:32 ,WORD,you.,G5213,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:1 ,WORD,Be,G1096,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:1 ,WORD,ye,G3402,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:1 ,WORD,therefore,G3767,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:1 ,WORD,followers,G3402,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:1 ,PHRASE,"of God,",G2316,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:1 ,WORD,as,G5613,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:1 ,WORD,dear,G27,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:1 ,WORD,children;,G5043,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:2 ,WORD,And,G2532,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:2 ,WORD,walk,G4043,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:2 ,WORD,in,G1722,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:2 ,WORD,"love,",G26,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:2 ,WORD,as,G2531,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:2 ,WORD,Christ,G5547,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:2 ,WORD,also,G2532,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:2 ,PHRASE,hath loved,G25,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:2 ,WORD,"us,",G2248,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:2 ,WORD,and,G2532,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:2 ,PHRASE,hath given,G3860,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:2 ,WORD,himself,G1438,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:2 ,WORD,for,G5228,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:2 ,WORD,us,G2257,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:2 ,PHRASE,an offering,G4376,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:2 ,WORD,and,G2532,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:2 ,PHRASE,a sacrifice,G2378,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:2 ,PHRASE,to God,G2316,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:2 ,WORD,for,G1519,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:2 ,PHRASE,a sweetsmelling,G2175,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:2 ,WORD,savour.,G3744,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:3 ,WORD,But,G2532,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:3 ,WORD,"fornication,",G4202,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:3 ,WORD,and,G1161,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:3 ,WORD,all,G3956,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:3 ,WORD,"uncleanness,",G167,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:3 ,WORD,or,G2228,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:3 ,WORD,"covetousness,",G4124,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:3 ,PHRASE,let it,G3687,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:3 ,PHRASE,not be once,G3366,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:3 ,WORD,named,G3687,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:3 ,WORD,among,G1722,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:3 ,WORD,"you,",G5213,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:3 ,WORD,as,G2531,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:3 ,WORD,becometh,G4241,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:3 ,WORD,saints;,G40,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:4 ,WORD,Neither,G2532,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:4 ,WORD,"filthiness,",G151,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:4 ,WORD,nor,G2532,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:4 ,PHRASE,"foolish talking,",G3473,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:4 ,WORD,nor,G2228,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:4 ,WORD,"jesting,",G2160,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:4 ,WORD,which,G3588,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:4 ,WORD,are,G433,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:4 ,WORD,not,G3756,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:4 ,WORD,convenient:,G433,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:4 ,WORD,but,G235,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:4 ,WORD,rather,G3123,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:4 ,PHRASE,giving of thanks.,G2169,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:5 ,WORD,For,G1063,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:5 ,WORD,this,G5124,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:5 ,PHRASE,"ye know,",G2075,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:5 ,WORD,,G1097,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:5 ,WORD,that,G3754,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:5 ,WORD,no,G3756,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:5 ,WORD,,G3956,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:5 ,WORD,"whoremonger,",G4205,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:5 ,WORD,nor,G2228,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:5 ,PHRASE,"unclean person,",G169,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:5 ,WORD,nor,G2228,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:5 ,PHRASE,"covetous man,",G4123,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:5 ,WORD,who,G3739,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:5 ,WORD,is,G2076,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:5 ,PHRASE,"an idolater,",G1496,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:5 ,WORD,hath,G2192,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:5 ,PHRASE,any inheritance,G2817,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:5 ,WORD,in,G1722,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:5 ,WORD,the,G3588,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:5 ,WORD,kingdom,G932,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:5 ,PHRASE,of Christ,G5547,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:5 ,WORD,and,G2532,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:5 ,PHRASE,of God.,G2316,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:6 ,WORD,Let,G538,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:6 ,PHRASE,no man,G3367,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:6 ,WORD,deceive,G538,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:6 ,WORD,you,G5209,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:6 ,PHRASE,with vain,G2756,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:6 ,WORD,words:,G3056,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:6 ,WORD,for,G1063,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:6 ,WORD,because,G1223,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:6 ,PHRASE,of these things,G5023,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:6 ,WORD,cometh,G2064,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:6 ,WORD,the,G3588,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:6 ,WORD,wrath,G3709,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:6 ,PHRASE,of God,G2316,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:6 ,WORD,upon,G1909,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:6 ,WORD,the,G3588,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:6 ,WORD,children,G5207,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:6 ,PHRASE,of disobedience.,G543,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:7 ,WORD,Be,G1096,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:7 ,WORD,not,G3361,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:7 ,WORD,ye,G1096,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:7 ,WORD,therefore,G3767,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:7 ,WORD,partakers,G4830,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:7 ,PHRASE,with them.,G846,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:8 ,WORD,For,G1063,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:8 ,PHRASE,ye were,G2258,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:8 ,WORD,sometimes,G4218,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:8 ,WORD,"darkness,",G4655,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:8 ,WORD,but,G1161,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:8 ,WORD,now,G3568,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:8 ,PHRASE,[are ye],,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:8 ,WORD,light,G5457,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:8 ,WORD,in,G1722,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:8 ,PHRASE,the Lord:,G2962,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:8 ,WORD,walk,G4043,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:8 ,WORD,as,G5613,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:8 ,WORD,children,G5043,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:8 ,PHRASE,of light:,G5457,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:9 ,WORD,(For,G1063,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:9 ,WORD,the,G3588,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:9 ,WORD,fruit,G2590,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:9 ,PHRASE,of the,G3588,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:9 ,WORD,Spirit,G4151,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:9 ,WORD,[is],,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:9 ,WORD,in,G1722,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:9 ,WORD,all,G3956,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:9 ,WORD,goodness,G19,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:9 ,WORD,and,G2532,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:9 ,WORD,righteousness,G1343,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:9 ,WORD,and,G2532,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:9 ,WORD,truth;),G225,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:10 ,WORD,Proving,G1381,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:10 ,WORD,what,G5101,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:10 ,WORD,is,G2076,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:10 ,WORD,acceptable,G2101,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:10 ,PHRASE,unto the,G3588,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:10 ,WORD,Lord.,G2962,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:11 ,WORD,And,G2532,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:11 ,WORD,have,G4790,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:11 ,WORD,no,G3361,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:11 ,WORD,fellowship,G4790,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:11 ,PHRASE,with the,G3588,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:11 ,WORD,unfruitful,G175,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:11 ,WORD,works,G2041,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:11 ,PHRASE,"of darkness,",G4655,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:11 ,WORD,but,G1161,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:11 ,WORD,rather,G3123,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:11 ,WORD,,G2532,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:11 ,WORD,reprove,G1651,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:11 ,WORD,[them].,,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:12 ,WORD,For,G1063,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:12 ,PHRASE,it is,G2076,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:12 ,PHRASE,a shame,G150,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:12 ,WORD,even,G2532,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:12 ,PHRASE,to speak,G3004,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:12 ,PHRASE,of those things,G3588,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:12 ,PHRASE,which are done,G1096,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:12 ,WORD,of,G5259,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:12 ,WORD,them,G846,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:12 ,PHRASE,in secret.,G2931,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:13 ,WORD,But,G1161,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:13 ,PHRASE,all things,G3956,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:13 ,PHRASE,that are reproved,G1651,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:13 ,PHRASE,are made manifest,G5319,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:13 ,WORD,by,G5259,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:13 ,WORD,the,G3588,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:13 ,WORD,light:,G5457,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:13 ,WORD,for,G1063,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:13 ,WORD,whatsoever,G3956,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:13 ,PHRASE,doth make manifest,G5319,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:13 ,WORD,is,G2076,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:13 ,WORD,light.,G5457,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:14 ,WORD,Wherefore,G1352,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:14 ,PHRASE,"he saith,",G3004,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:14 ,PHRASE,Awake thou,G1453,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:14 ,PHRASE,"that sleepest,",G2518,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:14 ,WORD,and,G2532,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:14 ,WORD,arise,G450,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:14 ,WORD,from,G1537,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:14 ,WORD,the,G3588,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:14 ,WORD,"dead,",G3498,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:14 ,WORD,and,G2532,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:14 ,WORD,Christ,G5547,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:14 ,PHRASE,shall give,G2017,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:14 ,WORD,thee,G4671,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:14 ,WORD,light.,G2017,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:15 ,WORD,See,G991,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:15 ,WORD,then,G3767,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:15 ,WORD,that,G4459,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:15 ,PHRASE,ye walk,G4043,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:15 ,WORD,"circumspectly,",G199,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:15 ,WORD,not,G3361,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:15 ,WORD,as,G5613,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:15 ,WORD,"fools,",G781,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:15 ,WORD,but,G235,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:15 ,WORD,as,G5613,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:15 ,WORD,"wise,",G4680,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:16 ,WORD,Redeeming,G1805,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:16 ,WORD,the,G3588,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:16 ,WORD,"time,",G2540,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:16 ,WORD,because,G3754,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:16 ,WORD,the,G3588,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:16 ,WORD,days,G2250,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:16 ,WORD,are,G1526,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:16 ,WORD,evil.,G4190,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:17 ,WORD,Wherefore,G1223,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:17 ,WORD,,G5124,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:17 ,PHRASE,be ye,G1096,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:17 ,WORD,not,G3361,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:17 ,WORD,"unwise,",G878,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:17 ,WORD,but,G235,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:17 ,WORD,understanding,G4920,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:17 ,WORD,what,G5101,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:17 ,WORD,the,G3588,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:17 ,WORD,will,G2307,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:17 ,PHRASE,of the,G3588,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:17 ,WORD,Lord,G2962,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:17 ,WORD,[is].,,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:18 ,WORD,And,G2532,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:18 ,WORD,be,G3182,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:18 ,WORD,not,G3361,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:18 ,WORD,drunk,G3182,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:18 ,PHRASE,"with wine,",G3631,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:18 ,WORD,wherein,G1722,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:18 ,WORD,,G3739,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:18 ,WORD,is,G2076,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:18 ,WORD,excess;,G810,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:18 ,WORD,but,G235,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:18 ,PHRASE,be filled,G4137,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:18 ,WORD,with,G1722,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:18 ,PHRASE,the Spirit;,G4151,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:19 ,WORD,Speaking,G2980,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:19 ,PHRASE,to yourselves,G1438,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:19 ,PHRASE,in psalms,G5568,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:19 ,WORD,and,G2532,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:19 ,WORD,hymns,G5215,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:19 ,WORD,and,G2532,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:19 ,WORD,spiritual,G4152,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:19 ,WORD,"songs,",G5603,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:19 ,WORD,singing,G103,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:19 ,WORD,and,G2532,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:19 ,PHRASE,making melody,G5567,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:19 ,WORD,in,G1722,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:19 ,WORD,your,G5216,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:19 ,WORD,heart,G2588,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:19 ,PHRASE,to the,G3588,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:19 ,WORD,Lord;,G2962,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:20 ,PHRASE,Giving thanks,G2168,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:20 ,WORD,always,G3842,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:20 ,WORD,for,G5228,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:20 ,PHRASE,all things,G3956,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:20 ,PHRASE,unto God,G2316,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:20 ,WORD,and,G2532,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:20 ,PHRASE,the Father,G3962,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:20 ,WORD,in,G1722,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:20 ,PHRASE,the name,G3686,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:20 ,PHRASE,of our,G2257,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:20 ,WORD,Lord,G2962,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:20 ,WORD,Jesus,G2424,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:20 ,WORD,Christ;,G5547,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:21 ,PHRASE,Submitting yourselves,G5293,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:21 ,PHRASE,one to another,G240,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:21 ,WORD,in,G1722,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:21 ,PHRASE,the fear,G5401,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:21 ,PHRASE,of God.,G2316,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:22 ,WORD,"Wives,",G1135,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:22 ,PHRASE,submit yourselves,G5293,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:22 ,PHRASE,unto your own,G2398,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:22 ,WORD,"husbands,",G435,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:22 ,WORD,as,G5613,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:22 ,PHRASE,unto the,G3588,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:22 ,WORD,Lord.,G2962,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:23 ,WORD,For,G3754,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:23 ,WORD,the,G3588,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:23 ,WORD,husband,G435,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:23 ,WORD,is,G2076,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:23 ,PHRASE,the head,G2776,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:23 ,PHRASE,of the,G3588,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:23 ,WORD,"wife,",G1135,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:23 ,WORD,even,G2532,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:23 ,WORD,as,G5613,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:23 ,WORD,Christ,G5547,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:23 ,PHRASE,is the head,G2776,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:23 ,PHRASE,of the,G3588,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:23 ,WORD,church:,G1577,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:23 ,WORD,and,G2532,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:23 ,WORD,he,G846,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:23 ,WORD,is,G2076,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:23 ,PHRASE,the saviour,G4990,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:23 ,PHRASE,of the,G3588,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:23 ,WORD,body.,G4983,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:24 ,WORD,Therefore,G235,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:24 ,WORD,as,G5618,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:24 ,WORD,the,G3588,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:24 ,WORD,church,G1577,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:24 ,PHRASE,is subject,G5293,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:24 ,PHRASE,"unto Christ,",G5547,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:24 ,WORD,so,G3779,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:24 ,WORD,,G2532,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:24 ,WORD,[let],,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:24 ,WORD,the,G3588,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:24 ,WORD,wives,G1135,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:24 ,WORD,[be],,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:24 ,PHRASE,to their own,G2398,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:24 ,WORD,husbands,G435,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:24 ,WORD,in,G1722,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:24 ,PHRASE,every thing.,G3956,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:25 ,WORD,"Husbands,",G435,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:25 ,WORD,love,G25,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:25 ,WORD,your,G1438,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:25 ,WORD,"wives,",G1135,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:25 ,PHRASE,even as,G2531,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:25 ,WORD,Christ,G5547,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:25 ,WORD,also,G2532,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:25 ,WORD,loved,G25,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:25 ,WORD,the,G3588,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:25 ,WORD,"church,",G1577,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:25 ,WORD,and,G2532,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:25 ,WORD,gave,G3860,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:25 ,WORD,himself,G1438,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:25 ,WORD,for,G5228,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:25 ,WORD,it;,G846,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:26 ,WORD,That,G2443,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:26 ,PHRASE,he might sanctify,G37,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:26 ,PHRASE,and cleanse it,G2511,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:26 ,PHRASE,with the,G3588,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:26 ,WORD,washing,G3067,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:26 ,PHRASE,of water,G5204,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:26 ,WORD,by,G1722,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:26 ,PHRASE,"the word,",G4487,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:27 ,WORD,That,G2443,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:27 ,PHRASE,he might present,G3936,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:27 ,WORD,it,G846,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:27 ,PHRASE,to himself,G1438,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:27 ,PHRASE,a glorious,G1741,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:27 ,WORD,"church,",G1577,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:27 ,WORD,not,G3361,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:27 ,WORD,having,G2192,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:27 ,WORD,"spot,",G4696,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:27 ,WORD,or,G2228,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:27 ,WORD,"wrinkle,",G4512,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:27 ,WORD,or,G2228,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:27 ,WORD,any,G5100,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:27 ,PHRASE,such thing;,G5108,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:27 ,WORD,but,G235,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:27 ,WORD,that,G2443,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:27 ,PHRASE,it should be,G5600,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:27 ,WORD,holy,G40,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:27 ,WORD,and,G2532,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:27 ,PHRASE,without blemish.,G299,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:28 ,WORD,So,G3779,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:28 ,WORD,ought,G3784,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:28 ,WORD,men,G435,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:28 ,PHRASE,to love,G25,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:28 ,WORD,their,G1438,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:28 ,WORD,wives,G1135,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:28 ,WORD,as,G5613,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:28 ,PHRASE,their own,G1438,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:28 ,WORD,bodies.,G4983,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:28 ,PHRASE,He that,G3588,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:28 ,WORD,loveth,G25,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:28 ,WORD,his,G1438,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:28 ,WORD,wife,G1135,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:28 ,WORD,loveth,G25,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:28 ,WORD,himself.,G1438,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:29 ,WORD,For,G1063,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:29 ,PHRASE,no man,G3762,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:29 ,PHRASE,ever yet,G4218,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:29 ,WORD,hated,G3404,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:29 ,PHRASE,his own,G1438,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:29 ,WORD,flesh;,G4561,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:29 ,WORD,but,G235,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:29 ,WORD,nourisheth,G1625,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:29 ,WORD,and,G2532,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:29 ,WORD,cherisheth,G2282,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:29 ,WORD,"it,",G846,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:29 ,PHRASE,even as,G2531,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:29 ,WORD,,G2532,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:29 ,WORD,the,G3588,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:29 ,WORD,Lord,G2962,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:29 ,WORD,the,G3588,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:29 ,WORD,church:,G1577,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:30 ,WORD,For,G3754,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:30 ,PHRASE,we are,G2070,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:30 ,WORD,members,G3196,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:30 ,PHRASE,of his,G846,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:30 ,WORD,"body,",G4983,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:30 ,WORD,of,G1537,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:30 ,WORD,his,G846,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:30 ,WORD,"flesh,",G4561,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:30 ,WORD,and,G2532,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:30 ,WORD,of,G1537,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:30 ,WORD,his,G846,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:30 ,WORD,bones.,G3747,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:31 ,WORD,For,G473,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:31 ,PHRASE,this cause,G5127,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:31 ,WORD,shall,G2641,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:31 ,PHRASE,a man,G444,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:31 ,WORD,leave,G2641,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:31 ,WORD,his,G846,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:31 ,WORD,father,G3962,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:31 ,WORD,and,G2532,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:31 ,WORD,"mother,",G3384,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:31 ,WORD,and,G2532,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:31 ,PHRASE,shall be joined,G4347,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:31 ,WORD,unto,G4314,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:31 ,WORD,his,G846,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:31 ,WORD,"wife,",G1135,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:31 ,WORD,and,G2532,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:31 ,PHRASE,they two,G1417,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:31 ,PHRASE,shall be,G2071,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:31 ,WORD,one,G1519,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:31 ,WORD,,G1520,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:31 ,WORD,flesh.,G4561,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:32 ,WORD,This,G5124,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:32 ,WORD,is,G2076,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:32 ,PHRASE,a great,G3173,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:32 ,WORD,mystery:,G3466,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:32 ,WORD,but,G1161,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:32 ,WORD,I,G1473,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:32 ,WORD,speak,G3004,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:32 ,WORD,concerning,G1519,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:32 ,WORD,Christ,G5547,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:32 ,WORD,and,G1519,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:32 ,WORD,,G2532,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:32 ,WORD,the,G3588,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:32 ,WORD,church.,G1577,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:33 ,WORD,Nevertheless,G4133,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:33 ,WORD,let,G25,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:33 ,PHRASE,every one,G1520,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:33 ,WORD,,G1538,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:33 ,PHRASE,of you,G5210,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:33 ,PHRASE,in particular,G2596,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:33 ,WORD,so,G3779,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:33 ,WORD,love,G25,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:33 ,WORD,his,G1438,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:33 ,WORD,wife,G1135,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:33 ,PHRASE,even as,G5613,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:33 ,WORD,himself;,G1438,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:33 ,WORD,and,G1161,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:33 ,WORD,the,G3588,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:33 ,WORD,wife,G1135,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:33 ,WORD,[see],,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:33 ,WORD,that,G2443,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:33 ,PHRASE,she reverence,G5399,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:33 ,WORD,[her],,Epistles,New Testament,Ephesians,KJV
+5,Ephesians5:33 ,WORD,husband.,G435,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:1 ,WORD,"Children,",G5043,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:1 ,WORD,obey,G5219,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:1 ,WORD,your,G5216,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:1 ,WORD,parents,G1118,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:1 ,WORD,in,G1722,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:1 ,PHRASE,the Lord:,G2962,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:1 ,WORD,for,G1063,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:1 ,WORD,this,G5124,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:1 ,WORD,is,G2076,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:1 ,WORD,right.,G1342,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:2 ,WORD,Honour,G5091,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:2 ,WORD,thy,G4675,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:2 ,WORD,father,G3962,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:2 ,WORD,and,G2532,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:2 ,WORD,mother;,G3384,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:2 ,WORD,(which,G3748,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:2 ,WORD,is,G2076,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:2 ,PHRASE,the first,G4413,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:2 ,WORD,commandment,G1785,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:2 ,WORD,with,G1722,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:2 ,WORD,promise;),G1860,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:3 ,WORD,That,G2443,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:3 ,PHRASE,it may be,G1096,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:3 ,WORD,well,G2095,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:3 ,PHRASE,"with thee,",G4671,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:3 ,WORD,and,G2532,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:3 ,PHRASE,thou mayest,G2071,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:3 ,PHRASE,live long,G3118,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:3 ,WORD,on,G1909,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:3 ,WORD,the,G3588,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:3 ,WORD,earth.,G1093,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:4 ,WORD,"And,",G2532,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:4 ,PHRASE,"ye fathers,",G3962,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:4 ,WORD,provoke,G3949,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:4 ,WORD,not,G3361,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:4 ,WORD,your,G5216,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:4 ,WORD,children,G5043,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:4 ,PHRASE,to wrath:,G3949,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:4 ,WORD,but,G235,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:4 ,WORD,bring,G1625,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:4 ,WORD,them,G846,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:4 ,WORD,up,G1625,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:4 ,WORD,in,G1722,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:4 ,PHRASE,the nurture,G3809,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:4 ,WORD,and,G2532,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:4 ,WORD,admonition,G3559,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:4 ,PHRASE,of the Lord.,G2962,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:5 ,WORD,"Servants,",G1401,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:5 ,PHRASE,be obedient,G5219,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:5 ,PHRASE,to them,G3588,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:5 ,PHRASE,that are [your] masters,G2962,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:5 ,PHRASE,according to,G2596,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:5 ,PHRASE,"the flesh,",G4561,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:5 ,WORD,with,G3326,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:5 ,WORD,fear,G5401,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:5 ,WORD,and,G2532,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:5 ,WORD,"trembling,",G5156,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:5 ,WORD,in,G1722,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:5 ,WORD,singleness,G572,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:5 ,PHRASE,of your,G5216,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:5 ,WORD,"heart,",G2588,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:5 ,WORD,as,G5613,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:5 ,PHRASE,unto Christ;,G5547,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:6 ,WORD,Not,G3361,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:6 ,WORD,with,G2596,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:6 ,WORD,"eyeservice,",G3787,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:6 ,WORD,as,G5613,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:6 ,WORD,menpleasers;,G441,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:6 ,WORD,but,G235,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:6 ,WORD,as,G5613,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:6 ,PHRASE,the servants,G1401,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:6 ,PHRASE,"of Christ,",G5547,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:6 ,WORD,doing,G4160,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:6 ,WORD,the,G3588,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:6 ,WORD,will,G2307,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:6 ,PHRASE,of God,G2316,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:6 ,WORD,from,G1537,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:6 ,PHRASE,the heart;,G5590,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:7 ,WORD,With,G3326,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:7 ,PHRASE,good will,G2133,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:7 ,PHRASE,"doing service,",G1398,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:7 ,PHRASE,"as to the Lord,",G2962,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:7 ,WORD,and,G2532,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:7 ,WORD,not,G3756,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:7 ,PHRASE,to men:,G444,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:8 ,WORD,Knowing,G1492,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:8 ,WORD,that,G3754,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:8 ,WORD,whatsoever,G3739,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:8 ,WORD,,G1437,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:8 ,WORD,,G5100,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:8 ,PHRASE,good thing,G18,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:8 ,PHRASE,any man,G1538,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:8 ,WORD,"doeth,",G4160,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:8 ,PHRASE,the same,G5124,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:8 ,PHRASE,shall he receive,G2865,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:8 ,WORD,of,G3844,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:8 ,WORD,the,G3588,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:8 ,WORD,"Lord,",G2962,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:8 ,WORD,whether,G1535,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:8 ,PHRASE,[he be],,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:8 ,WORD,bond,G1401,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:8 ,WORD,or,G1535,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:8 ,WORD,free.,G1658,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:9 ,WORD,"And,",G2532,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:9 ,PHRASE,"ye masters,",G2962,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:9 ,WORD,do,G4160,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:9 ,WORD,the,G3588,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:9 ,PHRASE,same things,G846,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:9 ,WORD,unto,G4314,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:9 ,WORD,"them,",G846,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:9 ,WORD,forbearing,G447,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:9 ,WORD,threatening:,G547,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:9 ,WORD,knowing,G1492,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:9 ,WORD,that,G3754,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:9 ,WORD,your,G5216,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:9 ,WORD,,G846,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:9 ,WORD,Master,G2962,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:9 ,WORD,also,G2532,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:9 ,WORD,is,G2076,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:9 ,WORD,in,G1722,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:9 ,WORD,heaven;,G3772,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:9 ,WORD,neither,G2532,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:9 ,WORD,,G3756,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:9 ,PHRASE,is there,G2076,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:9 ,PHRASE,respect of persons,G4382,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:9 ,WORD,with,G3844,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:9 ,WORD,him.,G846,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:10 ,WORD,"Finally,",G3063,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:10 ,WORD,my,G3450,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:10 ,WORD,"brethren,",G80,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:10 ,PHRASE,be strong,G1743,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:10 ,WORD,in,G1722,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:10 ,PHRASE,"the Lord,",G2962,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:10 ,WORD,and,G2532,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:10 ,WORD,in,G1722,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:10 ,WORD,the,G3588,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:10 ,WORD,power,G2904,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:10 ,PHRASE,of his,G846,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:10 ,WORD,might.,G2479,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:11 ,PHRASE,Put on,G1746,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:11 ,WORD,the,G3588,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:11 ,PHRASE,whole armour,G3833,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:11 ,PHRASE,"of God,",G2316,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:11 ,WORD,that,G4314,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:11 ,WORD,ye,G5209,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:11 ,PHRASE,may be able,G1410,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:11 ,PHRASE,to stand,G2476,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:11 ,WORD,against,G4314,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:11 ,WORD,the,G3588,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:11 ,WORD,wiles,G3180,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:11 ,PHRASE,of the,G3588,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:11 ,WORD,devil.,G1228,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:12 ,WORD,For,G3754,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:12 ,WORD,we,G2254,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:12 ,WORD,wrestle,G3823,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:12 ,WORD,not,G3756,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:12 ,WORD,against,G2076,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:12 ,WORD,,G4314,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:12 ,WORD,flesh,G4561,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:12 ,WORD,and,G2532,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:12 ,WORD,"blood,",G129,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:12 ,WORD,but,G235,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:12 ,WORD,against,G4314,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:12 ,WORD,"principalities,",G746,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:12 ,WORD,against,G4314,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:12 ,WORD,"powers,",G1849,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:12 ,WORD,against,G4314,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:12 ,WORD,the,G3588,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:12 ,WORD,rulers,G2888,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:12 ,PHRASE,of the,G3588,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:12 ,WORD,darkness,G4655,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:12 ,PHRASE,of this,G5127,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:12 ,WORD,"world,",G165,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:12 ,WORD,against,G4314,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:12 ,WORD,spiritual,G4152,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:12 ,WORD,wickedness,G4189,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:12 ,WORD,in,G1722,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:12 ,WORD,high,G2032,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:12 ,WORD,[places].,,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:13 ,WORD,Wherefore,G1223,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:13 ,WORD,,G5124,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:13 ,PHRASE,take unto you,G353,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:13 ,WORD,the,G3588,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:13 ,PHRASE,whole armour,G3833,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:13 ,PHRASE,"of God,",G2316,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:13 ,WORD,that,G2443,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:13 ,PHRASE,ye may be able,G1410,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:13 ,PHRASE,to withstand,G436,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:13 ,WORD,in,G1722,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:13 ,PHRASE,the evil,G4190,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:13 ,WORD,"day,",G2250,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:13 ,WORD,and,G2532,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:13 ,PHRASE,having done,G2716,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:13 ,WORD,"all,",G537,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:13 ,PHRASE,to stand.,G2476,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:14 ,WORD,Stand,G2476,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:14 ,WORD,"therefore,",G3767,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:14 ,WORD,having,G4024,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:14 ,WORD,your,G5216,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:14 ,WORD,loins,G3751,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:14 ,PHRASE,girt about,G4024,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:14 ,WORD,with,G1722,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:14 ,WORD,"truth,",G225,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:14 ,WORD,and,G2532,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:14 ,PHRASE,having on,G1746,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:14 ,WORD,the,G3588,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:14 ,WORD,breastplate,G2382,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:14 ,PHRASE,of righteousness;,G1343,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:15 ,WORD,And,G2532,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:15 ,PHRASE,your feet,G4228,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:15 ,WORD,shod,G5265,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:15 ,WORD,with,G1722,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:15 ,PHRASE,the preparation,G2091,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:15 ,PHRASE,of the,G3588,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:15 ,WORD,gospel,G2098,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:15 ,PHRASE,of peace;,G1515,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:16 ,WORD,Above,G1909,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:16 ,WORD,"all,",G3956,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:16 ,WORD,taking,G353,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:16 ,WORD,the,G3588,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:16 ,WORD,shield,G2375,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:16 ,PHRASE,"of faith,",G4102,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:16 ,WORD,wherewith,G1722,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:16 ,WORD,,G3739,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:16 ,PHRASE,ye shall be able,G1410,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:16 ,PHRASE,to quench,G4570,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:16 ,WORD,all,G3956,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:16 ,WORD,the,G3588,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:16 ,WORD,fiery,G4448,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:16 ,WORD,darts,G956,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:16 ,PHRASE,of the,G3588,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:16 ,WORD,wicked.,G4190,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:17 ,WORD,And,G2532,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:17 ,WORD,take,G1209,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:17 ,WORD,the,G3588,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:17 ,WORD,helmet,G4030,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:17 ,PHRASE,"of salvation,",G4992,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:17 ,WORD,and,G2532,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:17 ,WORD,the,G3588,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:17 ,WORD,sword,G3162,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:17 ,PHRASE,of the,G3588,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:17 ,WORD,"Spirit,",G4151,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:17 ,WORD,,G3739,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:17 ,PHRASE,which is,G2076,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:17 ,PHRASE,the word,G4487,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:17 ,PHRASE,of God:,G2316,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:18 ,WORD,Praying,G4336,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:18 ,WORD,always,G1722,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:18 ,WORD,,G2540,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:18 ,WORD,,G3956,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:18 ,WORD,with,G1223,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:18 ,WORD,all,G3956,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:18 ,WORD,prayer,G4335,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:18 ,WORD,and,G2532,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:18 ,WORD,supplication,G1162,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:18 ,WORD,in,G1722,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:18 ,PHRASE,"the Spirit,",G4151,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:18 ,WORD,and,G2532,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:18 ,WORD,watching,G69,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:18 ,WORD,thereunto,G1519,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:18 ,WORD,,G5124,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:18 ,WORD,,G846,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:18 ,WORD,with,G1722,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:18 ,WORD,all,G3956,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:18 ,WORD,perseverance,G4343,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:18 ,WORD,and,G2532,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:18 ,WORD,supplication,G1162,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:18 ,WORD,for,G4012,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:18 ,WORD,all,G3956,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:18 ,WORD,saints;,G40,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:19 ,WORD,And,G2532,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:19 ,WORD,for,G5228,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:19 ,WORD,"me,",G1700,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:19 ,WORD,that,G2443,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:19 ,WORD,utterance,G3056,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:19 ,PHRASE,may be given,G1325,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:19 ,PHRASE,"unto me,",G3427,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:19 ,PHRASE,that I may open,G1722,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:19 ,WORD,,G457,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:19 ,WORD,my,G3450,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:19 ,WORD,mouth,G4750,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:19 ,WORD,"boldly,",G1722,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:19 ,WORD,,G3954,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:19 ,PHRASE,to make known,G1107,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:19 ,WORD,the,G3588,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:19 ,WORD,mystery,G3466,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:19 ,PHRASE,of the,G3588,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:19 ,WORD,"gospel,",G2098,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:20 ,WORD,For,G5228,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:20 ,WORD,which,G3739,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:20 ,PHRASE,I am an ambassador,G4243,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:20 ,WORD,in,G1722,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:20 ,WORD,bonds:,G254,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:20 ,WORD,that,G2443,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:20 ,WORD,therein,G1722,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:20 ,WORD,,G846,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:20 ,PHRASE,"I may speak boldly,",G3955,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:20 ,WORD,as,G5613,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:20 ,WORD,I,G3165,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:20 ,WORD,ought,G1163,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:20 ,PHRASE,to speak.,G2980,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:21 ,WORD,But,G1161,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:21 ,WORD,that,G2443,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:21 ,WORD,ye,G5210,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:21 ,WORD,also,G2532,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:21 ,PHRASE,may know,G1492,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:21 ,WORD,my,G1691,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:21 ,WORD,"affairs,",G2596,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:21 ,WORD,[and],,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:21 ,WORD,how,G5101,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:21 ,PHRASE,"I do,",G4238,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:21 ,WORD,"Tychicus,",G5190,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:21 ,WORD,a,G3588,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:21 ,WORD,beloved,G27,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:21 ,WORD,brother,G80,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:21 ,WORD,and,G2532,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:21 ,WORD,faithful,G4103,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:21 ,WORD,minister,G1249,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:21 ,WORD,in,G1722,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:21 ,PHRASE,"the Lord,",G2962,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:21 ,PHRASE,shall make known,G1107,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:21 ,PHRASE,to you,G5213,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:21 ,PHRASE,all things:,G3956,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:22 ,WORD,Whom,G3739,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:22 ,PHRASE,I have sent,G3992,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:22 ,WORD,unto,G4314,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:22 ,WORD,you,G5209,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:22 ,WORD,for,G1519,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:22 ,PHRASE,the same,G846,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:22 ,WORD,"purpose,",G5124,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:22 ,WORD,that,G2443,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:22 ,PHRASE,ye might know,G1097,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:22 ,WORD,our,G2257,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:22 ,WORD,"affairs,",G4012,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:22 ,WORD,and,G2532,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:22 ,WORD,[that],,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:22 ,PHRASE,he might comfort,G3870,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:22 ,WORD,your,G5216,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:22 ,WORD,hearts.,G2588,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:23 ,WORD,Peace,G1515,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:23 ,WORD,[be],,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:23 ,PHRASE,to the,G3588,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:23 ,WORD,"brethren,",G80,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:23 ,WORD,and,G2532,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:23 ,WORD,love,G26,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:23 ,WORD,with,G3326,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:23 ,WORD,"faith,",G4102,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:23 ,WORD,from,G575,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:23 ,WORD,God,G2316,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:23 ,PHRASE,the Father,G3962,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:23 ,WORD,and,G2532,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:23 ,PHRASE,the Lord,G2962,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:23 ,WORD,Jesus,G2424,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:23 ,WORD,Christ.,G5547,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:24 ,WORD,Grace,G5485,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:24 ,WORD,[be],,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:24 ,WORD,with,G3326,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:24 ,WORD,all,G3956,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:24 ,PHRASE,them that,G3588,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:24 ,WORD,love,G25,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:24 ,WORD,our,G2257,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:24 ,WORD,Lord,G2962,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:24 ,WORD,Jesus,G2424,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:24 ,WORD,Christ,G5547,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:24 ,WORD,in,G1722,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:24 ,WORD,sincerity.,G861,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:24 ,WORD,Amen.,G281,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:24 ,WORD,To,G4314,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:24 ,WORD,[the],,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:24 ,WORD,Ephesians,G2180,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:24 ,WORD,written,G1125,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:24 ,WORD,from,G575,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:24 ,WORD,"Rome,",G4516,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:24 ,WORD,by,G1223,Epistles,New Testament,Ephesians,KJV
+6,Ephesians6:24 ,WORD,Tychicus.,G5190,Epistles,New Testament,Ephesians,KJV

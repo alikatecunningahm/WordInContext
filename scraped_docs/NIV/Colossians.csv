@@ -1,0 +1,1440 @@
+bible_chapter,bible_verse,verse_part_type,verse_part,hebrew_id,lit_type,testament_type,bible_book,version
+1,Colossians1:1 ,WORD,Paul,G3972,Epistles,New Testament,Colossians,NIV
+1,Colossians1:1 ,PHRASE,an apostle,G652,Epistles,New Testament,Colossians,NIV
+1,Colossians1:1 ,PHRASE,of Jesus,G2424,Epistles,New Testament,Colossians,NIV
+1,Colossians1:1 ,WORD,Christ,G5547,Epistles,New Testament,Colossians,NIV
+1,Colossians1:1 ,WORD,by,G1223,Epistles,New Testament,Colossians,NIV
+1,Colossians1:1 ,PHRASE,the will,G2307,Epistles,New Testament,Colossians,NIV
+1,Colossians1:1 ,PHRASE,of God,G2316,Epistles,New Testament,Colossians,NIV
+1,Colossians1:1 ,WORD,and,G2532,Epistles,New Testament,Colossians,NIV
+1,Colossians1:1 ,WORD,Timothy,G5095,Epistles,New Testament,Colossians,NIV
+1,Colossians1:1 ,PHRASE,our brother,G80,Epistles,New Testament,Colossians,NIV
+1,Colossians1:2 ,PHRASE,To the saints,G40,Epistles,New Testament,Colossians,NIV
+1,Colossians1:2 ,WORD,and,G2532,Epistles,New Testament,Colossians,NIV
+1,Colossians1:2 ,WORD,faithful,G4103,Epistles,New Testament,Colossians,NIV
+1,Colossians1:2 ,WORD,brethren,G80,Epistles,New Testament,Colossians,NIV
+1,Colossians1:2 ,WORD,in,G1722,Epistles,New Testament,Colossians,NIV
+1,Colossians1:2 ,WORD,Christ,G5547,Epistles,New Testament,Colossians,NIV
+1,Colossians1:2 ,WORD,who,G3588,Epistles,New Testament,Colossians,NIV
+1,Colossians1:2 ,PHRASE,are at,G1722,Epistles,New Testament,Colossians,NIV
+1,Colossians1:2 ,WORD,Colossae,G2857,Epistles,New Testament,Colossians,NIV
+1,Colossians1:2 ,WORD,Grace,G5485,Epistles,New Testament,Colossians,NIV
+1,Colossians1:2 ,PHRASE,to you,G4771,Epistles,New Testament,Colossians,NIV
+1,Colossians1:2 ,WORD,and,G2532,Epistles,New Testament,Colossians,NIV
+1,Colossians1:2 ,WORD,peace,G1515,Epistles,New Testament,Colossians,NIV
+1,Colossians1:2 ,WORD,from,G575,Epistles,New Testament,Colossians,NIV
+1,Colossians1:2 ,WORD,God,G2316,Epistles,New Testament,Colossians,NIV
+1,Colossians1:2 ,WORD,our,G1473,Epistles,New Testament,Colossians,NIV
+1,Colossians1:2 ,WORD,Father,G3962,Epistles,New Testament,Colossians,NIV
+1,Colossians1:3 ,PHRASE,We give thanks,G2168,Epistles,New Testament,Colossians,NIV
+1,Colossians1:3 ,PHRASE,to God,G2316,Epistles,New Testament,Colossians,NIV
+1,Colossians1:3 ,PHRASE,the Father,G3962,Epistles,New Testament,Colossians,NIV
+1,Colossians1:3 ,PHRASE,of our,G1473,Epistles,New Testament,Colossians,NIV
+1,Colossians1:3 ,WORD,Lord,G2962,Epistles,New Testament,Colossians,NIV
+1,Colossians1:3 ,WORD,Jesus,G2424,Epistles,New Testament,Colossians,NIV
+1,Colossians1:3 ,WORD,Christ,G5547,Epistles,New Testament,Colossians,NIV
+1,Colossians1:3 ,WORD,praying,G4336,Epistles,New Testament,Colossians,NIV
+1,Colossians1:3 ,WORD,always,G3842,Epistles,New Testament,Colossians,NIV
+1,Colossians1:3 ,WORD,for,G4012,Epistles,New Testament,Colossians,NIV
+1,Colossians1:3 ,WORD,you,G4771,Epistles,New Testament,Colossians,NIV
+1,Colossians1:4 ,PHRASE,since we heard,G191,Epistles,New Testament,Colossians,NIV
+1,Colossians1:4 ,PHRASE,of your,G4771,Epistles,New Testament,Colossians,NIV
+1,Colossians1:4 ,WORD,faith,G4102,Epistles,New Testament,Colossians,NIV
+1,Colossians1:4 ,WORD,in,G1722,Epistles,New Testament,Colossians,NIV
+1,Colossians1:4 ,WORD,Christ,G5547,Epistles,New Testament,Colossians,NIV
+1,Colossians1:4 ,WORD,Jesus,G2424,Epistles,New Testament,Colossians,NIV
+1,Colossians1:4 ,WORD,and,G2532,Epistles,New Testament,Colossians,NIV
+1,Colossians1:4 ,WORD,the,G3588,Epistles,New Testament,Colossians,NIV
+1,Colossians1:4 ,WORD,love,G26,Epistles,New Testament,Colossians,NIV
+1,Colossians1:4 ,WORD,which,G3739,Epistles,New Testament,Colossians,NIV
+1,Colossians1:4 ,PHRASE,you have,G2192,Epistles,New Testament,Colossians,NIV
+1,Colossians1:4 ,WORD,for,G1519,Epistles,New Testament,Colossians,NIV
+1,Colossians1:4 ,WORD,all,G3956,Epistles,New Testament,Colossians,NIV
+1,Colossians1:4 ,WORD,the,G3588,Epistles,New Testament,Colossians,NIV
+1,Colossians1:4 ,WORD,saints,G40,Epistles,New Testament,Colossians,NIV
+1,Colossians1:5 ,WORD,because,G1223,Epistles,New Testament,Colossians,NIV
+1,Colossians1:5 ,PHRASE,of the,G3588,Epistles,New Testament,Colossians,NIV
+1,Colossians1:5 ,WORD,hope,G1680,Epistles,New Testament,Colossians,NIV
+1,Colossians1:5 ,PHRASE,laid up,G606,Epistles,New Testament,Colossians,NIV
+1,Colossians1:5 ,PHRASE,for you,G4771,Epistles,New Testament,Colossians,NIV
+1,Colossians1:5 ,WORD,in,G1722,Epistles,New Testament,Colossians,NIV
+1,Colossians1:5 ,WORD,heaven,G3772,Epistles,New Testament,Colossians,NIV
+1,Colossians1:5 ,PHRASE,of which,G3739,Epistles,New Testament,Colossians,NIV
+1,Colossians1:5 ,PHRASE,you previously heard,G4257,Epistles,New Testament,Colossians,NIV
+1,Colossians1:5 ,WORD,in,G1722,Epistles,New Testament,Colossians,NIV
+1,Colossians1:5 ,WORD,the,G3588,Epistles,New Testament,Colossians,NIV
+1,Colossians1:5 ,WORD,word,G3056,Epistles,New Testament,Colossians,NIV
+1,Colossians1:5 ,PHRASE,of truth,G225,Epistles,New Testament,Colossians,NIV
+1,Colossians1:5 ,WORD,the,G3588,Epistles,New Testament,Colossians,NIV
+1,Colossians1:5 ,WORD,gospel,G2098,Epistles,New Testament,Colossians,NIV
+1,Colossians1:6 ,WORD,which,G3588,Epistles,New Testament,Colossians,NIV
+1,Colossians1:6 ,PHRASE,has come,G3918,Epistles,New Testament,Colossians,NIV
+1,Colossians1:6 ,WORD,to,G1519,Epistles,New Testament,Colossians,NIV
+1,Colossians1:6 ,WORD,you,G4771,Epistles,New Testament,Colossians,NIV
+1,Colossians1:6 ,PHRASE,just as,G2531,Epistles,New Testament,Colossians,NIV
+1,Colossians1:6 ,WORD,in,G1722,Epistles,New Testament,Colossians,NIV
+1,Colossians1:6 ,WORD,all,G3956,Epistles,New Testament,Colossians,NIV
+1,Colossians1:6 ,WORD,the,G3588,Epistles,New Testament,Colossians,NIV
+1,Colossians1:6 ,WORD,world,G2889,Epistles,New Testament,Colossians,NIV
+1,Colossians1:6 ,WORD,also,G2532,Epistles,New Testament,Colossians,NIV
+1,Colossians1:6 ,PHRASE,it is,G1510,Epistles,New Testament,Colossians,NIV
+1,Colossians1:6 ,PHRASE,constantly bearing fruit,G2592,Epistles,New Testament,Colossians,NIV
+1,Colossians1:6 ,WORD,and,G2532,Epistles,New Testament,Colossians,NIV
+1,Colossians1:6 ,WORD,increasing,G837,Epistles,New Testament,Colossians,NIV
+1,Colossians1:6 ,PHRASE,even as it has been doing,G2531,Epistles,New Testament,Colossians,NIV
+1,Colossians1:6 ,WORD,in,G1722,Epistles,New Testament,Colossians,NIV
+1,Colossians1:6 ,WORD,you,G4771,Epistles,New Testament,Colossians,NIV
+1,Colossians1:6 ,WORD,also,G2532,Epistles,New Testament,Colossians,NIV
+1,Colossians1:6 ,WORD,since,G575,Epistles,New Testament,Colossians,NIV
+1,Colossians1:6 ,WORD,,G3739,Epistles,New Testament,Colossians,NIV
+1,Colossians1:6 ,PHRASE,the day,G2250,Epistles,New Testament,Colossians,NIV
+1,Colossians1:6 ,PHRASE,you heard of it,G191,Epistles,New Testament,Colossians,NIV
+1,Colossians1:6 ,WORD,and,G2532,Epistles,New Testament,Colossians,NIV
+1,Colossians1:6 ,WORD,understood,G1921,Epistles,New Testament,Colossians,NIV
+1,Colossians1:6 ,WORD,the,G3588,Epistles,New Testament,Colossians,NIV
+1,Colossians1:6 ,WORD,grace,G5485,Epistles,New Testament,Colossians,NIV
+1,Colossians1:6 ,PHRASE,of God,G2316,Epistles,New Testament,Colossians,NIV
+1,Colossians1:6 ,WORD,in,G1722,Epistles,New Testament,Colossians,NIV
+1,Colossians1:6 ,WORD,truth,G225,Epistles,New Testament,Colossians,NIV
+1,Colossians1:7 ,PHRASE,just as,G2531,Epistles,New Testament,Colossians,NIV
+1,Colossians1:7 ,PHRASE,you learned it,G3129,Epistles,New Testament,Colossians,NIV
+1,Colossians1:7 ,WORD,from,G575,Epistles,New Testament,Colossians,NIV
+1,Colossians1:7 ,WORD,Epaphras,G1889,Epistles,New Testament,Colossians,NIV
+1,Colossians1:7 ,WORD,our,G1473,Epistles,New Testament,Colossians,NIV
+1,Colossians1:7 ,WORD,beloved,G27,Epistles,New Testament,Colossians,NIV
+1,Colossians1:7 ,PHRASE,fellow bond-servant,G4889,Epistles,New Testament,Colossians,NIV
+1,Colossians1:7 ,WORD,who,G3739,Epistles,New Testament,Colossians,NIV
+1,Colossians1:7 ,WORD,is,G1510,Epistles,New Testament,Colossians,NIV
+1,Colossians1:7 ,PHRASE,a faithful,G4103,Epistles,New Testament,Colossians,NIV
+1,Colossians1:7 ,WORD,servant,G1249,Epistles,New Testament,Colossians,NIV
+1,Colossians1:7 ,PHRASE,of Christ,G5547,Epistles,New Testament,Colossians,NIV
+1,Colossians1:7 ,WORD,on,G5228,Epistles,New Testament,Colossians,NIV
+1,Colossians1:7 ,WORD,our,G4771,Epistles,New Testament,Colossians,NIV
+1,Colossians1:7 ,WORD,behalf,G5228,Epistles,New Testament,Colossians,NIV
+1,Colossians1:8 ,PHRASE,and he,G3588,Epistles,New Testament,Colossians,NIV
+1,Colossians1:8 ,WORD,also,G2532,Epistles,New Testament,Colossians,NIV
+1,Colossians1:8 ,WORD,informed,G1213,Epistles,New Testament,Colossians,NIV
+1,Colossians1:8 ,WORD,us,G1473,Epistles,New Testament,Colossians,NIV
+1,Colossians1:8 ,PHRASE,of your,G4771,Epistles,New Testament,Colossians,NIV
+1,Colossians1:8 ,WORD,love,G26,Epistles,New Testament,Colossians,NIV
+1,Colossians1:8 ,WORD,in,G1722,Epistles,New Testament,Colossians,NIV
+1,Colossians1:8 ,PHRASE,the Spirit,G4151,Epistles,New Testament,Colossians,NIV
+1,Colossians1:9 ,WORD,For,G1223,Epistles,New Testament,Colossians,NIV
+1,Colossians1:9 ,PHRASE,this reason,G3778,Epistles,New Testament,Colossians,NIV
+1,Colossians1:9 ,WORD,also,G2532,Epistles,New Testament,Colossians,NIV
+1,Colossians1:9 ,WORD,since,G575,Epistles,New Testament,Colossians,NIV
+1,Colossians1:9 ,WORD,,G3739,Epistles,New Testament,Colossians,NIV
+1,Colossians1:9 ,PHRASE,the day,G2250,Epistles,New Testament,Colossians,NIV
+1,Colossians1:9 ,WORD,we,G1473,Epistles,New Testament,Colossians,NIV
+1,Colossians1:9 ,PHRASE,heard of it,G191,Epistles,New Testament,Colossians,NIV
+1,Colossians1:9 ,PHRASE,we have not,G3756,Epistles,New Testament,Colossians,NIV
+1,Colossians1:9 ,WORD,ceased,G3973,Epistles,New Testament,Colossians,NIV
+1,Colossians1:9 ,PHRASE,to pray,G4336,Epistles,New Testament,Colossians,NIV
+1,Colossians1:9 ,WORD,for,G5228,Epistles,New Testament,Colossians,NIV
+1,Colossians1:9 ,WORD,you,G4771,Epistles,New Testament,Colossians,NIV
+1,Colossians1:9 ,WORD,and,G2532,Epistles,New Testament,Colossians,NIV
+1,Colossians1:9 ,PHRASE,to ask,G154,Epistles,New Testament,Colossians,NIV
+1,Colossians1:9 ,WORD,that,G2443,Epistles,New Testament,Colossians,NIV
+1,Colossians1:9 ,PHRASE,you may be filled,G4137,Epistles,New Testament,Colossians,NIV
+1,Colossians1:9 ,PHRASE,with the,G3588,Epistles,New Testament,Colossians,NIV
+1,Colossians1:9 ,WORD,knowledge,G1922,Epistles,New Testament,Colossians,NIV
+1,Colossians1:9 ,PHRASE,of His,G846,Epistles,New Testament,Colossians,NIV
+1,Colossians1:9 ,WORD,will,G2307,Epistles,New Testament,Colossians,NIV
+1,Colossians1:9 ,WORD,in,G1722,Epistles,New Testament,Colossians,NIV
+1,Colossians1:9 ,WORD,all,G3956,Epistles,New Testament,Colossians,NIV
+1,Colossians1:9 ,WORD,spiritual,G4152,Epistles,New Testament,Colossians,NIV
+1,Colossians1:9 ,WORD,wisdom,G4678,Epistles,New Testament,Colossians,NIV
+1,Colossians1:9 ,WORD,and,G2532,Epistles,New Testament,Colossians,NIV
+1,Colossians1:9 ,WORD,understanding,G4907,Epistles,New Testament,Colossians,NIV
+1,Colossians1:10 ,PHRASE,so that you will walk,G4043,Epistles,New Testament,Colossians,NIV
+1,Colossians1:10 ,PHRASE,in a manner worthy,G516,Epistles,New Testament,Colossians,NIV
+1,Colossians1:10 ,PHRASE,of the,G3588,Epistles,New Testament,Colossians,NIV
+1,Colossians1:10 ,WORD,Lord,G2962,Epistles,New Testament,Colossians,NIV
+1,Colossians1:10 ,PHRASE,to please Him,G699,Epistles,New Testament,Colossians,NIV
+1,Colossians1:10 ,WORD,in,G1519,Epistles,New Testament,Colossians,NIV
+1,Colossians1:10 ,PHRASE,all respects,G3956,Epistles,New Testament,Colossians,NIV
+1,Colossians1:10 ,PHRASE,bearing fruit,G2592,Epistles,New Testament,Colossians,NIV
+1,Colossians1:10 ,WORD,in,G1722,Epistles,New Testament,Colossians,NIV
+1,Colossians1:10 ,WORD,every,G3956,Epistles,New Testament,Colossians,NIV
+1,Colossians1:10 ,WORD,good,G18,Epistles,New Testament,Colossians,NIV
+1,Colossians1:10 ,WORD,work,G2041,Epistles,New Testament,Colossians,NIV
+1,Colossians1:10 ,WORD,and,G2532,Epistles,New Testament,Colossians,NIV
+1,Colossians1:10 ,WORD,increasing,G837,Epistles,New Testament,Colossians,NIV
+1,Colossians1:10 ,PHRASE,in the,G3588,Epistles,New Testament,Colossians,NIV
+1,Colossians1:10 ,WORD,knowledge,G1922,Epistles,New Testament,Colossians,NIV
+1,Colossians1:10 ,PHRASE,of God,G2316,Epistles,New Testament,Colossians,NIV
+1,Colossians1:11 ,WORD,strengthened,G1412,Epistles,New Testament,Colossians,NIV
+1,Colossians1:11 ,WORD,with,G1722,Epistles,New Testament,Colossians,NIV
+1,Colossians1:11 ,WORD,all,G3956,Epistles,New Testament,Colossians,NIV
+1,Colossians1:11 ,WORD,power,G1411,Epistles,New Testament,Colossians,NIV
+1,Colossians1:11 ,PHRASE,according to,G2596,Epistles,New Testament,Colossians,NIV
+1,Colossians1:11 ,WORD,His,G846,Epistles,New Testament,Colossians,NIV
+1,Colossians1:11 ,WORD,glorious,G1391,Epistles,New Testament,Colossians,NIV
+1,Colossians1:11 ,WORD,might,G2904,Epistles,New Testament,Colossians,NIV
+1,Colossians1:11 ,PHRASE,for the attaining,G1519,Epistles,New Testament,Colossians,NIV
+1,Colossians1:11 ,PHRASE,of all,G3956,Epistles,New Testament,Colossians,NIV
+1,Colossians1:11 ,WORD,steadfastness,G5281,Epistles,New Testament,Colossians,NIV
+1,Colossians1:11 ,WORD,and,G2532,Epistles,New Testament,Colossians,NIV
+1,Colossians1:11 ,WORD,patience,G3115,Epistles,New Testament,Colossians,NIV
+1,Colossians1:11 ,WORD,joyously,G5479,Epistles,New Testament,Colossians,NIV
+1,Colossians1:11 ,WORD,,G3326,Epistles,New Testament,Colossians,NIV
+1,Colossians1:12 ,PHRASE,giving thanks,G2168,Epistles,New Testament,Colossians,NIV
+1,Colossians1:12 ,PHRASE,to the,G3588,Epistles,New Testament,Colossians,NIV
+1,Colossians1:12 ,WORD,Father,G3962,Epistles,New Testament,Colossians,NIV
+1,Colossians1:12 ,WORD,who,G3588,Epistles,New Testament,Colossians,NIV
+1,Colossians1:12 ,PHRASE,has qualified,G2427,Epistles,New Testament,Colossians,NIV
+1,Colossians1:12 ,WORD,us,G4771,Epistles,New Testament,Colossians,NIV
+1,Colossians1:12 ,PHRASE,to share,G3310,Epistles,New Testament,Colossians,NIV
+1,Colossians1:12 ,WORD,in,G1519,Epistles,New Testament,Colossians,NIV
+1,Colossians1:12 ,WORD,the,G3588,Epistles,New Testament,Colossians,NIV
+1,Colossians1:12 ,WORD,inheritance,G2819,Epistles,New Testament,Colossians,NIV
+1,Colossians1:12 ,PHRASE,of the,G3588,Epistles,New Testament,Colossians,NIV
+1,Colossians1:12 ,WORD,saints,G40,Epistles,New Testament,Colossians,NIV
+1,Colossians1:12 ,WORD,in,G1722,Epistles,New Testament,Colossians,NIV
+1,Colossians1:12 ,WORD,Light,G5457,Epistles,New Testament,Colossians,NIV
+1,Colossians1:13 ,WORD,For,G3739,Epistles,New Testament,Colossians,NIV
+1,Colossians1:13 ,PHRASE,He rescued,G4506,Epistles,New Testament,Colossians,NIV
+1,Colossians1:13 ,WORD,us,G1473,Epistles,New Testament,Colossians,NIV
+1,Colossians1:13 ,WORD,from,G1537,Epistles,New Testament,Colossians,NIV
+1,Colossians1:13 ,WORD,the,G3588,Epistles,New Testament,Colossians,NIV
+1,Colossians1:13 ,WORD,domain,G1849,Epistles,New Testament,Colossians,NIV
+1,Colossians1:13 ,PHRASE,of darkness,G4655,Epistles,New Testament,Colossians,NIV
+1,Colossians1:13 ,WORD,and,G2532,Epistles,New Testament,Colossians,NIV
+1,Colossians1:13 ,PHRASE,transferred us,G3179,Epistles,New Testament,Colossians,NIV
+1,Colossians1:13 ,WORD,to,G1519,Epistles,New Testament,Colossians,NIV
+1,Colossians1:13 ,WORD,the,G3588,Epistles,New Testament,Colossians,NIV
+1,Colossians1:13 ,WORD,kingdom,G932,Epistles,New Testament,Colossians,NIV
+1,Colossians1:13 ,PHRASE,of His,G846,Epistles,New Testament,Colossians,NIV
+1,Colossians1:13 ,WORD,beloved,G26,Epistles,New Testament,Colossians,NIV
+1,Colossians1:13 ,WORD,Son,G5207,Epistles,New Testament,Colossians,NIV
+1,Colossians1:14 ,WORD,in,G1722,Epistles,New Testament,Colossians,NIV
+1,Colossians1:14 ,WORD,whom,G3739,Epistles,New Testament,Colossians,NIV
+1,Colossians1:14 ,PHRASE,we have,G2192,Epistles,New Testament,Colossians,NIV
+1,Colossians1:14 ,WORD,redemption,G629,Epistles,New Testament,Colossians,NIV
+1,Colossians1:14 ,WORD,the,G3588,Epistles,New Testament,Colossians,NIV
+1,Colossians1:14 ,WORD,forgiveness,G859,Epistles,New Testament,Colossians,NIV
+1,Colossians1:14 ,PHRASE,of sins,G266,Epistles,New Testament,Colossians,NIV
+1,Colossians1:15 ,WORD,He,G3739,Epistles,New Testament,Colossians,NIV
+1,Colossians1:15 ,WORD,is,G1510,Epistles,New Testament,Colossians,NIV
+1,Colossians1:15 ,PHRASE,the image,G1504,Epistles,New Testament,Colossians,NIV
+1,Colossians1:15 ,PHRASE,of the,G3588,Epistles,New Testament,Colossians,NIV
+1,Colossians1:15 ,WORD,invisible,G517,Epistles,New Testament,Colossians,NIV
+1,Colossians1:15 ,WORD,God,G2316,Epistles,New Testament,Colossians,NIV
+1,Colossians1:15 ,PHRASE,the firstborn,G4416,Epistles,New Testament,Colossians,NIV
+1,Colossians1:15 ,PHRASE,of all,G3956,Epistles,New Testament,Colossians,NIV
+1,Colossians1:15 ,WORD,creation,G2937,Epistles,New Testament,Colossians,NIV
+1,Colossians1:16 ,WORD,For,G3754,Epistles,New Testament,Colossians,NIV
+1,Colossians1:16 ,WORD,by,G1722,Epistles,New Testament,Colossians,NIV
+1,Colossians1:16 ,WORD,Him,G846,Epistles,New Testament,Colossians,NIV
+1,Colossians1:16 ,PHRASE,all things,G3956,Epistles,New Testament,Colossians,NIV
+1,Colossians1:16 ,PHRASE,were created,G2936,Epistles,New Testament,Colossians,NIV
+1,Colossians1:16 ,PHRASE,both in,G1722,Epistles,New Testament,Colossians,NIV
+1,Colossians1:16 ,WORD,the,G3588,Epistles,New Testament,Colossians,NIV
+1,Colossians1:16 ,WORD,heavens,G3772,Epistles,New Testament,Colossians,NIV
+1,Colossians1:16 ,WORD,and,G2532,Epistles,New Testament,Colossians,NIV
+1,Colossians1:16 ,WORD,on,G1909,Epistles,New Testament,Colossians,NIV
+1,Colossians1:16 ,WORD,earth,G1093,Epistles,New Testament,Colossians,NIV
+1,Colossians1:16 ,WORD,visible,G3707,Epistles,New Testament,Colossians,NIV
+1,Colossians1:16 ,WORD,and,G2532,Epistles,New Testament,Colossians,NIV
+1,Colossians1:16 ,WORD,invisible,G517,Epistles,New Testament,Colossians,NIV
+1,Colossians1:16 ,WORD,whether,G1535,Epistles,New Testament,Colossians,NIV
+1,Colossians1:16 ,WORD,thrones,G2362,Epistles,New Testament,Colossians,NIV
+1,Colossians1:16 ,WORD,or,G1535,Epistles,New Testament,Colossians,NIV
+1,Colossians1:16 ,WORD,dominions,G2963,Epistles,New Testament,Colossians,NIV
+1,Colossians1:16 ,WORD,or,G1535,Epistles,New Testament,Colossians,NIV
+1,Colossians1:16 ,WORD,rulers,G746,Epistles,New Testament,Colossians,NIV
+1,Colossians1:16 ,WORD,or,G1535,Epistles,New Testament,Colossians,NIV
+1,Colossians1:16 ,WORD,authorities,G1849,Epistles,New Testament,Colossians,NIV
+1,Colossians1:16 ,PHRASE,all things,G3956,Epistles,New Testament,Colossians,NIV
+1,Colossians1:16 ,PHRASE,have been created,G2936,Epistles,New Testament,Colossians,NIV
+1,Colossians1:16 ,WORD,through,G1223,Epistles,New Testament,Colossians,NIV
+1,Colossians1:16 ,WORD,Him,G846,Epistles,New Testament,Colossians,NIV
+1,Colossians1:16 ,WORD,and,G2532,Epistles,New Testament,Colossians,NIV
+1,Colossians1:16 ,WORD,for,G1519,Epistles,New Testament,Colossians,NIV
+1,Colossians1:16 ,WORD,Him,G846,Epistles,New Testament,Colossians,NIV
+1,Colossians1:17 ,WORD,He,G846,Epistles,New Testament,Colossians,NIV
+1,Colossians1:17 ,WORD,is,G1510,Epistles,New Testament,Colossians,NIV
+1,Colossians1:17 ,WORD,before,G4253,Epistles,New Testament,Colossians,NIV
+1,Colossians1:17 ,PHRASE,all things,G3956,Epistles,New Testament,Colossians,NIV
+1,Colossians1:17 ,WORD,and,G2532,Epistles,New Testament,Colossians,NIV
+1,Colossians1:17 ,WORD,in,G1722,Epistles,New Testament,Colossians,NIV
+1,Colossians1:17 ,WORD,Him,G846,Epistles,New Testament,Colossians,NIV
+1,Colossians1:17 ,PHRASE,all things,G3956,Epistles,New Testament,Colossians,NIV
+1,Colossians1:17 ,PHRASE,hold together,G4921,Epistles,New Testament,Colossians,NIV
+1,Colossians1:18 ,WORD,He,G846,Epistles,New Testament,Colossians,NIV
+1,Colossians1:18 ,WORD,is,G1510,Epistles,New Testament,Colossians,NIV
+1,Colossians1:18 ,WORD,also,G2532,Epistles,New Testament,Colossians,NIV
+1,Colossians1:18 ,WORD,head,G2776,Epistles,New Testament,Colossians,NIV
+1,Colossians1:18 ,PHRASE,of the,G3588,Epistles,New Testament,Colossians,NIV
+1,Colossians1:18 ,WORD,body,G4983,Epistles,New Testament,Colossians,NIV
+1,Colossians1:18 ,WORD,the,G3588,Epistles,New Testament,Colossians,NIV
+1,Colossians1:18 ,WORD,church,G1577,Epistles,New Testament,Colossians,NIV
+1,Colossians1:18 ,PHRASE,and He,G3739,Epistles,New Testament,Colossians,NIV
+1,Colossians1:18 ,WORD,is,G1510,Epistles,New Testament,Colossians,NIV
+1,Colossians1:18 ,PHRASE,the beginning,G746,Epistles,New Testament,Colossians,NIV
+1,Colossians1:18 ,PHRASE,the firstborn,G4416,Epistles,New Testament,Colossians,NIV
+1,Colossians1:18 ,WORD,from,G1537,Epistles,New Testament,Colossians,NIV
+1,Colossians1:18 ,WORD,the,G3588,Epistles,New Testament,Colossians,NIV
+1,Colossians1:18 ,WORD,dead,G3498,Epistles,New Testament,Colossians,NIV
+1,Colossians1:18 ,PHRASE,so that,G2443,Epistles,New Testament,Colossians,NIV
+1,Colossians1:18 ,PHRASE,He Himself,G846,Epistles,New Testament,Colossians,NIV
+1,Colossians1:18 ,PHRASE,will come,G1096,Epistles,New Testament,Colossians,NIV
+1,Colossians1:18 ,PHRASE,to have first place,G4409,Epistles,New Testament,Colossians,NIV
+1,Colossians1:18 ,WORD,in,G1722,Epistles,New Testament,Colossians,NIV
+1,Colossians1:18 ,WORD,everything,G3956,Epistles,New Testament,Colossians,NIV
+1,Colossians1:19 ,PHRASE,For it was,G3754,Epistles,New Testament,Colossians,NIV
+1,Colossians1:19 ,PHRASE,the Father's good pleasure,G2106,Epistles,New Testament,Colossians,NIV
+1,Colossians1:19 ,PHRASE,for all,G3956,Epistles,New Testament,Colossians,NIV
+1,Colossians1:19 ,WORD,the,G3588,Epistles,New Testament,Colossians,NIV
+1,Colossians1:19 ,WORD,fullness,G4138,Epistles,New Testament,Colossians,NIV
+1,Colossians1:19 ,PHRASE,to dwell,G2730,Epistles,New Testament,Colossians,NIV
+1,Colossians1:19 ,WORD,in,G1722,Epistles,New Testament,Colossians,NIV
+1,Colossians1:19 ,WORD,Him,G846,Epistles,New Testament,Colossians,NIV
+1,Colossians1:20 ,WORD,and,G2532,Epistles,New Testament,Colossians,NIV
+1,Colossians1:20 ,WORD,through,G1223,Epistles,New Testament,Colossians,NIV
+1,Colossians1:20 ,WORD,Him,G846,Epistles,New Testament,Colossians,NIV
+1,Colossians1:20 ,PHRASE,to reconcile,G604,Epistles,New Testament,Colossians,NIV
+1,Colossians1:20 ,PHRASE,all things,G3956,Epistles,New Testament,Colossians,NIV
+1,Colossians1:20 ,WORD,to,G1519,Epistles,New Testament,Colossians,NIV
+1,Colossians1:20 ,WORD,Himself,G846,Epistles,New Testament,Colossians,NIV
+1,Colossians1:20 ,PHRASE,having made peace,G1517,Epistles,New Testament,Colossians,NIV
+1,Colossians1:20 ,WORD,through,G1223,Epistles,New Testament,Colossians,NIV
+1,Colossians1:20 ,WORD,the,G3588,Epistles,New Testament,Colossians,NIV
+1,Colossians1:20 ,WORD,blood,G129,Epistles,New Testament,Colossians,NIV
+1,Colossians1:20 ,PHRASE,of His,G846,Epistles,New Testament,Colossians,NIV
+1,Colossians1:20 ,WORD,cross,G4716,Epistles,New Testament,Colossians,NIV
+1,Colossians1:20 ,WORD,through,G1223,Epistles,New Testament,Colossians,NIV
+1,Colossians1:20 ,WORD,Him,G846,Epistles,New Testament,Colossians,NIV
+1,Colossians1:20 ,PHRASE,I say,,Epistles,New Testament,Colossians,NIV
+1,Colossians1:20 ,WORD,whether,G1535,Epistles,New Testament,Colossians,NIV
+1,Colossians1:20 ,WORD,things,G3588,Epistles,New Testament,Colossians,NIV
+1,Colossians1:20 ,WORD,on,G1909,Epistles,New Testament,Colossians,NIV
+1,Colossians1:20 ,WORD,earth,G1093,Epistles,New Testament,Colossians,NIV
+1,Colossians1:20 ,WORD,or,G1535,Epistles,New Testament,Colossians,NIV
+1,Colossians1:20 ,WORD,things,G3588,Epistles,New Testament,Colossians,NIV
+1,Colossians1:20 ,WORD,in,G1722,Epistles,New Testament,Colossians,NIV
+1,Colossians1:20 ,WORD,heaven,G3772,Epistles,New Testament,Colossians,NIV
+1,Colossians1:21 ,WORD,And,G2532,Epistles,New Testament,Colossians,NIV
+1,Colossians1:21 ,PHRASE,although you,G4771,Epistles,New Testament,Colossians,NIV
+1,Colossians1:21 ,WORD,were,G1510,Epistles,New Testament,Colossians,NIV
+1,Colossians1:21 ,WORD,formerly,G4218,Epistles,New Testament,Colossians,NIV
+1,Colossians1:21 ,WORD,alienated,G526,Epistles,New Testament,Colossians,NIV
+1,Colossians1:21 ,WORD,and,G2532,Epistles,New Testament,Colossians,NIV
+1,Colossians1:21 ,WORD,hostile,G2190,Epistles,New Testament,Colossians,NIV
+1,Colossians1:21 ,PHRASE,in mind,G1271,Epistles,New Testament,Colossians,NIV
+1,Colossians1:21 ,PHRASE,engaged in,G1722,Epistles,New Testament,Colossians,NIV
+1,Colossians1:21 ,WORD,evil,G4190,Epistles,New Testament,Colossians,NIV
+1,Colossians1:21 ,WORD,deeds,G2041,Epistles,New Testament,Colossians,NIV
+1,Colossians1:22 ,WORD,yet,G1161,Epistles,New Testament,Colossians,NIV
+1,Colossians1:22 ,PHRASE,He has now,G3570,Epistles,New Testament,Colossians,NIV
+1,Colossians1:22 ,PHRASE,reconciled you,G604,Epistles,New Testament,Colossians,NIV
+1,Colossians1:22 ,WORD,in,G1722,Epistles,New Testament,Colossians,NIV
+1,Colossians1:22 ,WORD,His,G846,Epistles,New Testament,Colossians,NIV
+1,Colossians1:22 ,WORD,fleshly,G4561,Epistles,New Testament,Colossians,NIV
+1,Colossians1:22 ,WORD,body,G4983,Epistles,New Testament,Colossians,NIV
+1,Colossians1:22 ,WORD,through,G1223,Epistles,New Testament,Colossians,NIV
+1,Colossians1:22 ,WORD,death,G2288,Epistles,New Testament,Colossians,NIV
+1,Colossians1:22 ,PHRASE,in order to present,G3936,Epistles,New Testament,Colossians,NIV
+1,Colossians1:22 ,WORD,you,G4771,Epistles,New Testament,Colossians,NIV
+1,Colossians1:22 ,WORD,before,G2714,Epistles,New Testament,Colossians,NIV
+1,Colossians1:22 ,WORD,Him,G846,Epistles,New Testament,Colossians,NIV
+1,Colossians1:22 ,WORD,holy,G40,Epistles,New Testament,Colossians,NIV
+1,Colossians1:22 ,WORD,and,G2532,Epistles,New Testament,Colossians,NIV
+1,Colossians1:22 ,WORD,blameless,G299,Epistles,New Testament,Colossians,NIV
+1,Colossians1:22 ,WORD,and,G2532,Epistles,New Testament,Colossians,NIV
+1,Colossians1:22 ,PHRASE,beyond reproach,G410,Epistles,New Testament,Colossians,NIV
+1,Colossians1:23 ,WORD,if,G1487,Epistles,New Testament,Colossians,NIV
+1,Colossians1:23 ,WORD,indeed,G1065,Epistles,New Testament,Colossians,NIV
+1,Colossians1:23 ,PHRASE,you continue,G1961,Epistles,New Testament,Colossians,NIV
+1,Colossians1:23 ,PHRASE,in the,G3588,Epistles,New Testament,Colossians,NIV
+1,Colossians1:23 ,WORD,faith,G4102,Epistles,New Testament,Colossians,NIV
+1,Colossians1:23 ,PHRASE,firmly established,G2311,Epistles,New Testament,Colossians,NIV
+1,Colossians1:23 ,WORD,and,G2532,Epistles,New Testament,Colossians,NIV
+1,Colossians1:23 ,WORD,steadfast,G1476,Epistles,New Testament,Colossians,NIV
+1,Colossians1:23 ,WORD,and,G2532,Epistles,New Testament,Colossians,NIV
+1,Colossians1:23 ,WORD,not,G3361,Epistles,New Testament,Colossians,NIV
+1,Colossians1:23 ,PHRASE,moved away,G3334,Epistles,New Testament,Colossians,NIV
+1,Colossians1:23 ,WORD,from,G575,Epistles,New Testament,Colossians,NIV
+1,Colossians1:23 ,WORD,the,G3588,Epistles,New Testament,Colossians,NIV
+1,Colossians1:23 ,WORD,hope,G1680,Epistles,New Testament,Colossians,NIV
+1,Colossians1:23 ,PHRASE,of the,G3588,Epistles,New Testament,Colossians,NIV
+1,Colossians1:23 ,WORD,gospel,G2098,Epistles,New Testament,Colossians,NIV
+1,Colossians1:23 ,WORD,that,G3739,Epistles,New Testament,Colossians,NIV
+1,Colossians1:23 ,PHRASE,you have heard,G191,Epistles,New Testament,Colossians,NIV
+1,Colossians1:23 ,WORD,which,G3588,Epistles,New Testament,Colossians,NIV
+1,Colossians1:23 ,PHRASE,was proclaimed,G2784,Epistles,New Testament,Colossians,NIV
+1,Colossians1:23 ,WORD,in,G1722,Epistles,New Testament,Colossians,NIV
+1,Colossians1:23 ,WORD,all,G3956,Epistles,New Testament,Colossians,NIV
+1,Colossians1:23 ,WORD,creation,G2937,Epistles,New Testament,Colossians,NIV
+1,Colossians1:23 ,WORD,under,G5259,Epistles,New Testament,Colossians,NIV
+1,Colossians1:23 ,WORD,heaven,G3772,Epistles,New Testament,Colossians,NIV
+1,Colossians1:23 ,PHRASE,and of which,G3739,Epistles,New Testament,Colossians,NIV
+1,Colossians1:23 ,WORD,I,G1473,Epistles,New Testament,Colossians,NIV
+1,Colossians1:23 ,WORD,Paul,G3972,Epistles,New Testament,Colossians,NIV
+1,Colossians1:23 ,PHRASE,was made,G1096,Epistles,New Testament,Colossians,NIV
+1,Colossians1:23 ,PHRASE,a minister,G1249,Epistles,New Testament,Colossians,NIV
+1,Colossians1:24 ,WORD,Now,G3568,Epistles,New Testament,Colossians,NIV
+1,Colossians1:24 ,PHRASE,I rejoice,G5463,Epistles,New Testament,Colossians,NIV
+1,Colossians1:24 ,WORD,in,G1722,Epistles,New Testament,Colossians,NIV
+1,Colossians1:24 ,PHRASE,my sufferings,G3804,Epistles,New Testament,Colossians,NIV
+1,Colossians1:24 ,WORD,for,G5228,Epistles,New Testament,Colossians,NIV
+1,Colossians1:24 ,PHRASE,your sake,G4771,Epistles,New Testament,Colossians,NIV
+1,Colossians1:24 ,WORD,and,G2532,Epistles,New Testament,Colossians,NIV
+1,Colossians1:24 ,WORD,in,G1722,Epistles,New Testament,Colossians,NIV
+1,Colossians1:24 ,WORD,my,G1473,Epistles,New Testament,Colossians,NIV
+1,Colossians1:24 ,WORD,flesh,G4561,Epistles,New Testament,Colossians,NIV
+1,Colossians1:24 ,PHRASE,I do my share,G466,Epistles,New Testament,Colossians,NIV
+1,Colossians1:24 ,PHRASE,on behalf,G5228,Epistles,New Testament,Colossians,NIV
+1,Colossians1:24 ,PHRASE,of His,G846,Epistles,New Testament,Colossians,NIV
+1,Colossians1:24 ,WORD,body,G4983,Epistles,New Testament,Colossians,NIV
+1,Colossians1:24 ,WORD,which,G3739,Epistles,New Testament,Colossians,NIV
+1,Colossians1:24 ,WORD,is,G1510,Epistles,New Testament,Colossians,NIV
+1,Colossians1:24 ,WORD,the,G3588,Epistles,New Testament,Colossians,NIV
+1,Colossians1:24 ,WORD,church,G1577,Epistles,New Testament,Colossians,NIV
+1,Colossians1:24 ,PHRASE,in filling up,G466,Epistles,New Testament,Colossians,NIV
+1,Colossians1:24 ,WORD,what,G3588,Epistles,New Testament,Colossians,NIV
+1,Colossians1:24 ,PHRASE,is lacking,G5303,Epistles,New Testament,Colossians,NIV
+1,Colossians1:24 ,PHRASE,in Christ's,G5547,Epistles,New Testament,Colossians,NIV
+1,Colossians1:24 ,WORD,afflictions,G2347,Epistles,New Testament,Colossians,NIV
+1,Colossians1:25 ,PHRASE,Of this church,G3739,Epistles,New Testament,Colossians,NIV
+1,Colossians1:25 ,WORD,I,G1473,Epistles,New Testament,Colossians,NIV
+1,Colossians1:25 ,PHRASE,was made,G1096,Epistles,New Testament,Colossians,NIV
+1,Colossians1:25 ,PHRASE,a minister,G1249,Epistles,New Testament,Colossians,NIV
+1,Colossians1:25 ,PHRASE,according to,G2596,Epistles,New Testament,Colossians,NIV
+1,Colossians1:25 ,WORD,the,G3588,Epistles,New Testament,Colossians,NIV
+1,Colossians1:25 ,WORD,stewardship,G3622,Epistles,New Testament,Colossians,NIV
+1,Colossians1:25 ,PHRASE,from God,G2316,Epistles,New Testament,Colossians,NIV
+1,Colossians1:25 ,WORD,bestowed,G1325,Epistles,New Testament,Colossians,NIV
+1,Colossians1:25 ,PHRASE,on me,G1473,Epistles,New Testament,Colossians,NIV
+1,Colossians1:25 ,WORD,for,G1519,Epistles,New Testament,Colossians,NIV
+1,Colossians1:25 ,PHRASE,your benefit,G4771,Epistles,New Testament,Colossians,NIV
+1,Colossians1:25 ,PHRASE,so that I might fully carry out,G4137,Epistles,New Testament,Colossians,NIV
+1,Colossians1:25 ,WORD,the,G3588,Epistles,New Testament,Colossians,NIV
+1,Colossians1:25 ,PHRASE,preaching of the word,G3056,Epistles,New Testament,Colossians,NIV
+1,Colossians1:25 ,PHRASE,of God,G2316,Epistles,New Testament,Colossians,NIV
+1,Colossians1:26 ,PHRASE,that is,,Epistles,New Testament,Colossians,NIV
+1,Colossians1:26 ,WORD,the,G3588,Epistles,New Testament,Colossians,NIV
+1,Colossians1:26 ,WORD,mystery,G3466,Epistles,New Testament,Colossians,NIV
+1,Colossians1:26 ,WORD,which,G3588,Epistles,New Testament,Colossians,NIV
+1,Colossians1:26 ,PHRASE,has been hidden,G613,Epistles,New Testament,Colossians,NIV
+1,Colossians1:26 ,WORD,from,G575,Epistles,New Testament,Colossians,NIV
+1,Colossians1:26 ,WORD,the,G3588,Epistles,New Testament,Colossians,NIV
+1,Colossians1:26 ,PHRASE,past ages,G165,Epistles,New Testament,Colossians,NIV
+1,Colossians1:26 ,WORD,and,G2532,Epistles,New Testament,Colossians,NIV
+1,Colossians1:26 ,WORD,,G575,Epistles,New Testament,Colossians,NIV
+1,Colossians1:26 ,WORD,generations,G1074,Epistles,New Testament,Colossians,NIV
+1,Colossians1:26 ,WORD,but,G1161,Epistles,New Testament,Colossians,NIV
+1,Colossians1:26 ,PHRASE,has now,G3568,Epistles,New Testament,Colossians,NIV
+1,Colossians1:26 ,PHRASE,been manifested,G5319,Epistles,New Testament,Colossians,NIV
+1,Colossians1:26 ,PHRASE,to His,G846,Epistles,New Testament,Colossians,NIV
+1,Colossians1:26 ,WORD,saints,G40,Epistles,New Testament,Colossians,NIV
+1,Colossians1:27 ,PHRASE,to whom,G3739,Epistles,New Testament,Colossians,NIV
+1,Colossians1:27 ,WORD,God,G2316,Epistles,New Testament,Colossians,NIV
+1,Colossians1:27 ,WORD,willed,G2309,Epistles,New Testament,Colossians,NIV
+1,Colossians1:27 ,PHRASE,to make known,G1107,Epistles,New Testament,Colossians,NIV
+1,Colossians1:27 ,WORD,what,G5101,Epistles,New Testament,Colossians,NIV
+1,Colossians1:27 ,PHRASE,is the,G3588,Epistles,New Testament,Colossians,NIV
+1,Colossians1:27 ,WORD,riches,G4149,Epistles,New Testament,Colossians,NIV
+1,Colossians1:27 ,PHRASE,of the,G3588,Epistles,New Testament,Colossians,NIV
+1,Colossians1:27 ,WORD,glory,G1391,Epistles,New Testament,Colossians,NIV
+1,Colossians1:27 ,PHRASE,of this,G3778,Epistles,New Testament,Colossians,NIV
+1,Colossians1:27 ,WORD,mystery,G3466,Epistles,New Testament,Colossians,NIV
+1,Colossians1:27 ,WORD,among,G1722,Epistles,New Testament,Colossians,NIV
+1,Colossians1:27 ,WORD,the,G3588,Epistles,New Testament,Colossians,NIV
+1,Colossians1:27 ,WORD,Gentiles,G1484,Epistles,New Testament,Colossians,NIV
+1,Colossians1:27 ,WORD,which,G3739,Epistles,New Testament,Colossians,NIV
+1,Colossians1:27 ,WORD,is,G1510,Epistles,New Testament,Colossians,NIV
+1,Colossians1:27 ,WORD,Christ,G5547,Epistles,New Testament,Colossians,NIV
+1,Colossians1:27 ,WORD,in,G1722,Epistles,New Testament,Colossians,NIV
+1,Colossians1:27 ,WORD,you,G4771,Epistles,New Testament,Colossians,NIV
+1,Colossians1:27 ,WORD,the,G3588,Epistles,New Testament,Colossians,NIV
+1,Colossians1:27 ,WORD,hope,G1680,Epistles,New Testament,Colossians,NIV
+1,Colossians1:27 ,PHRASE,of glory,G1391,Epistles,New Testament,Colossians,NIV
+1,Colossians1:28 ,WORD,We,G1473,Epistles,New Testament,Colossians,NIV
+1,Colossians1:28 ,WORD,proclaim,G2605,Epistles,New Testament,Colossians,NIV
+1,Colossians1:28 ,WORD,Him,G3739,Epistles,New Testament,Colossians,NIV
+1,Colossians1:28 ,WORD,admonishing,G3560,Epistles,New Testament,Colossians,NIV
+1,Colossians1:28 ,WORD,every,G3956,Epistles,New Testament,Colossians,NIV
+1,Colossians1:28 ,WORD,man,G444,Epistles,New Testament,Colossians,NIV
+1,Colossians1:28 ,WORD,and,G2532,Epistles,New Testament,Colossians,NIV
+1,Colossians1:28 ,WORD,teaching,G1321,Epistles,New Testament,Colossians,NIV
+1,Colossians1:28 ,WORD,every,G3956,Epistles,New Testament,Colossians,NIV
+1,Colossians1:28 ,WORD,man,G444,Epistles,New Testament,Colossians,NIV
+1,Colossians1:28 ,WORD,with,G1722,Epistles,New Testament,Colossians,NIV
+1,Colossians1:28 ,WORD,all,G3956,Epistles,New Testament,Colossians,NIV
+1,Colossians1:28 ,WORD,wisdom,G4678,Epistles,New Testament,Colossians,NIV
+1,Colossians1:28 ,PHRASE,so that,G2443,Epistles,New Testament,Colossians,NIV
+1,Colossians1:28 ,PHRASE,we may present,G3936,Epistles,New Testament,Colossians,NIV
+1,Colossians1:28 ,WORD,every,G3956,Epistles,New Testament,Colossians,NIV
+1,Colossians1:28 ,WORD,man,G444,Epistles,New Testament,Colossians,NIV
+1,Colossians1:28 ,WORD,complete,G5046,Epistles,New Testament,Colossians,NIV
+1,Colossians1:28 ,WORD,in,G1722,Epistles,New Testament,Colossians,NIV
+1,Colossians1:28 ,WORD,Christ,G5547,Epistles,New Testament,Colossians,NIV
+1,Colossians1:29 ,WORD,For,G1519,Epistles,New Testament,Colossians,NIV
+1,Colossians1:29 ,PHRASE,this purpose,G3739,Epistles,New Testament,Colossians,NIV
+1,Colossians1:29 ,WORD,also,G2532,Epistles,New Testament,Colossians,NIV
+1,Colossians1:29 ,PHRASE,I labor,G2872,Epistles,New Testament,Colossians,NIV
+1,Colossians1:29 ,WORD,striving,G75,Epistles,New Testament,Colossians,NIV
+1,Colossians1:29 ,PHRASE,according to,G2596,Epistles,New Testament,Colossians,NIV
+1,Colossians1:29 ,WORD,His,G846,Epistles,New Testament,Colossians,NIV
+1,Colossians1:29 ,WORD,power,G1753,Epistles,New Testament,Colossians,NIV
+1,Colossians1:29 ,PHRASE,which mightily,G1722,Epistles,New Testament,Colossians,NIV
+1,Colossians1:29 ,WORD,,G1411,Epistles,New Testament,Colossians,NIV
+1,Colossians1:29 ,WORD,works,G1754,Epistles,New Testament,Colossians,NIV
+1,Colossians1:29 ,WORD,within,G1722,Epistles,New Testament,Colossians,NIV
+1,Colossians1:29 ,WORD,me,G1473,Epistles,New Testament,Colossians,NIV
+2,Colossians2:1 ,WORD,For,G1063,Epistles,New Testament,Colossians,NIV
+2,Colossians2:1 ,PHRASE,I want,G2309,Epistles,New Testament,Colossians,NIV
+2,Colossians2:1 ,WORD,you,G4771,Epistles,New Testament,Colossians,NIV
+2,Colossians2:1 ,PHRASE,to know,G1492,Epistles,New Testament,Colossians,NIV
+2,Colossians2:1 ,PHRASE,how great,G2245,Epistles,New Testament,Colossians,NIV
+2,Colossians2:1 ,PHRASE,a struggle,G73,Epistles,New Testament,Colossians,NIV
+2,Colossians2:1 ,PHRASE,I have,G2192,Epistles,New Testament,Colossians,NIV
+2,Colossians2:1 ,WORD,on,G5228,Epistles,New Testament,Colossians,NIV
+2,Colossians2:1 ,PHRASE,your behalf,G4771,Epistles,New Testament,Colossians,NIV
+2,Colossians2:1 ,WORD,and,G2532,Epistles,New Testament,Colossians,NIV
+2,Colossians2:1 ,PHRASE,for those,G3588,Epistles,New Testament,Colossians,NIV
+2,Colossians2:1 ,WORD,who,G3588,Epistles,New Testament,Colossians,NIV
+2,Colossians2:1 ,PHRASE,are at,G1722,Epistles,New Testament,Colossians,NIV
+2,Colossians2:1 ,WORD,Laodicea,G2993,Epistles,New Testament,Colossians,NIV
+2,Colossians2:1 ,WORD,and,G2532,Epistles,New Testament,Colossians,NIV
+2,Colossians2:1 ,PHRASE,for all those who,G3745,Epistles,New Testament,Colossians,NIV
+2,Colossians2:1 ,PHRASE,have not,G3756,Epistles,New Testament,Colossians,NIV
+2,Colossians2:1 ,WORD,personally,G1722,Epistles,New Testament,Colossians,NIV
+2,Colossians2:1 ,WORD,,G4561,Epistles,New Testament,Colossians,NIV
+2,Colossians2:1 ,WORD,seen,G3708,Epistles,New Testament,Colossians,NIV
+2,Colossians2:1 ,WORD,my,G1473,Epistles,New Testament,Colossians,NIV
+2,Colossians2:1 ,WORD,face,G4383,Epistles,New Testament,Colossians,NIV
+2,Colossians2:2 ,WORD,that,G2443,Epistles,New Testament,Colossians,NIV
+2,Colossians2:2 ,WORD,their,G846,Epistles,New Testament,Colossians,NIV
+2,Colossians2:2 ,WORD,hearts,G2588,Epistles,New Testament,Colossians,NIV
+2,Colossians2:2 ,PHRASE,may be encouraged,G3870,Epistles,New Testament,Colossians,NIV
+2,Colossians2:2 ,PHRASE,having been knit together,G4822,Epistles,New Testament,Colossians,NIV
+2,Colossians2:2 ,WORD,in,G1722,Epistles,New Testament,Colossians,NIV
+2,Colossians2:2 ,WORD,love,G26,Epistles,New Testament,Colossians,NIV
+2,Colossians2:2 ,WORD,and,G2532,Epistles,New Testament,Colossians,NIV
+2,Colossians2:2 ,PHRASE,attaining to,G1519,Epistles,New Testament,Colossians,NIV
+2,Colossians2:2 ,WORD,all,G3956,Epistles,New Testament,Colossians,NIV
+2,Colossians2:2 ,PHRASE,the wealth,G4149,Epistles,New Testament,Colossians,NIV
+2,Colossians2:2 ,WORD,that,G3588,Epistles,New Testament,Colossians,NIV
+2,Colossians2:2 ,PHRASE,comes from the full assurance,G4136,Epistles,New Testament,Colossians,NIV
+2,Colossians2:2 ,PHRASE,of understanding,G4907,Epistles,New Testament,Colossians,NIV
+2,Colossians2:2 ,PHRASE,resulting in,G1519,Epistles,New Testament,Colossians,NIV
+2,Colossians2:2 ,PHRASE,a true knowledge,G1922,Epistles,New Testament,Colossians,NIV
+2,Colossians2:2 ,PHRASE,of God's,G2316,Epistles,New Testament,Colossians,NIV
+2,Colossians2:2 ,WORD,mystery,G3466,Epistles,New Testament,Colossians,NIV
+2,Colossians2:2 ,PHRASE,that is,,Epistles,New Testament,Colossians,NIV
+2,Colossians2:2 ,WORD,Christ,G5547,Epistles,New Testament,Colossians,NIV
+2,Colossians2:2 ,WORD,Himself,,Epistles,New Testament,Colossians,NIV
+2,Colossians2:3 ,WORD,in,G1722,Epistles,New Testament,Colossians,NIV
+2,Colossians2:3 ,WORD,whom,G3739,Epistles,New Testament,Colossians,NIV
+2,Colossians2:3 ,WORD,are,G1510,Epistles,New Testament,Colossians,NIV
+2,Colossians2:3 ,WORD,hidden,G614,Epistles,New Testament,Colossians,NIV
+2,Colossians2:3 ,WORD,all,G3956,Epistles,New Testament,Colossians,NIV
+2,Colossians2:3 ,WORD,the,G3588,Epistles,New Testament,Colossians,NIV
+2,Colossians2:3 ,WORD,treasures,G2344,Epistles,New Testament,Colossians,NIV
+2,Colossians2:3 ,PHRASE,of wisdom,G4678,Epistles,New Testament,Colossians,NIV
+2,Colossians2:3 ,WORD,and,G2532,Epistles,New Testament,Colossians,NIV
+2,Colossians2:3 ,WORD,knowledge,G1108,Epistles,New Testament,Colossians,NIV
+2,Colossians2:4 ,PHRASE,I say,G3004,Epistles,New Testament,Colossians,NIV
+2,Colossians2:4 ,WORD,this,G3778,Epistles,New Testament,Colossians,NIV
+2,Colossians2:4 ,PHRASE,so that,G2443,Epistles,New Testament,Colossians,NIV
+2,Colossians2:4 ,PHRASE,no one,G3367,Epistles,New Testament,Colossians,NIV
+2,Colossians2:4 ,PHRASE,will delude,G3884,Epistles,New Testament,Colossians,NIV
+2,Colossians2:4 ,WORD,you,G4771,Epistles,New Testament,Colossians,NIV
+2,Colossians2:4 ,WORD,with,G1722,Epistles,New Testament,Colossians,NIV
+2,Colossians2:4 ,PHRASE,persuasive argument,G4086,Epistles,New Testament,Colossians,NIV
+2,Colossians2:5 ,WORD,For,G1063,Epistles,New Testament,Colossians,NIV
+2,Colossians2:5 ,WORD,even,G2532,Epistles,New Testament,Colossians,NIV
+2,Colossians2:5 ,WORD,though,G1487,Epistles,New Testament,Colossians,NIV
+2,Colossians2:5 ,PHRASE,I am absent,G548,Epistles,New Testament,Colossians,NIV
+2,Colossians2:5 ,PHRASE,in body,G4561,Epistles,New Testament,Colossians,NIV
+2,Colossians2:5 ,WORD,nevertheless,G235,Epistles,New Testament,Colossians,NIV
+2,Colossians2:5 ,PHRASE,I am,G1510,Epistles,New Testament,Colossians,NIV
+2,Colossians2:5 ,WORD,with,G4862,Epistles,New Testament,Colossians,NIV
+2,Colossians2:5 ,WORD,you,G4771,Epistles,New Testament,Colossians,NIV
+2,Colossians2:5 ,PHRASE,in spirit,G4151,Epistles,New Testament,Colossians,NIV
+2,Colossians2:5 ,WORD,rejoicing,G5463,Epistles,New Testament,Colossians,NIV
+2,Colossians2:5 ,PHRASE,to see,G991,Epistles,New Testament,Colossians,NIV
+2,Colossians2:5 ,WORD,your,G4771,Epistles,New Testament,Colossians,NIV
+2,Colossians2:5 ,PHRASE,good discipline,G5010,Epistles,New Testament,Colossians,NIV
+2,Colossians2:5 ,WORD,and,G2532,Epistles,New Testament,Colossians,NIV
+2,Colossians2:5 ,WORD,the,G3588,Epistles,New Testament,Colossians,NIV
+2,Colossians2:5 ,WORD,stability,G4733,Epistles,New Testament,Colossians,NIV
+2,Colossians2:5 ,PHRASE,of your,G4771,Epistles,New Testament,Colossians,NIV
+2,Colossians2:5 ,WORD,faith,G4102,Epistles,New Testament,Colossians,NIV
+2,Colossians2:5 ,WORD,in,G1519,Epistles,New Testament,Colossians,NIV
+2,Colossians2:5 ,WORD,Christ,G5547,Epistles,New Testament,Colossians,NIV
+2,Colossians2:6 ,WORD,Therefore,G3767,Epistles,New Testament,Colossians,NIV
+2,Colossians2:6 ,WORD,as,G5613,Epistles,New Testament,Colossians,NIV
+2,Colossians2:6 ,PHRASE,you have received,G3880,Epistles,New Testament,Colossians,NIV
+2,Colossians2:6 ,WORD,Christ,G5547,Epistles,New Testament,Colossians,NIV
+2,Colossians2:6 ,WORD,Jesus,G2424,Epistles,New Testament,Colossians,NIV
+2,Colossians2:6 ,WORD,the,G3588,Epistles,New Testament,Colossians,NIV
+2,Colossians2:6 ,WORD,Lord,G2962,Epistles,New Testament,Colossians,NIV
+2,Colossians2:6 ,PHRASE,so walk,G4043,Epistles,New Testament,Colossians,NIV
+2,Colossians2:6 ,WORD,in,G1722,Epistles,New Testament,Colossians,NIV
+2,Colossians2:6 ,WORD,Him,G846,Epistles,New Testament,Colossians,NIV
+2,Colossians2:7 ,PHRASE,having been firmly rooted,G4492,Epistles,New Testament,Colossians,NIV
+2,Colossians2:7 ,WORD,and,G2532,Epistles,New Testament,Colossians,NIV
+2,Colossians2:7 ,PHRASE,now being built up,G2026,Epistles,New Testament,Colossians,NIV
+2,Colossians2:7 ,WORD,in,G1722,Epistles,New Testament,Colossians,NIV
+2,Colossians2:7 ,WORD,Him,G846,Epistles,New Testament,Colossians,NIV
+2,Colossians2:7 ,WORD,and,G2532,Epistles,New Testament,Colossians,NIV
+2,Colossians2:7 ,WORD,established,G950,Epistles,New Testament,Colossians,NIV
+2,Colossians2:7 ,PHRASE,in your faith,G4102,Epistles,New Testament,Colossians,NIV
+2,Colossians2:7 ,PHRASE,just as,G2531,Epistles,New Testament,Colossians,NIV
+2,Colossians2:7 ,PHRASE,you were instructed,G1321,Epistles,New Testament,Colossians,NIV
+2,Colossians2:7 ,PHRASE,and overflowing,G4052,Epistles,New Testament,Colossians,NIV
+2,Colossians2:7 ,WORD,with,G1722,Epistles,New Testament,Colossians,NIV
+2,Colossians2:7 ,WORD,gratitude,G2169,Epistles,New Testament,Colossians,NIV
+2,Colossians2:8 ,PHRASE,See to it,G991,Epistles,New Testament,Colossians,NIV
+2,Colossians2:8 ,PHRASE,that no,G3361,Epistles,New Testament,Colossians,NIV
+2,Colossians2:8 ,WORD,one,G5100,Epistles,New Testament,Colossians,NIV
+2,Colossians2:8 ,WORD,takes,G4812,Epistles,New Testament,Colossians,NIV
+2,Colossians2:8 ,WORD,you,G4771,Epistles,New Testament,Colossians,NIV
+2,Colossians2:8 ,WORD,captive,G4812,Epistles,New Testament,Colossians,NIV
+2,Colossians2:8 ,WORD,through,G1223,Epistles,New Testament,Colossians,NIV
+2,Colossians2:8 ,WORD,philosophy,G5385,Epistles,New Testament,Colossians,NIV
+2,Colossians2:8 ,WORD,and,G2532,Epistles,New Testament,Colossians,NIV
+2,Colossians2:8 ,WORD,empty,G2756,Epistles,New Testament,Colossians,NIV
+2,Colossians2:8 ,WORD,deception,G539,Epistles,New Testament,Colossians,NIV
+2,Colossians2:8 ,PHRASE,according to,G2596,Epistles,New Testament,Colossians,NIV
+2,Colossians2:8 ,WORD,the,G3588,Epistles,New Testament,Colossians,NIV
+2,Colossians2:8 ,WORD,tradition,G3862,Epistles,New Testament,Colossians,NIV
+2,Colossians2:8 ,PHRASE,of men,G444,Epistles,New Testament,Colossians,NIV
+2,Colossians2:8 ,PHRASE,according to,G2596,Epistles,New Testament,Colossians,NIV
+2,Colossians2:8 ,WORD,the,G3588,Epistles,New Testament,Colossians,NIV
+2,Colossians2:8 ,PHRASE,elementary principles,G4747,Epistles,New Testament,Colossians,NIV
+2,Colossians2:8 ,PHRASE,of the,G3588,Epistles,New Testament,Colossians,NIV
+2,Colossians2:8 ,WORD,world,G2889,Epistles,New Testament,Colossians,NIV
+2,Colossians2:8 ,WORD,rather,G3756,Epistles,New Testament,Colossians,NIV
+2,Colossians2:8 ,WORD,than,G2532,Epistles,New Testament,Colossians,NIV
+2,Colossians2:8 ,PHRASE,according to,G2596,Epistles,New Testament,Colossians,NIV
+2,Colossians2:8 ,WORD,Christ,G5547,Epistles,New Testament,Colossians,NIV
+2,Colossians2:9 ,WORD,For,G3754,Epistles,New Testament,Colossians,NIV
+2,Colossians2:9 ,WORD,in,G1722,Epistles,New Testament,Colossians,NIV
+2,Colossians2:9 ,WORD,Him,G846,Epistles,New Testament,Colossians,NIV
+2,Colossians2:9 ,WORD,all,G3956,Epistles,New Testament,Colossians,NIV
+2,Colossians2:9 ,WORD,the,G3588,Epistles,New Testament,Colossians,NIV
+2,Colossians2:9 ,WORD,fullness,G4138,Epistles,New Testament,Colossians,NIV
+2,Colossians2:9 ,PHRASE,of Deity,G2320,Epistles,New Testament,Colossians,NIV
+2,Colossians2:9 ,WORD,dwells,G2730,Epistles,New Testament,Colossians,NIV
+2,Colossians2:9 ,PHRASE,in bodily form,G4985,Epistles,New Testament,Colossians,NIV
+2,Colossians2:10 ,WORD,and,G2532,Epistles,New Testament,Colossians,NIV
+2,Colossians2:10 ,WORD,in,G1722,Epistles,New Testament,Colossians,NIV
+2,Colossians2:10 ,WORD,Him,G846,Epistles,New Testament,Colossians,NIV
+2,Colossians2:10 ,PHRASE,you have been,G1510,Epistles,New Testament,Colossians,NIV
+2,Colossians2:10 ,PHRASE,made complete,G4137,Epistles,New Testament,Colossians,NIV
+2,Colossians2:10 ,PHRASE,and He,G3739,Epistles,New Testament,Colossians,NIV
+2,Colossians2:10 ,WORD,is,G1510,Epistles,New Testament,Colossians,NIV
+2,Colossians2:10 ,WORD,the,G3588,Epistles,New Testament,Colossians,NIV
+2,Colossians2:10 ,PHRASE,head over,G2776,Epistles,New Testament,Colossians,NIV
+2,Colossians2:10 ,WORD,all,G3956,Epistles,New Testament,Colossians,NIV
+2,Colossians2:10 ,WORD,rule,G746,Epistles,New Testament,Colossians,NIV
+2,Colossians2:10 ,WORD,and,G2532,Epistles,New Testament,Colossians,NIV
+2,Colossians2:10 ,WORD,authority,G1849,Epistles,New Testament,Colossians,NIV
+2,Colossians2:11 ,PHRASE,and in,G1722,Epistles,New Testament,Colossians,NIV
+2,Colossians2:11 ,WORD,Him,G3739,Epistles,New Testament,Colossians,NIV
+2,Colossians2:11 ,PHRASE,you were also,G2532,Epistles,New Testament,Colossians,NIV
+2,Colossians2:11 ,WORD,circumcised,G4059,Epistles,New Testament,Colossians,NIV
+2,Colossians2:11 ,PHRASE,with a circumcision,G4061,Epistles,New Testament,Colossians,NIV
+2,Colossians2:11 ,PHRASE,made without hands,G886,Epistles,New Testament,Colossians,NIV
+2,Colossians2:11 ,WORD,in,G1722,Epistles,New Testament,Colossians,NIV
+2,Colossians2:11 ,WORD,the,G3588,Epistles,New Testament,Colossians,NIV
+2,Colossians2:11 ,WORD,removal,G555,Epistles,New Testament,Colossians,NIV
+2,Colossians2:11 ,PHRASE,of the,G3588,Epistles,New Testament,Colossians,NIV
+2,Colossians2:11 ,WORD,body,G4983,Epistles,New Testament,Colossians,NIV
+2,Colossians2:11 ,PHRASE,of the,G3588,Epistles,New Testament,Colossians,NIV
+2,Colossians2:11 ,WORD,flesh,G4561,Epistles,New Testament,Colossians,NIV
+2,Colossians2:11 ,WORD,by,G1722,Epistles,New Testament,Colossians,NIV
+2,Colossians2:11 ,WORD,the,G3588,Epistles,New Testament,Colossians,NIV
+2,Colossians2:11 ,WORD,circumcision,G4061,Epistles,New Testament,Colossians,NIV
+2,Colossians2:11 ,PHRASE,of Christ,G5547,Epistles,New Testament,Colossians,NIV
+2,Colossians2:12 ,PHRASE,having been buried,G4916,Epistles,New Testament,Colossians,NIV
+2,Colossians2:12 ,PHRASE,with Him,G846,Epistles,New Testament,Colossians,NIV
+2,Colossians2:12 ,WORD,in,G1722,Epistles,New Testament,Colossians,NIV
+2,Colossians2:12 ,WORD,baptism,G909,Epistles,New Testament,Colossians,NIV
+2,Colossians2:12 ,WORD,in,G1722,Epistles,New Testament,Colossians,NIV
+2,Colossians2:12 ,WORD,which,G3739,Epistles,New Testament,Colossians,NIV
+2,Colossians2:12 ,PHRASE,you were also,G2532,Epistles,New Testament,Colossians,NIV
+2,Colossians2:12 ,PHRASE,raised up with Him,G4891,Epistles,New Testament,Colossians,NIV
+2,Colossians2:12 ,WORD,through,G1223,Epistles,New Testament,Colossians,NIV
+2,Colossians2:12 ,WORD,faith,G4102,Epistles,New Testament,Colossians,NIV
+2,Colossians2:12 ,PHRASE,in the,G3588,Epistles,New Testament,Colossians,NIV
+2,Colossians2:12 ,WORD,working,G1753,Epistles,New Testament,Colossians,NIV
+2,Colossians2:12 ,PHRASE,of God,G2316,Epistles,New Testament,Colossians,NIV
+2,Colossians2:12 ,WORD,who,G3588,Epistles,New Testament,Colossians,NIV
+2,Colossians2:12 ,WORD,raised,G1453,Epistles,New Testament,Colossians,NIV
+2,Colossians2:12 ,WORD,Him,G846,Epistles,New Testament,Colossians,NIV
+2,Colossians2:12 ,WORD,from,G1537,Epistles,New Testament,Colossians,NIV
+2,Colossians2:12 ,PHRASE,the dead,G3498,Epistles,New Testament,Colossians,NIV
+2,Colossians2:13 ,WORD,When,G2532,Epistles,New Testament,Colossians,NIV
+2,Colossians2:13 ,WORD,you,G4771,Epistles,New Testament,Colossians,NIV
+2,Colossians2:13 ,WORD,were,G1510,Epistles,New Testament,Colossians,NIV
+2,Colossians2:13 ,WORD,dead,G3498,Epistles,New Testament,Colossians,NIV
+2,Colossians2:13 ,WORD,in,G1722,Epistles,New Testament,Colossians,NIV
+2,Colossians2:13 ,PHRASE,your transgressions,G3900,Epistles,New Testament,Colossians,NIV
+2,Colossians2:13 ,WORD,and,G2532,Epistles,New Testament,Colossians,NIV
+2,Colossians2:13 ,WORD,the,G3588,Epistles,New Testament,Colossians,NIV
+2,Colossians2:13 ,WORD,uncircumcision,G203,Epistles,New Testament,Colossians,NIV
+2,Colossians2:13 ,PHRASE,of your,G4771,Epistles,New Testament,Colossians,NIV
+2,Colossians2:13 ,WORD,flesh,G4561,Epistles,New Testament,Colossians,NIV
+2,Colossians2:13 ,PHRASE,He made,G4806,Epistles,New Testament,Colossians,NIV
+2,Colossians2:13 ,WORD,you,G4771,Epistles,New Testament,Colossians,NIV
+2,Colossians2:13 ,PHRASE,alive together,G4806,Epistles,New Testament,Colossians,NIV
+2,Colossians2:13 ,WORD,with,G4862,Epistles,New Testament,Colossians,NIV
+2,Colossians2:13 ,WORD,Him,G846,Epistles,New Testament,Colossians,NIV
+2,Colossians2:13 ,PHRASE,having forgiven,G5483,Epistles,New Testament,Colossians,NIV
+2,Colossians2:13 ,WORD,us,G1473,Epistles,New Testament,Colossians,NIV
+2,Colossians2:13 ,WORD,all,G3956,Epistles,New Testament,Colossians,NIV
+2,Colossians2:13 ,PHRASE,our transgressions,G3900,Epistles,New Testament,Colossians,NIV
+2,Colossians2:14 ,PHRASE,having canceled out,G1813,Epistles,New Testament,Colossians,NIV
+2,Colossians2:14 ,PHRASE,the certificate of debt,G5498,Epistles,New Testament,Colossians,NIV
+2,Colossians2:14 ,PHRASE,consisting of decrees,G1378,Epistles,New Testament,Colossians,NIV
+2,Colossians2:14 ,WORD,against,G2596,Epistles,New Testament,Colossians,NIV
+2,Colossians2:14 ,WORD,us,G1473,Epistles,New Testament,Colossians,NIV
+2,Colossians2:14 ,WORD,which,G3739,Epistles,New Testament,Colossians,NIV
+2,Colossians2:14 ,WORD,was,G1510,Epistles,New Testament,Colossians,NIV
+2,Colossians2:14 ,WORD,hostile,G5227,Epistles,New Testament,Colossians,NIV
+2,Colossians2:14 ,PHRASE,to us,G1473,Epistles,New Testament,Colossians,NIV
+2,Colossians2:14 ,WORD,and,G2532,Epistles,New Testament,Colossians,NIV
+2,Colossians2:14 ,PHRASE,He has taken,G142,Epistles,New Testament,Colossians,NIV
+2,Colossians2:14 ,WORD,it,G846,Epistles,New Testament,Colossians,NIV
+2,Colossians2:14 ,WORD,out,G1537,Epistles,New Testament,Colossians,NIV
+2,Colossians2:14 ,PHRASE,of the,G3588,Epistles,New Testament,Colossians,NIV
+2,Colossians2:14 ,WORD,way,G3319,Epistles,New Testament,Colossians,NIV
+2,Colossians2:14 ,PHRASE,having nailed,G4338,Epistles,New Testament,Colossians,NIV
+2,Colossians2:14 ,WORD,it,G846,Epistles,New Testament,Colossians,NIV
+2,Colossians2:14 ,PHRASE,to the,G3588,Epistles,New Testament,Colossians,NIV
+2,Colossians2:14 ,WORD,cross,G4716,Epistles,New Testament,Colossians,NIV
+2,Colossians2:15 ,PHRASE,When He had disarmed,G554,Epistles,New Testament,Colossians,NIV
+2,Colossians2:15 ,WORD,the,G3588,Epistles,New Testament,Colossians,NIV
+2,Colossians2:15 ,WORD,rulers,G746,Epistles,New Testament,Colossians,NIV
+2,Colossians2:15 ,WORD,and,G2532,Epistles,New Testament,Colossians,NIV
+2,Colossians2:15 ,WORD,authorities,G1849,Epistles,New Testament,Colossians,NIV
+2,Colossians2:15 ,PHRASE,He made,G1165,Epistles,New Testament,Colossians,NIV
+2,Colossians2:15 ,PHRASE,a public,G1722,Epistles,New Testament,Colossians,NIV
+2,Colossians2:15 ,WORD,,G3954,Epistles,New Testament,Colossians,NIV
+2,Colossians2:15 ,PHRASE,display of them,G1165,Epistles,New Testament,Colossians,NIV
+2,Colossians2:15 ,PHRASE,having triumphed over,G2358,Epistles,New Testament,Colossians,NIV
+2,Colossians2:15 ,WORD,them,G846,Epistles,New Testament,Colossians,NIV
+2,Colossians2:15 ,WORD,through,G1722,Epistles,New Testament,Colossians,NIV
+2,Colossians2:15 ,WORD,Him,G846,Epistles,New Testament,Colossians,NIV
+2,Colossians2:16 ,WORD,Therefore,G3767,Epistles,New Testament,Colossians,NIV
+2,Colossians2:16 ,WORD,no,G3361,Epistles,New Testament,Colossians,NIV
+2,Colossians2:16 ,WORD,one,G5100,Epistles,New Testament,Colossians,NIV
+2,Colossians2:16 ,PHRASE,is to act as,G2919,Epistles,New Testament,Colossians,NIV
+2,Colossians2:16 ,WORD,your,G4771,Epistles,New Testament,Colossians,NIV
+2,Colossians2:16 ,WORD,judge,G2919,Epistles,New Testament,Colossians,NIV
+2,Colossians2:16 ,PHRASE,in regard to,G1722,Epistles,New Testament,Colossians,NIV
+2,Colossians2:16 ,WORD,food,G1035,Epistles,New Testament,Colossians,NIV
+2,Colossians2:16 ,WORD,or,G2532,Epistles,New Testament,Colossians,NIV
+2,Colossians2:16 ,WORD,drink,G4213,Epistles,New Testament,Colossians,NIV
+2,Colossians2:16 ,WORD,or,G2228,Epistles,New Testament,Colossians,NIV
+2,Colossians2:16 ,WORD,in,G1722,Epistles,New Testament,Colossians,NIV
+2,Colossians2:16 ,WORD,respect,G3313,Epistles,New Testament,Colossians,NIV
+2,Colossians2:16 ,PHRASE,to a festival,G1859,Epistles,New Testament,Colossians,NIV
+2,Colossians2:16 ,WORD,or,G2228,Epistles,New Testament,Colossians,NIV
+2,Colossians2:16 ,PHRASE,a new moon,G3561,Epistles,New Testament,Colossians,NIV
+2,Colossians2:16 ,WORD,or,G2228,Epistles,New Testament,Colossians,NIV
+2,Colossians2:16 ,PHRASE,a Sabbath day,G4521,Epistles,New Testament,Colossians,NIV
+2,Colossians2:17 ,PHRASE,things which,G3739,Epistles,New Testament,Colossians,NIV
+2,Colossians2:17 ,WORD,are,G1510,Epistles,New Testament,Colossians,NIV
+2,Colossians2:17 ,PHRASE,a mere shadow,G4639,Epistles,New Testament,Colossians,NIV
+2,Colossians2:17 ,PHRASE,of what,G3588,Epistles,New Testament,Colossians,NIV
+2,Colossians2:17 ,PHRASE,is to come,G3195,Epistles,New Testament,Colossians,NIV
+2,Colossians2:17 ,WORD,but,G1161,Epistles,New Testament,Colossians,NIV
+2,Colossians2:17 ,WORD,the,G3588,Epistles,New Testament,Colossians,NIV
+2,Colossians2:17 ,WORD,substance,G4983,Epistles,New Testament,Colossians,NIV
+2,Colossians2:17 ,PHRASE,belongs to,G3588,Epistles,New Testament,Colossians,NIV
+2,Colossians2:17 ,WORD,Christ,G5547,Epistles,New Testament,Colossians,NIV
+2,Colossians2:18 ,PHRASE,Let no one,G3367,Epistles,New Testament,Colossians,NIV
+2,Colossians2:18 ,PHRASE,keep defrauding,G2603,Epistles,New Testament,Colossians,NIV
+2,Colossians2:18 ,WORD,you,G4771,Epistles,New Testament,Colossians,NIV
+2,Colossians2:18 ,PHRASE,of your prize,G2603,Epistles,New Testament,Colossians,NIV
+2,Colossians2:18 ,PHRASE,by delighting,G2309,Epistles,New Testament,Colossians,NIV
+2,Colossians2:18 ,WORD,in,G1722,Epistles,New Testament,Colossians,NIV
+2,Colossians2:18 ,WORD,self-abasement,G5012,Epistles,New Testament,Colossians,NIV
+2,Colossians2:18 ,WORD,and,G2532,Epistles,New Testament,Colossians,NIV
+2,Colossians2:18 ,PHRASE,the worship,G2356,Epistles,New Testament,Colossians,NIV
+2,Colossians2:18 ,PHRASE,of the,G3588,Epistles,New Testament,Colossians,NIV
+2,Colossians2:18 ,WORD,angels,G32,Epistles,New Testament,Colossians,NIV
+2,Colossians2:18 ,PHRASE,taking his stand,G1687,Epistles,New Testament,Colossians,NIV
+2,Colossians2:18 ,PHRASE,on visions,G3739,Epistles,New Testament,Colossians,NIV
+2,Colossians2:18 ,PHRASE,he has seen,G3708,Epistles,New Testament,Colossians,NIV
+2,Colossians2:18 ,WORD,inflated,G5448,Epistles,New Testament,Colossians,NIV
+2,Colossians2:18 ,PHRASE,without cause,G1500,Epistles,New Testament,Colossians,NIV
+2,Colossians2:18 ,PHRASE,by his,G846,Epistles,New Testament,Colossians,NIV
+2,Colossians2:18 ,WORD,fleshly,G4561,Epistles,New Testament,Colossians,NIV
+2,Colossians2:18 ,WORD,mind,G3563,Epistles,New Testament,Colossians,NIV
+2,Colossians2:19 ,WORD,and,G2532,Epistles,New Testament,Colossians,NIV
+2,Colossians2:19 ,WORD,not,G3756,Epistles,New Testament,Colossians,NIV
+2,Colossians2:19 ,PHRASE,holding fast,G2902,Epistles,New Testament,Colossians,NIV
+2,Colossians2:19 ,PHRASE,to the,G3588,Epistles,New Testament,Colossians,NIV
+2,Colossians2:19 ,WORD,head,G2776,Epistles,New Testament,Colossians,NIV
+2,Colossians2:19 ,WORD,from,G1537,Epistles,New Testament,Colossians,NIV
+2,Colossians2:19 ,WORD,whom,G3739,Epistles,New Testament,Colossians,NIV
+2,Colossians2:19 ,PHRASE,the entire,G3956,Epistles,New Testament,Colossians,NIV
+2,Colossians2:19 ,WORD,body,G4983,Epistles,New Testament,Colossians,NIV
+2,Colossians2:19 ,PHRASE,being supplied,G2023,Epistles,New Testament,Colossians,NIV
+2,Colossians2:19 ,WORD,and,G2532,Epistles,New Testament,Colossians,NIV
+2,Colossians2:19 ,PHRASE,held together,G4822,Epistles,New Testament,Colossians,NIV
+2,Colossians2:19 ,WORD,by,G1223,Epistles,New Testament,Colossians,NIV
+2,Colossians2:19 ,WORD,the,G3588,Epistles,New Testament,Colossians,NIV
+2,Colossians2:19 ,WORD,joints,G860,Epistles,New Testament,Colossians,NIV
+2,Colossians2:19 ,WORD,and,G2532,Epistles,New Testament,Colossians,NIV
+2,Colossians2:19 ,WORD,ligaments,G4886,Epistles,New Testament,Colossians,NIV
+2,Colossians2:19 ,WORD,grows,G837,Epistles,New Testament,Colossians,NIV
+2,Colossians2:19 ,PHRASE,with a,G3588,Epistles,New Testament,Colossians,NIV
+2,Colossians2:19 ,WORD,growth,G838,Epistles,New Testament,Colossians,NIV
+2,Colossians2:19 ,WORD,which,G3588,Epistles,New Testament,Colossians,NIV
+2,Colossians2:19 ,PHRASE,is from God,G2316,Epistles,New Testament,Colossians,NIV
+2,Colossians2:20 ,WORD,If,G1487,Epistles,New Testament,Colossians,NIV
+2,Colossians2:20 ,PHRASE,you have died,G599,Epistles,New Testament,Colossians,NIV
+2,Colossians2:20 ,WORD,with,G4862,Epistles,New Testament,Colossians,NIV
+2,Colossians2:20 ,WORD,Christ,G5547,Epistles,New Testament,Colossians,NIV
+2,Colossians2:20 ,WORD,to,G575,Epistles,New Testament,Colossians,NIV
+2,Colossians2:20 ,WORD,the,G3588,Epistles,New Testament,Colossians,NIV
+2,Colossians2:20 ,PHRASE,elementary principles,G4747,Epistles,New Testament,Colossians,NIV
+2,Colossians2:20 ,PHRASE,of the,G3588,Epistles,New Testament,Colossians,NIV
+2,Colossians2:20 ,WORD,world,G2889,Epistles,New Testament,Colossians,NIV
+2,Colossians2:20 ,WORD,why,G5101,Epistles,New Testament,Colossians,NIV
+2,Colossians2:20 ,PHRASE,as if,G5613,Epistles,New Testament,Colossians,NIV
+2,Colossians2:20 ,PHRASE,you were living,G2198,Epistles,New Testament,Colossians,NIV
+2,Colossians2:20 ,WORD,in,G1722,Epistles,New Testament,Colossians,NIV
+2,Colossians2:20 ,PHRASE,the world,G2889,Epistles,New Testament,Colossians,NIV
+2,Colossians2:20 ,PHRASE,"do you submit yourself to decrees, such as",G1379,Epistles,New Testament,Colossians,NIV
+2,Colossians2:21 ,PHRASE,Do not,G3361,Epistles,New Testament,Colossians,NIV
+2,Colossians2:21 ,WORD,handle,G681,Epistles,New Testament,Colossians,NIV
+2,Colossians2:21 ,PHRASE,do not,G3366,Epistles,New Testament,Colossians,NIV
+2,Colossians2:21 ,WORD,taste,G1089,Epistles,New Testament,Colossians,NIV
+2,Colossians2:21 ,PHRASE,do not,G3366,Epistles,New Testament,Colossians,NIV
+2,Colossians2:21 ,WORD,touch,G2345,Epistles,New Testament,Colossians,NIV
+2,Colossians2:22 ,WORD,(which,G3739,Epistles,New Testament,Colossians,NIV
+2,Colossians2:22 ,WORD,all,G3956,Epistles,New Testament,Colossians,NIV
+2,Colossians2:22 ,WORD,refer,G1510,Epistles,New Testament,Colossians,NIV
+2,Colossians2:22 ,WORD,to,G1519,Epistles,New Testament,Colossians,NIV
+2,Colossians2:22 ,PHRASE,things destined to perish,G5356,Epistles,New Testament,Colossians,NIV
+2,Colossians2:22 ,PHRASE,with use),G671,Epistles,New Testament,Colossians,NIV
+2,Colossians2:22 ,PHRASE,in accordance with,G2596,Epistles,New Testament,Colossians,NIV
+2,Colossians2:22 ,WORD,the,G3588,Epistles,New Testament,Colossians,NIV
+2,Colossians2:22 ,WORD,commandments,G1778,Epistles,New Testament,Colossians,NIV
+2,Colossians2:22 ,WORD,and,G2532,Epistles,New Testament,Colossians,NIV
+2,Colossians2:22 ,WORD,teachings,G1319,Epistles,New Testament,Colossians,NIV
+2,Colossians2:22 ,PHRASE,of men,G444,Epistles,New Testament,Colossians,NIV
+2,Colossians2:23 ,WORD,These,G3748,Epistles,New Testament,Colossians,NIV
+2,Colossians2:23 ,WORD,are,G1510,Epistles,New Testament,Colossians,NIV
+2,Colossians2:23 ,PHRASE,matters which,G3748,Epistles,New Testament,Colossians,NIV
+2,Colossians2:23 ,WORD,have,G2192,Epistles,New Testament,Colossians,NIV
+2,Colossians2:23 ,PHRASE,to be sure,G3303,Epistles,New Testament,Colossians,NIV
+2,Colossians2:23 ,PHRASE,the appearance,G3056,Epistles,New Testament,Colossians,NIV
+2,Colossians2:23 ,PHRASE,of wisdom,G4678,Epistles,New Testament,Colossians,NIV
+2,Colossians2:23 ,WORD,in,G1722,Epistles,New Testament,Colossians,NIV
+2,Colossians2:23 ,PHRASE,self-made religion,G1479,Epistles,New Testament,Colossians,NIV
+2,Colossians2:23 ,WORD,and,G2532,Epistles,New Testament,Colossians,NIV
+2,Colossians2:23 ,WORD,self-abasement,G5012,Epistles,New Testament,Colossians,NIV
+2,Colossians2:23 ,WORD,and,G2532,Epistles,New Testament,Colossians,NIV
+2,Colossians2:23 ,PHRASE,severe treatment,G857,Epistles,New Testament,Colossians,NIV
+2,Colossians2:23 ,PHRASE,of the body,G4983,Epistles,New Testament,Colossians,NIV
+2,Colossians2:23 ,PHRASE,but are of no,G3756,Epistles,New Testament,Colossians,NIV
+2,Colossians2:23 ,WORD,,G5100,Epistles,New Testament,Colossians,NIV
+2,Colossians2:23 ,WORD,value,G5092,Epistles,New Testament,Colossians,NIV
+2,Colossians2:23 ,WORD,against,G4314,Epistles,New Testament,Colossians,NIV
+2,Colossians2:23 ,WORD,fleshly,G4561,Epistles,New Testament,Colossians,NIV
+2,Colossians2:23 ,WORD,indulgence,G4140,Epistles,New Testament,Colossians,NIV
+3,Colossians3:1 ,WORD,Therefore,G3767,Epistles,New Testament,Colossians,NIV
+3,Colossians3:1 ,WORD,if,G1487,Epistles,New Testament,Colossians,NIV
+3,Colossians3:1 ,PHRASE,you have been raised up,G4891,Epistles,New Testament,Colossians,NIV
+3,Colossians3:1 ,PHRASE,with Christ,G5547,Epistles,New Testament,Colossians,NIV
+3,Colossians3:1 ,PHRASE,keep seeking,G2212,Epistles,New Testament,Colossians,NIV
+3,Colossians3:1 ,PHRASE,the things,G3588,Epistles,New Testament,Colossians,NIV
+3,Colossians3:1 ,WORD,above,G507,Epistles,New Testament,Colossians,NIV
+3,Colossians3:1 ,WORD,where,G3757,Epistles,New Testament,Colossians,NIV
+3,Colossians3:1 ,WORD,Christ,G5547,Epistles,New Testament,Colossians,NIV
+3,Colossians3:1 ,WORD,is,G1510,Epistles,New Testament,Colossians,NIV
+3,Colossians3:1 ,WORD,seated,G2521,Epistles,New Testament,Colossians,NIV
+3,Colossians3:1 ,WORD,at,G1722,Epistles,New Testament,Colossians,NIV
+3,Colossians3:1 ,PHRASE,the right hand,G1188,Epistles,New Testament,Colossians,NIV
+3,Colossians3:1 ,PHRASE,of God,G2316,Epistles,New Testament,Colossians,NIV
+3,Colossians3:2 ,PHRASE,Set your mind,G5426,Epistles,New Testament,Colossians,NIV
+3,Colossians3:2 ,PHRASE,on the things,G3588,Epistles,New Testament,Colossians,NIV
+3,Colossians3:2 ,WORD,above,G507,Epistles,New Testament,Colossians,NIV
+3,Colossians3:2 ,WORD,not,G3361,Epistles,New Testament,Colossians,NIV
+3,Colossians3:2 ,PHRASE,on the things,G3588,Epistles,New Testament,Colossians,NIV
+3,Colossians3:2 ,PHRASE,that are on,G1909,Epistles,New Testament,Colossians,NIV
+3,Colossians3:2 ,WORD,earth,G1093,Epistles,New Testament,Colossians,NIV
+3,Colossians3:3 ,WORD,For,G1063,Epistles,New Testament,Colossians,NIV
+3,Colossians3:3 ,PHRASE,you have died,G599,Epistles,New Testament,Colossians,NIV
+3,Colossians3:3 ,WORD,and,G2532,Epistles,New Testament,Colossians,NIV
+3,Colossians3:3 ,WORD,your,G4771,Epistles,New Testament,Colossians,NIV
+3,Colossians3:3 ,WORD,life,G2222,Epistles,New Testament,Colossians,NIV
+3,Colossians3:3 ,PHRASE,is hidden,G2928,Epistles,New Testament,Colossians,NIV
+3,Colossians3:3 ,WORD,with,G4862,Epistles,New Testament,Colossians,NIV
+3,Colossians3:3 ,WORD,Christ,G5547,Epistles,New Testament,Colossians,NIV
+3,Colossians3:3 ,WORD,in,G1722,Epistles,New Testament,Colossians,NIV
+3,Colossians3:3 ,WORD,God,G2316,Epistles,New Testament,Colossians,NIV
+3,Colossians3:4 ,WORD,When,G3752,Epistles,New Testament,Colossians,NIV
+3,Colossians3:4 ,WORD,Christ,G5547,Epistles,New Testament,Colossians,NIV
+3,Colossians3:4 ,PHRASE,who is our,G4771,Epistles,New Testament,Colossians,NIV
+3,Colossians3:4 ,WORD,life,G2222,Epistles,New Testament,Colossians,NIV
+3,Colossians3:4 ,PHRASE,is revealed,G5319,Epistles,New Testament,Colossians,NIV
+3,Colossians3:4 ,WORD,then,G5119,Epistles,New Testament,Colossians,NIV
+3,Colossians3:4 ,WORD,you,G4771,Epistles,New Testament,Colossians,NIV
+3,Colossians3:4 ,WORD,also,G2532,Epistles,New Testament,Colossians,NIV
+3,Colossians3:4 ,PHRASE,will be revealed,G5319,Epistles,New Testament,Colossians,NIV
+3,Colossians3:4 ,WORD,with,G4862,Epistles,New Testament,Colossians,NIV
+3,Colossians3:4 ,WORD,Him,G846,Epistles,New Testament,Colossians,NIV
+3,Colossians3:4 ,WORD,in,G1722,Epistles,New Testament,Colossians,NIV
+3,Colossians3:4 ,WORD,glory,G1391,Epistles,New Testament,Colossians,NIV
+3,Colossians3:5 ,WORD,Therefore,G3767,Epistles,New Testament,Colossians,NIV
+3,Colossians3:5 ,WORD,consider,G3499,Epistles,New Testament,Colossians,NIV
+3,Colossians3:5 ,WORD,the,G3588,Epistles,New Testament,Colossians,NIV
+3,Colossians3:5 ,WORD,members,G3196,Epistles,New Testament,Colossians,NIV
+3,Colossians3:5 ,WORD,of,G1909,Epistles,New Testament,Colossians,NIV
+3,Colossians3:5 ,PHRASE,your earthly body,G1093,Epistles,New Testament,Colossians,NIV
+3,Colossians3:5 ,PHRASE,as dead,G3499,Epistles,New Testament,Colossians,NIV
+3,Colossians3:5 ,PHRASE,to immorality,G4202,Epistles,New Testament,Colossians,NIV
+3,Colossians3:5 ,WORD,impurity,G167,Epistles,New Testament,Colossians,NIV
+3,Colossians3:5 ,WORD,passion,G3806,Epistles,New Testament,Colossians,NIV
+3,Colossians3:5 ,WORD,evil,G2556,Epistles,New Testament,Colossians,NIV
+3,Colossians3:5 ,WORD,desire,G1939,Epistles,New Testament,Colossians,NIV
+3,Colossians3:5 ,WORD,and,G2532,Epistles,New Testament,Colossians,NIV
+3,Colossians3:5 ,WORD,greed,G4124,Epistles,New Testament,Colossians,NIV
+3,Colossians3:5 ,WORD,which,G3748,Epistles,New Testament,Colossians,NIV
+3,Colossians3:5 ,WORD,amounts,G1510,Epistles,New Testament,Colossians,NIV
+3,Colossians3:5 ,PHRASE,to idolatry,G1495,Epistles,New Testament,Colossians,NIV
+3,Colossians3:6 ,PHRASE,For it is because,G1223,Epistles,New Testament,Colossians,NIV
+3,Colossians3:6 ,PHRASE,of these things,G3739,Epistles,New Testament,Colossians,NIV
+3,Colossians3:6 ,WORD,that,G3588,Epistles,New Testament,Colossians,NIV
+3,Colossians3:6 ,PHRASE,the wrath,G3709,Epistles,New Testament,Colossians,NIV
+3,Colossians3:6 ,PHRASE,of God,G2316,Epistles,New Testament,Colossians,NIV
+3,Colossians3:6 ,PHRASE,will come,G2064,Epistles,New Testament,Colossians,NIV
+3,Colossians3:6 ,WORD,upon,G1909,Epistles,New Testament,Colossians,NIV
+3,Colossians3:6 ,WORD,the,G3588,Epistles,New Testament,Colossians,NIV
+3,Colossians3:6 ,WORD,sons,G5207,Epistles,New Testament,Colossians,NIV
+3,Colossians3:6 ,PHRASE,of disobedience,G543,Epistles,New Testament,Colossians,NIV
+3,Colossians3:7 ,PHRASE,and in,G1722,Epistles,New Testament,Colossians,NIV
+3,Colossians3:7 ,WORD,them,G3739,Epistles,New Testament,Colossians,NIV
+3,Colossians3:7 ,WORD,you,G4771,Epistles,New Testament,Colossians,NIV
+3,Colossians3:7 ,WORD,also,G2532,Epistles,New Testament,Colossians,NIV
+3,Colossians3:7 ,WORD,once,G4218,Epistles,New Testament,Colossians,NIV
+3,Colossians3:7 ,WORD,walked,G4043,Epistles,New Testament,Colossians,NIV
+3,Colossians3:7 ,WORD,when,G3753,Epistles,New Testament,Colossians,NIV
+3,Colossians3:7 ,PHRASE,you were living,G2198,Epistles,New Testament,Colossians,NIV
+3,Colossians3:7 ,WORD,in,G1722,Epistles,New Testament,Colossians,NIV
+3,Colossians3:7 ,WORD,them,G3778,Epistles,New Testament,Colossians,NIV
+3,Colossians3:8 ,WORD,But,G1161,Epistles,New Testament,Colossians,NIV
+3,Colossians3:8 ,WORD,now,G3570,Epistles,New Testament,Colossians,NIV
+3,Colossians3:8 ,WORD,you,G4771,Epistles,New Testament,Colossians,NIV
+3,Colossians3:8 ,WORD,also,G2532,Epistles,New Testament,Colossians,NIV
+3,Colossians3:8 ,WORD,put,G659,Epistles,New Testament,Colossians,NIV
+3,Colossians3:8 ,PHRASE,them all,G3956,Epistles,New Testament,Colossians,NIV
+3,Colossians3:8 ,WORD,aside,G659,Epistles,New Testament,Colossians,NIV
+3,Colossians3:8 ,WORD,anger,G3709,Epistles,New Testament,Colossians,NIV
+3,Colossians3:8 ,WORD,wrath,G2372,Epistles,New Testament,Colossians,NIV
+3,Colossians3:8 ,WORD,malice,G2549,Epistles,New Testament,Colossians,NIV
+3,Colossians3:8 ,WORD,slander,G988,Epistles,New Testament,Colossians,NIV
+3,Colossians3:8 ,PHRASE,and abusive speech,G148,Epistles,New Testament,Colossians,NIV
+3,Colossians3:8 ,WORD,from,G1537,Epistles,New Testament,Colossians,NIV
+3,Colossians3:8 ,WORD,your,G4771,Epistles,New Testament,Colossians,NIV
+3,Colossians3:8 ,WORD,mouth,G4750,Epistles,New Testament,Colossians,NIV
+3,Colossians3:9 ,PHRASE,Do not,G3361,Epistles,New Testament,Colossians,NIV
+3,Colossians3:9 ,WORD,lie,G5574,Epistles,New Testament,Colossians,NIV
+3,Colossians3:9 ,WORD,to,G1519,Epistles,New Testament,Colossians,NIV
+3,Colossians3:9 ,PHRASE,one another,G240,Epistles,New Testament,Colossians,NIV
+3,Colossians3:9 ,PHRASE,since you laid aside,G554,Epistles,New Testament,Colossians,NIV
+3,Colossians3:9 ,WORD,the,G3588,Epistles,New Testament,Colossians,NIV
+3,Colossians3:9 ,WORD,old,G3820,Epistles,New Testament,Colossians,NIV
+3,Colossians3:9 ,WORD,self,G444,Epistles,New Testament,Colossians,NIV
+3,Colossians3:9 ,WORD,with,G4862,Epistles,New Testament,Colossians,NIV
+3,Colossians3:9 ,WORD,its,G846,Epistles,New Testament,Colossians,NIV
+3,Colossians3:9 ,PHRASE,evil practices,G4234,Epistles,New Testament,Colossians,NIV
+3,Colossians3:10 ,WORD,and,G2532,Epistles,New Testament,Colossians,NIV
+3,Colossians3:10 ,PHRASE,have put on,G1746,Epistles,New Testament,Colossians,NIV
+3,Colossians3:10 ,WORD,the,G3588,Epistles,New Testament,Colossians,NIV
+3,Colossians3:10 ,PHRASE,new self,G3501,Epistles,New Testament,Colossians,NIV
+3,Colossians3:10 ,WORD,who,G3588,Epistles,New Testament,Colossians,NIV
+3,Colossians3:10 ,PHRASE,is being renewed,G341,Epistles,New Testament,Colossians,NIV
+3,Colossians3:10 ,WORD,to,G1519,Epistles,New Testament,Colossians,NIV
+3,Colossians3:10 ,PHRASE,a true knowledge,G1922,Epistles,New Testament,Colossians,NIV
+3,Colossians3:10 ,PHRASE,according to,G2596,Epistles,New Testament,Colossians,NIV
+3,Colossians3:10 ,PHRASE,the image,G1504,Epistles,New Testament,Colossians,NIV
+3,Colossians3:10 ,PHRASE,of the,G3588,Epistles,New Testament,Colossians,NIV
+3,Colossians3:10 ,PHRASE,One who created,G2936,Epistles,New Testament,Colossians,NIV
+3,Colossians3:10 ,WORD,him,G846,Epistles,New Testament,Colossians,NIV
+3,Colossians3:11 ,PHRASE,a renewal in which,G3699,Epistles,New Testament,Colossians,NIV
+3,Colossians3:11 ,PHRASE,there is,G1762,Epistles,New Testament,Colossians,NIV
+3,Colossians3:11 ,PHRASE,no distinction between,G3756,Epistles,New Testament,Colossians,NIV
+3,Colossians3:11 ,WORD,Greek,G1672,Epistles,New Testament,Colossians,NIV
+3,Colossians3:11 ,WORD,and,G2532,Epistles,New Testament,Colossians,NIV
+3,Colossians3:11 ,WORD,Jew,G2453,Epistles,New Testament,Colossians,NIV
+3,Colossians3:11 ,WORD,circumcised,G4061,Epistles,New Testament,Colossians,NIV
+3,Colossians3:11 ,WORD,and,G2532,Epistles,New Testament,Colossians,NIV
+3,Colossians3:11 ,WORD,uncircumcised,G203,Epistles,New Testament,Colossians,NIV
+3,Colossians3:11 ,WORD,barbarian,G915,Epistles,New Testament,Colossians,NIV
+3,Colossians3:11 ,WORD,Scythian,G4658,Epistles,New Testament,Colossians,NIV
+3,Colossians3:11 ,WORD,slave,G1401,Epistles,New Testament,Colossians,NIV
+3,Colossians3:11 ,PHRASE,and freeman,G1658,Epistles,New Testament,Colossians,NIV
+3,Colossians3:11 ,WORD,but,G235,Epistles,New Testament,Colossians,NIV
+3,Colossians3:11 ,WORD,Christ,G5547,Epistles,New Testament,Colossians,NIV
+3,Colossians3:11 ,PHRASE,is all,G3956,Epistles,New Testament,Colossians,NIV
+3,Colossians3:11 ,WORD,and,G2532,Epistles,New Testament,Colossians,NIV
+3,Colossians3:11 ,WORD,in,G1722,Epistles,New Testament,Colossians,NIV
+3,Colossians3:11 ,WORD,all,G3956,Epistles,New Testament,Colossians,NIV
+3,Colossians3:12 ,WORD,So,G3767,Epistles,New Testament,Colossians,NIV
+3,Colossians3:12 ,WORD,as,G5613,Epistles,New Testament,Colossians,NIV
+3,Colossians3:12 ,PHRASE,those who have been chosen,G1588,Epistles,New Testament,Colossians,NIV
+3,Colossians3:12 ,PHRASE,of God,G2316,Epistles,New Testament,Colossians,NIV
+3,Colossians3:12 ,WORD,holy,G40,Epistles,New Testament,Colossians,NIV
+3,Colossians3:12 ,WORD,and,G2532,Epistles,New Testament,Colossians,NIV
+3,Colossians3:12 ,WORD,beloved,G25,Epistles,New Testament,Colossians,NIV
+3,Colossians3:12 ,PHRASE,put on,G1746,Epistles,New Testament,Colossians,NIV
+3,Colossians3:12 ,PHRASE,a heart,G4698,Epistles,New Testament,Colossians,NIV
+3,Colossians3:12 ,PHRASE,of compassion,G3628,Epistles,New Testament,Colossians,NIV
+3,Colossians3:12 ,WORD,kindness,G5544,Epistles,New Testament,Colossians,NIV
+3,Colossians3:12 ,WORD,humility,G5012,Epistles,New Testament,Colossians,NIV
+3,Colossians3:12 ,WORD,gentleness,G4240,Epistles,New Testament,Colossians,NIV
+3,Colossians3:12 ,PHRASE,and patience,G3115,Epistles,New Testament,Colossians,NIV
+3,Colossians3:13 ,PHRASE,bearing with,G430,Epistles,New Testament,Colossians,NIV
+3,Colossians3:13 ,PHRASE,one another,G240,Epistles,New Testament,Colossians,NIV
+3,Colossians3:13 ,WORD,and,G2532,Epistles,New Testament,Colossians,NIV
+3,Colossians3:13 ,WORD,forgiving,G5483,Epistles,New Testament,Colossians,NIV
+3,Colossians3:13 ,PHRASE,each other,G1438,Epistles,New Testament,Colossians,NIV
+3,Colossians3:13 ,WORD,whoever,G1437,Epistles,New Testament,Colossians,NIV
+3,Colossians3:13 ,WORD,,G5100,Epistles,New Testament,Colossians,NIV
+3,Colossians3:13 ,WORD,has,G2192,Epistles,New Testament,Colossians,NIV
+3,Colossians3:13 ,PHRASE,a complaint,G3437,Epistles,New Testament,Colossians,NIV
+3,Colossians3:13 ,WORD,against,G4314,Epistles,New Testament,Colossians,NIV
+3,Colossians3:13 ,WORD,anyone,G5100,Epistles,New Testament,Colossians,NIV
+3,Colossians3:13 ,PHRASE,just as,G2531,Epistles,New Testament,Colossians,NIV
+3,Colossians3:13 ,WORD,the,G3588,Epistles,New Testament,Colossians,NIV
+3,Colossians3:13 ,WORD,Lord,G2962,Epistles,New Testament,Colossians,NIV
+3,Colossians3:13 ,WORD,forgave,G5483,Epistles,New Testament,Colossians,NIV
+3,Colossians3:13 ,WORD,you,G4771,Epistles,New Testament,Colossians,NIV
+3,Colossians3:13 ,WORD,so,G3779,Epistles,New Testament,Colossians,NIV
+3,Colossians3:13 ,WORD,also,G2532,Epistles,New Testament,Colossians,NIV
+3,Colossians3:13 ,PHRASE,should you,G4771,Epistles,New Testament,Colossians,NIV
+3,Colossians3:14 ,WORD,Beyond,G1909,Epistles,New Testament,Colossians,NIV
+3,Colossians3:14 ,WORD,all,G3956,Epistles,New Testament,Colossians,NIV
+3,Colossians3:14 ,PHRASE,these things,G3778,Epistles,New Testament,Colossians,NIV
+3,Colossians3:14 ,PHRASE,put on love,G26,Epistles,New Testament,Colossians,NIV
+3,Colossians3:14 ,WORD,which,G3739,Epistles,New Testament,Colossians,NIV
+3,Colossians3:14 ,WORD,is,G1510,Epistles,New Testament,Colossians,NIV
+3,Colossians3:14 ,WORD,the,G3588,Epistles,New Testament,Colossians,NIV
+3,Colossians3:14 ,WORD,perfect,G5047,Epistles,New Testament,Colossians,NIV
+3,Colossians3:14 ,PHRASE,bond of unity,G4886,Epistles,New Testament,Colossians,NIV
+3,Colossians3:15 ,WORD,Let,G1018,Epistles,New Testament,Colossians,NIV
+3,Colossians3:15 ,WORD,the,G3588,Epistles,New Testament,Colossians,NIV
+3,Colossians3:15 ,WORD,peace,G1515,Epistles,New Testament,Colossians,NIV
+3,Colossians3:15 ,PHRASE,of Christ,G5547,Epistles,New Testament,Colossians,NIV
+3,Colossians3:15 ,WORD,rule,G1018,Epistles,New Testament,Colossians,NIV
+3,Colossians3:15 ,WORD,in,G1722,Epistles,New Testament,Colossians,NIV
+3,Colossians3:15 ,WORD,your,G4771,Epistles,New Testament,Colossians,NIV
+3,Colossians3:15 ,WORD,hearts,G2588,Epistles,New Testament,Colossians,NIV
+3,Colossians3:15 ,WORD,to,G1519,Epistles,New Testament,Colossians,NIV
+3,Colossians3:15 ,WORD,which,G3739,Epistles,New Testament,Colossians,NIV
+3,Colossians3:15 ,WORD,indeed,G2532,Epistles,New Testament,Colossians,NIV
+3,Colossians3:15 ,PHRASE,you were called,G2564,Epistles,New Testament,Colossians,NIV
+3,Colossians3:15 ,WORD,in,G1722,Epistles,New Testament,Colossians,NIV
+3,Colossians3:15 ,WORD,one,G1520,Epistles,New Testament,Colossians,NIV
+3,Colossians3:15 ,WORD,body,G4983,Epistles,New Testament,Colossians,NIV
+3,Colossians3:15 ,WORD,and,G2532,Epistles,New Testament,Colossians,NIV
+3,Colossians3:15 ,WORD,be,G1096,Epistles,New Testament,Colossians,NIV
+3,Colossians3:15 ,WORD,thankful,G2170,Epistles,New Testament,Colossians,NIV
+3,Colossians3:16 ,WORD,Let,G1774,Epistles,New Testament,Colossians,NIV
+3,Colossians3:16 ,WORD,the,G3588,Epistles,New Testament,Colossians,NIV
+3,Colossians3:16 ,WORD,word,G3056,Epistles,New Testament,Colossians,NIV
+3,Colossians3:16 ,PHRASE,of Christ,G5547,Epistles,New Testament,Colossians,NIV
+3,Colossians3:16 ,WORD,richly,G4146,Epistles,New Testament,Colossians,NIV
+3,Colossians3:16 ,WORD,dwell,G1774,Epistles,New Testament,Colossians,NIV
+3,Colossians3:16 ,WORD,within,G1722,Epistles,New Testament,Colossians,NIV
+3,Colossians3:16 ,WORD,you,G4771,Epistles,New Testament,Colossians,NIV
+3,Colossians3:16 ,WORD,with,G1722,Epistles,New Testament,Colossians,NIV
+3,Colossians3:16 ,WORD,all,G3956,Epistles,New Testament,Colossians,NIV
+3,Colossians3:16 ,WORD,wisdom,G4678,Epistles,New Testament,Colossians,NIV
+3,Colossians3:16 ,WORD,teaching,G1321,Epistles,New Testament,Colossians,NIV
+3,Colossians3:16 ,WORD,and,G2532,Epistles,New Testament,Colossians,NIV
+3,Colossians3:16 ,WORD,admonishing,G3560,Epistles,New Testament,Colossians,NIV
+3,Colossians3:16 ,PHRASE,one another,G1438,Epistles,New Testament,Colossians,NIV
+3,Colossians3:16 ,PHRASE,with psalms,G5568,Epistles,New Testament,Colossians,NIV
+3,Colossians3:16 ,PHRASE,and hymns,G5215,Epistles,New Testament,Colossians,NIV
+3,Colossians3:16 ,PHRASE,and spiritual,G4152,Epistles,New Testament,Colossians,NIV
+3,Colossians3:16 ,WORD,songs,G5603,Epistles,New Testament,Colossians,NIV
+3,Colossians3:16 ,WORD,singing,G103,Epistles,New Testament,Colossians,NIV
+3,Colossians3:16 ,WORD,with,G1722,Epistles,New Testament,Colossians,NIV
+3,Colossians3:16 ,WORD,thankfulness,G5485,Epistles,New Testament,Colossians,NIV
+3,Colossians3:16 ,WORD,in,G1722,Epistles,New Testament,Colossians,NIV
+3,Colossians3:16 ,WORD,your,G4771,Epistles,New Testament,Colossians,NIV
+3,Colossians3:16 ,WORD,hearts,G2588,Epistles,New Testament,Colossians,NIV
+3,Colossians3:16 ,PHRASE,to God,G2316,Epistles,New Testament,Colossians,NIV
+3,Colossians3:17 ,WORD,Whatever,G3739,Epistles,New Testament,Colossians,NIV
+3,Colossians3:17 ,WORD,,G3956,Epistles,New Testament,Colossians,NIV
+3,Colossians3:17 ,PHRASE,you do,G4160,Epistles,New Testament,Colossians,NIV
+3,Colossians3:17 ,WORD,in,G1722,Epistles,New Testament,Colossians,NIV
+3,Colossians3:17 ,WORD,word,G3056,Epistles,New Testament,Colossians,NIV
+3,Colossians3:17 ,WORD,or,G2228,Epistles,New Testament,Colossians,NIV
+3,Colossians3:17 ,WORD,,G1722,Epistles,New Testament,Colossians,NIV
+3,Colossians3:17 ,WORD,deed,G2041,Epistles,New Testament,Colossians,NIV
+3,Colossians3:17 ,PHRASE,do all,G3956,Epistles,New Testament,Colossians,NIV
+3,Colossians3:17 ,WORD,in,G1722,Epistles,New Testament,Colossians,NIV
+3,Colossians3:17 ,PHRASE,the name,G3686,Epistles,New Testament,Colossians,NIV
+3,Colossians3:17 ,PHRASE,of the Lord,G2962,Epistles,New Testament,Colossians,NIV
+3,Colossians3:17 ,WORD,Jesus,G2424,Epistles,New Testament,Colossians,NIV
+3,Colossians3:17 ,PHRASE,giving thanks,G2168,Epistles,New Testament,Colossians,NIV
+3,Colossians3:17 ,WORD,through,G1223,Epistles,New Testament,Colossians,NIV
+3,Colossians3:17 ,WORD,Him,G846,Epistles,New Testament,Colossians,NIV
+3,Colossians3:17 ,PHRASE,to God,G2316,Epistles,New Testament,Colossians,NIV
+3,Colossians3:17 ,PHRASE,the Father,G3962,Epistles,New Testament,Colossians,NIV
+3,Colossians3:18 ,WORD,Wives,G1135,Epistles,New Testament,Colossians,NIV
+3,Colossians3:18 ,PHRASE,be subject,G5293,Epistles,New Testament,Colossians,NIV
+3,Colossians3:18 ,PHRASE,to your husbands,G435,Epistles,New Testament,Colossians,NIV
+3,Colossians3:18 ,WORD,as,G5613,Epistles,New Testament,Colossians,NIV
+3,Colossians3:18 ,PHRASE,is fitting,G433,Epistles,New Testament,Colossians,NIV
+3,Colossians3:18 ,WORD,in,G1722,Epistles,New Testament,Colossians,NIV
+3,Colossians3:18 ,PHRASE,the Lord,G2962,Epistles,New Testament,Colossians,NIV
+3,Colossians3:19 ,WORD,Husbands,G435,Epistles,New Testament,Colossians,NIV
+3,Colossians3:19 ,WORD,love,G25,Epistles,New Testament,Colossians,NIV
+3,Colossians3:19 ,PHRASE,your wives,G1135,Epistles,New Testament,Colossians,NIV
+3,Colossians3:19 ,WORD,and,G2532,Epistles,New Testament,Colossians,NIV
+3,Colossians3:19 ,PHRASE,do not,G3361,Epistles,New Testament,Colossians,NIV
+3,Colossians3:19 ,PHRASE,be embittered,G4087,Epistles,New Testament,Colossians,NIV
+3,Colossians3:19 ,WORD,against,G4314,Epistles,New Testament,Colossians,NIV
+3,Colossians3:19 ,WORD,them,G846,Epistles,New Testament,Colossians,NIV
+3,Colossians3:20 ,WORD,Children,G5043,Epistles,New Testament,Colossians,NIV
+3,Colossians3:20 ,PHRASE,be obedient,G5219,Epistles,New Testament,Colossians,NIV
+3,Colossians3:20 ,PHRASE,to your parents,G1118,Epistles,New Testament,Colossians,NIV
+3,Colossians3:20 ,WORD,in,G2596,Epistles,New Testament,Colossians,NIV
+3,Colossians3:20 ,PHRASE,all things,G3956,Epistles,New Testament,Colossians,NIV
+3,Colossians3:20 ,WORD,for,G1063,Epistles,New Testament,Colossians,NIV
+3,Colossians3:20 ,WORD,this,G3778,Epistles,New Testament,Colossians,NIV
+3,Colossians3:20 ,WORD,is,G1510,Epistles,New Testament,Colossians,NIV
+3,Colossians3:20 ,WORD,well-pleasing,G2101,Epistles,New Testament,Colossians,NIV
+3,Colossians3:20 ,WORD,to,G1722,Epistles,New Testament,Colossians,NIV
+3,Colossians3:20 ,PHRASE,the Lord,G2962,Epistles,New Testament,Colossians,NIV
+3,Colossians3:21 ,WORD,Fathers,G3962,Epistles,New Testament,Colossians,NIV
+3,Colossians3:21 ,PHRASE,do not,G3361,Epistles,New Testament,Colossians,NIV
+3,Colossians3:21 ,WORD,exasperate,G2042,Epistles,New Testament,Colossians,NIV
+3,Colossians3:21 ,WORD,your,G4771,Epistles,New Testament,Colossians,NIV
+3,Colossians3:21 ,WORD,children,G5043,Epistles,New Testament,Colossians,NIV
+3,Colossians3:21 ,PHRASE,so that,G2443,Epistles,New Testament,Colossians,NIV
+3,Colossians3:21 ,PHRASE,they will not,G3361,Epistles,New Testament,Colossians,NIV
+3,Colossians3:21 ,PHRASE,lose heart,G120,Epistles,New Testament,Colossians,NIV
+3,Colossians3:22 ,WORD,Slaves,G1401,Epistles,New Testament,Colossians,NIV
+3,Colossians3:22 ,WORD,in,G2596,Epistles,New Testament,Colossians,NIV
+3,Colossians3:22 ,PHRASE,all things,G3956,Epistles,New Testament,Colossians,NIV
+3,Colossians3:22 ,WORD,obey,G5219,Epistles,New Testament,Colossians,NIV
+3,Colossians3:22 ,WORD,those,G3588,Epistles,New Testament,Colossians,NIV
+3,Colossians3:22 ,PHRASE,who are,G2596,Epistles,New Testament,Colossians,NIV
+3,Colossians3:22 ,PHRASE,your masters,G2962,Epistles,New Testament,Colossians,NIV
+3,Colossians3:22 ,PHRASE,on earth,G4561,Epistles,New Testament,Colossians,NIV
+3,Colossians3:22 ,WORD,not,G3361,Epistles,New Testament,Colossians,NIV
+3,Colossians3:22 ,WORD,with,G1722,Epistles,New Testament,Colossians,NIV
+3,Colossians3:22 ,PHRASE,external service,G3787,Epistles,New Testament,Colossians,NIV
+3,Colossians3:22 ,WORD,as,G5613,Epistles,New Testament,Colossians,NIV
+3,Colossians3:22 ,PHRASE,those who merely please men,G441,Epistles,New Testament,Colossians,NIV
+3,Colossians3:22 ,WORD,but,G235,Epistles,New Testament,Colossians,NIV
+3,Colossians3:22 ,WORD,with,G1722,Epistles,New Testament,Colossians,NIV
+3,Colossians3:22 ,WORD,sincerity,G572,Epistles,New Testament,Colossians,NIV
+3,Colossians3:22 ,PHRASE,of heart,G2588,Epistles,New Testament,Colossians,NIV
+3,Colossians3:22 ,WORD,fearing,G5399,Epistles,New Testament,Colossians,NIV
+3,Colossians3:22 ,WORD,the,G3588,Epistles,New Testament,Colossians,NIV
+3,Colossians3:22 ,WORD,Lord,G2962,Epistles,New Testament,Colossians,NIV
+3,Colossians3:23 ,WORD,Whatever,G3739,Epistles,New Testament,Colossians,NIV
+3,Colossians3:23 ,WORD,,G1437,Epistles,New Testament,Colossians,NIV
+3,Colossians3:23 ,PHRASE,you do,G4160,Epistles,New Testament,Colossians,NIV
+3,Colossians3:23 ,PHRASE,do your work,G2038,Epistles,New Testament,Colossians,NIV
+3,Colossians3:23 ,WORD,,G1537,Epistles,New Testament,Colossians,NIV
+3,Colossians3:23 ,WORD,heartily,G5590,Epistles,New Testament,Colossians,NIV
+3,Colossians3:23 ,WORD,as,G5613,Epistles,New Testament,Colossians,NIV
+3,Colossians3:23 ,PHRASE,for the,G3588,Epistles,New Testament,Colossians,NIV
+3,Colossians3:23 ,WORD,Lord,G2962,Epistles,New Testament,Colossians,NIV
+3,Colossians3:23 ,PHRASE,rather than,G2532,Epistles,New Testament,Colossians,NIV
+3,Colossians3:23 ,WORD,,G3756,Epistles,New Testament,Colossians,NIV
+3,Colossians3:23 ,PHRASE,for men,G444,Epistles,New Testament,Colossians,NIV
+3,Colossians3:24 ,WORD,knowing,G1492,Epistles,New Testament,Colossians,NIV
+3,Colossians3:24 ,WORD,that,G3754,Epistles,New Testament,Colossians,NIV
+3,Colossians3:24 ,WORD,from,G575,Epistles,New Testament,Colossians,NIV
+3,Colossians3:24 ,PHRASE,the Lord,G2962,Epistles,New Testament,Colossians,NIV
+3,Colossians3:24 ,PHRASE,you will receive,G618,Epistles,New Testament,Colossians,NIV
+3,Colossians3:24 ,WORD,the,G3588,Epistles,New Testament,Colossians,NIV
+3,Colossians3:24 ,WORD,reward,G469,Epistles,New Testament,Colossians,NIV
+3,Colossians3:24 ,PHRASE,of the,G3588,Epistles,New Testament,Colossians,NIV
+3,Colossians3:24 ,WORD,inheritance,G2817,Epistles,New Testament,Colossians,NIV
+3,Colossians3:24 ,PHRASE,It is the,G3588,Epistles,New Testament,Colossians,NIV
+3,Colossians3:24 ,WORD,Lord,G2962,Epistles,New Testament,Colossians,NIV
+3,Colossians3:24 ,WORD,Christ,G5547,Epistles,New Testament,Colossians,NIV
+3,Colossians3:24 ,PHRASE,whom you serve,G1398,Epistles,New Testament,Colossians,NIV
+3,Colossians3:25 ,WORD,For,G1063,Epistles,New Testament,Colossians,NIV
+3,Colossians3:25 ,PHRASE,he who does wrong,G91,Epistles,New Testament,Colossians,NIV
+3,Colossians3:25 ,PHRASE,will receive,G2865,Epistles,New Testament,Colossians,NIV
+3,Colossians3:25 ,PHRASE,the consequences of the wrong,G91,Epistles,New Testament,Colossians,NIV
+3,Colossians3:25 ,WORD,which,G3739,Epistles,New Testament,Colossians,NIV
+3,Colossians3:25 ,PHRASE,he has done,G91,Epistles,New Testament,Colossians,NIV
+3,Colossians3:25 ,WORD,and,G2532,Epistles,New Testament,Colossians,NIV
+3,Colossians3:25 ,WORD,that,G1510,Epistles,New Testament,Colossians,NIV
+3,Colossians3:25 ,WORD,without,G3756,Epistles,New Testament,Colossians,NIV
+3,Colossians3:25 ,WORD,partiality,G4382,Epistles,New Testament,Colossians,NIV
+4,Colossians4:1 ,WORD,Masters,G2962,Epistles,New Testament,Colossians,NIV
+4,Colossians4:1 ,WORD,grant,G3930,Epistles,New Testament,Colossians,NIV
+4,Colossians4:1 ,PHRASE,to your slaves,G1401,Epistles,New Testament,Colossians,NIV
+4,Colossians4:1 ,WORD,justice,G1342,Epistles,New Testament,Colossians,NIV
+4,Colossians4:1 ,WORD,and,G2532,Epistles,New Testament,Colossians,NIV
+4,Colossians4:1 ,WORD,fairness,G2471,Epistles,New Testament,Colossians,NIV
+4,Colossians4:1 ,WORD,knowing,G1492,Epistles,New Testament,Colossians,NIV
+4,Colossians4:1 ,WORD,that,G3754,Epistles,New Testament,Colossians,NIV
+4,Colossians4:1 ,WORD,you,G4771,Epistles,New Testament,Colossians,NIV
+4,Colossians4:1 ,WORD,too,G2532,Epistles,New Testament,Colossians,NIV
+4,Colossians4:1 ,WORD,have,G2192,Epistles,New Testament,Colossians,NIV
+4,Colossians4:1 ,PHRASE,a Master,G2962,Epistles,New Testament,Colossians,NIV
+4,Colossians4:1 ,WORD,in,G1722,Epistles,New Testament,Colossians,NIV
+4,Colossians4:1 ,WORD,heaven,G3772,Epistles,New Testament,Colossians,NIV
+4,Colossians4:2 ,PHRASE,Devote yourselves,G4342,Epistles,New Testament,Colossians,NIV
+4,Colossians4:2 ,PHRASE,to prayer,G4335,Epistles,New Testament,Colossians,NIV
+4,Colossians4:2 ,PHRASE,keeping alert,G1127,Epistles,New Testament,Colossians,NIV
+4,Colossians4:2 ,WORD,in,G1722,Epistles,New Testament,Colossians,NIV
+4,Colossians4:2 ,WORD,it,G846,Epistles,New Testament,Colossians,NIV
+4,Colossians4:2 ,WORD,with,G1722,Epistles,New Testament,Colossians,NIV
+4,Colossians4:2 ,PHRASE,an attitude of thanksgiving,G2169,Epistles,New Testament,Colossians,NIV
+4,Colossians4:3 ,WORD,praying,G4336,Epistles,New Testament,Colossians,NIV
+4,Colossians4:3 ,PHRASE,at the same time,G260,Epistles,New Testament,Colossians,NIV
+4,Colossians4:3 ,WORD,for,G4012,Epistles,New Testament,Colossians,NIV
+4,Colossians4:3 ,WORD,us,G1473,Epistles,New Testament,Colossians,NIV
+4,Colossians4:3 ,PHRASE,as well,G2532,Epistles,New Testament,Colossians,NIV
+4,Colossians4:3 ,WORD,that,G2443,Epistles,New Testament,Colossians,NIV
+4,Colossians4:3 ,WORD,God,G2316,Epistles,New Testament,Colossians,NIV
+4,Colossians4:3 ,PHRASE,will open up,G455,Epistles,New Testament,Colossians,NIV
+4,Colossians4:3 ,WORD,to,G1473,Epistles,New Testament,Colossians,NIV
+4,Colossians4:3 ,PHRASE,us a door,G2374,Epistles,New Testament,Colossians,NIV
+4,Colossians4:3 ,PHRASE,for the,G3588,Epistles,New Testament,Colossians,NIV
+4,Colossians4:3 ,WORD,word,G3056,Epistles,New Testament,Colossians,NIV
+4,Colossians4:3 ,PHRASE,so that we may speak forth,G2980,Epistles,New Testament,Colossians,NIV
+4,Colossians4:3 ,WORD,the,G3588,Epistles,New Testament,Colossians,NIV
+4,Colossians4:3 ,WORD,mystery,G3466,Epistles,New Testament,Colossians,NIV
+4,Colossians4:3 ,PHRASE,of Christ,G5547,Epistles,New Testament,Colossians,NIV
+4,Colossians4:3 ,WORD,for,G1223,Epistles,New Testament,Colossians,NIV
+4,Colossians4:3 ,WORD,which,G3739,Epistles,New Testament,Colossians,NIV
+4,Colossians4:3 ,PHRASE,I have also,G2532,Epistles,New Testament,Colossians,NIV
+4,Colossians4:3 ,PHRASE,been imprisoned,G1210,Epistles,New Testament,Colossians,NIV
+4,Colossians4:4 ,WORD,that,G2443,Epistles,New Testament,Colossians,NIV
+4,Colossians4:4 ,PHRASE,I may make,G5319,Epistles,New Testament,Colossians,NIV
+4,Colossians4:4 ,WORD,it,G846,Epistles,New Testament,Colossians,NIV
+4,Colossians4:4 ,WORD,clear,G5319,Epistles,New Testament,Colossians,NIV
+4,Colossians4:4 ,PHRASE,in the way,G5613,Epistles,New Testament,Colossians,NIV
+4,Colossians4:4 ,WORD,I,G1473,Epistles,New Testament,Colossians,NIV
+4,Colossians4:4 ,WORD,ought,G1163,Epistles,New Testament,Colossians,NIV
+4,Colossians4:4 ,PHRASE,to speak,G2980,Epistles,New Testament,Colossians,NIV
+4,Colossians4:5 ,PHRASE,Conduct yourselves,G4043,Epistles,New Testament,Colossians,NIV
+4,Colossians4:5 ,WORD,with,G1722,Epistles,New Testament,Colossians,NIV
+4,Colossians4:5 ,WORD,wisdom,G4678,Epistles,New Testament,Colossians,NIV
+4,Colossians4:5 ,WORD,toward,G4314,Epistles,New Testament,Colossians,NIV
+4,Colossians4:5 ,WORD,outsiders,G3588,Epistles,New Testament,Colossians,NIV
+4,Colossians4:5 ,WORD,,G1854,Epistles,New Testament,Colossians,NIV
+4,Colossians4:5 ,PHRASE,making the most,G1805,Epistles,New Testament,Colossians,NIV
+4,Colossians4:5 ,PHRASE,of the,G3588,Epistles,New Testament,Colossians,NIV
+4,Colossians4:5 ,WORD,opportunity,G2540,Epistles,New Testament,Colossians,NIV
+4,Colossians4:6 ,PHRASE,Let your,G4771,Epistles,New Testament,Colossians,NIV
+4,Colossians4:6 ,WORD,speech,G3056,Epistles,New Testament,Colossians,NIV
+4,Colossians4:6 ,WORD,always,G3842,Epistles,New Testament,Colossians,NIV
+4,Colossians4:6 ,PHRASE,be with,G1722,Epistles,New Testament,Colossians,NIV
+4,Colossians4:6 ,WORD,grace,G5485,Epistles,New Testament,Colossians,NIV
+4,Colossians4:6 ,PHRASE,as though seasoned,G741,Epistles,New Testament,Colossians,NIV
+4,Colossians4:6 ,PHRASE,with salt,G217,Epistles,New Testament,Colossians,NIV
+4,Colossians4:6 ,PHRASE,so that you will know,G1492,Epistles,New Testament,Colossians,NIV
+4,Colossians4:6 ,WORD,how,G4459,Epistles,New Testament,Colossians,NIV
+4,Colossians4:6 ,WORD,you,G4771,Epistles,New Testament,Colossians,NIV
+4,Colossians4:6 ,PHRASE,should respond,G611,Epistles,New Testament,Colossians,NIV
+4,Colossians4:6 ,PHRASE,to each,G1538,Epistles,New Testament,Colossians,NIV
+4,Colossians4:6 ,WORD,person,G1520,Epistles,New Testament,Colossians,NIV
+4,Colossians4:7 ,PHRASE,As to,G2596,Epistles,New Testament,Colossians,NIV
+4,Colossians4:7 ,WORD,all,G3956,Epistles,New Testament,Colossians,NIV
+4,Colossians4:7 ,PHRASE,my affairs,G1473,Epistles,New Testament,Colossians,NIV
+4,Colossians4:7 ,WORD,Tychicus,G5190,Epistles,New Testament,Colossians,NIV
+4,Colossians4:7 ,PHRASE,our beloved,G27,Epistles,New Testament,Colossians,NIV
+4,Colossians4:7 ,WORD,brother,G80,Epistles,New Testament,Colossians,NIV
+4,Colossians4:7 ,WORD,and,G2532,Epistles,New Testament,Colossians,NIV
+4,Colossians4:7 ,WORD,faithful,G4103,Epistles,New Testament,Colossians,NIV
+4,Colossians4:7 ,WORD,servant,G1249,Epistles,New Testament,Colossians,NIV
+4,Colossians4:7 ,WORD,and,G2532,Epistles,New Testament,Colossians,NIV
+4,Colossians4:7 ,PHRASE,fellow bond-servant,G4889,Epistles,New Testament,Colossians,NIV
+4,Colossians4:7 ,WORD,in,G1722,Epistles,New Testament,Colossians,NIV
+4,Colossians4:7 ,PHRASE,the Lord,G2962,Epistles,New Testament,Colossians,NIV
+4,Colossians4:7 ,PHRASE,will bring,G1107,Epistles,New Testament,Colossians,NIV
+4,Colossians4:7 ,WORD,you,G4771,Epistles,New Testament,Colossians,NIV
+4,Colossians4:7 ,WORD,information,G1107,Epistles,New Testament,Colossians,NIV
+4,Colossians4:8 ,PHRASE,For I have sent,G3992,Epistles,New Testament,Colossians,NIV
+4,Colossians4:8 ,WORD,him,G3739,Epistles,New Testament,Colossians,NIV
+4,Colossians4:8 ,WORD,to,G4314,Epistles,New Testament,Colossians,NIV
+4,Colossians4:8 ,WORD,you,G4771,Epistles,New Testament,Colossians,NIV
+4,Colossians4:8 ,WORD,for,G1519,Epistles,New Testament,Colossians,NIV
+4,Colossians4:8 ,WORD,this,G3778,Epistles,New Testament,Colossians,NIV
+4,Colossians4:8 ,WORD,very,G846,Epistles,New Testament,Colossians,NIV
+4,Colossians4:8 ,WORD,purpose,G3778,Epistles,New Testament,Colossians,NIV
+4,Colossians4:8 ,WORD,that,G2443,Epistles,New Testament,Colossians,NIV
+4,Colossians4:8 ,PHRASE,you may know,G1097,Epistles,New Testament,Colossians,NIV
+4,Colossians4:8 ,WORD,about,G4012,Epistles,New Testament,Colossians,NIV
+4,Colossians4:8 ,WORD,our,G1473,Epistles,New Testament,Colossians,NIV
+4,Colossians4:8 ,WORD,circumstances,G3588,Epistles,New Testament,Colossians,NIV
+4,Colossians4:8 ,WORD,and,G2532,Epistles,New Testament,Colossians,NIV
+4,Colossians4:8 ,PHRASE,that he may encourage,G3870,Epistles,New Testament,Colossians,NIV
+4,Colossians4:8 ,WORD,your,G4771,Epistles,New Testament,Colossians,NIV
+4,Colossians4:8 ,WORD,hearts,G2588,Epistles,New Testament,Colossians,NIV
+4,Colossians4:9 ,PHRASE,and with,G4862,Epistles,New Testament,Colossians,NIV
+4,Colossians4:9 ,PHRASE,him Onesimus,G3682,Epistles,New Testament,Colossians,NIV
+4,Colossians4:9 ,PHRASE,our faithful,G4103,Epistles,New Testament,Colossians,NIV
+4,Colossians4:9 ,WORD,and,G2532,Epistles,New Testament,Colossians,NIV
+4,Colossians4:9 ,WORD,beloved,G27,Epistles,New Testament,Colossians,NIV
+4,Colossians4:9 ,WORD,brother,G80,Epistles,New Testament,Colossians,NIV
+4,Colossians4:9 ,WORD,who,G3739,Epistles,New Testament,Colossians,NIV
+4,Colossians4:9 ,WORD,is,G1510,Epistles,New Testament,Colossians,NIV
+4,Colossians4:9 ,PHRASE,one of,G1537,Epistles,New Testament,Colossians,NIV
+4,Colossians4:9 ,PHRASE,your number,G4771,Epistles,New Testament,Colossians,NIV
+4,Colossians4:9 ,PHRASE,They will inform,G1107,Epistles,New Testament,Colossians,NIV
+4,Colossians4:9 ,WORD,you,G4771,Epistles,New Testament,Colossians,NIV
+4,Colossians4:9 ,PHRASE,about the whole,G3956,Epistles,New Testament,Colossians,NIV
+4,Colossians4:9 ,WORD,situation,G3588,Epistles,New Testament,Colossians,NIV
+4,Colossians4:9 ,WORD,here,G5602,Epistles,New Testament,Colossians,NIV
+4,Colossians4:10 ,WORD,Aristarchus,G708,Epistles,New Testament,Colossians,NIV
+4,Colossians4:10 ,WORD,my,G1473,Epistles,New Testament,Colossians,NIV
+4,Colossians4:10 ,PHRASE,fellow prisoner,G4869,Epistles,New Testament,Colossians,NIV
+4,Colossians4:10 ,WORD,sends,G782,Epistles,New Testament,Colossians,NIV
+4,Colossians4:10 ,WORD,you,G4771,Epistles,New Testament,Colossians,NIV
+4,Colossians4:10 ,PHRASE,his greetings,G782,Epistles,New Testament,Colossians,NIV
+4,Colossians4:10 ,PHRASE,and also,G2532,Epistles,New Testament,Colossians,NIV
+4,Colossians4:10 ,WORD,Barnabas's,G921,Epistles,New Testament,Colossians,NIV
+4,Colossians4:10 ,WORD,cousin,G431,Epistles,New Testament,Colossians,NIV
+4,Colossians4:10 ,WORD,Mark,G3138,Epistles,New Testament,Colossians,NIV
+4,Colossians4:10 ,WORD,(about,G4012,Epistles,New Testament,Colossians,NIV
+4,Colossians4:10 ,WORD,whom,G3739,Epistles,New Testament,Colossians,NIV
+4,Colossians4:10 ,PHRASE,you received,G2983,Epistles,New Testament,Colossians,NIV
+4,Colossians4:10 ,WORD,instructions,G1785,Epistles,New Testament,Colossians,NIV
+4,Colossians4:10 ,WORD,if,G1437,Epistles,New Testament,Colossians,NIV
+4,Colossians4:10 ,PHRASE,he comes,G2064,Epistles,New Testament,Colossians,NIV
+4,Colossians4:10 ,WORD,to,G4314,Epistles,New Testament,Colossians,NIV
+4,Colossians4:10 ,WORD,you,G4771,Epistles,New Testament,Colossians,NIV
+4,Colossians4:10 ,WORD,welcome,G1209,Epistles,New Testament,Colossians,NIV
+4,Colossians4:10 ,WORD,him),G846,Epistles,New Testament,Colossians,NIV
+4,Colossians4:11 ,PHRASE,and also,G2532,Epistles,New Testament,Colossians,NIV
+4,Colossians4:11 ,WORD,Jesus,G2424,Epistles,New Testament,Colossians,NIV
+4,Colossians4:11 ,WORD,who,G3588,Epistles,New Testament,Colossians,NIV
+4,Colossians4:11 ,PHRASE,is called,G3004,Epistles,New Testament,Colossians,NIV
+4,Colossians4:11 ,WORD,Justus,G2459,Epistles,New Testament,Colossians,NIV
+4,Colossians4:11 ,WORD,these,G3778,Epistles,New Testament,Colossians,NIV
+4,Colossians4:11 ,WORD,are,G1510,Epistles,New Testament,Colossians,NIV
+4,Colossians4:11 ,PHRASE,the only,G3441,Epistles,New Testament,Colossians,NIV
+4,Colossians4:11 ,PHRASE,fellow workers,G4904,Epistles,New Testament,Colossians,NIV
+4,Colossians4:11 ,WORD,for,G1519,Epistles,New Testament,Colossians,NIV
+4,Colossians4:11 ,WORD,the,G3588,Epistles,New Testament,Colossians,NIV
+4,Colossians4:11 ,WORD,kingdom,G932,Epistles,New Testament,Colossians,NIV
+4,Colossians4:11 ,PHRASE,of God,G2316,Epistles,New Testament,Colossians,NIV
+4,Colossians4:11 ,PHRASE,who are from,G1537,Epistles,New Testament,Colossians,NIV
+4,Colossians4:11 ,PHRASE,the circumcision,G4061,Epistles,New Testament,Colossians,NIV
+4,Colossians4:11 ,PHRASE,and they,G3748,Epistles,New Testament,Colossians,NIV
+4,Colossians4:11 ,PHRASE,have proved,G1096,Epistles,New Testament,Colossians,NIV
+4,Colossians4:11 ,PHRASE,to be an encouragement,G3931,Epistles,New Testament,Colossians,NIV
+4,Colossians4:11 ,PHRASE,to me,G1473,Epistles,New Testament,Colossians,NIV
+4,Colossians4:12 ,WORD,Epaphras,G1889,Epistles,New Testament,Colossians,NIV
+4,Colossians4:12 ,WORD,who,G3588,Epistles,New Testament,Colossians,NIV
+4,Colossians4:12 ,PHRASE,is one of,G1537,Epistles,New Testament,Colossians,NIV
+4,Colossians4:12 ,PHRASE,your number,G4771,Epistles,New Testament,Colossians,NIV
+4,Colossians4:12 ,PHRASE,a bondslave,G1401,Epistles,New Testament,Colossians,NIV
+4,Colossians4:12 ,PHRASE,of Jesus,G2424,Epistles,New Testament,Colossians,NIV
+4,Colossians4:12 ,WORD,Christ,G5547,Epistles,New Testament,Colossians,NIV
+4,Colossians4:12 ,WORD,sends,G782,Epistles,New Testament,Colossians,NIV
+4,Colossians4:12 ,WORD,you,G4771,Epistles,New Testament,Colossians,NIV
+4,Colossians4:12 ,PHRASE,his greetings,G782,Epistles,New Testament,Colossians,NIV
+4,Colossians4:12 ,WORD,always,G3842,Epistles,New Testament,Colossians,NIV
+4,Colossians4:12 ,PHRASE,laboring earnestly,G75,Epistles,New Testament,Colossians,NIV
+4,Colossians4:12 ,WORD,for,G5228,Epistles,New Testament,Colossians,NIV
+4,Colossians4:12 ,WORD,you,G4771,Epistles,New Testament,Colossians,NIV
+4,Colossians4:12 ,WORD,in,G1722,Epistles,New Testament,Colossians,NIV
+4,Colossians4:12 ,PHRASE,his prayers,G4335,Epistles,New Testament,Colossians,NIV
+4,Colossians4:12 ,WORD,that,G2443,Epistles,New Testament,Colossians,NIV
+4,Colossians4:12 ,PHRASE,you may stand,G2476,Epistles,New Testament,Colossians,NIV
+4,Colossians4:12 ,WORD,perfect,G5046,Epistles,New Testament,Colossians,NIV
+4,Colossians4:12 ,WORD,and,G2532,Epistles,New Testament,Colossians,NIV
+4,Colossians4:12 ,PHRASE,fully assured,G4135,Epistles,New Testament,Colossians,NIV
+4,Colossians4:12 ,WORD,in,G1722,Epistles,New Testament,Colossians,NIV
+4,Colossians4:12 ,WORD,all,G3956,Epistles,New Testament,Colossians,NIV
+4,Colossians4:12 ,PHRASE,the will,G2307,Epistles,New Testament,Colossians,NIV
+4,Colossians4:12 ,PHRASE,of God,G2316,Epistles,New Testament,Colossians,NIV
+4,Colossians4:13 ,WORD,For,G1063,Epistles,New Testament,Colossians,NIV
+4,Colossians4:13 ,PHRASE,I testify,G3140,Epistles,New Testament,Colossians,NIV
+4,Colossians4:13 ,PHRASE,for him,G846,Epistles,New Testament,Colossians,NIV
+4,Colossians4:13 ,WORD,that,G3754,Epistles,New Testament,Colossians,NIV
+4,Colossians4:13 ,PHRASE,he has,G2192,Epistles,New Testament,Colossians,NIV
+4,Colossians4:13 ,PHRASE,a deep,G4183,Epistles,New Testament,Colossians,NIV
+4,Colossians4:13 ,WORD,concern,G4192,Epistles,New Testament,Colossians,NIV
+4,Colossians4:13 ,WORD,for,G5228,Epistles,New Testament,Colossians,NIV
+4,Colossians4:13 ,WORD,you,G4771,Epistles,New Testament,Colossians,NIV
+4,Colossians4:13 ,WORD,and,G2532,Epistles,New Testament,Colossians,NIV
+4,Colossians4:13 ,PHRASE,for those,G3588,Epistles,New Testament,Colossians,NIV
+4,Colossians4:13 ,PHRASE,who are in,G1722,Epistles,New Testament,Colossians,NIV
+4,Colossians4:13 ,WORD,Laodicea,G2993,Epistles,New Testament,Colossians,NIV
+4,Colossians4:13 ,WORD,and,G2532,Epistles,New Testament,Colossians,NIV
+4,Colossians4:13 ,WORD,Hierapolis,G2404,Epistles,New Testament,Colossians,NIV
+4,Colossians4:14 ,WORD,Luke,G3065,Epistles,New Testament,Colossians,NIV
+4,Colossians4:14 ,WORD,the,G3588,Epistles,New Testament,Colossians,NIV
+4,Colossians4:14 ,WORD,beloved,G27,Epistles,New Testament,Colossians,NIV
+4,Colossians4:14 ,WORD,physician,G2395,Epistles,New Testament,Colossians,NIV
+4,Colossians4:14 ,WORD,sends,G782,Epistles,New Testament,Colossians,NIV
+4,Colossians4:14 ,WORD,you,G4771,Epistles,New Testament,Colossians,NIV
+4,Colossians4:14 ,PHRASE,his greetings,G782,Epistles,New Testament,Colossians,NIV
+4,Colossians4:14 ,PHRASE,and also,G2532,Epistles,New Testament,Colossians,NIV
+4,Colossians4:14 ,WORD,Demas,G1214,Epistles,New Testament,Colossians,NIV
+4,Colossians4:15 ,WORD,Greet,G782,Epistles,New Testament,Colossians,NIV
+4,Colossians4:15 ,PHRASE,the brethren,G80,Epistles,New Testament,Colossians,NIV
+4,Colossians4:15 ,WORD,who,G3588,Epistles,New Testament,Colossians,NIV
+4,Colossians4:15 ,PHRASE,are in,G1722,Epistles,New Testament,Colossians,NIV
+4,Colossians4:15 ,WORD,Laodicea,G2993,Epistles,New Testament,Colossians,NIV
+4,Colossians4:15 ,PHRASE,and also,G2532,Epistles,New Testament,Colossians,NIV
+4,Colossians4:15 ,WORD,Nympha,G3564,Epistles,New Testament,Colossians,NIV
+4,Colossians4:15 ,WORD,and,G2532,Epistles,New Testament,Colossians,NIV
+4,Colossians4:15 ,PHRASE,the church,G1577,Epistles,New Testament,Colossians,NIV
+4,Colossians4:15 ,WORD,that,G3588,Epistles,New Testament,Colossians,NIV
+4,Colossians4:15 ,PHRASE,is in,G2596,Epistles,New Testament,Colossians,NIV
+4,Colossians4:15 ,WORD,her,G846,Epistles,New Testament,Colossians,NIV
+4,Colossians4:15 ,WORD,house,G3624,Epistles,New Testament,Colossians,NIV
+4,Colossians4:16 ,WORD,When,G3752,Epistles,New Testament,Colossians,NIV
+4,Colossians4:16 ,PHRASE,this letter,G1992,Epistles,New Testament,Colossians,NIV
+4,Colossians4:16 ,PHRASE,is read,G314,Epistles,New Testament,Colossians,NIV
+4,Colossians4:16 ,WORD,among,G3844,Epistles,New Testament,Colossians,NIV
+4,Colossians4:16 ,WORD,you,G4771,Epistles,New Testament,Colossians,NIV
+4,Colossians4:16 ,PHRASE,have it,G4160,Epistles,New Testament,Colossians,NIV
+4,Colossians4:16 ,WORD,also,G2532,Epistles,New Testament,Colossians,NIV
+4,Colossians4:16 ,WORD,read,G314,Epistles,New Testament,Colossians,NIV
+4,Colossians4:16 ,WORD,in,G1722,Epistles,New Testament,Colossians,NIV
+4,Colossians4:16 ,PHRASE,the church,G1577,Epistles,New Testament,Colossians,NIV
+4,Colossians4:16 ,PHRASE,of the,G3588,Epistles,New Testament,Colossians,NIV
+4,Colossians4:16 ,WORD,Laodiceans,G2994,Epistles,New Testament,Colossians,NIV
+4,Colossians4:16 ,WORD,and,G2532,Epistles,New Testament,Colossians,NIV
+4,Colossians4:16 ,WORD,you,G4771,Epistles,New Testament,Colossians,NIV
+4,Colossians4:16 ,PHRASE,for your part,G2443,Epistles,New Testament,Colossians,NIV
+4,Colossians4:16 ,WORD,,G2532,Epistles,New Testament,Colossians,NIV
+4,Colossians4:16 ,WORD,read,G314,Epistles,New Testament,Colossians,NIV
+4,Colossians4:16 ,PHRASE,my letter,G3588,Epistles,New Testament,Colossians,NIV
+4,Colossians4:16 ,PHRASE,that is coming,,Epistles,New Testament,Colossians,NIV
+4,Colossians4:16 ,WORD,from,G1537,Epistles,New Testament,Colossians,NIV
+4,Colossians4:16 ,WORD,Laodicea,G2993,Epistles,New Testament,Colossians,NIV
+4,Colossians4:17 ,WORD,Say,G3004,Epistles,New Testament,Colossians,NIV
+4,Colossians4:17 ,PHRASE,to Archippus,G751,Epistles,New Testament,Colossians,NIV
+4,Colossians4:17 ,PHRASE,Take heed,G991,Epistles,New Testament,Colossians,NIV
+4,Colossians4:17 ,PHRASE,to the,G3588,Epistles,New Testament,Colossians,NIV
+4,Colossians4:17 ,WORD,ministry,G1248,Epistles,New Testament,Colossians,NIV
+4,Colossians4:17 ,WORD,which,G3739,Epistles,New Testament,Colossians,NIV
+4,Colossians4:17 ,PHRASE,you have received,G3880,Epistles,New Testament,Colossians,NIV
+4,Colossians4:17 ,WORD,in,G1722,Epistles,New Testament,Colossians,NIV
+4,Colossians4:17 ,PHRASE,the Lord,G2962,Epistles,New Testament,Colossians,NIV
+4,Colossians4:17 ,WORD,that,G2443,Epistles,New Testament,Colossians,NIV
+4,Colossians4:17 ,PHRASE,you may fulfill,G4137,Epistles,New Testament,Colossians,NIV
+4,Colossians4:17 ,WORD,it,G846,Epistles,New Testament,Colossians,NIV
+4,Colossians4:18 ,PHRASE,"I, Paul",G3972,Epistles,New Testament,Colossians,NIV
+4,Colossians4:18 ,PHRASE,write this greeting,G783,Epistles,New Testament,Colossians,NIV
+4,Colossians4:18 ,PHRASE,with my own,G1699,Epistles,New Testament,Colossians,NIV
+4,Colossians4:18 ,WORD,hand,G5495,Epistles,New Testament,Colossians,NIV
+4,Colossians4:18 ,WORD,Remember,G3421,Epistles,New Testament,Colossians,NIV
+4,Colossians4:18 ,WORD,my,G1473,Epistles,New Testament,Colossians,NIV
+4,Colossians4:18 ,WORD,imprisonment,G1199,Epistles,New Testament,Colossians,NIV
+4,Colossians4:18 ,WORD,Grace,G5485,Epistles,New Testament,Colossians,NIV
+4,Colossians4:18 ,PHRASE,be with,G3326,Epistles,New Testament,Colossians,NIV
+4,Colossians4:18 ,WORD,you,G4771,Epistles,New Testament,Colossians,NIV

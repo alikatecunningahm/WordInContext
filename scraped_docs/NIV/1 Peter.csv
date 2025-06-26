@@ -1,0 +1,1551 @@
+bible_chapter,bible_verse,verse_part_type,verse_part,hebrew_id,lit_type,testament_type,bible_book,version
+1,1 Peter1:1 ,WORD,Peter,G4074,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:1 ,PHRASE,an apostle,G652,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:1 ,PHRASE,of Jesus,G2424,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:1 ,WORD,Christ,G5547,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:1 ,PHRASE,To those who reside as aliens,G3927,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:1 ,PHRASE,scattered throughout,G1290,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:1 ,WORD,Pontus,G4195,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:1 ,WORD,Galatia,G1053,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:1 ,WORD,Cappadocia,G2587,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:1 ,WORD,Asia,G773,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:1 ,WORD,and,G2532,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:1 ,WORD,Bithynia,G978,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:1 ,PHRASE,who are chosen,G1588,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:2 ,PHRASE,according to,G2596,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:2 ,PHRASE,the foreknowledge,G4268,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:2 ,PHRASE,of God,G2316,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:2 ,PHRASE,the Father,G3962,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:2 ,WORD,by,G1722,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:2 ,PHRASE,the sanctifying work,G38,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:2 ,PHRASE,of the Spirit,G4151,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:2 ,WORD,to,G1519,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:2 ,WORD,obey,G5218,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:2 ,WORD,Jesus,G2424,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:2 ,WORD,Christ,G5547,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:2 ,WORD,and,G2532,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:2 ,PHRASE,be sprinkled,G4473,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:2 ,PHRASE,with His blood,G129,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:2 ,PHRASE,May grace,G5485,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:2 ,WORD,and,G2532,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:2 ,WORD,peace,G1515,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:2 ,PHRASE,be yours,G4771,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:2 ,PHRASE,in the fullest measure,G4129,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:3 ,WORD,Blessed,G2128,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:3 ,PHRASE,be the,G3588,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:3 ,WORD,God,G2316,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:3 ,WORD,and,G2532,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:3 ,WORD,Father,G3962,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:3 ,PHRASE,of our,G1473,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:3 ,WORD,Lord,G2962,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:3 ,WORD,Jesus,G2424,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:3 ,WORD,Christ,G5547,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:3 ,WORD,who,G3588,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:3 ,PHRASE,according to,G2596,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:3 ,WORD,His,G846,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:3 ,WORD,great,G4183,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:3 ,WORD,mercy,G1656,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:3 ,PHRASE,has caused,G313,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:3 ,WORD,us,G1473,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:3 ,PHRASE,to be born again,G313,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:3 ,WORD,to,G1519,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:3 ,PHRASE,a living,G2198,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:3 ,WORD,hope,G1680,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:3 ,WORD,through,G1223,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:3 ,PHRASE,the resurrection,G386,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:3 ,PHRASE,of Jesus,G2424,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:3 ,WORD,Christ,G5547,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:3 ,WORD,from,G1537,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:3 ,PHRASE,the dead,G3498,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:4 ,WORD,to,G1519,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:4 ,PHRASE,obtain an inheritance,G2817,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:4 ,PHRASE,which is imperishable,G862,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:4 ,WORD,and,G2532,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:4 ,WORD,undefiled,G283,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:4 ,WORD,and,G2532,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:4 ,PHRASE,will not fade away,G263,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:4 ,WORD,reserved,G5083,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:4 ,WORD,in,G1722,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:4 ,WORD,heaven,G3772,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:4 ,WORD,for,G1519,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:4 ,WORD,you,G4771,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:5 ,PHRASE,who are protected,G5432,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:5 ,WORD,by,G1722,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:5 ,PHRASE,the power,G1411,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:5 ,PHRASE,of God,G2316,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:5 ,WORD,through,G1223,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:5 ,WORD,faith,G4102,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:5 ,WORD,for,G1519,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:5 ,PHRASE,a salvation,G4991,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:5 ,WORD,ready,G2092,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:5 ,PHRASE,to be revealed,G601,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:5 ,WORD,in,G1722,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:5 ,PHRASE,the last,G2078,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:5 ,WORD,time,G2540,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:6 ,WORD,In,G1722,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:6 ,WORD,this,G3739,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:6 ,PHRASE,you greatly rejoice,G21,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:6 ,PHRASE,even though now,G737,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:6 ,PHRASE,for a little while,G3641,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:6 ,WORD,if,G1487,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:6 ,WORD,necessary,G1163,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:6 ,WORD,,G1510,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:6 ,PHRASE,you have been distressed,G3076,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:6 ,WORD,by,G1722,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:6 ,WORD,various,G4164,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:6 ,WORD,trials,G3986,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:7 ,PHRASE,so that,G2443,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:7 ,WORD,the,G3588,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:7 ,WORD,proof,G1383,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:7 ,PHRASE,of your,G4771,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:7 ,WORD,faith,G4102,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:7 ,PHRASE,being more precious,G4186,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:7 ,PHRASE,than gold,G5553,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:7 ,WORD,which,G3588,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:7 ,PHRASE,is perishable,G622,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:7 ,PHRASE,even though,G1161,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:7 ,WORD,tested,G1381,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:7 ,WORD,by,G1223,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:7 ,WORD,fire,G4442,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:7 ,PHRASE,may be found,G2147,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:7 ,PHRASE,to result,G1519,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:7 ,PHRASE,in praise,G1868,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:7 ,WORD,and,G2532,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:7 ,WORD,glory,G1391,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:7 ,WORD,and,G2532,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:7 ,WORD,honor,G5092,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:7 ,WORD,at,G1722,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:7 ,PHRASE,the revelation,G602,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:7 ,PHRASE,of Jesus,G2424,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:7 ,WORD,Christ,G5547,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:8 ,PHRASE,and though you have not,G3756,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:8 ,WORD,seen,G3708,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:8 ,WORD,Him,G3739,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:8 ,PHRASE,you love Him,G25,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:8 ,PHRASE,and though you do not,G3361,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:8 ,WORD,see,G3708,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:8 ,WORD,Him,G3739,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:8 ,WORD,now,G737,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:8 ,WORD,but,G1161,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:8 ,PHRASE,believe in Him,G4100,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:8 ,PHRASE,you greatly rejoice,G21,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:8 ,PHRASE,with joy,G5479,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:8 ,WORD,inexpressible,G412,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:8 ,WORD,and,G2532,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:8 ,PHRASE,full of glory,G1392,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:9 ,PHRASE,obtaining as,G2865,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:9 ,WORD,the,G3588,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:9 ,WORD,outcome,G5056,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:9 ,PHRASE,of your,G4771,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:9 ,WORD,faith,G4102,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:9 ,PHRASE,the salvation,G4991,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:9 ,PHRASE,of your souls,G5590,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:10 ,WORD,As,G4012,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:10 ,PHRASE,to this,G3739,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:10 ,WORD,salvation,G4991,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:10 ,PHRASE,the prophets,G4396,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:10 ,PHRASE,who prophesied,G4395,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:10 ,WORD,of,G4012,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:10 ,PHRASE,the grace,G5485,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:10 ,WORD,that,G3588,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:10 ,PHRASE,would come,,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:10 ,WORD,to,G1519,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:10 ,WORD,you,G4771,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:10 ,PHRASE,made careful searches,G1567,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:10 ,WORD,and,G2532,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:10 ,WORD,inquiries,G1830,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:11 ,PHRASE,seeking to know,G2045,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:11 ,WORD,what,G4169,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:11 ,WORD,person,G5101,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:11 ,WORD,or,G2228,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:11 ,WORD,time,G2540,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:11 ,PHRASE,the Spirit,G4151,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:11 ,PHRASE,of Christ,G5547,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:11 ,WORD,within,G1722,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:11 ,WORD,them,G846,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:11 ,PHRASE,was indicating,G1213,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:11 ,PHRASE,as He predicted,G4303,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:11 ,PHRASE,the sufferings,G3804,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:11 ,PHRASE,of Christ,G5547,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:11 ,WORD,and,G2532,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:11 ,PHRASE,the glories,G1391,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:11 ,PHRASE,to follow,G3326,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:11 ,WORD,,G3778,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:12 ,PHRASE,It was revealed,G601,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:12 ,PHRASE,to them,G3739,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:12 ,WORD,that,G3754,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:12 ,PHRASE,they were not,G3756,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:12 ,WORD,serving,G1247,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:12 ,WORD,themselves,G1438,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:12 ,WORD,but,G1161,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:12 ,WORD,you,G4771,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:12 ,PHRASE,in these things,G846,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:12 ,WORD,which,G3739,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:12 ,WORD,now,G3568,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:12 ,PHRASE,have been announced,G312,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:12 ,PHRASE,to you,G4771,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:12 ,WORD,through,G1223,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:12 ,PHRASE,those who,G3588,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:12 ,PHRASE,preached the gospel,G2097,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:12 ,PHRASE,to you,G4771,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:12 ,WORD,by,G1722,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:12 ,PHRASE,the Holy,G40,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:12 ,WORD,Spirit,G4151,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:12 ,WORD,sent,G649,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:12 ,WORD,from,G575,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:12 ,WORD,heaven,G3772,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:12 ,PHRASE,things into,G1519,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:12 ,WORD,which,G3739,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:12 ,WORD,angels,G32,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:12 ,WORD,long,G1937,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:12 ,PHRASE,to look,G3879,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:13 ,WORD,Therefore,G1352,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:13 ,WORD,prepare,G328,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:13 ,WORD,your,G4771,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:13 ,PHRASE,minds for action,G1271,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:13 ,PHRASE,keep sober in spirit,G3525,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:13 ,PHRASE,fix your hope,G1679,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:13 ,WORD,completely,G5049,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:13 ,WORD,on,G1909,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:13 ,PHRASE,the grace,G5485,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:13 ,PHRASE,to be brought,G5342,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:13 ,PHRASE,to you,G4771,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:13 ,WORD,at,G1722,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:13 ,PHRASE,the revelation,G602,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:13 ,PHRASE,of Jesus,G2424,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:13 ,WORD,Christ,G5547,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:14 ,WORD,As,G5613,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:14 ,WORD,obedient,G5218,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:14 ,WORD,children,G5043,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:14 ,PHRASE,do not,G3361,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:14 ,PHRASE,be conformed,G4964,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:14 ,PHRASE,to the,G3588,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:14 ,WORD,former,G4386,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:14 ,WORD,lusts,G1939,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:14 ,PHRASE,which were yours in,G1722,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:14 ,WORD,your,G4771,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:14 ,WORD,ignorance,G52,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:15 ,WORD,but,G235,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:15 ,WORD,like,G2596,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:15 ,PHRASE,the Holy One,G40,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:15 ,WORD,who,G3588,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:15 ,WORD,called,G2564,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:15 ,WORD,you,G4771,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:15 ,WORD,be,G1096,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:15 ,WORD,holy,G40,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:15 ,WORD,yourselves,G846,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:15 ,WORD,also,G2532,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:15 ,WORD,in,G1722,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:15 ,WORD,all,G3956,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:15 ,PHRASE,your behavior,G391,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:16 ,WORD,because,G1360,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:16 ,PHRASE,it is written,G1125,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:16 ,PHRASE,YOU SHALL BE,G1510,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:16 ,WORD,HOLY,G40,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:16 ,WORD,FOR,G3754,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:16 ,WORD,I,G1473,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:16 ,WORD,AM,G1510,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:16 ,WORD,HOLY,G40,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:17 ,WORD,If,G1487,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:17 ,PHRASE,you address,G1941,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:17 ,PHRASE,as Father,G3962,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:17 ,PHRASE,the One who,G3588,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:17 ,WORD,impartially,G678,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:17 ,WORD,judges,G2919,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:17 ,PHRASE,according to,G2596,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:17 ,PHRASE,each one's,G1538,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:17 ,WORD,work,G2041,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:17 ,PHRASE,conduct yourselves,G390,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:17 ,WORD,in,G1722,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:17 ,WORD,fear,G5401,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:17 ,PHRASE,during the,G3588,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:17 ,WORD,time,G5550,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:17 ,PHRASE,of your,G4771,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:17 ,WORD,stay,G3940,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:17 ,PHRASE,on earth,,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:18 ,WORD,knowing,G1492,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:18 ,WORD,that,G3754,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:18 ,PHRASE,you were not,G3756,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:18 ,WORD,redeemed,G3084,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:18 ,PHRASE,with perishable things,G5349,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:18 ,PHRASE,like silver,G694,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:18 ,WORD,or,G2228,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:18 ,WORD,gold,G5553,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:18 ,WORD,from,G1537,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:18 ,WORD,your,G4771,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:18 ,WORD,futile,G3152,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:18 ,PHRASE,way of life,G391,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:18 ,PHRASE,inherited from your forefathers,G3970,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:19 ,WORD,but,G235,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:19 ,PHRASE,with precious,G5093,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:19 ,WORD,blood,G129,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:19 ,WORD,as,G5613,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:19 ,PHRASE,of a lamb,G286,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:19 ,WORD,unblemished,G299,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:19 ,WORD,and,G2532,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:19 ,WORD,spotless,G784,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:19 ,PHRASE,the blood of Christ,G5547,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:20 ,PHRASE,For He was foreknown,G4267,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:20 ,WORD,before,G4253,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:20 ,PHRASE,the foundation,G2602,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:20 ,PHRASE,of the world,G2889,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:20 ,WORD,but,G1161,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:20 ,PHRASE,has appeared,G5319,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:20 ,WORD,in,G1909,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:20 ,PHRASE,these last,G2078,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:20 ,WORD,times,G5550,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:20 ,PHRASE,for the sake,G1223,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:20 ,PHRASE,of you,G4771,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:21 ,WORD,who,G3588,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:21 ,WORD,through,G1223,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:21 ,WORD,Him,G846,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:21 ,PHRASE,are believers,G4103,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:21 ,WORD,in,G1519,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:21 ,WORD,God,G2316,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:21 ,WORD,who,G3588,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:21 ,WORD,raised,G1453,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:21 ,WORD,Him,G846,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:21 ,WORD,from,G1537,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:21 ,PHRASE,the dead,G3498,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:21 ,WORD,and,G2532,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:21 ,WORD,gave,G1325,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:21 ,WORD,Him,G846,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:21 ,WORD,glory,G1391,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:21 ,PHRASE,so that,G5620,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:21 ,WORD,your,G4771,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:21 ,WORD,faith,G4102,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:21 ,WORD,and,G2532,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:21 ,WORD,hope,G1680,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:21 ,WORD,are,G1510,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:21 ,WORD,in,G1519,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:21 ,WORD,God,G2316,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:22 ,PHRASE,Since you have in,G1722,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:22 ,WORD,,G3588,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:22 ,WORD,obedience,G5218,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:22 ,PHRASE,to the,G3588,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:22 ,WORD,truth,G225,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:22 ,WORD,purified,G48,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:22 ,WORD,your,G4771,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:22 ,WORD,souls,G5590,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:22 ,PHRASE,for a sincere,G505,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:22 ,WORD,,G1519,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:22 ,PHRASE,love of the brethren,G5360,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:22 ,WORD,fervently,G1619,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:22 ,WORD,love,G25,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:22 ,PHRASE,one another,G240,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:22 ,WORD,from,G1537,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:22 ,PHRASE,the heart,G2588,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:23 ,PHRASE,for you have been born again,G313,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:23 ,WORD,not,G3756,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:23 ,WORD,of,G1537,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:23 ,WORD,seed,G4701,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:23 ,PHRASE,which is perishable,G5349,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:23 ,WORD,but,G235,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:23 ,WORD,imperishable,G862,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:23 ,PHRASE,"that is, through",G1223,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:23 ,PHRASE,the living,G2198,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:23 ,WORD,and,G2532,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:23 ,WORD,enduring,G3306,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:23 ,WORD,word,G3056,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:23 ,PHRASE,of God,G2316,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:24 ,WORD,For,G1360,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:24 ,WORD,ALL,G3956,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:24 ,WORD,FLESH,G4561,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:24 ,PHRASE,IS LIKE,G5613,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:24 ,WORD,GRASS,G5528,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:24 ,WORD,AND,G2532,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:24 ,WORD,ALL,G3956,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:24 ,WORD,ITS,G846,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:24 ,WORD,GLORY,G1391,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:24 ,WORD,LIKE,G5613,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:24 ,PHRASE,THE FLOWER,G438,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:24 ,PHRASE,OF GRASS,G5528,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:24 ,WORD,THE,G3588,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:24 ,WORD,GRASS,G5528,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:24 ,WORD,WITHERS,G3583,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:24 ,WORD,AND,G2532,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:24 ,WORD,THE,G3588,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:24 ,WORD,FLOWER,G438,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:24 ,PHRASE,FALLS OFF,G1601,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:25 ,WORD,BUT,G1161,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:25 ,WORD,THE,G3588,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:25 ,WORD,WORD,G4487,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:25 ,PHRASE,OF THE LORD,G2962,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:25 ,WORD,ENDURES,G3306,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:25 ,WORD,FOREVER,G1519,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:25 ,WORD,,G165,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:25 ,WORD,And,G1161,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:25 ,WORD,this,G3778,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:25 ,WORD,is,G1510,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:25 ,WORD,the,G3588,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:25 ,WORD,word,G4487,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:25 ,WORD,which,G3588,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:25 ,PHRASE,was preached,G2097,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:25 ,WORD,to,G1519,Epistles,New Testament,1 Peter,NIV
+1,1 Peter1:25 ,WORD,you,G4771,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:1 ,WORD,Therefore,G3767,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:1 ,PHRASE,putting aside,G659,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:1 ,WORD,all,G3956,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:1 ,WORD,malice,G2549,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:1 ,WORD,and,G2532,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:1 ,WORD,all,G3956,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:1 ,WORD,deceit,G1388,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:1 ,WORD,and,G2532,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:1 ,WORD,hypocrisy,G5272,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:1 ,WORD,and,G2532,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:1 ,WORD,envy,G5355,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:1 ,WORD,and,G2532,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:1 ,WORD,all,G3956,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:1 ,WORD,slander,G2636,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:2 ,WORD,like,G5613,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:2 ,WORD,newborn,G738,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:2 ,WORD,babies,G1025,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:2 ,WORD,long,G1971,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:2 ,PHRASE,for the pure,G97,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:2 ,WORD,milk,G1051,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:2 ,PHRASE,of the,G3588,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:2 ,WORD,word,G3050,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:2 ,PHRASE,so that,G2443,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:2 ,WORD,by,G1722,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:2 ,WORD,it,G846,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:2 ,PHRASE,you may grow,G837,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:2 ,PHRASE,in respect to,G1519,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:2 ,WORD,salvation,G4991,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:3 ,WORD,if,G1487,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:3 ,PHRASE,you have tasted,G1089,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:3 ,WORD,the,G3588,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:3 ,WORD,kindness,G5543,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:3 ,PHRASE,of the,G3588,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:3 ,WORD,Lord,G2962,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:4 ,PHRASE,And coming,G4334,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:4 ,WORD,to,G4314,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:4 ,WORD,Him,G3739,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:4 ,PHRASE,as to a living,G2198,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:4 ,WORD,stone,G3037,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:4 ,WORD,which,G3303,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:4 ,PHRASE,has been rejected,G593,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:4 ,WORD,by,G5259,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:4 ,WORD,men,G444,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:4 ,WORD,but,G1161,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:4 ,PHRASE,is choice,G1588,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:4 ,PHRASE,and precious,G1784,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:4 ,PHRASE,in the sight,G3844,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:4 ,PHRASE,of God,G2316,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:5 ,WORD,you,G846,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:5 ,WORD,also,G2532,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:5 ,WORD,as,G5613,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:5 ,WORD,living,G2198,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:5 ,WORD,stones,G3037,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:5 ,PHRASE,are being built up,G3618,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:5 ,PHRASE,as a spiritual,G4152,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:5 ,WORD,house,G3624,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:5 ,WORD,for,G1519,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:5 ,PHRASE,a holy,G40,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:5 ,WORD,priesthood,G2406,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:5 ,PHRASE,to offer up,G399,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:5 ,WORD,spiritual,G4152,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:5 ,WORD,sacrifices,G2378,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:5 ,WORD,acceptable,G2144,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:5 ,PHRASE,to God,G2316,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:5 ,WORD,through,G1223,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:5 ,WORD,Jesus,G2424,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:5 ,WORD,Christ,G5547,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:6 ,PHRASE,For this,G1360,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:6 ,PHRASE,is contained,G4023,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:6 ,WORD,in,G1722,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:6 ,WORD,Scripture,G1124,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:6 ,WORD,BEHOLD,G2400,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:6 ,PHRASE,I LAY,G5087,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:6 ,WORD,IN,G1722,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:6 ,WORD,ZION,G4622,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:6 ,PHRASE,A CHOICE,G1588,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:6 ,WORD,STONE,G3037,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:6 ,PHRASE,A PRECIOUS,G1784,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:6 ,WORD,CORNER,G204,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:6 ,WORD,stone,,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:6 ,WORD,AND,G2532,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:6 ,PHRASE,HE WHO,G3588,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:6 ,WORD,BELIEVES,G4100,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:6 ,WORD,IN,G1909,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:6 ,WORD,HIM,G846,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:6 ,PHRASE,WILL NOT,G3756,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:6 ,WORD,,G3361,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:6 ,PHRASE,BE DISAPPOINTED,G2617,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:7 ,PHRASE,This precious value,G5092,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:7 ,WORD,then,G3767,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:7 ,PHRASE,is for you,G4771,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:7 ,WORD,who,G3588,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:7 ,WORD,believe,G4100,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:7 ,WORD,but,G1161,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:7 ,PHRASE,for those who disbelieve,G569,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:7 ,PHRASE,THE STONE,G3037,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:7 ,WORD,WHICH,G3739,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:7 ,WORD,THE,G3588,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:7 ,WORD,BUILDERS,G3618,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:7 ,WORD,REJECTED,G593,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:7 ,WORD,THIS,G3778,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:7 ,WORD,BECAME,G1096,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:7 ,PHRASE,THE VERY,G2776,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:7 ,WORD,CORNER,G1137,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:7 ,WORD,stone,,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:8 ,WORD,and,G2532,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:8 ,PHRASE,A STONE,G3037,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:8 ,PHRASE,OF STUMBLING,G4348,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:8 ,WORD,AND,G2532,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:8 ,PHRASE,A ROCK,G4073,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:8 ,PHRASE,OF OFFENSE,G4625,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:8 ,PHRASE,for they stumble,G4350,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:8 ,PHRASE,because they are disobedient,G544,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:8 ,PHRASE,to the,G3588,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:8 ,WORD,word,G3056,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:8 ,PHRASE,and to,G1519,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:8 ,PHRASE,this doom,G3739,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:8 ,PHRASE,they were also,G2532,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:8 ,WORD,appointed,G5087,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:9 ,WORD,But,G1161,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:9 ,WORD,you,G4771,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:9 ,PHRASE,are A CHOSEN,G1588,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:9 ,WORD,RACE,G1085,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:9 ,PHRASE,A royal,G934,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:9 ,WORD,PRIESTHOOD,G2406,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:9 ,PHRASE,A HOLY,G40,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:9 ,WORD,NATION,G1484,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:9 ,PHRASE,A PEOPLE,G2992,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:9 ,WORD,FOR,G1519,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:9 ,PHRASE,God's OWN POSSESSION,G4047,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:9 ,PHRASE,so that,G3704,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:9 ,PHRASE,you may proclaim,G1804,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:9 ,PHRASE,the excellencies,G703,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:9 ,PHRASE,of Him,G3588,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:9 ,PHRASE,who has called,G2564,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:9 ,WORD,you,G4771,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:9 ,PHRASE,out of,G1537,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:9 ,WORD,darkness,G4655,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:9 ,WORD,into,G1519,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:9 ,WORD,His,G846,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:9 ,WORD,marvelous,G2298,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:9 ,WORD,light,G5457,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:10 ,PHRASE,for you once,G4218,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:10 ,PHRASE,were NOT,G3756,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:10 ,PHRASE,A PEOPLE,G2992,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:10 ,WORD,but,G1161,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:10 ,WORD,now,G3568,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:10 ,PHRASE,you are THE PEOPLE,G2992,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:10 ,PHRASE,OF GOD,G2316,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:10 ,PHRASE,you had NOT,G3756,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:10 ,PHRASE,RECEIVED MERCY,G1653,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:10 ,WORD,but,G1161,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:10 ,WORD,now,G3568,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:10 ,PHRASE,you have RECEIVED MERCY,G1653,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:11 ,WORD,Beloved,G27,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:11 ,PHRASE,I urge you,G3870,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:11 ,WORD,as,G5613,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:11 ,WORD,aliens,G3941,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:11 ,WORD,and,G2532,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:11 ,WORD,strangers,G3927,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:11 ,PHRASE,to abstain,G568,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:11 ,PHRASE,from fleshly,G4559,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:11 ,WORD,lusts,G1939,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:11 ,WORD,which,G3748,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:11 ,PHRASE,wage war,G4754,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:11 ,WORD,against,G2596,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:11 ,WORD,the,G3588,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:11 ,WORD,soul,G5590,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:12 ,WORD,Keep,G2192,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:12 ,WORD,your,G4771,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:12 ,WORD,behavior,G391,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:12 ,WORD,excellent,G2570,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:12 ,WORD,among,G1722,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:12 ,WORD,the,G3588,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:12 ,WORD,Gentiles,G1484,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:12 ,PHRASE,so that,G2443,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:12 ,WORD,in,G1722,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:12 ,PHRASE,the thing in which,G3739,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:12 ,PHRASE,they slander,G2635,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:12 ,WORD,you,G4771,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:12 ,WORD,as,G5613,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:12 ,WORD,evildoers,G2555,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:12 ,PHRASE,they may because,G1537,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:12 ,PHRASE,of your,G3588,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:12 ,WORD,good,G2570,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:12 ,WORD,deeds,G2041,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:12 ,PHRASE,as they observe them,G2029,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:12 ,WORD,glorify,G1392,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:12 ,WORD,God,G2316,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:12 ,WORD,in,G1722,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:12 ,PHRASE,the day,G2250,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:12 ,PHRASE,of visitation,G1984,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:13 ,PHRASE,Submit yourselves,G5293,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:13 ,WORD,for,G1223,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:13 ,WORD,the,G3588,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:13 ,WORD,Lord's,G2962,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:13 ,WORD,sake,G1223,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:13 ,PHRASE,to every,G3956,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:13 ,WORD,human,G442,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:13 ,WORD,institution,G2937,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:13 ,WORD,whether,G1535,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:13 ,PHRASE,to a king,G935,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:13 ,WORD,as,G5613,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:13 ,PHRASE,the one in authority,G5242,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:14 ,WORD,or,G1535,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:14 ,PHRASE,to governors,G2232,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:14 ,WORD,as,G5613,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:14 ,WORD,sent,G3992,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:14 ,WORD,by,G1223,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:14 ,WORD,him,G846,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:14 ,WORD,for,G1519,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:14 ,PHRASE,the punishment,G1557,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:14 ,PHRASE,of evildoers,G2555,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:14 ,WORD,and,G1161,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:14 ,PHRASE,the praise,G1868,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:14 ,PHRASE,of those who do right,G17,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:15 ,WORD,For,G3754,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:15 ,WORD,such,G3779,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:15 ,WORD,is,G1510,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:15 ,WORD,the,G3588,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:15 ,WORD,will,G2307,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:15 ,PHRASE,of God,G2316,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:15 ,PHRASE,that by doing right,G15,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:15 ,PHRASE,you may silence,G5392,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:15 ,PHRASE,the ignorance,G56,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:15 ,PHRASE,of foolish,G878,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:15 ,WORD,men,G444,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:16 ,PHRASE,Act as,G5613,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:16 ,PHRASE,free men,G1658,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:16 ,WORD,and,G2532,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:16 ,PHRASE,do not,G3361,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:16 ,WORD,use,G2192,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:16 ,PHRASE,your freedom,G1657,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:16 ,WORD,as,G5613,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:16 ,PHRASE,a covering,G1942,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:16 ,PHRASE,for evil,G2549,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:16 ,WORD,but,G235,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:16 ,PHRASE,use it as,G5613,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:16 ,WORD,bondslaves,G1401,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:16 ,PHRASE,of God,G2316,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:17 ,WORD,Honor,G5091,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:17 ,PHRASE,all people,G3956,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:17 ,WORD,love,G25,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:17 ,WORD,the,G3588,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:17 ,WORD,brotherhood,G81,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:17 ,WORD,fear,G5399,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:17 ,WORD,God,G2316,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:17 ,WORD,honor,G5091,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:17 ,WORD,the,G3588,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:17 ,WORD,king,G935,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:18 ,WORD,Servants,G3610,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:18 ,PHRASE,be submissive,G5293,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:18 ,PHRASE,to your masters,G1203,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:18 ,WORD,with,G1722,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:18 ,WORD,all,G3956,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:18 ,WORD,respect,G5401,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:18 ,WORD,not,G3756,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:18 ,WORD,only,G3440,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:18 ,PHRASE,to those who are good,G18,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:18 ,WORD,and,G2532,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:18 ,WORD,gentle,G1933,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:18 ,WORD,but,G235,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:18 ,WORD,also,G2532,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:18 ,PHRASE,to those who,G3588,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:18 ,PHRASE,are unreasonable,G4646,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:19 ,WORD,For,G1063,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:19 ,WORD,this,G3778,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:19 ,PHRASE,finds favor,G5485,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:19 ,WORD,if,G1487,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:19 ,PHRASE,for the sake of,G1223,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:19 ,WORD,conscience,G4893,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:19 ,PHRASE,toward God,G2316,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:19 ,PHRASE,a person,G5100,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:19 ,PHRASE,bears up under,G5297,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:19 ,WORD,sorrows,G3077,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:19 ,PHRASE,when suffering,G3958,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:19 ,WORD,unjustly,G95,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:20 ,WORD,For,G1063,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:20 ,WORD,what,G4169,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:20 ,PHRASE,credit is there,G2811,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:20 ,WORD,if,G1487,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:20 ,PHRASE,when you sin,G264,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:20 ,WORD,and,G2532,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:20 ,PHRASE,are harshly treated,G2852,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:20 ,PHRASE,you endure it with patience,G5278,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:20 ,WORD,But,G235,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:20 ,WORD,if,G1487,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:20 ,PHRASE,when you do what is right,G15,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:20 ,WORD,and,G2532,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:20 ,PHRASE,suffer for it,G3958,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:20 ,PHRASE,you patiently endure it,G5278,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:20 ,WORD,this,G3778,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:20 ,PHRASE,finds favor,G5485,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:20 ,WORD,with,G3844,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:20 ,WORD,God,G2316,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:21 ,WORD,For,G1063,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:21 ,PHRASE,you have been called,G2564,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:21 ,WORD,for,G1519,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:21 ,PHRASE,this purpose,G3778,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:21 ,WORD,since,G3754,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:21 ,WORD,Christ,G5547,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:21 ,WORD,also,G2532,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:21 ,WORD,suffered,G3958,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:21 ,WORD,for,G5228,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:21 ,WORD,you,G4771,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:21 ,WORD,leaving,G5277,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:21 ,WORD,you,G4771,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:21 ,PHRASE,an example,G5261,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:21 ,PHRASE,for you to follow,G1872,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:21 ,PHRASE,in His,G846,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:21 ,WORD,steps,G2487,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:22 ,WORD,WHO,G3739,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:22 ,WORD,COMMITTED,G4160,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:22 ,WORD,NO,G3756,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:22 ,WORD,SIN,G266,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:22 ,WORD,NOR,G3761,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:22 ,PHRASE,WAS ANY DECEIT,G1388,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:22 ,WORD,FOUND,G2147,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:22 ,WORD,IN,G1722,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:22 ,WORD,HIS,G846,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:22 ,WORD,MOUTH,G4750,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:23 ,PHRASE,and while being reviled,G3058,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:23 ,WORD,He,G3739,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:23 ,PHRASE,did not,G3756,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:23 ,PHRASE,revile in return,G486,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:23 ,PHRASE,while suffering,G3958,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:23 ,PHRASE,He uttered,G546,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:23 ,WORD,no,G3756,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:23 ,WORD,threats,G546,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:23 ,WORD,but,G1161,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:23 ,PHRASE,kept entrusting Himself,G3860,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:23 ,PHRASE,to Him,G3588,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:23 ,PHRASE,who judges,G2919,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:23 ,WORD,righteously,G1346,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:24 ,PHRASE,and He,G3739,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:24 ,WORD,Himself,G846,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:24 ,WORD,bore,G399,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:24 ,WORD,our,G1473,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:24 ,WORD,sins,G266,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:24 ,WORD,in,G1722,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:24 ,WORD,His,G846,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:24 ,WORD,body,G4983,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:24 ,WORD,on,G1909,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:24 ,WORD,the,G3588,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:24 ,WORD,cross,G3586,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:24 ,PHRASE,so that,G2443,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:24 ,PHRASE,we might die,G581,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:24 ,PHRASE,to sin,G266,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:24 ,PHRASE,and live,G2198,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:24 ,PHRASE,to righteousness,G1343,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:24 ,PHRASE,for by His,G3739,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:24 ,WORD,wounds,G3468,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:24 ,PHRASE,you were healed,G2390,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:25 ,WORD,For,G1063,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:25 ,PHRASE,you were continually,G1510,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:25 ,WORD,straying,G4105,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:25 ,WORD,like,G5613,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:25 ,WORD,sheep,G4263,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:25 ,WORD,but,G235,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:25 ,WORD,now,G3568,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:25 ,PHRASE,you have returned,G1994,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:25 ,WORD,to,G1909,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:25 ,WORD,the,G3588,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:25 ,WORD,Shepherd,G4166,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:25 ,WORD,and,G2532,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:25 ,WORD,Guardian,G1985,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:25 ,PHRASE,of your,G4771,Epistles,New Testament,1 Peter,NIV
+2,1 Peter2:25 ,WORD,souls,G5590,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:1 ,PHRASE,In the same way,G3668,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:1 ,PHRASE,you wives,G1135,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:1 ,PHRASE,be submissive,G5293,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:1 ,PHRASE,to your own,G2398,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:1 ,WORD,husbands,G435,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:1 ,PHRASE,so that,G2443,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:1 ,WORD,even,G2532,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:1 ,WORD,if,G1487,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:1 ,PHRASE,any of them,G5100,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:1 ,PHRASE,are disobedient,G544,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:1 ,PHRASE,to the,G3588,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:1 ,WORD,word,G3056,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:1 ,PHRASE,they may be won,G2770,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:1 ,WORD,without,G427,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:1 ,PHRASE,a word,G3056,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:1 ,WORD,by,G1223,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:1 ,PHRASE,the behavior,G391,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:1 ,PHRASE,of their wives,G1135,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:2 ,PHRASE,as they observe,G2029,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:2 ,WORD,your,G4771,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:2 ,WORD,chaste,G53,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:2 ,PHRASE,and respectful,G5401,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:2 ,WORD,behavior,G391,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:3 ,PHRASE,Your adornment,G2889,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:3 ,PHRASE,must not,G3756,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:3 ,WORD,be,G1510,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:3 ,PHRASE,merely external,G1855,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:3 ,WORD,braiding,G1708,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:3 ,PHRASE,the hair,G2359,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:3 ,WORD,and,G2532,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:3 ,WORD,wearing,G4025,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:3 ,PHRASE,gold jewelry,G5553,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:3 ,WORD,or,G2228,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:3 ,PHRASE,putting on,G1745,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:3 ,WORD,dresses,G2440,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:4 ,WORD,but,G235,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:4 ,PHRASE,let it be the hidden,G2927,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:4 ,WORD,person,G444,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:4 ,PHRASE,of the,G3588,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:4 ,WORD,heart,G2588,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:4 ,WORD,with,G1722,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:4 ,WORD,the,G3588,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:4 ,PHRASE,imperishable quality,G862,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:4 ,PHRASE,of a,G3588,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:4 ,WORD,gentle,G4239,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:4 ,WORD,and,G2532,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:4 ,WORD,quiet,G2272,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:4 ,WORD,spirit,G4151,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:4 ,WORD,which,G3739,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:4 ,WORD,is,G1510,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:4 ,WORD,precious,G4185,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:4 ,PHRASE,in the sight,G1799,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:4 ,PHRASE,of God,G2316,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:5 ,WORD,For,G1063,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:5 ,PHRASE,in this way,G3779,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:5 ,PHRASE,in former times,G4218,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:5 ,WORD,the,G3588,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:5 ,WORD,holy,G40,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:5 ,WORD,women,G1135,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:5 ,WORD,also,G2532,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:5 ,WORD,who,G3588,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:5 ,WORD,hoped,G1679,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:5 ,WORD,in,G1519,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:5 ,WORD,God,G2316,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:5 ,PHRASE,used to adorn,G2885,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:5 ,WORD,themselves,G1438,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:5 ,PHRASE,being submissive,G5293,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:5 ,PHRASE,to their own,G2398,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:5 ,WORD,husbands,G435,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:6 ,PHRASE,just as,G5613,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:6 ,WORD,Sarah,G4564,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:6 ,WORD,obeyed,G5219,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:6 ,WORD,Abraham,G11,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:6 ,WORD,calling,G2564,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:6 ,WORD,him,G846,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:6 ,WORD,lord,G2962,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:6 ,PHRASE,and you have become,G1096,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:6 ,PHRASE,her children,G5043,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:6 ,PHRASE,if you do what is right,G15,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:6 ,WORD,without,G2532,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:6 ,WORD,,G3361,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:6 ,PHRASE,being frightened,G5399,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:6 ,PHRASE,by any,G3367,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:6 ,WORD,fear,G4423,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:7 ,PHRASE,You husbands,G435,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:7 ,PHRASE,in the same way,G3668,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:7 ,PHRASE,live with your wives,G4924,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:7 ,PHRASE,in an understanding,G1108,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:7 ,WORD,way,G2596,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:7 ,WORD,as,G5613,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:7 ,PHRASE,with someone,G4632,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:7 ,WORD,weaker,G772,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:7 ,PHRASE,since she is a woman,G1134,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:7 ,PHRASE,and show her,G632,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:7 ,WORD,honor,G5092,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:7 ,WORD,as,G5613,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:7 ,PHRASE,a fellow heir,G4789,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:7 ,PHRASE,of the grace,G5485,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:7 ,PHRASE,of life,G2222,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:7 ,PHRASE,so that,G1519,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:7 ,WORD,your,G4771,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:7 ,WORD,prayers,G4335,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:7 ,PHRASE,will not,G3361,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:7 ,PHRASE,be hindered,G1465,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:8 ,PHRASE,To sum up,G5056,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:8 ,PHRASE,all of you,G3956,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:8 ,PHRASE,be harmonious,G3675,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:8 ,WORD,sympathetic,G4835,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:8 ,WORD,brotherly,G5361,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:8 ,WORD,kindhearted,G2155,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:8 ,PHRASE,and humble in spirit,G5012,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:9 ,WORD,not,G3361,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:9 ,WORD,returning,G591,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:9 ,WORD,evil,G2556,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:9 ,WORD,for,G473,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:9 ,WORD,evil,G2556,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:9 ,WORD,or,G2228,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:9 ,WORD,insult,G3059,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:9 ,WORD,for,G473,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:9 ,WORD,insult,G3059,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:9 ,WORD,but,G1161,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:9 ,PHRASE,giving a blessing,G2127,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:9 ,WORD,instead,G5121,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:9 ,WORD,for,G3754,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:9 ,PHRASE,you were called,G2564,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:9 ,WORD,for,G1519,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:9 ,PHRASE,the very purpose,G3778,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:9 ,WORD,that,G2443,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:9 ,PHRASE,you might inherit,G2816,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:9 ,PHRASE,a blessing,G2129,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:10 ,WORD,For,G1063,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:10 ,PHRASE,THE ONE,G3588,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:10 ,PHRASE,WHO DESIRES,G2309,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:10 ,WORD,LIFE,G2222,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:10 ,PHRASE,TO LOVE,G25,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:10 ,WORD,AND,G2532,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:10 ,WORD,SEE,G3708,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:10 ,WORD,GOOD,G18,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:10 ,WORD,DAYS,G2250,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:10 ,PHRASE,MUST KEEP,G3973,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:10 ,PHRASE,HIS TONGUE,G1100,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:10 ,WORD,FROM,G575,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:10 ,WORD,EVIL,G2556,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:10 ,WORD,AND,G2532,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:10 ,PHRASE,HIS LIPS,G5491,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:10 ,WORD,FROM,G3361,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:10 ,WORD,SPEAKING,G2980,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:10 ,WORD,DECEIT,G1388,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:11 ,PHRASE,HE MUST TURN AWAY,G1578,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:11 ,WORD,FROM,G575,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:11 ,WORD,EVIL,G2556,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:11 ,WORD,AND,G2532,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:11 ,WORD,DO,G4160,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:11 ,WORD,GOOD,G18,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:11 ,PHRASE,HE MUST SEEK,G2212,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:11 ,WORD,PEACE,G1515,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:11 ,WORD,AND,G2532,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:11 ,WORD,PURSUE,G1377,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:11 ,WORD,IT,G846,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:12 ,WORD,FOR,G3754,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:12 ,PHRASE,THE EYES,G3788,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:12 ,PHRASE,OF THE LORD,G2962,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:12 ,PHRASE,ARE TOWARD,G1909,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:12 ,PHRASE,THE RIGHTEOUS,G1342,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:12 ,WORD,AND,G2532,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:12 ,WORD,HIS,G846,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:12 ,WORD,EARS,G3775,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:12 ,PHRASE,ATTEND TO,G1519,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:12 ,WORD,THEIR,G846,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:12 ,WORD,PRAYER,G1162,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:12 ,WORD,BUT,G1161,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:12 ,PHRASE,THE FACE,G4383,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:12 ,PHRASE,OF THE LORD,G2962,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:12 ,PHRASE,IS AGAINST,G1909,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:12 ,PHRASE,THOSE WHO DO,G4160,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:12 ,WORD,EVIL,G2556,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:13 ,PHRASE,Who is there,G5101,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:13 ,PHRASE,to harm,G2559,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:13 ,WORD,you,G4771,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:13 ,WORD,if,G1437,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:13 ,PHRASE,you prove,G1096,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:13 ,WORD,zealous,G2207,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:13 ,PHRASE,for what is good,G18,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:14 ,WORD,But,G235,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:14 ,WORD,even,G2532,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:14 ,WORD,if,G1487,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:14 ,PHRASE,you should suffer,G3958,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:14 ,PHRASE,for the sake of,G1223,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:14 ,WORD,righteousness,G1343,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:14 ,PHRASE,you are blessed,G3107,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:14 ,WORD,AND,G1161,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:14 ,PHRASE,DO NOT,G3361,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:14 ,WORD,FEAR,G5399,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:14 ,WORD,THEIR,G846,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:14 ,WORD,INTIMIDATION,G5401,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:14 ,PHRASE,AND DO NOT,G3366,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:14 ,PHRASE,BE TROUBLED,G5015,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:15 ,WORD,but,G1161,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:15 ,WORD,sanctify,G37,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:15 ,WORD,Christ,G5547,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:15 ,PHRASE,as Lord,G2962,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:15 ,WORD,in,G1722,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:15 ,WORD,your,G4771,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:15 ,WORD,hearts,G2588,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:15 ,WORD,always,G104,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:15 ,PHRASE,being ready,G2092,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:15 ,WORD,to,G4314,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:15 ,PHRASE,make a defense,G627,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:15 ,PHRASE,to everyone,G3956,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:15 ,WORD,who,G3588,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:15 ,WORD,asks,G154,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:15 ,WORD,you,G4771,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:15 ,PHRASE,to give an account,G3056,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:15 ,WORD,for,G4012,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:15 ,PHRASE,the hope,G1680,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:15 ,WORD,that,G3588,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:15 ,PHRASE,is in,G1722,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:15 ,WORD,you,G4771,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:15 ,WORD,yet,G235,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:15 ,WORD,with,G3326,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:15 ,WORD,gentleness,G4240,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:15 ,WORD,and,G2532,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:15 ,WORD,reverence,G5401,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:16 ,PHRASE,and keep,G2192,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:16 ,PHRASE,a good,G18,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:16 ,WORD,conscience,G4893,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:16 ,PHRASE,so that,G2443,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:16 ,WORD,in,G1722,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:16 ,PHRASE,the thing in which,G3739,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:16 ,PHRASE,you are slandered,G2635,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:16 ,PHRASE,those who,G3588,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:16 ,WORD,revile,G1908,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:16 ,WORD,your,G4771,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:16 ,WORD,good,G18,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:16 ,WORD,behavior,G391,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:16 ,WORD,in,G1722,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:16 ,WORD,Christ,G5547,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:16 ,PHRASE,will be put to shame,G2617,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:17 ,WORD,For,G1063,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:17 ,PHRASE,it is better,G2909,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:17 ,WORD,if,G1487,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:17 ,WORD,God,G2316,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:17 ,PHRASE,should will it so,G2309,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:17 ,WORD,,G2307,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:17 ,PHRASE,that you suffer,G3958,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:17 ,PHRASE,for doing what is right,G15,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:17 ,PHRASE,rather than,G2228,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:17 ,PHRASE,for doing what is wrong,G2554,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:18 ,WORD,For,G3754,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:18 ,WORD,Christ,G5547,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:18 ,WORD,also,G2532,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:18 ,WORD,died,G3958,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:18 ,WORD,for,G4012,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:18 ,WORD,sins,G266,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:18 ,PHRASE,once for all,G530,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:18 ,PHRASE,the just,G1342,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:18 ,WORD,for,G5228,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:18 ,PHRASE,the unjust,G94,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:18 ,PHRASE,so that,G2443,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:18 ,PHRASE,He might bring,G4317,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:18 ,WORD,us,G4771,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:18 ,PHRASE,to God,G2316,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:18 ,PHRASE,having been put to death,G2289,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:18 ,PHRASE,in the,G3588,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:18 ,WORD,flesh,G4561,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:18 ,WORD,but,G1161,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:18 ,PHRASE,made alive,G2227,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:18 ,PHRASE,in the spirit,G4151,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:19 ,WORD,in,G1722,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:19 ,WORD,which,G3739,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:19 ,WORD,also,G2532,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:19 ,PHRASE,He went,G4198,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:19 ,PHRASE,and made proclamation,G2784,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:19 ,PHRASE,to the spirits,G4151,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:19 ,PHRASE,now in,G1722,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:19 ,WORD,prison,G5438,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:20 ,PHRASE,who once,G4218,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:20 ,PHRASE,were disobedient,G544,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:20 ,WORD,when,G3753,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:20 ,PHRASE,the patience,G3115,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:20 ,PHRASE,of God,G2316,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:20 ,PHRASE,kept waiting,G553,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:20 ,WORD,in,G1722,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:20 ,PHRASE,the days,G2250,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:20 ,PHRASE,of Noah,G3575,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:20 ,PHRASE,during the construction,G2680,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:20 ,PHRASE,of the ark,G2787,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:20 ,WORD,in,G1519,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:20 ,WORD,which,G3739,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:20 ,PHRASE,a few,G3641,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:20 ,WORD,that,G3778,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:20 ,WORD,is,G1510,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:20 ,WORD,eight,G3638,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:20 ,WORD,persons,G5590,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:20 ,PHRASE,were brought safely,G1295,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:20 ,WORD,through,G1223,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:20 ,PHRASE,the water,G5204,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:21 ,PHRASE,Corresponding to that,G499,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:21 ,WORD,baptism,G908,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:21 ,WORD,now,G3568,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:21 ,WORD,saves,G4982,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:21 ,WORD,you,G4771,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:21 ,WORD,not,G3756,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:21 ,PHRASE,the removal,G595,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:21 ,PHRASE,of dirt,G4509,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:21 ,PHRASE,from the flesh,G4561,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:21 ,WORD,but,G235,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:21 ,PHRASE,an appeal,G1906,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:21 ,WORD,to,G1519,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:21 ,WORD,God,G2316,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:21 ,PHRASE,for a good,G18,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:21 ,WORD,conscience,G4893,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:21 ,WORD,through,G1223,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:21 ,PHRASE,the resurrection,G386,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:21 ,PHRASE,of Jesus,G2424,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:21 ,WORD,Christ,G5547,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:22 ,WORD,who,G3739,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:22 ,WORD,is,G1510,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:22 ,WORD,at,G1722,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:22 ,PHRASE,the right hand,G1188,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:22 ,PHRASE,of God,G2316,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:22 ,PHRASE,having gone,G4198,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:22 ,WORD,into,G1519,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:22 ,WORD,heaven,G3772,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:22 ,PHRASE,after angels,G32,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:22 ,WORD,and,G2532,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:22 ,WORD,authorities,G1849,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:22 ,WORD,and,G2532,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:22 ,WORD,powers,G1411,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:22 ,PHRASE,had been subjected,G5293,Epistles,New Testament,1 Peter,NIV
+3,1 Peter3:22 ,PHRASE,to Him,G846,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:1 ,WORD,Therefore,G3767,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:1 ,PHRASE,since Christ,G5547,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:1 ,PHRASE,has suffered,G3958,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:1 ,PHRASE,in the flesh,G4561,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:1 ,WORD,arm,G3695,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:1 ,WORD,yourselves,G4771,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:1 ,WORD,also,G2532,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:1 ,PHRASE,with the,G3588,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:1 ,WORD,same,G846,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:1 ,WORD,purpose,G1771,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:1 ,WORD,because,G3754,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:1 ,PHRASE,he who,G3588,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:1 ,PHRASE,has suffered,G3958,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:1 ,PHRASE,in the flesh,G4561,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:1 ,PHRASE,has ceased,G3973,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:1 ,PHRASE,from sin,G266,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:2 ,WORD,so,G1519,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:2 ,PHRASE,as to live,G980,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:2 ,WORD,the,G3588,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:2 ,WORD,rest,G1954,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:2 ,PHRASE,of the time,G5550,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:2 ,WORD,in,G1722,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:2 ,PHRASE,the flesh,G4561,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:2 ,PHRASE,no longer,G3371,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:2 ,PHRASE,for the lusts,G1939,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:2 ,PHRASE,of men,G444,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:2 ,WORD,but,G235,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:2 ,PHRASE,for the will,G2307,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:2 ,PHRASE,of God,G2316,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:3 ,WORD,For,G1063,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:3 ,PHRASE,the time,G5550,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:3 ,PHRASE,already past,G3928,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:3 ,PHRASE,is sufficient,G713,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:3 ,PHRASE,for you to have carried out,G2716,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:3 ,WORD,the,G3588,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:3 ,WORD,desire,G1013,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:3 ,PHRASE,of the,G3588,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:3 ,WORD,Gentiles,G1484,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:3 ,PHRASE,having pursued a course,G4198,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:3 ,WORD,of,G1722,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:3 ,WORD,sensuality,G766,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:3 ,WORD,lusts,G1939,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:3 ,WORD,drunkenness,G3632,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:3 ,WORD,carousing,G2970,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:3 ,PHRASE,drinking parties,G4224,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:3 ,WORD,and,G2532,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:3 ,WORD,abominable,G111,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:3 ,WORD,idolatries,G1495,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:4 ,WORD,In,G1722,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:4 ,PHRASE,all this,G3739,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:4 ,PHRASE,they are surprised,G3579,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:4 ,PHRASE,that you,G4771,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:4 ,PHRASE,do not,G3361,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:4 ,PHRASE,run with them,G4936,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:4 ,WORD,into,G1519,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:4 ,WORD,the,G3588,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:4 ,WORD,same,G846,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:4 ,WORD,excesses,G401,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:4 ,PHRASE,of dissipation,G810,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:4 ,PHRASE,and they malign you,G987,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:5 ,PHRASE,but they,G3739,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:5 ,PHRASE,will give,G591,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:5 ,WORD,account,G3056,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:5 ,PHRASE,to Him who,G3588,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:5 ,WORD,is,G2192,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:5 ,WORD,ready,G2093,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:5 ,PHRASE,to judge,G2919,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:5 ,PHRASE,the living,G2198,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:5 ,WORD,and,G2532,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:5 ,PHRASE,the dead,G3498,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:6 ,WORD,For,G1063,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:6 ,PHRASE,the gospel,G2097,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:6 ,PHRASE,has for,G1519,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:6 ,PHRASE,this purpose,G3778,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:6 ,PHRASE,been preached,G2097,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:6 ,WORD,even,G2532,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:6 ,PHRASE,to those who are dead,G3498,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:6 ,WORD,that,G2443,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:6 ,WORD,though,G3303,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:6 ,PHRASE,they are judged,G2919,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:6 ,PHRASE,in the flesh,G4561,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:6 ,WORD,as,G2596,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:6 ,WORD,men,G444,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:6 ,PHRASE,they may live,G2198,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:6 ,PHRASE,in the spirit,G4151,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:6 ,WORD,according,G2596,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:6 ,PHRASE,to the will of God,G2316,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:7 ,WORD,The,G3588,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:7 ,WORD,end,G5056,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:7 ,PHRASE,of all things,G3956,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:7 ,PHRASE,is near,G1448,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:7 ,WORD,therefore,G3767,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:7 ,PHRASE,be of sound judgment,G4993,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:7 ,WORD,and,G2532,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:7 ,PHRASE,sober spirit,G3525,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:7 ,PHRASE,for the purpose of,G1519,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:7 ,WORD,prayer,G4335,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:8 ,WORD,Above,G4253,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:8 ,WORD,all,G3956,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:8 ,WORD,keep,G2192,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:8 ,WORD,fervent,G1618,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:8 ,PHRASE,in your love,G26,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:8 ,WORD,for,G1519,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:8 ,PHRASE,one another,G1438,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:8 ,WORD,because,G3754,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:8 ,WORD,love,G26,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:8 ,WORD,covers,G2572,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:8 ,PHRASE,a multitude,G4128,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:8 ,PHRASE,of sins,G266,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:9 ,PHRASE,Be hospitable,G5382,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:9 ,WORD,to,G1519,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:9 ,PHRASE,one another,G240,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:9 ,WORD,without,G427,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:9 ,WORD,complaint,G1112,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:10 ,WORD,As,G2531,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:10 ,PHRASE,each one,G1538,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:10 ,PHRASE,has received,G2983,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:10 ,PHRASE,a special gift,G5486,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:10 ,WORD,employ,G1247,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:10 ,WORD,it,G846,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:10 ,PHRASE,in serving,G1247,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:10 ,PHRASE,one another,G1519,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:10 ,WORD,,G1438,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:10 ,WORD,as,G5613,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:10 ,WORD,good,G2570,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:10 ,WORD,stewards,G3623,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:10 ,PHRASE,of the manifold,G4164,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:10 ,WORD,grace,G5485,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:10 ,PHRASE,of God,G2316,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:11 ,WORD,Whoever,G1487,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:11 ,WORD,,G5100,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:11 ,WORD,speaks,G2980,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:11 ,PHRASE,is to do so as one,G5613,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:11 ,PHRASE,who is speaking the utterances,G3051,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:11 ,PHRASE,of God,G2316,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:11 ,WORD,whoever,G1487,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:11 ,WORD,,G5100,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:11 ,WORD,serves,G1247,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:11 ,PHRASE,is to do so as one,G5613,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:11 ,PHRASE,who is serving by,G1537,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:11 ,PHRASE,the strength,G2479,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:11 ,WORD,which,G3739,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:11 ,WORD,God,G2316,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:11 ,WORD,supplies,G5524,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:11 ,PHRASE,so that,G2443,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:11 ,WORD,in,G1722,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:11 ,PHRASE,all things,G3956,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:11 ,WORD,God,G2316,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:11 ,PHRASE,may be glorified,G1392,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:11 ,WORD,through,G1223,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:11 ,WORD,Jesus,G2424,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:11 ,WORD,Christ,G5547,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:11 ,PHRASE,to whom,G3739,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:11 ,WORD,belongs,G1510,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:11 ,WORD,the,G3588,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:11 ,WORD,glory,G1391,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:11 ,WORD,and,G2532,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:11 ,WORD,dominion,G2904,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:11 ,WORD,forever,G165,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:11 ,PHRASE,and ever,G165,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:11 ,WORD,Amen,G281,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:12 ,WORD,Beloved,G27,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:12 ,PHRASE,do not,G3361,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:12 ,PHRASE,be surprised,G3579,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:12 ,PHRASE,at the fiery ordeal,G4451,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:12 ,WORD,among,G1722,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:12 ,WORD,you,G4771,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:12 ,PHRASE,which comes,G1096,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:12 ,WORD,upon,G4314,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:12 ,WORD,you,G4771,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:12 ,PHRASE,for your testing,G3986,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:12 ,PHRASE,as though,G5613,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:12 ,PHRASE,some strange thing,G3581,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:12 ,PHRASE,were happening,G4819,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:12 ,PHRASE,to you,G4771,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:13 ,WORD,but,G235,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:13 ,PHRASE,to the degree that,G2526,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:13 ,PHRASE,you share,G2841,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:13 ,WORD,the,G3588,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:13 ,WORD,sufferings,G3804,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:13 ,PHRASE,of Christ,G5547,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:13 ,PHRASE,keep on rejoicing,G5463,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:13 ,PHRASE,so that,G2443,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:13 ,WORD,also,G2532,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:13 ,WORD,at,G1722,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:13 ,WORD,the,G3588,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:13 ,WORD,revelation,G602,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:13 ,PHRASE,of His,G846,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:13 ,WORD,glory,G1391,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:13 ,PHRASE,you may rejoice,G5463,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:13 ,PHRASE,with exultation,G21,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:14 ,WORD,If,G1487,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:14 ,PHRASE,you are reviled,G3679,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:14 ,WORD,for,G1722,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:14 ,PHRASE,the name,G3686,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:14 ,PHRASE,of Christ,G5547,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:14 ,PHRASE,you are blessed,G3107,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:14 ,WORD,because,G3754,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:14 ,PHRASE,the Spirit,G4151,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:14 ,PHRASE,of glory,G1391,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:14 ,WORD,and,G2532,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:14 ,PHRASE,of God,G2316,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:14 ,WORD,rests,G373,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:14 ,WORD,on,G1909,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:14 ,WORD,you,G4771,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:15 ,PHRASE,Make sure that none,G5100,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:15 ,WORD,,G3361,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:15 ,PHRASE,of you,G4771,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:15 ,WORD,suffers,G3958,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:15 ,WORD,as,G5613,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:15 ,PHRASE,a murderer,G5406,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:15 ,WORD,or,G2228,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:15 ,WORD,thief,G2812,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:15 ,WORD,or,G2228,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:15 ,WORD,evildoer,G2555,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:15 ,WORD,or,G2228,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:15 ,PHRASE,a troublesome meddler,G244,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:16 ,WORD,but,G1161,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:16 ,WORD,if,G1487,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:16 ,PHRASE,anyone suffers as,G5613,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:16 ,PHRASE,a Christian,G5546,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:16 ,PHRASE,he is not,G3361,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:16 ,PHRASE,to be ashamed,G153,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:16 ,WORD,but,G1161,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:16 ,PHRASE,is to glorify,G1392,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:16 ,WORD,God,G2316,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:16 ,WORD,in,G1722,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:16 ,WORD,this,G3778,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:16 ,WORD,name,G3686,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:17 ,WORD,For,G3754,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:17 ,PHRASE,it is,,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:17 ,WORD,time,G2540,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:17 ,PHRASE,for judgment,G2917,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:17 ,PHRASE,to begin,G757,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:17 ,WORD,with,G575,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:17 ,WORD,the,G3588,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:17 ,WORD,household,G3624,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:17 ,PHRASE,of God,G2316,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:17 ,WORD,and,G1161,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:17 ,WORD,if,G1487,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:17 ,PHRASE,it begins,,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:17 ,WORD,with,G575,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:17 ,WORD,us,G1473,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:17 ,WORD,first,G4413,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:17 ,WORD,what,G5101,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:17 ,PHRASE,will be,,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:17 ,WORD,the,G3588,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:17 ,WORD,outcome,G5056,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:17 ,PHRASE,for those who,G3588,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:17 ,PHRASE,do not obey,G544,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:17 ,WORD,the,G3588,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:17 ,WORD,gospel,G2098,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:17 ,PHRASE,of God,G2316,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:18 ,WORD,AND,G2532,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:18 ,WORD,IF,G1487,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:18 ,PHRASE,IT IS WITH DIFFICULTY,G3433,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:18 ,PHRASE,THAT THE,G3588,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:18 ,WORD,RIGHTEOUS,G1342,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:18 ,PHRASE,IS SAVED,G4982,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:18 ,WORD,WHAT,G4226,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:18 ,PHRASE,WILL BECOME,G5316,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:18 ,PHRASE,OF THE,G3588,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:18 ,PHRASE,GODLESS MAN,G765,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:18 ,WORD,AND,G2532,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:18 ,PHRASE,THE SINNER,G268,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:19 ,WORD,Therefore,G5620,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:19 ,WORD,those,G3588,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:19 ,WORD,also,G2532,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:19 ,PHRASE,who suffer,G3958,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:19 ,PHRASE,according to,G2596,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:19 ,WORD,the,G3588,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:19 ,WORD,will,G2307,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:19 ,PHRASE,of God,G2316,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:19 ,PHRASE,shall entrust,G3908,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:19 ,WORD,their,G846,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:19 ,WORD,souls,G5590,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:19 ,PHRASE,to a faithful,G4103,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:19 ,WORD,Creator,G2939,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:19 ,WORD,in,G1722,Epistles,New Testament,1 Peter,NIV
+4,1 Peter4:19 ,PHRASE,doing what is right,G16,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:1 ,WORD,Therefore,G3767,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:1 ,PHRASE,I exhort,G3870,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:1 ,PHRASE,the elders,G4245,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:1 ,WORD,among,G1722,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:1 ,WORD,you,G4771,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:1 ,PHRASE,as your fellow elder,G4850,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:1 ,WORD,and,G2532,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:1 ,WORD,witness,G3144,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:1 ,PHRASE,of the,G3588,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:1 ,WORD,sufferings,G3804,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:1 ,PHRASE,of Christ,G5547,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:1 ,PHRASE,and a partaker,G2844,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:1 ,WORD,also,G2532,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:1 ,PHRASE,of the glory,G1391,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:1 ,WORD,that,G3588,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:1 ,PHRASE,is to be,G3195,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:1 ,WORD,revealed,G601,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:2 ,WORD,shepherd,G4165,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:2 ,PHRASE,the flock,G4168,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:2 ,PHRASE,of God,G2316,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:2 ,WORD,among,G1722,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:2 ,WORD,you,G4771,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:2 ,PHRASE,exercising oversight,G1983,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:2 ,WORD,not,G3361,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:2 ,PHRASE,under compulsion,G317,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:2 ,WORD,but,G235,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:2 ,WORD,voluntarily,G1596,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:2 ,PHRASE,according to,G2596,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:2 ,PHRASE,the will of God,G2316,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:2 ,PHRASE,and not,G3366,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:2 ,PHRASE,for sordid gain,G147,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:2 ,WORD,but,G235,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:2 ,PHRASE,with eagerness,G4290,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:3 ,WORD,nor,G3366,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:3 ,PHRASE,yet as,G5613,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:3 ,PHRASE,lording it over,G2634,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:3 ,PHRASE,those allotted to your charge,G2819,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:3 ,WORD,but,G235,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:3 ,WORD,proving,G1096,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:3 ,PHRASE,to be examples,G5179,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:3 ,PHRASE,to the,G3588,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:3 ,WORD,flock,G4168,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:4 ,WORD,And,G2532,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:4 ,PHRASE,when the,G3588,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:4 ,PHRASE,Chief Shepherd,G750,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:4 ,WORD,appears,G5319,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:4 ,PHRASE,you will receive,G2865,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:4 ,WORD,the,G3588,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:4 ,WORD,unfading,G262,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:4 ,WORD,crown,G4735,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:4 ,PHRASE,of glory,G1391,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:5 ,PHRASE,You younger men,G3501,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:5 ,WORD,likewise,G3668,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:5 ,PHRASE,be subject,G5293,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:5 ,PHRASE,to your elders,G4245,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:5 ,WORD,and,G1161,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:5 ,PHRASE,all of you,G3956,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:5 ,PHRASE,clothe yourselves,G1463,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:5 ,PHRASE,with humility,G5012,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:5 ,PHRASE,toward one another,G240,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:5 ,WORD,for,G3754,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:5 ,WORD,GOD,G2316,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:5 ,PHRASE,IS OPPOSED,G498,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:5 ,PHRASE,TO THE PROUD,G5244,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:5 ,WORD,BUT,G1161,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:5 ,WORD,GIVES,G1325,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:5 ,WORD,GRACE,G5485,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:5 ,PHRASE,TO THE HUMBLE,G5011,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:6 ,WORD,Therefore,G3767,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:6 ,PHRASE,humble yourselves,G5013,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:6 ,WORD,under,G5259,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:6 ,WORD,the,G3588,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:6 ,WORD,mighty,G2900,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:6 ,WORD,hand,G5495,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:6 ,PHRASE,of God,G2316,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:6 ,WORD,that,G2443,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:6 ,PHRASE,He may exalt,G5312,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:6 ,WORD,you,G4771,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:6 ,WORD,at,G1722,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:6 ,PHRASE,the proper time,G2540,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:7 ,WORD,casting,G1977,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:7 ,WORD,all,G3956,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:7 ,WORD,your,G4771,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:7 ,WORD,anxiety,G3308,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:7 ,WORD,on,G1909,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:7 ,WORD,Him,G846,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:7 ,WORD,because,G3754,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:7 ,WORD,He,G846,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:7 ,WORD,cares,G3199,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:7 ,WORD,for,G4012,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:7 ,WORD,you,G4771,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:8 ,PHRASE,Be of sober spirit,G3525,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:8 ,PHRASE,be on the alert,G1127,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:8 ,WORD,Your,G4771,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:8 ,WORD,adversary,G476,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:8 ,PHRASE,the devil,G1228,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:8 ,PHRASE,prowls around,G4043,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:8 ,WORD,like,G5613,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:8 ,PHRASE,a roaring,G5612,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:8 ,WORD,lion,G3023,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:8 ,WORD,seeking,G2212,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:8 ,WORD,someone,G5100,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:8 ,PHRASE,to devour,G2666,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:9 ,PHRASE,But resist,G436,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:9 ,WORD,him,G3739,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:9 ,WORD,firm,G4731,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:9 ,PHRASE,in your faith,G4102,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:9 ,PHRASE,knowing that,G1492,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:9 ,WORD,the,G3588,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:9 ,WORD,same,G846,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:9 ,WORD,experiences,G3588,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:9 ,PHRASE,of suffering,G3804,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:9 ,PHRASE,are being accomplished,G2005,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:9 ,PHRASE,by your,G4771,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:9 ,WORD,brethren,G81,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:9 ,WORD,who,G3588,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:9 ,PHRASE,are in,G1722,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:9 ,WORD,the,G3588,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:9 ,WORD,world,G2889,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:10 ,PHRASE,After you have suffered,G3958,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:10 ,PHRASE,for a little while,G3641,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:10 ,WORD,the,G3588,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:10 ,WORD,God,G2316,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:10 ,PHRASE,of all,G3956,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:10 ,WORD,grace,G5485,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:10 ,WORD,who,G3588,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:10 ,WORD,called,G2564,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:10 ,WORD,you,G4771,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:10 ,WORD,to,G1519,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:10 ,WORD,His,G846,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:10 ,WORD,eternal,G166,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:10 ,WORD,glory,G1391,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:10 ,WORD,in,G1722,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:10 ,WORD,Christ,G5547,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:10 ,PHRASE,will Himself,G846,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:10 ,WORD,perfect,G2675,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:10 ,WORD,confirm,G4741,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:10 ,WORD,strengthen,G4599,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:10 ,PHRASE,and establish you,G2311,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:11 ,PHRASE,To Him,G846,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:11 ,PHRASE,be dominion,G2904,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:11 ,PHRASE,forever and ever,G1519,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:11 ,WORD,,G165,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:11 ,WORD,Amen,G281,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:12 ,WORD,Through,G1223,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:12 ,WORD,Silvanus,G4610,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:12 ,PHRASE,our faithful,G4103,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:12 ,WORD,brother,G80,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:12 ,PHRASE,(for so,G5613,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:12 ,PHRASE,I regard him),G3049,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:12 ,PHRASE,I have written,G1125,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:12 ,PHRASE,to you,G4771,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:12 ,WORD,briefly,G1223,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:12 ,WORD,,G3641,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:12 ,WORD,exhorting,G3870,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:12 ,WORD,and,G2532,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:12 ,WORD,testifying,G1957,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:12 ,PHRASE,that this,G3778,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:12 ,WORD,is,G1510,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:12 ,PHRASE,the true,G227,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:12 ,WORD,grace,G5485,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:12 ,PHRASE,of God,G2316,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:12 ,PHRASE,Stand firm,G2476,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:12 ,WORD,in,G1519,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:12 ,WORD,it,G3739,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:13 ,WORD,She,G3588,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:13 ,PHRASE,who is in,G1722,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:13 ,WORD,Babylon,G897,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:13 ,PHRASE,chosen together with you,G4899,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:13 ,WORD,sends,G782,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:13 ,WORD,you,G4771,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:13 ,WORD,greetings,G782,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:13 ,WORD,and,G2532,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:13 ,PHRASE,so does my,G1473,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:13 ,WORD,son,G5207,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:13 ,WORD,Mark,G3138,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:14 ,WORD,Greet,G782,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:14 ,PHRASE,one another,G240,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:14 ,WORD,with,G1722,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:14 ,PHRASE,a kiss,G5370,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:14 ,PHRASE,of love,G26,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:14 ,PHRASE,Peace be,G1515,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:14 ,PHRASE,to you,G4771,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:14 ,WORD,all,G3956,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:14 ,WORD,who,G3588,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:14 ,PHRASE,are in,G1722,Epistles,New Testament,1 Peter,NIV
+5,1 Peter5:14 ,WORD,Christ,G5547,Epistles,New Testament,1 Peter,NIV

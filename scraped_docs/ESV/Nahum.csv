@@ -1,0 +1,587 @@
+bible_chapter,bible_verse,verse_part_type,verse_part,hebrew_id,lit_type,testament_type,bible_book,version
+1,Nahum1:1,PHRASE,The oracle,H4853,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:1,PHRASE,of Nineveh,H5210,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:1,PHRASE,The book,H5612,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:1,PHRASE,of the vision,H2377,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:1,PHRASE,of Nahum,H5151,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:1,PHRASE,the Elkoshite,H512,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:2,PHRASE,A jealous,H7072,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:2,PHRASE,and avenging,H5358,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:2,WORD,God,H410,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:2,PHRASE,is the LORD,H3068,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:2,PHRASE,The LORD,H3068,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:2,PHRASE,is avenging,H5358,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:2,PHRASE,and wrathful,H1167,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:2,WORD,,H2534,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:2,PHRASE,The LORD,H3068,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:2,WORD,takes,H5358,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:2,WORD,vengeance,H5358,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:2,PHRASE,on His adversaries,H6862,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:2,PHRASE,And He reserves,H5201,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:2,WORD,wrath,H2534,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:2,PHRASE,for His enemies,H340,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:3,PHRASE,The LORD,H3068,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:3,PHRASE,is slow,H750,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:3,PHRASE,to anger,H639,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:3,PHRASE,and great,H1419,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:3,PHRASE,in power,H3581,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:3,PHRASE,And the LORD,H3068,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:3,PHRASE,will by no,H3808,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:3,WORD,means,H5352,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:3,WORD,leave,H5352,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:3,PHRASE,the guilty unpunished,H5352,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:3,PHRASE,In whirlwind,H5492,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:3,PHRASE,and storm,H8183,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:3,PHRASE,is His way,H1870,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:3,PHRASE,And clouds,H6051,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:3,PHRASE,are the dust,H80,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:3,PHRASE,beneath His feet,H7272,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:4,PHRASE,He rebukes,H1605,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:4,PHRASE,the sea,H3220,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:4,PHRASE,and makes,H3001,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:4,PHRASE,it dry,H3001,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:4,PHRASE,He dries,H2717,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:4,PHRASE,up all,H3605,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:4,PHRASE,the rivers,H5104,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:4,WORD,Bashan,H1316,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:4,PHRASE,and Carmel,H3760,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:4,WORD,wither,H535,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:4,PHRASE,The blossoms,H6525,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:4,PHRASE,of Lebanon,H3844,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:4,WORD,wither,H535,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:5,WORD,Mountains,H2022,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:5,WORD,quake,H7493,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:5,WORD,because,H4480,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:5,PHRASE,of Him And the hills,H1389,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:5,WORD,dissolve,H4127,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:5,PHRASE,Indeed the earth,H776,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:5,PHRASE,is upheaved,H5375,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:5,PHRASE,by His presence,H6440,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:5,PHRASE,The world,H8398,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:5,PHRASE,and all,H3605,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:5,PHRASE,the inhabitants,H3427,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:5,PHRASE,in it,,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:6,WORD,Who,H4310,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:6,PHRASE,can stand,H5975,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:6,WORD,before,H6440,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:6,PHRASE,His indignation,H2195,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:6,WORD,Who,H4310,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:6,PHRASE,can endure,H6965,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:6,PHRASE,the burning,H2740,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:6,PHRASE,of His anger,H639,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:6,PHRASE,His wrath,H2534,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:6,PHRASE,is poured,H5413,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:6,PHRASE,out like fire,H784,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:6,PHRASE,And the rocks,H6697,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:6,PHRASE,are broken,H5422,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:6,PHRASE,up by Him,,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:7,PHRASE,The LORD,H3068,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:7,PHRASE,is good,H2896,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:7,PHRASE,A stronghold,H4581,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:7,PHRASE,in the day,H3117,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:7,PHRASE,of trouble,H6869,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:7,PHRASE,And He knows,H3045,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:7,PHRASE,those who take,H2620,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:7,WORD,refuge,H2620,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:7,PHRASE,in Him,,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:8,PHRASE,But with an overflowing,H5674,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:8,WORD,flood,H7858,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:8,PHRASE,He will make,H6213,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:8,PHRASE,a complete,H3617,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:8,WORD,end,H3617,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:8,PHRASE,of its site,H4725,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:8,PHRASE,And will pursue,H7291,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:8,PHRASE,His enemies,H340,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:8,PHRASE,into darkness,H2822,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:9,WORD,Whatever,H4100,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:9,PHRASE,you devise,H2803,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:9,WORD,against,H413,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:9,PHRASE,the LORD,H3068,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:9,PHRASE,He will make,H6213,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:9,PHRASE,a complete,H3617,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:9,WORD,end,H3617,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:9,PHRASE,of it. Distress,H6869,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:9,PHRASE,will not rise,H6965,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:9,PHRASE,up twice,H6471,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:10,WORD,Like,H5704,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:10,WORD,tangled,H5440,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:10,WORD,thorns,H5518,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:10,PHRASE,And like those who are drunken,H5433,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:10,PHRASE,with their drink,H5435,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:10,PHRASE,They are consumed,H398,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:10,PHRASE,As stubble,H7179,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:10,WORD,completely,H4392,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:10,WORD,withered,H3002,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:11,PHRASE,From you has gone,H3318,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:11,WORD,forth,H3318,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:11,PHRASE,One who plotted,H2803,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:11,WORD,evil,H7451,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:11,WORD,against,H5921,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:11,PHRASE,the LORD,H3068,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:11,PHRASE,A wicked,H1100,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:11,WORD,counselor,H3289,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:12,WORD,Thus,H3541,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:12,WORD,says,H559,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:12,PHRASE,the LORD,H3068,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:12,WORD,Though,H518,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:12,PHRASE,they are at full,H8003,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:12,PHRASE,strength and likewise,H3651,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:12,WORD,many,H7227,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:12,PHRASE,Even so,H3651,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:12,PHRASE,they will be cut,H1494,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:12,WORD,off,H1494,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:12,PHRASE,and pass,H5674,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:12,WORD,away,H5674,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:12,PHRASE,Though I have afflicted,H6031,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:12,PHRASE,"you, I will afflict",H6031,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:12,PHRASE,you no,H3808,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:12,WORD,longer,H5750,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:13,PHRASE,So now,H6258,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:13,PHRASE,I will break,H7665,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:13,PHRASE,his yoke,H4132,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:13,WORD,bar,H4132,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:13,PHRASE,"from upon you, And I will tear",H5423,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:13,WORD,off,H5423,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:13,PHRASE,your shackles,H4147,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:14,PHRASE,The LORD,H3068,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:14,PHRASE,has issued,H6680,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:14,PHRASE,a command,H6680,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:14,WORD,concerning,H5921,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:14,PHRASE,you: Your name,H8034,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:14,PHRASE,will no,H3808,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:14,WORD,longer,H5750,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:14,PHRASE,be perpetuated,H2232,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:14,PHRASE,I will cut,H3772,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:14,WORD,off,H3772,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:14,WORD,idol,H6459,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:14,PHRASE,and image,H4541,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:14,PHRASE,From the house,H1004,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:14,PHRASE,of your gods,H430,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:14,PHRASE,I will prepare,H7760,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:14,PHRASE,your grave,H6913,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:14,PHRASE,For you are contemptible,H7043,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:15,WORD,Behold,H2009,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:15,PHRASE,on the mountains,H2022,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:15,PHRASE,the feet,H7272,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:15,PHRASE,of him who brings,H1319,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:15,PHRASE,good news,H1319,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:15,PHRASE,Who announces,H8085,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:15,WORD,peace,H7965,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:15,WORD,Celebrate,H2287,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:15,PHRASE,your feasts,H2282,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:15,PHRASE,O Judah,H3063,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:15,WORD,Pay,H7999,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:15,PHRASE,your vows,H5088,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:15,PHRASE,For never,H3808,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:15,WORD,,H5750,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:15,WORD,again,H3254,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:15,PHRASE,will the wicked,H1100,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:15,PHRASE,one pass,H5674,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:15,PHRASE,through you; He is cut,H3772,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:15,WORD,off,H3772,Minor Prophets,Old Testament,Nahum,ESV
+1,Nahum1:15,WORD,completely,H3605,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:1,PHRASE,The one,H4650,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:1,WORD,who,H4650,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:1,WORD,scatters,H4650,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:1,PHRASE,has come,H5927,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:1,PHRASE,up against,H5921,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:1,PHRASE,you. Man,H5341,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:1,PHRASE,the fortress,H4694,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:1,WORD,watch,H6822,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:1,PHRASE,the road,H1870,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:1,WORD,Strengthen,H2388,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:1,PHRASE,your back,H4975,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:1,WORD,summon,H553,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:1,WORD,all,H3966,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:1,PHRASE,your strength,H3581,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:2,PHRASE,For the LORD,H3068,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:2,PHRASE,will restore,H7725,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:2,PHRASE,the splendor,H1347,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:2,PHRASE,of Jacob,H3290,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:2,PHRASE,Like the splendor,H1347,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:2,PHRASE,of Israel,H3478,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:2,PHRASE,Even though,H3588,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:2,WORD,devastators,H1238,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:2,PHRASE,have devastated,H1238,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:2,PHRASE,them And destroyed,H7843,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:2,PHRASE,their vine,H2156,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:2,WORD,branches,H2156,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:3,PHRASE,The shields,H4043,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:3,PHRASE,of his mighty,H1368,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:3,WORD,men,H1368,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:3,PHRASE,are colored red,H119,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:3,PHRASE,The warriors,H376,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:3,PHRASE,are dressed,H8529,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:3,PHRASE,in scarlet,H8529,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:3,PHRASE,The chariots,H7393,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:3,PHRASE,are enveloped in flashing,H784,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:3,WORD,steel,H6393,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:3,WORD,When,H3117,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:3,PHRASE,he is prepared,H3559,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:3,PHRASE,"to march, And the cypress",H1265,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:3,PHRASE,spears are brandished,H7477,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:4,PHRASE,The chariots,H7393,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:4,WORD,race,H1984,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:4,WORD,madly,H1984,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:4,PHRASE,in the streets,H2351,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:4,PHRASE,They rush,H8264,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:4,WORD,wildly,H8264,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:4,PHRASE,in the squares,H7339,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:4,PHRASE,Their appearance,H4758,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:4,PHRASE,is like torches,H3940,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:4,PHRASE,They dash,H7323,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:4,PHRASE,to and fro,H7323,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:4,PHRASE,like lightning,H1300,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:4,WORD,flashes,H1300,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:5,PHRASE,He remembers,H2142,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:5,PHRASE,his nobles,H117,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:5,PHRASE,They stumble,H3782,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:5,PHRASE,in their march,H1979,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:5,PHRASE,They hurry,H4116,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:5,PHRASE,to her wall,H2346,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:5,PHRASE,And the mantelet,H5526,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:5,PHRASE,is set,H3559,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:5,WORD,up,,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:6,PHRASE,The gates,H8179,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:6,PHRASE,of the rivers,H5104,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:6,PHRASE,are opened,H6605,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:6,PHRASE,And the palace,H1964,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:6,PHRASE,is dissolved,H4127,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:7,PHRASE,It is fixed,H5324,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:7,PHRASE,She is stripped,H1540,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:7,PHRASE,she is carried,H5927,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:7,WORD,away,H5927,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:7,PHRASE,And her handmaids,H519,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:7,PHRASE,are moaning,H5090,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:7,PHRASE,like the sound,H6963,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:7,PHRASE,of doves,H3123,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:7,WORD,Beating,H8608,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:7,PHRASE,on their breasts,H3824,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:8,PHRASE,Though Nineveh,H5210,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:8,PHRASE,was like a pool,H1295,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:8,PHRASE,of water,H4325,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:8,WORD,throughout,H4480,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:8,PHRASE,her days,H3117,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:8,PHRASE,Now they are fleeing,H5127,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:8,WORD,Stop,H5975,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:8,WORD,stop,H5975,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:8,PHRASE,But no,H369,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:8,WORD,one,H369,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:8,WORD,turns,H6437,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:8,WORD,back,H6437,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:9,WORD,Plunder,H962,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:9,PHRASE,the silver,H3701,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:9,WORD,Plunder,H962,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:9,PHRASE,the gold,H2091,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:9,PHRASE,For there,H369,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:9,PHRASE,is no,H369,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:9,WORD,limit,H7097,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:9,PHRASE,to the treasure,H8499,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:9,WORD,Wealth,H3519,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:9,PHRASE,from every,H3605,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:9,PHRASE,kind of desirable,H2532,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:9,WORD,object,H3627,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:10,PHRASE,She is emptied,H950,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:10,PHRASE,"Yes, she is desolate",H4003,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:10,PHRASE,and waste,H1110,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:10,WORD,Hearts,H3820,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:10,PHRASE,are melting,H4549,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:10,PHRASE,and knees,H1290,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:10,WORD,knocking,H6375,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:10,PHRASE,Also anguish,H2479,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:10,PHRASE,is in the whole,H3605,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:10,WORD,body,H4975,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:10,PHRASE,And all,H3605,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:10,PHRASE,their faces,H6440,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:10,PHRASE,are grown,H6908,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:10,WORD,pale,H6289,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:11,WORD,Where,H346,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:11,PHRASE,is the den,H4583,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:11,PHRASE,of the lions,H738,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:11,PHRASE,And the feeding,H4829,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:11,WORD,place,H4829,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:11,PHRASE,of the young,H3715,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:11,WORD,lions,H3715,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:11,WORD,Where,H834,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:11,WORD,,H8033,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:11,PHRASE,the lion,H738,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:11,WORD,lioness,H3833,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:11,PHRASE,and lion's,H738,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:11,WORD,cub,H1482,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:11,WORD,prowled,H1980,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:11,PHRASE,With nothing,H369,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:11,PHRASE,to disturb,H2729,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:11,WORD,them,,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:12,PHRASE,The lion,H738,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:12,WORD,tore,H2963,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:12,WORD,enough,H1767,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:12,PHRASE,for his cubs,H1484,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:12,WORD,Killed,H2614,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:12,PHRASE,enough for his lionesses,H3833,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:12,PHRASE,And filled,H4390,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:12,PHRASE,his lairs,H2356,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:12,PHRASE,with prey,H2964,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:12,PHRASE,And his dens,H4585,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:12,PHRASE,with torn,H2966,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:12,WORD,flesh,H2966,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:13,WORD,Behold,H2009,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:13,PHRASE,I am against,H413,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:13,PHRASE,"you, declares",H5002,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:13,PHRASE,the LORD,H3068,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:13,PHRASE,of hosts,H6635,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:13,PHRASE,I will burn,H1197,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:13,PHRASE,up her chariots,H7393,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:13,PHRASE,in smoke,H6227,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:13,PHRASE,a sword,H2719,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:13,PHRASE,will devour,H398,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:13,PHRASE,your young,H3715,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:13,WORD,lions,H3715,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:13,PHRASE,I will cut,H3772,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:13,WORD,off,H3772,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:13,PHRASE,your prey,H2964,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:13,PHRASE,from the land,H776,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:13,PHRASE,and no,H3808,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:13,WORD,longer,H5750,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:13,PHRASE,will the voice,H6963,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:13,PHRASE,of your messengers,H4397,Minor Prophets,Old Testament,Nahum,ESV
+2,Nahum2:13,PHRASE,be heard,H8085,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:1,WORD,Woe,H1945,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:1,PHRASE,to the bloody,H1818,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:1,WORD,city,H5892,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:1,WORD,completely,H3605,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:1,WORD,full,H4392,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:1,PHRASE,of lies,H3585,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:1,PHRASE,and pillage,H6563,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:1,PHRASE,Her prey,H2964,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:1,WORD,never,H3808,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:1,WORD,departs,H4185,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:2,PHRASE,The noise,H6963,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:2,PHRASE,of the whip,H7752,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:2,PHRASE,The noise,H6963,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:2,PHRASE,of the rattling,H7494,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:2,PHRASE,of the wheel,H212,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:2,WORD,Galloping,H1725,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:2,WORD,horses,H5483,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:2,PHRASE,And bounding,H7540,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:2,WORD,chariots,H4818,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:3,WORD,Horsemen,H6571,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:3,WORD,charging,H5927,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:3,WORD,Swords,H2719,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:3,WORD,flashing,H3851,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:3,WORD,spears,H2595,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:3,WORD,gleaming,H1300,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:3,WORD,Many,H7230,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:3,WORD,slain,H2491,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:3,PHRASE,a mass,H3514,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:3,PHRASE,of corpses,H6297,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:3,PHRASE,And countless,H369,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:3,WORD,,H7097,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:3,WORD,dead,H1472,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:3,WORD,bodies,H1472,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:3,PHRASE,They stumble,H3782,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:3,PHRASE,over the dead,H1472,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:3,WORD,bodies,H1472,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:4,PHRASE,All because,H4480,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:4,PHRASE,of the many,H7230,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:4,WORD,harlotries,H2183,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:4,PHRASE,of the harlot,H2181,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:4,PHRASE,The charming,H2580,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:4,WORD,,H2896,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:4,WORD,one,H2896,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:4,PHRASE,the mistress,H1172,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:4,PHRASE,of sorceries,H3785,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:4,PHRASE,Who sells,H4376,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:4,WORD,nations,H1471,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:4,PHRASE,by her harlotries,H2183,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:4,PHRASE,And families,H4940,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:4,PHRASE,by her sorceries,H3785,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:5,WORD,Behold,H2009,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:5,PHRASE,I am against,H413,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:5,PHRASE,"you, declares",H5002,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:5,PHRASE,the LORD,H3068,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:5,PHRASE,of hosts,H6635,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:5,PHRASE,And I will lift,H1540,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:5,PHRASE,up your skirts,H7757,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:5,WORD,over,H5921,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:5,PHRASE,your face,H6440,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:5,PHRASE,And show,H7200,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:5,PHRASE,to the nations,H1471,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:5,PHRASE,your nakedness,H4626,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:5,PHRASE,And to the kingdoms,H4467,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:5,PHRASE,your disgrace,H7036,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:6,PHRASE,I will throw,H7993,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:6,WORD,filth,H8251,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:6,PHRASE,on you And make,H5034,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:6,PHRASE,you vile,H5034,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:6,PHRASE,And set,H7760,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:6,PHRASE,you up as a spectacle,H7210,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:7,PHRASE,And it will come,H1961,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:7,PHRASE,about that all,H3605,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:7,PHRASE,who see,H7200,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:7,PHRASE,you Will shrink,H5074,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:7,PHRASE,from you and say,H559,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:7,WORD,Nineveh,H5210,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:7,PHRASE,is devastated,H7703,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:7,WORD,Who,H4310,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:7,PHRASE,will grieve,H5110,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:7,PHRASE,for her? Where,H370,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:7,PHRASE,will I seek,H1245,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:7,WORD,comforters,H5162,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:7,PHRASE,for you,,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:8,PHRASE,Are you better,H3190,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:8,WORD,than,H4480,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:8,WORD,No-amon,H4996,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:8,WORD,,H528,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:8,PHRASE,Which was situated,H3427,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:8,PHRASE,by the waters,H4325,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:8,PHRASE,of the Nile,H2975,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:8,PHRASE,With water,H4325,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:8,WORD,surrounding,H5439,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:8,PHRASE,"her, Whose",H834,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:8,WORD,rampart,H2426,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:8,PHRASE,was the sea,H3220,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:8,PHRASE,Whose wall,H2346,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:8,PHRASE,consisted of the sea,H3220,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:9,WORD,Ethiopia,H3568,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:9,PHRASE,was her might,H6109,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:9,PHRASE,And Egypt,H4714,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:9,PHRASE,"too, without",H369,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:9,WORD,limits,H7097,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:9,WORD,Put,H6316,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:9,PHRASE,and Lubim,H3864,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:9,PHRASE,were among her helpers,H5833,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:10,WORD,Yet,H1571,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:10,PHRASE,she became an exile,H1473,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:10,PHRASE,She went,H1980,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:10,PHRASE,into captivity,H7628,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:10,WORD,Also,H1571,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:10,PHRASE,her small children,H5768,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:10,PHRASE,were dashed,H7376,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:10,PHRASE,to pieces,H7376,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:10,PHRASE,At the head,H7218,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:10,PHRASE,of every,H3605,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:10,WORD,street,H2351,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:10,PHRASE,They cast,H3032,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:10,WORD,lots,H1486,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:10,PHRASE,for her honorable,H3513,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:10,PHRASE,"men, And all",H3605,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:10,PHRASE,her great,H1419,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:10,WORD,men,H1419,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:10,PHRASE,were bound,H7576,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:10,PHRASE,with fetters,H2131,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:11,PHRASE,You too,H1571,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:11,PHRASE,will become,H7937,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:11,WORD,drunk,H7937,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:11,PHRASE,You will be hidden,H5956,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:11,PHRASE,You too,H1571,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:11,PHRASE,will search,H1245,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:11,PHRASE,for a refuge,H4581,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:11,PHRASE,from the enemy,H340,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:12,WORD,All,H3605,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:12,PHRASE,your fortifications,H4013,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:12,PHRASE,are fig,H8384,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:12,WORD,trees,H8384,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:12,PHRASE,with ripe,H1061,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:12,WORD,fruit,H1061,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:12,WORD,When,H518,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:12,WORD,shaken,H5128,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:12,PHRASE,they fall,H5307,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:12,PHRASE,into the eater's,H398,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:12,WORD,mouth,H6310,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:13,WORD,Behold,H2009,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:13,PHRASE,your people,H5971,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:13,PHRASE,are women,H802,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:13,PHRASE,in your midst,H7130,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:13,PHRASE,The gates,H8179,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:13,PHRASE,of your land,H776,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:13,PHRASE,are opened,H6605,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:13,WORD,wide,H6605,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:13,PHRASE,to your enemies,H340,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:13,WORD,Fire,H784,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:13,WORD,consumes,H398,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:13,PHRASE,your gate bars,H1280,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:14,WORD,Draw,H7579,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:14,PHRASE,for yourself water,H4325,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:14,PHRASE,for the siege,H4692,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:14,WORD,Strengthen,H2388,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:14,PHRASE,your fortifications,H4013,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:14,WORD,Go,H935,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:14,PHRASE,into the clay,H2916,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:14,PHRASE,and tread,H7429,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:14,PHRASE,the mortar,H2563,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:14,WORD,Take,H2388,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:14,WORD,hold,H2388,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:14,PHRASE,of the brick,H4404,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:14,WORD,mold,H4404,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:15,WORD,There,H8033,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:15,WORD,fire,H784,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:15,PHRASE,will consume,H398,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:15,PHRASE,"you, The sword",H2719,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:15,PHRASE,will cut,H3772,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:15,PHRASE,you down,H3772,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:15,PHRASE,It will consume,H398,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:15,PHRASE,you as the locust,H3218,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:15,PHRASE,does. Multiply,H3513,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:15,PHRASE,yourself like the creeping,H3218,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:15,WORD,locust,H3218,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:15,WORD,Multiply,H3513,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:15,PHRASE,yourself like the swarming,H697,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:15,WORD,locust,H697,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:16,PHRASE,You have increased,H7235,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:16,PHRASE,your traders,H7402,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:16,WORD,more,H4480,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:16,WORD,than,H4480,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:16,PHRASE,the stars,H3556,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:16,PHRASE,of heaven,H8064,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:16,PHRASE,The creeping,H3218,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:16,WORD,locust,H3218,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:16,WORD,strips,H6584,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:16,PHRASE,and flies,H5774,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:16,WORD,away,H5774,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:17,PHRASE,Your guardsmen,H4502,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:17,PHRASE,are like the swarming,H697,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:17,WORD,locust,H697,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:17,PHRASE,Your marshals,H2951,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:17,PHRASE,are like hordes,H1462,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:17,PHRASE,of grasshoppers,H1462,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:17,WORD,Settling,H2583,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:17,PHRASE,in the stone walls,H1448,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:17,PHRASE,on a cold,H7135,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:17,WORD,day,H3117,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:17,PHRASE,The sun,H8121,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:17,WORD,rises,H2224,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:17,PHRASE,and they flee,H5074,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:17,PHRASE,And the place,H4725,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:17,WORD,where,H335,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:17,PHRASE,they are is not known,H3045,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:18,PHRASE,Your shepherds,H7462,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:18,PHRASE,are sleeping,H5123,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:18,PHRASE,O king,H4428,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:18,PHRASE,of Assyria,H804,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:18,PHRASE,Your nobles,H117,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:18,PHRASE,are lying,H7931,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:18,WORD,down,H7931,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:18,PHRASE,Your people,H5971,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:18,PHRASE,are scattered,H6335,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:18,PHRASE,on the mountains,H2022,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:18,PHRASE,And there,H369,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:18,PHRASE,is no,H369,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:18,WORD,one,H369,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:18,PHRASE,to regather,H6908,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:18,WORD,them,,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:19,WORD,There,H369,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:19,PHRASE,is no,H369,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:19,WORD,relief,H3545,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:19,PHRASE,for your breakdown,H7667,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:19,PHRASE,Your wound,H4347,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:19,PHRASE,is incurable,H2470,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:19,WORD,All,H3605,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:19,PHRASE,who hear,H8085,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:19,WORD,about,H8088,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:19,PHRASE,you Will clap,H8628,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:19,PHRASE,their hands,H3709,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:19,WORD,over,H5921,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:19,PHRASE,"you, For on whom",H4310,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:19,PHRASE,has not your evil,H7451,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:19,WORD,passed,H5674,Minor Prophets,Old Testament,Nahum,ESV
+3,Nahum3:19,WORD,continually,H8548,Minor Prophets,Old Testament,Nahum,ESV

@@ -1,0 +1,603 @@
+bible_chapter,bible_verse,verse_part_type,verse_part,hebrew_id,lit_type,testament_type,bible_book,version
+1,Jonah1:1,PHRASE,The word,H1697,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:1,PHRASE,of the LORD,H3068,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:1,WORD,came,H1961,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:1,PHRASE,to Jonah,H3124,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:1,PHRASE,the son,H1121,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:1,PHRASE,of Amittai,H573,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:1,WORD,saying,H559,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:2,WORD,Arise,H6965,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:2,WORD,go,H1980,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:2,PHRASE,to Nineveh,H5210,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:2,PHRASE,the great,H1419,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:2,WORD,city,H5892,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:2,PHRASE,and cry,H7121,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:2,WORD,against,H5921,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:2,PHRASE,"it, for their wickedness",H7451,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:2,PHRASE,has come,H5927,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:2,PHRASE,up before,H6440,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:2,WORD,Me,,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:3,PHRASE,But Jonah,H3124,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:3,WORD,rose,H6965,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:3,PHRASE,up to flee,H1272,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:3,PHRASE,to Tarshish,H8659,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:3,PHRASE,from the presence,H6440,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:3,PHRASE,of the LORD,H3068,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:3,PHRASE,So he went,H3381,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:3,WORD,down,H3381,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:3,PHRASE,to Joppa,H3305,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:3,WORD,found,H4672,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:3,PHRASE,a ship,H591,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:3,PHRASE,which was going,H935,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:3,PHRASE,to Tarshish,H8659,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:3,WORD,paid,H5414,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:3,PHRASE,the fare,H7939,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:3,PHRASE,and went,H3381,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:3,WORD,down,H3381,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:3,PHRASE,into it to go,H935,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:3,PHRASE,with them to Tarshish,H8659,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:3,PHRASE,from the presence,H6440,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:3,PHRASE,of the LORD,H3068,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:4,PHRASE,The LORD,H3068,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:4,WORD,hurled,H2904,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:4,PHRASE,a great,H1419,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:4,WORD,wind,H7307,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:4,PHRASE,on the sea,H3220,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:4,PHRASE,and there was a great,H1419,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:4,WORD,storm,H5591,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:4,PHRASE,on the sea,H3220,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:4,PHRASE,so that the ship,H591,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:4,PHRASE,was about to break,H7665,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:4,WORD,up,,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:5,PHRASE,Then the sailors,H4419,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:5,WORD,became,H3372,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:5,WORD,afraid,H3372,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:5,PHRASE,and every,H376,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:5,WORD,man,H376,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:5,WORD,cried,H2199,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:5,PHRASE,to his god,H430,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:5,PHRASE,and they threw,H2904,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:5,PHRASE,the cargo,H3627,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:5,WORD,which,H834,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:5,PHRASE,was in the ship,H591,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:5,PHRASE,into the sea,H3220,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:5,PHRASE,to lighten,H7043,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:5,PHRASE,it for them. But Jonah,H3124,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:5,PHRASE,had gone,H3381,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:5,WORD,below,H3381,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:5,PHRASE,into the hold,H3411,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:5,PHRASE,of the ship,H5600,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:5,WORD,lain,H7901,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:5,WORD,down,H7901,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:5,PHRASE,and fallen,H7290,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:5,WORD,sound,H7290,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:5,WORD,asleep,H7290,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:6,PHRASE,So the captain,H7227,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:6,WORD,,H2259,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:6,WORD,approached,H7126,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:6,PHRASE,him and said,H559,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:6,WORD,How,H4100,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:6,PHRASE,is it that you are sleeping,H7290,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:6,WORD,Get,H6965,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:6,PHRASE,"up, call",H7121,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:6,PHRASE,on your god,H430,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:6,WORD,Perhaps,H194,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:6,PHRASE,your god,H430,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:6,PHRASE,will be concerned,H6245,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:6,PHRASE,about us so that we will not perish,H6,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:7,WORD,Each,H376,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:7,WORD,man,H376,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:7,WORD,said,H559,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:7,PHRASE,to his mate,H7453,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:7,WORD,Come,H1980,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:7,PHRASE,let us cast,H5307,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:7,WORD,lots,H1486,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:7,PHRASE,so we may learn,H3045,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:7,PHRASE,on whose,H4310,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:7,WORD,account,H7945,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:7,WORD,this,H2088,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:7,WORD,calamity,H7451,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:7,PHRASE,has struck us. So they cast,H5307,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:7,WORD,lots,H1486,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:7,PHRASE,and the lot,H1486,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:7,WORD,fell,H5307,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:7,PHRASE,on Jonah,H3124,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:8,PHRASE,Then they said,H559,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:8,PHRASE,"to him, Tell",H5046,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:8,PHRASE,"us, now",H4994,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:8,PHRASE,On whose,H4310,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:8,PHRASE,account has this,H2088,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:8,WORD,calamity,H7451,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:8,PHRASE,struck us? What,H4100,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:8,PHRASE,is your occupation,H4399,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:8,PHRASE,And where,H370,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:8,PHRASE,do you come,H935,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:8,PHRASE,from? What,H4100,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:8,PHRASE,is your country,H776,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:8,PHRASE,From what,H335,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:8,WORD,,H2088,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:8,WORD,people,H5971,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:8,PHRASE,are you,,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:9,PHRASE,He said,H559,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:9,PHRASE,"to them, I am a Hebrew",H5680,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:9,PHRASE,and I fear,H3372,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:9,PHRASE,the LORD,H3068,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:9,WORD,God,H430,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:9,PHRASE,of heaven,H8064,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:9,WORD,who,H834,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:9,WORD,made,H6213,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:9,PHRASE,the sea,H3220,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:9,PHRASE,and the dry,H3004,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:9,WORD,land,H3004,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:10,PHRASE,Then the men,H376,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:10,WORD,became,H3372,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:10,WORD,extremely,H3374,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:10,WORD,,H1419,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:10,WORD,frightened,H3372,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:10,PHRASE,and they said,H559,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:10,PHRASE,"to him, How",H4100,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:10,PHRASE,could you do,H6213,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:10,WORD,this,H2088,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:10,PHRASE,For the men,H376,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:10,WORD,knew,H3045,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:10,PHRASE,that he was fleeing,H1272,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:10,PHRASE,from the presence,H6440,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:10,PHRASE,of the LORD,H3068,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:10,WORD,because,H3588,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:10,PHRASE,he had told,H5046,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:10,WORD,them,,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:11,PHRASE,So they said,H559,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:11,PHRASE,"to him,",H413,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:11,WORD,What,H4100,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:11,PHRASE,should we do,H6213,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:11,PHRASE,to you,,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:11,WORD,that,H8367,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:11,PHRASE,the sea,H3220,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:11,PHRASE,may become calm,H8367,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:11,PHRASE,for us?,H5921,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:11,WORD,--for,H3588,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:11,PHRASE,the sea,H3220,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:11,PHRASE,was becoming,H5590,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:11,WORD,increasingly,H1980,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:11,WORD,stormy,H5590,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:12,PHRASE,He said,H559,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:12,PHRASE,"to them, Pick",H5375,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:12,PHRASE,me up and throw,H2904,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:12,PHRASE,me into the sea,H3220,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:12,PHRASE,Then the sea,H3220,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:12,PHRASE,will become,H8367,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:12,WORD,calm,H8367,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:12,PHRASE,"for you, for I know",H3045,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:12,PHRASE,that on account,H7945,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:12,PHRASE,of me this,H2088,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:12,WORD,great,H1419,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:12,WORD,storm,H5591,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:12,PHRASE,has come upon you,,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:13,PHRASE,"However, the men",H376,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:13,WORD,rowed,H2864,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:13,PHRASE,desperately to return,H7725,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:13,PHRASE,to land,H3004,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:13,PHRASE,but they could,H3201,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:13,PHRASE,"not, for the sea",H3220,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:13,PHRASE,was becoming,H1980,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:13,PHRASE,even stormier,H5590,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:13,WORD,against,H5921,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:13,WORD,them,,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:14,PHRASE,Then they called,H7121,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:14,PHRASE,on the LORD,H3068,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:14,PHRASE,and said,H559,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:14,PHRASE,We earnestly,H577,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:14,WORD,pray,H577,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:14,WORD,O,H577,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:14,WORD,LORD,H3068,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:14,PHRASE,do not let us perish,H6,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:14,PHRASE,on account of this,H2088,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:14,WORD,man's,H376,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:14,WORD,life,H5315,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:14,PHRASE,and do not put,H5414,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:14,WORD,innocent,H5355,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:14,WORD,blood,H1818,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:14,PHRASE,"on us; for You, O LORD",H3068,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:14,PHRASE,have done,H6213,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:14,PHRASE,as You have pleased,H2654,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:15,PHRASE,So they picked,H5375,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:15,PHRASE,up Jonah,H3124,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:15,WORD,threw,H2904,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:15,PHRASE,him into the sea,H3220,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:15,PHRASE,and the sea,H3220,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:15,WORD,stopped,H5975,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:15,PHRASE,its raging,H2197,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:16,PHRASE,Then the men,H376,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:16,WORD,feared,H3372,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:16,PHRASE,the LORD,H3068,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:16,WORD,greatly,H1419,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:16,PHRASE,and they offered,H2076,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:16,PHRASE,a sacrifice,H2077,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:16,PHRASE,to the LORD,H3068,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:16,PHRASE,and made,H5087,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:16,WORD,vows,H5088,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:17,PHRASE,And the LORD,H3068,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:17,WORD,appointed,H4487,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:17,PHRASE,a great,H1419,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:17,WORD,fish,H1709,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:17,PHRASE,to swallow,H1104,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:17,WORD,Jonah,H3124,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:17,PHRASE,and Jonah,H3124,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:17,PHRASE,was in the stomach,H4578,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:17,PHRASE,of the fish,H1709,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:17,WORD,three,H7969,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:17,WORD,days,H3117,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:17,PHRASE,and three,H7969,Minor Prophets,Old Testament,Jonah,NIV
+1,Jonah1:17,WORD,nights,H3915,Minor Prophets,Old Testament,Jonah,NIV
+2,Jonah2:1,PHRASE,Then Jonah,H3124,Minor Prophets,Old Testament,Jonah,NIV
+2,Jonah2:1,WORD,prayed,H6419,Minor Prophets,Old Testament,Jonah,NIV
+2,Jonah2:1,PHRASE,to the LORD,H3068,Minor Prophets,Old Testament,Jonah,NIV
+2,Jonah2:1,PHRASE,his God,H430,Minor Prophets,Old Testament,Jonah,NIV
+2,Jonah2:1,PHRASE,from the stomach,H4578,Minor Prophets,Old Testament,Jonah,NIV
+2,Jonah2:1,PHRASE,of the fish,H1710,Minor Prophets,Old Testament,Jonah,NIV
+2,Jonah2:2,PHRASE,and he said,H559,Minor Prophets,Old Testament,Jonah,NIV
+2,Jonah2:2,PHRASE,I called,H7121,Minor Prophets,Old Testament,Jonah,NIV
+2,Jonah2:2,PHRASE,out of my distress,H6869,Minor Prophets,Old Testament,Jonah,NIV
+2,Jonah2:2,PHRASE,to the LORD,H3068,Minor Prophets,Old Testament,Jonah,NIV
+2,Jonah2:2,PHRASE,And He answered,H6030,Minor Prophets,Old Testament,Jonah,NIV
+2,Jonah2:2,PHRASE,me. I cried,H7768,Minor Prophets,Old Testament,Jonah,NIV
+2,Jonah2:2,PHRASE,for help,H7768,Minor Prophets,Old Testament,Jonah,NIV
+2,Jonah2:2,PHRASE,from the depth,H990,Minor Prophets,Old Testament,Jonah,NIV
+2,Jonah2:2,PHRASE,of Sheol,H7585,Minor Prophets,Old Testament,Jonah,NIV
+2,Jonah2:2,PHRASE,You heard,H8085,Minor Prophets,Old Testament,Jonah,NIV
+2,Jonah2:2,PHRASE,my voice,H6963,Minor Prophets,Old Testament,Jonah,NIV
+2,Jonah2:3,PHRASE,For You had cast,H7993,Minor Prophets,Old Testament,Jonah,NIV
+2,Jonah2:3,PHRASE,me into the deep,H4688,Minor Prophets,Old Testament,Jonah,NIV
+2,Jonah2:3,PHRASE,Into the heart,H3824,Minor Prophets,Old Testament,Jonah,NIV
+2,Jonah2:3,PHRASE,of the seas,H3220,Minor Prophets,Old Testament,Jonah,NIV
+2,Jonah2:3,PHRASE,And the current,H5104,Minor Prophets,Old Testament,Jonah,NIV
+2,Jonah2:3,WORD,engulfed,H5437,Minor Prophets,Old Testament,Jonah,NIV
+2,Jonah2:3,PHRASE,me. All,H3605,Minor Prophets,Old Testament,Jonah,NIV
+2,Jonah2:3,PHRASE,Your breakers,H4867,Minor Prophets,Old Testament,Jonah,NIV
+2,Jonah2:3,PHRASE,and billows,H1530,Minor Prophets,Old Testament,Jonah,NIV
+2,Jonah2:3,WORD,passed,H5674,Minor Prophets,Old Testament,Jonah,NIV
+2,Jonah2:3,WORD,over,H5921,Minor Prophets,Old Testament,Jonah,NIV
+2,Jonah2:3,WORD,me,,Minor Prophets,Old Testament,Jonah,NIV
+2,Jonah2:4,PHRASE,So I said,H559,Minor Prophets,Old Testament,Jonah,NIV
+2,Jonah2:4,PHRASE,I have been expelled,H1644,Minor Prophets,Old Testament,Jonah,NIV
+2,Jonah2:4,PHRASE,from Your sight,H5869,Minor Prophets,Old Testament,Jonah,NIV
+2,Jonah2:4,WORD,Nevertheless,H389,Minor Prophets,Old Testament,Jonah,NIV
+2,Jonah2:4,PHRASE,I will look,H5027,Minor Prophets,Old Testament,Jonah,NIV
+2,Jonah2:4,WORD,again,H3254,Minor Prophets,Old Testament,Jonah,NIV
+2,Jonah2:4,WORD,toward,H413,Minor Prophets,Old Testament,Jonah,NIV
+2,Jonah2:4,PHRASE,Your holy,H6944,Minor Prophets,Old Testament,Jonah,NIV
+2,Jonah2:4,WORD,temple,H1964,Minor Prophets,Old Testament,Jonah,NIV
+2,Jonah2:5,WORD,Water,H4325,Minor Prophets,Old Testament,Jonah,NIV
+2,Jonah2:5,WORD,encompassed,H661,Minor Prophets,Old Testament,Jonah,NIV
+2,Jonah2:5,PHRASE,me to the point of death,H5315,Minor Prophets,Old Testament,Jonah,NIV
+2,Jonah2:5,PHRASE,The great deep,H8415,Minor Prophets,Old Testament,Jonah,NIV
+2,Jonah2:5,WORD,engulfed,H5437,Minor Prophets,Old Testament,Jonah,NIV
+2,Jonah2:5,PHRASE,"me, Weeds",H5488,Minor Prophets,Old Testament,Jonah,NIV
+2,Jonah2:5,PHRASE,were wrapped,H2280,Minor Prophets,Old Testament,Jonah,NIV
+2,Jonah2:5,PHRASE,around my head,H7218,Minor Prophets,Old Testament,Jonah,NIV
+2,Jonah2:6,PHRASE,I descended,H3381,Minor Prophets,Old Testament,Jonah,NIV
+2,Jonah2:6,PHRASE,to the roots,H7095,Minor Prophets,Old Testament,Jonah,NIV
+2,Jonah2:6,PHRASE,of the mountains,H2022,Minor Prophets,Old Testament,Jonah,NIV
+2,Jonah2:6,PHRASE,The earth,H776,Minor Prophets,Old Testament,Jonah,NIV
+2,Jonah2:6,PHRASE,with its bars,H1280,Minor Prophets,Old Testament,Jonah,NIV
+2,Jonah2:6,PHRASE,was around,H1157,Minor Prophets,Old Testament,Jonah,NIV
+2,Jonah2:6,PHRASE,me forever,H5769,Minor Prophets,Old Testament,Jonah,NIV
+2,Jonah2:6,PHRASE,But You have brought,H5927,Minor Prophets,Old Testament,Jonah,NIV
+2,Jonah2:6,PHRASE,up my life,H2416,Minor Prophets,Old Testament,Jonah,NIV
+2,Jonah2:6,PHRASE,from the pit,H7845,Minor Prophets,Old Testament,Jonah,NIV
+2,Jonah2:6,PHRASE,O LORD,H3068,Minor Prophets,Old Testament,Jonah,NIV
+2,Jonah2:6,PHRASE,my God,H430,Minor Prophets,Old Testament,Jonah,NIV
+2,Jonah2:7,PHRASE,While I was fainting,H5848,Minor Prophets,Old Testament,Jonah,NIV
+2,Jonah2:7,WORD,away,H5848,Minor Prophets,Old Testament,Jonah,NIV
+2,Jonah2:7,PHRASE,I remembered,H2142,Minor Prophets,Old Testament,Jonah,NIV
+2,Jonah2:7,PHRASE,the LORD,H3068,Minor Prophets,Old Testament,Jonah,NIV
+2,Jonah2:7,PHRASE,And my prayer,H8605,Minor Prophets,Old Testament,Jonah,NIV
+2,Jonah2:7,WORD,came,H935,Minor Prophets,Old Testament,Jonah,NIV
+2,Jonah2:7,PHRASE,"to You, Into Your holy",H6944,Minor Prophets,Old Testament,Jonah,NIV
+2,Jonah2:7,WORD,temple,H1964,Minor Prophets,Old Testament,Jonah,NIV
+2,Jonah2:8,PHRASE,Those who regard,H8104,Minor Prophets,Old Testament,Jonah,NIV
+2,Jonah2:8,WORD,vain,H7723,Minor Prophets,Old Testament,Jonah,NIV
+2,Jonah2:8,WORD,idols,H1892,Minor Prophets,Old Testament,Jonah,NIV
+2,Jonah2:8,WORD,Forsake,H5800,Minor Prophets,Old Testament,Jonah,NIV
+2,Jonah2:8,PHRASE,their faithfulness,H2617,Minor Prophets,Old Testament,Jonah,NIV
+2,Jonah2:9,PHRASE,But I will sacrifice,H2076,Minor Prophets,Old Testament,Jonah,NIV
+2,Jonah2:9,PHRASE,to You With the voice,H6963,Minor Prophets,Old Testament,Jonah,NIV
+2,Jonah2:9,PHRASE,of thanksgiving,H8426,Minor Prophets,Old Testament,Jonah,NIV
+2,Jonah2:9,PHRASE,That which,H834,Minor Prophets,Old Testament,Jonah,NIV
+2,Jonah2:9,PHRASE,I have vowed,H5087,Minor Prophets,Old Testament,Jonah,NIV
+2,Jonah2:9,PHRASE,I will pay,H7999,Minor Prophets,Old Testament,Jonah,NIV
+2,Jonah2:9,WORD,Salvation,H3444,Minor Prophets,Old Testament,Jonah,NIV
+2,Jonah2:9,PHRASE,is from the LORD,H3068,Minor Prophets,Old Testament,Jonah,NIV
+2,Jonah2:10,PHRASE,Then the LORD,H3068,Minor Prophets,Old Testament,Jonah,NIV
+2,Jonah2:10,WORD,commanded,H559,Minor Prophets,Old Testament,Jonah,NIV
+2,Jonah2:10,PHRASE,the fish,H1709,Minor Prophets,Old Testament,Jonah,NIV
+2,Jonah2:10,PHRASE,and it vomited,H6958,Minor Prophets,Old Testament,Jonah,NIV
+2,Jonah2:10,WORD,Jonah,H3124,Minor Prophets,Old Testament,Jonah,NIV
+2,Jonah2:10,PHRASE,up onto,H413,Minor Prophets,Old Testament,Jonah,NIV
+2,Jonah2:10,PHRASE,the dry,H3004,Minor Prophets,Old Testament,Jonah,NIV
+2,Jonah2:10,WORD,land,H3004,Minor Prophets,Old Testament,Jonah,NIV
+3,Jonah3:1,PHRASE,Now the word,H1697,Minor Prophets,Old Testament,Jonah,NIV
+3,Jonah3:1,PHRASE,of the LORD,H3068,Minor Prophets,Old Testament,Jonah,NIV
+3,Jonah3:1,WORD,came,H1961,Minor Prophets,Old Testament,Jonah,NIV
+3,Jonah3:1,PHRASE,to Jonah,H3124,Minor Prophets,Old Testament,Jonah,NIV
+3,Jonah3:1,PHRASE,the second,H8145,Minor Prophets,Old Testament,Jonah,NIV
+3,Jonah3:1,WORD,time,H8145,Minor Prophets,Old Testament,Jonah,NIV
+3,Jonah3:1,WORD,saying,H559,Minor Prophets,Old Testament,Jonah,NIV
+3,Jonah3:2,WORD,Arise,H6965,Minor Prophets,Old Testament,Jonah,NIV
+3,Jonah3:2,WORD,go,H1980,Minor Prophets,Old Testament,Jonah,NIV
+3,Jonah3:2,PHRASE,to Nineveh,H5210,Minor Prophets,Old Testament,Jonah,NIV
+3,Jonah3:2,PHRASE,the great,H1419,Minor Prophets,Old Testament,Jonah,NIV
+3,Jonah3:2,WORD,city,H5892,Minor Prophets,Old Testament,Jonah,NIV
+3,Jonah3:2,PHRASE,and proclaim,H7121,Minor Prophets,Old Testament,Jonah,NIV
+3,Jonah3:2,PHRASE,to it the proclamation,H7150,Minor Prophets,Old Testament,Jonah,NIV
+3,Jonah3:2,WORD,which,H834,Minor Prophets,Old Testament,Jonah,NIV
+3,Jonah3:2,PHRASE,I am going to tell,H1696,Minor Prophets,Old Testament,Jonah,NIV
+3,Jonah3:2,WORD,you,,Minor Prophets,Old Testament,Jonah,NIV
+3,Jonah3:3,PHRASE,So Jonah,H3124,Minor Prophets,Old Testament,Jonah,NIV
+3,Jonah3:3,WORD,arose,H6965,Minor Prophets,Old Testament,Jonah,NIV
+3,Jonah3:3,PHRASE,and went,H1980,Minor Prophets,Old Testament,Jonah,NIV
+3,Jonah3:3,PHRASE,to Nineveh,H5210,Minor Prophets,Old Testament,Jonah,NIV
+3,Jonah3:3,PHRASE,according to the word,H1697,Minor Prophets,Old Testament,Jonah,NIV
+3,Jonah3:3,PHRASE,of the LORD,H3068,Minor Prophets,Old Testament,Jonah,NIV
+3,Jonah3:3,PHRASE,Now Nineveh,H5210,Minor Prophets,Old Testament,Jonah,NIV
+3,Jonah3:3,PHRASE,was an exceedingly,H430,Minor Prophets,Old Testament,Jonah,NIV
+3,Jonah3:3,WORD,great,H1419,Minor Prophets,Old Testament,Jonah,NIV
+3,Jonah3:3,WORD,city,H5892,Minor Prophets,Old Testament,Jonah,NIV
+3,Jonah3:3,PHRASE,a three,H7969,Minor Prophets,Old Testament,Jonah,NIV
+3,Jonah3:3,WORD,days,H3117,Minor Prophets,Old Testament,Jonah,NIV
+3,Jonah3:3,WORD,walk,H4109,Minor Prophets,Old Testament,Jonah,NIV
+3,Jonah3:4,PHRASE,Then Jonah,H3124,Minor Prophets,Old Testament,Jonah,NIV
+3,Jonah3:4,WORD,began,H2490,Minor Prophets,Old Testament,Jonah,NIV
+3,Jonah3:4,PHRASE,to go,H935,Minor Prophets,Old Testament,Jonah,NIV
+3,Jonah3:4,PHRASE,through the city,H5892,Minor Prophets,Old Testament,Jonah,NIV
+3,Jonah3:4,WORD,one,H259,Minor Prophets,Old Testament,Jonah,NIV
+3,Jonah3:4,WORD,day's,H3117,Minor Prophets,Old Testament,Jonah,NIV
+3,Jonah3:4,WORD,walk,H4109,Minor Prophets,Old Testament,Jonah,NIV
+3,Jonah3:4,PHRASE,and he cried,H7121,Minor Prophets,Old Testament,Jonah,NIV
+3,Jonah3:4,PHRASE,out and said,H559,Minor Prophets,Old Testament,Jonah,NIV
+3,Jonah3:4,WORD,Yet,H5750,Minor Prophets,Old Testament,Jonah,NIV
+3,Jonah3:4,WORD,forty,H705,Minor Prophets,Old Testament,Jonah,NIV
+3,Jonah3:4,WORD,days,H3117,Minor Prophets,Old Testament,Jonah,NIV
+3,Jonah3:4,PHRASE,and Nineveh,H5210,Minor Prophets,Old Testament,Jonah,NIV
+3,Jonah3:4,PHRASE,will be overthrown,H2015,Minor Prophets,Old Testament,Jonah,NIV
+3,Jonah3:5,PHRASE,Then the people,H376,Minor Prophets,Old Testament,Jonah,NIV
+3,Jonah3:5,PHRASE,of Nineveh,H5210,Minor Prophets,Old Testament,Jonah,NIV
+3,Jonah3:5,WORD,believed,H539,Minor Prophets,Old Testament,Jonah,NIV
+3,Jonah3:5,PHRASE,in God,H430,Minor Prophets,Old Testament,Jonah,NIV
+3,Jonah3:5,PHRASE,and they called,H7121,Minor Prophets,Old Testament,Jonah,NIV
+3,Jonah3:5,PHRASE,a fast,H6685,Minor Prophets,Old Testament,Jonah,NIV
+3,Jonah3:5,PHRASE,and put,H3847,Minor Prophets,Old Testament,Jonah,NIV
+3,Jonah3:5,PHRASE,on sackcloth,H8242,Minor Prophets,Old Testament,Jonah,NIV
+3,Jonah3:5,PHRASE,from the greatest,H1419,Minor Prophets,Old Testament,Jonah,NIV
+3,Jonah3:5,PHRASE,to the least,H6996,Minor Prophets,Old Testament,Jonah,NIV
+3,Jonah3:5,PHRASE,of them,,Minor Prophets,Old Testament,Jonah,NIV
+3,Jonah3:6,PHRASE,When the word,H1697,Minor Prophets,Old Testament,Jonah,NIV
+3,Jonah3:6,WORD,reached,H5060,Minor Prophets,Old Testament,Jonah,NIV
+3,Jonah3:6,PHRASE,the king,H4428,Minor Prophets,Old Testament,Jonah,NIV
+3,Jonah3:6,PHRASE,of Nineveh,H5210,Minor Prophets,Old Testament,Jonah,NIV
+3,Jonah3:6,PHRASE,he arose,H6965,Minor Prophets,Old Testament,Jonah,NIV
+3,Jonah3:6,PHRASE,from his throne,H3678,Minor Prophets,Old Testament,Jonah,NIV
+3,Jonah3:6,WORD,laid,H5674,Minor Prophets,Old Testament,Jonah,NIV
+3,Jonah3:6,WORD,aside,H5674,Minor Prophets,Old Testament,Jonah,NIV
+3,Jonah3:6,PHRASE,his robe,H155,Minor Prophets,Old Testament,Jonah,NIV
+3,Jonah3:6,PHRASE,"from him, covered",H3680,Minor Prophets,Old Testament,Jonah,NIV
+3,Jonah3:6,PHRASE,himself with sackcloth,H8242,Minor Prophets,Old Testament,Jonah,NIV
+3,Jonah3:6,PHRASE,and sat,H3427,Minor Prophets,Old Testament,Jonah,NIV
+3,Jonah3:6,PHRASE,on the ashes,H665,Minor Prophets,Old Testament,Jonah,NIV
+3,Jonah3:7,PHRASE,He issued,H2199,Minor Prophets,Old Testament,Jonah,NIV
+3,Jonah3:7,PHRASE,a proclamation,H2199,Minor Prophets,Old Testament,Jonah,NIV
+3,Jonah3:7,PHRASE,and it said,H559,Minor Prophets,Old Testament,Jonah,NIV
+3,Jonah3:7,PHRASE,In Nineveh,H5210,Minor Prophets,Old Testament,Jonah,NIV
+3,Jonah3:7,PHRASE,by the decree,H2940,Minor Prophets,Old Testament,Jonah,NIV
+3,Jonah3:7,PHRASE,of the king,H4428,Minor Prophets,Old Testament,Jonah,NIV
+3,Jonah3:7,PHRASE,and his nobles,H1419,Minor Prophets,Old Testament,Jonah,NIV
+3,Jonah3:7,PHRASE,Do not let man,H120,Minor Prophets,Old Testament,Jonah,NIV
+3,Jonah3:7,WORD,beast,H929,Minor Prophets,Old Testament,Jonah,NIV
+3,Jonah3:7,WORD,herd,H1241,Minor Prophets,Old Testament,Jonah,NIV
+3,Jonah3:7,PHRASE,or flock,H6629,Minor Prophets,Old Testament,Jonah,NIV
+3,Jonah3:7,WORD,taste,H2938,Minor Prophets,Old Testament,Jonah,NIV
+3,Jonah3:7,PHRASE,a thing,H3972,Minor Prophets,Old Testament,Jonah,NIV
+3,Jonah3:7,PHRASE,Do not let them eat,H7462,Minor Prophets,Old Testament,Jonah,NIV
+3,Jonah3:7,PHRASE,or drink,H8354,Minor Prophets,Old Testament,Jonah,NIV
+3,Jonah3:7,WORD,water,H4325,Minor Prophets,Old Testament,Jonah,NIV
+3,Jonah3:8,PHRASE,But both man,H120,Minor Prophets,Old Testament,Jonah,NIV
+3,Jonah3:8,PHRASE,and beast,H929,Minor Prophets,Old Testament,Jonah,NIV
+3,Jonah3:8,PHRASE,must be covered,H3680,Minor Prophets,Old Testament,Jonah,NIV
+3,Jonah3:8,PHRASE,with sackcloth,H8242,Minor Prophets,Old Testament,Jonah,NIV
+3,Jonah3:8,PHRASE,and let men call,H7121,Minor Prophets,Old Testament,Jonah,NIV
+3,Jonah3:8,PHRASE,on God,H430,Minor Prophets,Old Testament,Jonah,NIV
+3,Jonah3:8,WORD,earnestly,H2394,Minor Prophets,Old Testament,Jonah,NIV
+3,Jonah3:8,PHRASE,that each,H376,Minor Prophets,Old Testament,Jonah,NIV
+3,Jonah3:8,PHRASE,may turn,H7725,Minor Prophets,Old Testament,Jonah,NIV
+3,Jonah3:8,PHRASE,from his wicked,H7451,Minor Prophets,Old Testament,Jonah,NIV
+3,Jonah3:8,WORD,way,H1870,Minor Prophets,Old Testament,Jonah,NIV
+3,Jonah3:8,PHRASE,and from the violence,H2555,Minor Prophets,Old Testament,Jonah,NIV
+3,Jonah3:8,WORD,which,H834,Minor Prophets,Old Testament,Jonah,NIV
+3,Jonah3:8,PHRASE,is in his hands,H3709,Minor Prophets,Old Testament,Jonah,NIV
+3,Jonah3:9,WORD,Who,H4310,Minor Prophets,Old Testament,Jonah,NIV
+3,Jonah3:9,WORD,knows,H3045,Minor Prophets,Old Testament,Jonah,NIV
+3,Jonah3:9,WORD,God,H430,Minor Prophets,Old Testament,Jonah,NIV
+3,Jonah3:9,PHRASE,may turn,H7725,Minor Prophets,Old Testament,Jonah,NIV
+3,Jonah3:9,PHRASE,and relent,H5162,Minor Prophets,Old Testament,Jonah,NIV
+3,Jonah3:9,PHRASE,and withdraw,H7725,Minor Prophets,Old Testament,Jonah,NIV
+3,Jonah3:9,PHRASE,His burning,H2740,Minor Prophets,Old Testament,Jonah,NIV
+3,Jonah3:9,WORD,anger,H639,Minor Prophets,Old Testament,Jonah,NIV
+3,Jonah3:9,PHRASE,so that we will not perish,H6,Minor Prophets,Old Testament,Jonah,NIV
+3,Jonah3:10,PHRASE,When God,H430,Minor Prophets,Old Testament,Jonah,NIV
+3,Jonah3:10,WORD,saw,H7200,Minor Prophets,Old Testament,Jonah,NIV
+3,Jonah3:10,PHRASE,their deeds,H4639,Minor Prophets,Old Testament,Jonah,NIV
+3,Jonah3:10,PHRASE,that they turned,H7725,Minor Prophets,Old Testament,Jonah,NIV
+3,Jonah3:10,PHRASE,from their wicked,H7451,Minor Prophets,Old Testament,Jonah,NIV
+3,Jonah3:10,WORD,way,H1870,Minor Prophets,Old Testament,Jonah,NIV
+3,Jonah3:10,PHRASE,then God,H430,Minor Prophets,Old Testament,Jonah,NIV
+3,Jonah3:10,WORD,relented,H5162,Minor Prophets,Old Testament,Jonah,NIV
+3,Jonah3:10,WORD,concerning,H5921,Minor Prophets,Old Testament,Jonah,NIV
+3,Jonah3:10,PHRASE,the calamity,H7451,Minor Prophets,Old Testament,Jonah,NIV
+3,Jonah3:10,WORD,which,H834,Minor Prophets,Old Testament,Jonah,NIV
+3,Jonah3:10,PHRASE,He had declared,H1696,Minor Prophets,Old Testament,Jonah,NIV
+3,Jonah3:10,PHRASE,He would bring,H6213,Minor Prophets,Old Testament,Jonah,NIV
+3,Jonah3:10,PHRASE,upon them. And He did not do,H6213,Minor Prophets,Old Testament,Jonah,NIV
+3,Jonah3:10,WORD,it,,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:1,PHRASE,But it greatly,H1419,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:1,WORD,displeased,H7489,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:1,WORD,Jonah,H3124,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:1,PHRASE,and he became,H2734,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:1,WORD,angry,H2734,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:2,PHRASE,He prayed,H6419,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:2,PHRASE,to the LORD,H3068,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:2,PHRASE,and said,H559,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:2,WORD,Please,H577,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:2,WORD,LORD,H3068,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:2,PHRASE,was not this,H2088,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:2,WORD,what,H1697,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:2,PHRASE,I said,H1696,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:2,WORD,while,H5704,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:2,PHRASE,I was still,H5704,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:2,PHRASE,in my own country,H127,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:2,WORD,Therefore,H5921,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:2,WORD,,H3651,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:2,PHRASE,in order to forestall,H6923,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:2,PHRASE,this I fled,H1272,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:2,PHRASE,to Tarshish,H8659,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:2,PHRASE,for I knew,H3045,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:2,PHRASE,that You are a gracious,H2587,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:2,PHRASE,and compassionate,H7349,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:2,WORD,God,H410,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:2,WORD,slow,H750,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:2,PHRASE,to anger,H639,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:2,PHRASE,and abundant,H7227,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:2,PHRASE,in lovingkindness,H2617,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:2,PHRASE,and one who relents,H5162,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:2,WORD,concerning,H5921,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:2,WORD,calamity,H7451,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:3,PHRASE,Therefore now,H6258,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:3,PHRASE,O LORD,H3068,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:3,WORD,please,H4994,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:3,WORD,take,H3947,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:3,PHRASE,my life,H5315,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:3,PHRASE,"from me, for death",H4194,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:3,PHRASE,is better,H2896,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:3,PHRASE,to me than,H4480,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:3,WORD,life,H2416,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:4,PHRASE,The LORD,H3068,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:4,WORD,said,H559,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:4,PHRASE,Do you have good,H3190,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:4,WORD,reason,H3190,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:4,PHRASE,to be angry,H2734,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:5,PHRASE,Then Jonah,H3124,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:5,WORD,went,H3318,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:5,PHRASE,out from the city,H5892,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:5,PHRASE,and sat,H3427,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:5,WORD,east,H6924,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:5,PHRASE,of it. There,H8033,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:5,PHRASE,he made,H6213,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:5,PHRASE,a shelter,H5521,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:5,PHRASE,for himself and sat,H3427,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:5,WORD,under,H8478,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:5,PHRASE,it in the shade,H6738,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:5,WORD,until,H5704,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:5,WORD,,H834,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:5,PHRASE,he could see,H7200,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:5,WORD,what,H4100,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:5,PHRASE,would happen,H1961,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:5,PHRASE,in the city,H5892,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:6,PHRASE,So the LORD,H3068,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:6,WORD,God,H430,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:6,WORD,appointed,H4487,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:6,PHRASE,a plant,H7021,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:6,PHRASE,and it grew,H5927,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:6,PHRASE,up over,H4480,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:6,WORD,,H5921,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:6,WORD,Jonah,H3124,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:6,PHRASE,to be a shade,H6738,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:6,WORD,over,H5921,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:6,PHRASE,his head,H7218,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:6,PHRASE,to deliver,H5337,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:6,PHRASE,him from his discomfort,H7451,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:6,PHRASE,And Jonah,H3124,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:6,PHRASE,was extremely,H8057,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:6,WORD,,H1419,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:6,WORD,happy,H8055,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:6,WORD,about,H5921,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:6,PHRASE,the plant,H7021,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:7,PHRASE,But God,H430,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:7,WORD,appointed,H4487,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:7,PHRASE,a worm,H8439,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:7,PHRASE,when dawn,H7837,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:7,WORD,came,H5927,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:7,PHRASE,the next,H4283,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:7,WORD,day,H4283,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:7,PHRASE,and it attacked,H5221,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:7,PHRASE,the plant,H7021,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:7,PHRASE,and it withered,H3001,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:8,PHRASE,When the sun,H8121,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:8,WORD,came,H2224,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:8,PHRASE,up God,H430,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:8,WORD,appointed,H4487,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:8,PHRASE,a scorching,H2759,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:8,WORD,east,H6921,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:8,WORD,wind,H7307,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:8,PHRASE,and the sun,H8121,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:8,WORD,beat,H5221,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:8,WORD,down,H5221,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:8,PHRASE,on Jonah's,H3124,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:8,WORD,head,H7218,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:8,PHRASE,so that he became,H5968,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:8,WORD,faint,H5968,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:8,PHRASE,and begged,H7592,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:8,PHRASE,with all his soul,H5315,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:8,PHRASE,to die,H4191,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:8,WORD,saying,H559,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:8,WORD,Death,H4194,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:8,PHRASE,is better,H2896,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:8,PHRASE,to me than,H4480,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:8,WORD,life,H2416,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:9,PHRASE,Then God,H430,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:9,WORD,said,H559,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:9,PHRASE,to Jonah,H3124,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:9,PHRASE,Do you have good,H3190,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:9,WORD,reason,H3190,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:9,PHRASE,to be angry,H2734,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:9,WORD,about,H5921,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:9,PHRASE,the plant,H7021,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:9,PHRASE,And he said,H559,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:9,PHRASE,I have good,H3190,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:9,WORD,reason,H3190,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:9,PHRASE,to be angry,H2734,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:9,PHRASE,even to death,H4194,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:10,PHRASE,Then the LORD,H3068,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:10,WORD,said,H559,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:10,PHRASE,You had,H2347,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:10,WORD,compassion,H2347,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:10,PHRASE,on the plant,H7021,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:10,PHRASE,for which,H834,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:10,PHRASE,you did not work,H5998,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:10,PHRASE,and which you did not cause to grow,H1431,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:10,WORD,which,H7945,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:10,WORD,came,H1961,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:10,PHRASE,up overnight,H1121,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:10,WORD,,H3915,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:10,PHRASE,and perished,H6,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:10,WORD,overnight,H1121,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:10,WORD,,H3915,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:11,PHRASE,Should I not have,H2347,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:11,WORD,compassion,H2347,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:11,PHRASE,on Nineveh,H5210,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:11,PHRASE,the great,H1419,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:11,WORD,city,H5892,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:11,PHRASE,in which,H834,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:11,WORD,there,H3426,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:11,PHRASE,are more,H7235,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:11,WORD,than,H4480,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:11,WORD,"120,000",H8147,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:11,WORD,,H6240,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:11,WORD,,H7239,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:11,WORD,persons,H120,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:11,WORD,who,H834,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:11,PHRASE,do not know,H3045,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:11,PHRASE,the difference between,H996,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:11,PHRASE,their right,H3225,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:11,PHRASE,and left,H8040,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:11,WORD,hand,H8040,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:11,PHRASE,as well as many,H7227,Minor Prophets,Old Testament,Jonah,NIV
+4,Jonah4:11,WORD,animals,H929,Minor Prophets,Old Testament,Jonah,NIV

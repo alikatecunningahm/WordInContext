@@ -1,0 +1,2005 @@
+bible_chapter,bible_verse,verse_part_type,verse_part,hebrew_id,lit_type,testament_type,bible_book,version
+1,1 John1:1 ,PHRASE,That which,G3739,Epistles,New Testament,1 John,KJV
+1,1 John1:1 ,WORD,was,G2258,Epistles,New Testament,1 John,KJV
+1,1 John1:1 ,WORD,from,G575,Epistles,New Testament,1 John,KJV
+1,1 John1:1 ,PHRASE,"the beginning,",G746,Epistles,New Testament,1 John,KJV
+1,1 John1:1 ,WORD,which,G3739,Epistles,New Testament,1 John,KJV
+1,1 John1:1 ,PHRASE,"we have heard,",G191,Epistles,New Testament,1 John,KJV
+1,1 John1:1 ,WORD,which,G3739,Epistles,New Testament,1 John,KJV
+1,1 John1:1 ,PHRASE,we have seen,G3708,Epistles,New Testament,1 John,KJV
+1,1 John1:1 ,PHRASE,with our,G2257,Epistles,New Testament,1 John,KJV
+1,1 John1:1 ,WORD,"eyes,",G3788,Epistles,New Testament,1 John,KJV
+1,1 John1:1 ,WORD,which,G3739,Epistles,New Testament,1 John,KJV
+1,1 John1:1 ,PHRASE,"we have looked upon,",G2300,Epistles,New Testament,1 John,KJV
+1,1 John1:1 ,WORD,and,G2532,Epistles,New Testament,1 John,KJV
+1,1 John1:1 ,WORD,our,G2257,Epistles,New Testament,1 John,KJV
+1,1 John1:1 ,WORD,hands,G5495,Epistles,New Testament,1 John,KJV
+1,1 John1:1 ,PHRASE,"have handled,",G5584,Epistles,New Testament,1 John,KJV
+1,1 John1:1 ,WORD,of,G4012,Epistles,New Testament,1 John,KJV
+1,1 John1:1 ,WORD,the,G3588,Epistles,New Testament,1 John,KJV
+1,1 John1:1 ,WORD,Word,G3056,Epistles,New Testament,1 John,KJV
+1,1 John1:1 ,PHRASE,of life;,G2222,Epistles,New Testament,1 John,KJV
+1,1 John1:2 ,WORD,(For,G2532,Epistles,New Testament,1 John,KJV
+1,1 John1:2 ,WORD,the,G3588,Epistles,New Testament,1 John,KJV
+1,1 John1:2 ,WORD,life,G2222,Epistles,New Testament,1 John,KJV
+1,1 John1:2 ,PHRASE,"was manifested,",G5319,Epistles,New Testament,1 John,KJV
+1,1 John1:2 ,WORD,and,G2532,Epistles,New Testament,1 John,KJV
+1,1 John1:2 ,PHRASE,we have seen,G3708,Epistles,New Testament,1 John,KJV
+1,1 John1:2 ,WORD,"[it],",,Epistles,New Testament,1 John,KJV
+1,1 John1:2 ,WORD,and,G2532,Epistles,New Testament,1 John,KJV
+1,1 John1:2 ,PHRASE,"bear witness,",G3140,Epistles,New Testament,1 John,KJV
+1,1 John1:2 ,WORD,and,G2532,Epistles,New Testament,1 John,KJV
+1,1 John1:2 ,WORD,shew,G518,Epistles,New Testament,1 John,KJV
+1,1 John1:2 ,PHRASE,unto you,G5213,Epistles,New Testament,1 John,KJV
+1,1 John1:2 ,PHRASE,that eternal,G166,Epistles,New Testament,1 John,KJV
+1,1 John1:2 ,WORD,"life,",G2222,Epistles,New Testament,1 John,KJV
+1,1 John1:2 ,WORD,which,G3748,Epistles,New Testament,1 John,KJV
+1,1 John1:2 ,WORD,was,G2258,Epistles,New Testament,1 John,KJV
+1,1 John1:2 ,WORD,with,G4314,Epistles,New Testament,1 John,KJV
+1,1 John1:2 ,WORD,the,G3588,Epistles,New Testament,1 John,KJV
+1,1 John1:2 ,WORD,"Father,",G3962,Epistles,New Testament,1 John,KJV
+1,1 John1:2 ,WORD,and,G2532,Epistles,New Testament,1 John,KJV
+1,1 John1:2 ,PHRASE,was manifested,G5319,Epistles,New Testament,1 John,KJV
+1,1 John1:2 ,PHRASE,unto us;),G2254,Epistles,New Testament,1 John,KJV
+1,1 John1:3 ,PHRASE,That which,G3739,Epistles,New Testament,1 John,KJV
+1,1 John1:3 ,PHRASE,we have seen,G3708,Epistles,New Testament,1 John,KJV
+1,1 John1:3 ,WORD,and,G2532,Epistles,New Testament,1 John,KJV
+1,1 John1:3 ,WORD,heard,G191,Epistles,New Testament,1 John,KJV
+1,1 John1:3 ,PHRASE,declare we,G518,Epistles,New Testament,1 John,KJV
+1,1 John1:3 ,PHRASE,"unto you,",G5213,Epistles,New Testament,1 John,KJV
+1,1 John1:3 ,WORD,that,G2443,Epistles,New Testament,1 John,KJV
+1,1 John1:3 ,WORD,ye,G5210,Epistles,New Testament,1 John,KJV
+1,1 John1:3 ,WORD,also,G2532,Epistles,New Testament,1 John,KJV
+1,1 John1:3 ,PHRASE,may have,G2192,Epistles,New Testament,1 John,KJV
+1,1 John1:3 ,WORD,fellowship,G2842,Epistles,New Testament,1 John,KJV
+1,1 John1:3 ,WORD,with,G3326,Epistles,New Testament,1 John,KJV
+1,1 John1:3 ,WORD,us:,G2257,Epistles,New Testament,1 John,KJV
+1,1 John1:3 ,WORD,and,G2532,Epistles,New Testament,1 John,KJV
+1,1 John1:3 ,PHRASE,truly our,G2251,Epistles,New Testament,1 John,KJV
+1,1 John1:3 ,WORD,fellowship,G2842,Epistles,New Testament,1 John,KJV
+1,1 John1:3 ,WORD,[is],,Epistles,New Testament,1 John,KJV
+1,1 John1:3 ,WORD,with,G3326,Epistles,New Testament,1 John,KJV
+1,1 John1:3 ,WORD,the,G3588,Epistles,New Testament,1 John,KJV
+1,1 John1:3 ,WORD,"Father,",G3962,Epistles,New Testament,1 John,KJV
+1,1 John1:3 ,WORD,and,G2532,Epistles,New Testament,1 John,KJV
+1,1 John1:3 ,WORD,with,G3326,Epistles,New Testament,1 John,KJV
+1,1 John1:3 ,WORD,his,G846,Epistles,New Testament,1 John,KJV
+1,1 John1:3 ,WORD,Son,G5207,Epistles,New Testament,1 John,KJV
+1,1 John1:3 ,WORD,Jesus,G2424,Epistles,New Testament,1 John,KJV
+1,1 John1:3 ,WORD,Christ.,G5547,Epistles,New Testament,1 John,KJV
+1,1 John1:4 ,WORD,And,G2532,Epistles,New Testament,1 John,KJV
+1,1 John1:4 ,PHRASE,these things,G5023,Epistles,New Testament,1 John,KJV
+1,1 John1:4 ,PHRASE,write we,G1125,Epistles,New Testament,1 John,KJV
+1,1 John1:4 ,PHRASE,"unto you,",G5213,Epistles,New Testament,1 John,KJV
+1,1 John1:4 ,WORD,that,G2443,Epistles,New Testament,1 John,KJV
+1,1 John1:4 ,WORD,your,G2257,Epistles,New Testament,1 John,KJV
+1,1 John1:4 ,WORD,joy,G5479,Epistles,New Testament,1 John,KJV
+1,1 John1:4 ,PHRASE,may be,G5600,Epistles,New Testament,1 John,KJV
+1,1 John1:4 ,WORD,full.,G4137,Epistles,New Testament,1 John,KJV
+1,1 John1:5 ,WORD,This,G3778,Epistles,New Testament,1 John,KJV
+1,1 John1:5 ,WORD,then,G2532,Epistles,New Testament,1 John,KJV
+1,1 John1:5 ,WORD,is,G2076,Epistles,New Testament,1 John,KJV
+1,1 John1:5 ,WORD,the,G3588,Epistles,New Testament,1 John,KJV
+1,1 John1:5 ,WORD,message,G1860,Epistles,New Testament,1 John,KJV
+1,1 John1:5 ,WORD,which,G3739,Epistles,New Testament,1 John,KJV
+1,1 John1:5 ,PHRASE,we have heard,G191,Epistles,New Testament,1 John,KJV
+1,1 John1:5 ,WORD,of,G575,Epistles,New Testament,1 John,KJV
+1,1 John1:5 ,WORD,"him,",G846,Epistles,New Testament,1 John,KJV
+1,1 John1:5 ,WORD,and,G2532,Epistles,New Testament,1 John,KJV
+1,1 John1:5 ,WORD,declare,G312,Epistles,New Testament,1 John,KJV
+1,1 John1:5 ,PHRASE,"unto you,",G5213,Epistles,New Testament,1 John,KJV
+1,1 John1:5 ,WORD,that,G3754,Epistles,New Testament,1 John,KJV
+1,1 John1:5 ,WORD,God,G2316,Epistles,New Testament,1 John,KJV
+1,1 John1:5 ,WORD,is,G2076,Epistles,New Testament,1 John,KJV
+1,1 John1:5 ,WORD,"light,",G5457,Epistles,New Testament,1 John,KJV
+1,1 John1:5 ,WORD,and,G2532,Epistles,New Testament,1 John,KJV
+1,1 John1:5 ,WORD,in,G1722,Epistles,New Testament,1 John,KJV
+1,1 John1:5 ,WORD,him,G846,Epistles,New Testament,1 John,KJV
+1,1 John1:5 ,WORD,is,G2076,Epistles,New Testament,1 John,KJV
+1,1 John1:5 ,WORD,no,G3756,Epistles,New Testament,1 John,KJV
+1,1 John1:5 ,WORD,darkness,G4653,Epistles,New Testament,1 John,KJV
+1,1 John1:5 ,PHRASE,at all.,G3762,Epistles,New Testament,1 John,KJV
+1,1 John1:6 ,WORD,If,G1437,Epistles,New Testament,1 John,KJV
+1,1 John1:6 ,PHRASE,we say,G2036,Epistles,New Testament,1 John,KJV
+1,1 John1:6 ,WORD,that,G3754,Epistles,New Testament,1 John,KJV
+1,1 John1:6 ,PHRASE,we have,G2192,Epistles,New Testament,1 John,KJV
+1,1 John1:6 ,WORD,fellowship,G2842,Epistles,New Testament,1 John,KJV
+1,1 John1:6 ,WORD,with,G3326,Epistles,New Testament,1 John,KJV
+1,1 John1:6 ,WORD,"him,",G846,Epistles,New Testament,1 John,KJV
+1,1 John1:6 ,WORD,and,G2532,Epistles,New Testament,1 John,KJV
+1,1 John1:6 ,WORD,walk,G4043,Epistles,New Testament,1 John,KJV
+1,1 John1:6 ,WORD,in,G1722,Epistles,New Testament,1 John,KJV
+1,1 John1:6 ,WORD,"darkness,",G4655,Epistles,New Testament,1 John,KJV
+1,1 John1:6 ,PHRASE,"we lie,",G5574,Epistles,New Testament,1 John,KJV
+1,1 John1:6 ,WORD,and,G2532,Epistles,New Testament,1 John,KJV
+1,1 John1:6 ,WORD,do,G4160,Epistles,New Testament,1 John,KJV
+1,1 John1:6 ,WORD,not,G3756,Epistles,New Testament,1 John,KJV
+1,1 John1:6 ,WORD,the,G3588,Epistles,New Testament,1 John,KJV
+1,1 John1:6 ,WORD,truth:,G225,Epistles,New Testament,1 John,KJV
+1,1 John1:7 ,WORD,But,G1161,Epistles,New Testament,1 John,KJV
+1,1 John1:7 ,WORD,if,G1437,Epistles,New Testament,1 John,KJV
+1,1 John1:7 ,PHRASE,we walk,G4043,Epistles,New Testament,1 John,KJV
+1,1 John1:7 ,WORD,in,G1722,Epistles,New Testament,1 John,KJV
+1,1 John1:7 ,WORD,the,G3588,Epistles,New Testament,1 John,KJV
+1,1 John1:7 ,WORD,"light,",G5457,Epistles,New Testament,1 John,KJV
+1,1 John1:7 ,WORD,as,G5613,Epistles,New Testament,1 John,KJV
+1,1 John1:7 ,WORD,he,G846,Epistles,New Testament,1 John,KJV
+1,1 John1:7 ,WORD,is,G2076,Epistles,New Testament,1 John,KJV
+1,1 John1:7 ,WORD,in,G1722,Epistles,New Testament,1 John,KJV
+1,1 John1:7 ,WORD,the,G3588,Epistles,New Testament,1 John,KJV
+1,1 John1:7 ,WORD,"light,",G5457,Epistles,New Testament,1 John,KJV
+1,1 John1:7 ,PHRASE,we have,G2192,Epistles,New Testament,1 John,KJV
+1,1 John1:7 ,WORD,fellowship,G2842,Epistles,New Testament,1 John,KJV
+1,1 John1:7 ,PHRASE,"one with another,",G3326,Epistles,New Testament,1 John,KJV
+1,1 John1:7 ,WORD,,G240,Epistles,New Testament,1 John,KJV
+1,1 John1:7 ,WORD,and,G2532,Epistles,New Testament,1 John,KJV
+1,1 John1:7 ,WORD,the,G3588,Epistles,New Testament,1 John,KJV
+1,1 John1:7 ,WORD,blood,G129,Epistles,New Testament,1 John,KJV
+1,1 John1:7 ,PHRASE,of Jesus,G2424,Epistles,New Testament,1 John,KJV
+1,1 John1:7 ,WORD,Christ,G5547,Epistles,New Testament,1 John,KJV
+1,1 John1:7 ,WORD,his,G846,Epistles,New Testament,1 John,KJV
+1,1 John1:7 ,WORD,Son,G5207,Epistles,New Testament,1 John,KJV
+1,1 John1:7 ,WORD,cleanseth,G2511,Epistles,New Testament,1 John,KJV
+1,1 John1:7 ,WORD,us,G2248,Epistles,New Testament,1 John,KJV
+1,1 John1:7 ,WORD,from,G575,Epistles,New Testament,1 John,KJV
+1,1 John1:7 ,WORD,all,G3956,Epistles,New Testament,1 John,KJV
+1,1 John1:7 ,WORD,sin.,G266,Epistles,New Testament,1 John,KJV
+1,1 John1:8 ,WORD,If,G1437,Epistles,New Testament,1 John,KJV
+1,1 John1:8 ,PHRASE,we say,G2036,Epistles,New Testament,1 John,KJV
+1,1 John1:8 ,WORD,that,G3754,Epistles,New Testament,1 John,KJV
+1,1 John1:8 ,PHRASE,we have,G2192,Epistles,New Testament,1 John,KJV
+1,1 John1:8 ,WORD,no,G3756,Epistles,New Testament,1 John,KJV
+1,1 John1:8 ,WORD,"sin,",G266,Epistles,New Testament,1 John,KJV
+1,1 John1:8 ,PHRASE,we deceive,G4105,Epistles,New Testament,1 John,KJV
+1,1 John1:8 ,WORD,"ourselves,",G1438,Epistles,New Testament,1 John,KJV
+1,1 John1:8 ,WORD,and,G2532,Epistles,New Testament,1 John,KJV
+1,1 John1:8 ,WORD,the,G3588,Epistles,New Testament,1 John,KJV
+1,1 John1:8 ,WORD,truth,G225,Epistles,New Testament,1 John,KJV
+1,1 John1:8 ,WORD,is,G2076,Epistles,New Testament,1 John,KJV
+1,1 John1:8 ,WORD,not,G3756,Epistles,New Testament,1 John,KJV
+1,1 John1:8 ,WORD,in,G1722,Epistles,New Testament,1 John,KJV
+1,1 John1:8 ,WORD,us.,G2254,Epistles,New Testament,1 John,KJV
+1,1 John1:9 ,WORD,If,G1437,Epistles,New Testament,1 John,KJV
+1,1 John1:9 ,PHRASE,we confess,G3670,Epistles,New Testament,1 John,KJV
+1,1 John1:9 ,WORD,our,G2257,Epistles,New Testament,1 John,KJV
+1,1 John1:9 ,WORD,"sins,",G266,Epistles,New Testament,1 John,KJV
+1,1 John1:9 ,PHRASE,he is,G2076,Epistles,New Testament,1 John,KJV
+1,1 John1:9 ,WORD,faithful,G4103,Epistles,New Testament,1 John,KJV
+1,1 John1:9 ,WORD,and,G2532,Epistles,New Testament,1 John,KJV
+1,1 John1:9 ,WORD,just,G1342,Epistles,New Testament,1 John,KJV
+1,1 John1:9 ,WORD,to,G2443,Epistles,New Testament,1 John,KJV
+1,1 John1:9 ,WORD,forgive,G863,Epistles,New Testament,1 John,KJV
+1,1 John1:9 ,WORD,us,G2254,Epistles,New Testament,1 John,KJV
+1,1 John1:9 ,WORD,[our],,Epistles,New Testament,1 John,KJV
+1,1 John1:9 ,WORD,"sins,",G266,Epistles,New Testament,1 John,KJV
+1,1 John1:9 ,WORD,and,G2532,Epistles,New Testament,1 John,KJV
+1,1 John1:9 ,PHRASE,to cleanse,G2511,Epistles,New Testament,1 John,KJV
+1,1 John1:9 ,WORD,us,G2248,Epistles,New Testament,1 John,KJV
+1,1 John1:9 ,WORD,from,G575,Epistles,New Testament,1 John,KJV
+1,1 John1:9 ,WORD,all,G3956,Epistles,New Testament,1 John,KJV
+1,1 John1:9 ,WORD,unrighteousness.,G93,Epistles,New Testament,1 John,KJV
+1,1 John1:10 ,WORD,If,G1437,Epistles,New Testament,1 John,KJV
+1,1 John1:10 ,PHRASE,we say,G2036,Epistles,New Testament,1 John,KJV
+1,1 John1:10 ,WORD,that,G3754,Epistles,New Testament,1 John,KJV
+1,1 John1:10 ,PHRASE,we have,G264,Epistles,New Testament,1 John,KJV
+1,1 John1:10 ,WORD,not,G3756,Epistles,New Testament,1 John,KJV
+1,1 John1:10 ,WORD,"sinned,",G264,Epistles,New Testament,1 John,KJV
+1,1 John1:10 ,PHRASE,we make,G4160,Epistles,New Testament,1 John,KJV
+1,1 John1:10 ,WORD,him,G846,Epistles,New Testament,1 John,KJV
+1,1 John1:10 ,PHRASE,"a liar,",G5583,Epistles,New Testament,1 John,KJV
+1,1 John1:10 ,WORD,and,G2532,Epistles,New Testament,1 John,KJV
+1,1 John1:10 ,WORD,his,G846,Epistles,New Testament,1 John,KJV
+1,1 John1:10 ,WORD,word,G3056,Epistles,New Testament,1 John,KJV
+1,1 John1:10 ,WORD,is,G2076,Epistles,New Testament,1 John,KJV
+1,1 John1:10 ,WORD,not,G3756,Epistles,New Testament,1 John,KJV
+1,1 John1:10 ,WORD,in,G1722,Epistles,New Testament,1 John,KJV
+1,1 John1:10 ,WORD,us.,G2254,Epistles,New Testament,1 John,KJV
+2,1 John2:1 ,WORD,My,G3450,Epistles,New Testament,1 John,KJV
+2,1 John2:1 ,PHRASE,"little children,",G5040,Epistles,New Testament,1 John,KJV
+2,1 John2:1 ,PHRASE,these things,G5023,Epistles,New Testament,1 John,KJV
+2,1 John2:1 ,PHRASE,write I,G1125,Epistles,New Testament,1 John,KJV
+2,1 John2:1 ,PHRASE,"unto you,",G5213,Epistles,New Testament,1 John,KJV
+2,1 John2:1 ,WORD,that,G2443,Epistles,New Testament,1 John,KJV
+2,1 John2:1 ,PHRASE,ye sin,G264,Epistles,New Testament,1 John,KJV
+2,1 John2:1 ,WORD,not.,G3361,Epistles,New Testament,1 John,KJV
+2,1 John2:1 ,WORD,And,G2532,Epistles,New Testament,1 John,KJV
+2,1 John2:1 ,WORD,if,G1437,Epistles,New Testament,1 John,KJV
+2,1 John2:1 ,PHRASE,any man,G5100,Epistles,New Testament,1 John,KJV
+2,1 John2:1 ,WORD,"sin,",G264,Epistles,New Testament,1 John,KJV
+2,1 John2:1 ,PHRASE,we have,G2192,Epistles,New Testament,1 John,KJV
+2,1 John2:1 ,PHRASE,an advocate,G3875,Epistles,New Testament,1 John,KJV
+2,1 John2:1 ,WORD,with,G4314,Epistles,New Testament,1 John,KJV
+2,1 John2:1 ,WORD,the,G3588,Epistles,New Testament,1 John,KJV
+2,1 John2:1 ,WORD,"Father,",G3962,Epistles,New Testament,1 John,KJV
+2,1 John2:1 ,WORD,Jesus,G2424,Epistles,New Testament,1 John,KJV
+2,1 John2:1 ,WORD,Christ,G5547,Epistles,New Testament,1 John,KJV
+2,1 John2:1 ,PHRASE,the righteous:,G1342,Epistles,New Testament,1 John,KJV
+2,1 John2:2 ,WORD,And,G2532,Epistles,New Testament,1 John,KJV
+2,1 John2:2 ,WORD,he,G846,Epistles,New Testament,1 John,KJV
+2,1 John2:2 ,WORD,is,G2076,Epistles,New Testament,1 John,KJV
+2,1 John2:2 ,PHRASE,the propitiation,G2434,Epistles,New Testament,1 John,KJV
+2,1 John2:2 ,WORD,for,G4012,Epistles,New Testament,1 John,KJV
+2,1 John2:2 ,WORD,our,G2257,Epistles,New Testament,1 John,KJV
+2,1 John2:2 ,WORD,sins:,G266,Epistles,New Testament,1 John,KJV
+2,1 John2:2 ,WORD,and,G1161,Epistles,New Testament,1 John,KJV
+2,1 John2:2 ,WORD,not,G3756,Epistles,New Testament,1 John,KJV
+2,1 John2:2 ,WORD,for,G4012,Epistles,New Testament,1 John,KJV
+2,1 John2:2 ,WORD,ours,G2251,Epistles,New Testament,1 John,KJV
+2,1 John2:2 ,WORD,"only,",G3440,Epistles,New Testament,1 John,KJV
+2,1 John2:2 ,WORD,but,G235,Epistles,New Testament,1 John,KJV
+2,1 John2:2 ,WORD,also,G2532,Epistles,New Testament,1 John,KJV
+2,1 John2:2 ,WORD,for,G4012,Epistles,New Testament,1 John,KJV
+2,1 John2:2 ,PHRASE,[the sins of],,Epistles,New Testament,1 John,KJV
+2,1 John2:2 ,WORD,the,G3588,Epistles,New Testament,1 John,KJV
+2,1 John2:2 ,WORD,whole,G3650,Epistles,New Testament,1 John,KJV
+2,1 John2:2 ,WORD,world.,G2889,Epistles,New Testament,1 John,KJV
+2,1 John2:3 ,WORD,And,G2532,Epistles,New Testament,1 John,KJV
+2,1 John2:3 ,WORD,hereby,G1722,Epistles,New Testament,1 John,KJV
+2,1 John2:3 ,WORD,,G5129,Epistles,New Testament,1 John,KJV
+2,1 John2:3 ,PHRASE,we do know,G1097,Epistles,New Testament,1 John,KJV
+2,1 John2:3 ,WORD,that,G3754,Epistles,New Testament,1 John,KJV
+2,1 John2:3 ,PHRASE,we know,G1097,Epistles,New Testament,1 John,KJV
+2,1 John2:3 ,WORD,"him,",G846,Epistles,New Testament,1 John,KJV
+2,1 John2:3 ,WORD,if,G1437,Epistles,New Testament,1 John,KJV
+2,1 John2:3 ,PHRASE,we keep,G5083,Epistles,New Testament,1 John,KJV
+2,1 John2:3 ,WORD,his,G846,Epistles,New Testament,1 John,KJV
+2,1 John2:3 ,WORD,commandments.,G1785,Epistles,New Testament,1 John,KJV
+2,1 John2:4 ,PHRASE,"He that saith,",G3004,Epistles,New Testament,1 John,KJV
+2,1 John2:4 ,PHRASE,I know,G1097,Epistles,New Testament,1 John,KJV
+2,1 John2:4 ,WORD,"him,",G846,Epistles,New Testament,1 John,KJV
+2,1 John2:4 ,WORD,and,G2532,Epistles,New Testament,1 John,KJV
+2,1 John2:4 ,WORD,keepeth,G5083,Epistles,New Testament,1 John,KJV
+2,1 John2:4 ,WORD,not,G3361,Epistles,New Testament,1 John,KJV
+2,1 John2:4 ,WORD,his,G846,Epistles,New Testament,1 John,KJV
+2,1 John2:4 ,WORD,"commandments,",G1785,Epistles,New Testament,1 John,KJV
+2,1 John2:4 ,WORD,is,G2076,Epistles,New Testament,1 John,KJV
+2,1 John2:4 ,PHRASE,"a liar,",G5583,Epistles,New Testament,1 John,KJV
+2,1 John2:4 ,WORD,and,G2532,Epistles,New Testament,1 John,KJV
+2,1 John2:4 ,PHRASE,the truth,G225,Epistles,New Testament,1 John,KJV
+2,1 John2:4 ,WORD,is,G2076,Epistles,New Testament,1 John,KJV
+2,1 John2:4 ,WORD,not,G3756,Epistles,New Testament,1 John,KJV
+2,1 John2:4 ,WORD,in,G1722,Epistles,New Testament,1 John,KJV
+2,1 John2:4 ,WORD,him.,G5129,Epistles,New Testament,1 John,KJV
+2,1 John2:5 ,WORD,But,G1161,Epistles,New Testament,1 John,KJV
+2,1 John2:5 ,WORD,whoso,G3739,Epistles,New Testament,1 John,KJV
+2,1 John2:5 ,WORD,keepeth,G302,Epistles,New Testament,1 John,KJV
+2,1 John2:5 ,WORD,,G5083,Epistles,New Testament,1 John,KJV
+2,1 John2:5 ,WORD,his,G846,Epistles,New Testament,1 John,KJV
+2,1 John2:5 ,WORD,"word,",G3056,Epistles,New Testament,1 John,KJV
+2,1 John2:5 ,WORD,in,G1722,Epistles,New Testament,1 John,KJV
+2,1 John2:5 ,WORD,him,G5129,Epistles,New Testament,1 John,KJV
+2,1 John2:5 ,WORD,verily,G230,Epistles,New Testament,1 John,KJV
+2,1 John2:5 ,WORD,is,G5048,Epistles,New Testament,1 John,KJV
+2,1 John2:5 ,PHRASE,the love,G26,Epistles,New Testament,1 John,KJV
+2,1 John2:5 ,PHRASE,of God,G2316,Epistles,New Testament,1 John,KJV
+2,1 John2:5 ,WORD,perfected:,G5048,Epistles,New Testament,1 John,KJV
+2,1 John2:5 ,WORD,hereby,G1722,Epistles,New Testament,1 John,KJV
+2,1 John2:5 ,WORD,,G5129,Epistles,New Testament,1 John,KJV
+2,1 John2:5 ,PHRASE,know we,G1097,Epistles,New Testament,1 John,KJV
+2,1 John2:5 ,WORD,that,G3754,Epistles,New Testament,1 John,KJV
+2,1 John2:5 ,PHRASE,we are,G2070,Epistles,New Testament,1 John,KJV
+2,1 John2:5 ,WORD,in,G1722,Epistles,New Testament,1 John,KJV
+2,1 John2:5 ,WORD,him.,G846,Epistles,New Testament,1 John,KJV
+2,1 John2:6 ,PHRASE,He that,G3588,Epistles,New Testament,1 John,KJV
+2,1 John2:6 ,WORD,saith,G3004,Epistles,New Testament,1 John,KJV
+2,1 John2:6 ,PHRASE,he abideth,G3306,Epistles,New Testament,1 John,KJV
+2,1 John2:6 ,WORD,in,G1722,Epistles,New Testament,1 John,KJV
+2,1 John2:6 ,WORD,him,G846,Epistles,New Testament,1 John,KJV
+2,1 John2:6 ,WORD,ought,G3784,Epistles,New Testament,1 John,KJV
+2,1 John2:6 ,WORD,himself,G846,Epistles,New Testament,1 John,KJV
+2,1 John2:6 ,WORD,also,G2532,Epistles,New Testament,1 John,KJV
+2,1 John2:6 ,WORD,so,G3779,Epistles,New Testament,1 John,KJV
+2,1 John2:6 ,PHRASE,"to walk,",G4043,Epistles,New Testament,1 John,KJV
+2,1 John2:6 ,PHRASE,even as,G2531,Epistles,New Testament,1 John,KJV
+2,1 John2:6 ,WORD,he,G1565,Epistles,New Testament,1 John,KJV
+2,1 John2:6 ,WORD,walked.,G4043,Epistles,New Testament,1 John,KJV
+2,1 John2:7 ,WORD,"Brethren,",G80,Epistles,New Testament,1 John,KJV
+2,1 John2:7 ,PHRASE,I write,G1125,Epistles,New Testament,1 John,KJV
+2,1 John2:7 ,WORD,no,G3756,Epistles,New Testament,1 John,KJV
+2,1 John2:7 ,WORD,new,G2537,Epistles,New Testament,1 John,KJV
+2,1 John2:7 ,WORD,commandment,G1785,Epistles,New Testament,1 John,KJV
+2,1 John2:7 ,PHRASE,"unto you,",G5213,Epistles,New Testament,1 John,KJV
+2,1 John2:7 ,WORD,but,G235,Epistles,New Testament,1 John,KJV
+2,1 John2:7 ,PHRASE,an old,G3820,Epistles,New Testament,1 John,KJV
+2,1 John2:7 ,WORD,commandment,G1785,Epistles,New Testament,1 John,KJV
+2,1 John2:7 ,WORD,which,G3739,Epistles,New Testament,1 John,KJV
+2,1 John2:7 ,PHRASE,ye had,G2192,Epistles,New Testament,1 John,KJV
+2,1 John2:7 ,WORD,from,G575,Epistles,New Testament,1 John,KJV
+2,1 John2:7 ,PHRASE,the beginning.,G746,Epistles,New Testament,1 John,KJV
+2,1 John2:7 ,WORD,The,G3588,Epistles,New Testament,1 John,KJV
+2,1 John2:7 ,WORD,old,G3820,Epistles,New Testament,1 John,KJV
+2,1 John2:7 ,WORD,commandment,G1785,Epistles,New Testament,1 John,KJV
+2,1 John2:7 ,WORD,is,G2076,Epistles,New Testament,1 John,KJV
+2,1 John2:7 ,WORD,the,G3588,Epistles,New Testament,1 John,KJV
+2,1 John2:7 ,WORD,word,G3056,Epistles,New Testament,1 John,KJV
+2,1 John2:7 ,WORD,which,G3739,Epistles,New Testament,1 John,KJV
+2,1 John2:7 ,PHRASE,ye have heard,G191,Epistles,New Testament,1 John,KJV
+2,1 John2:7 ,WORD,from,G575,Epistles,New Testament,1 John,KJV
+2,1 John2:7 ,PHRASE,the beginning.,G746,Epistles,New Testament,1 John,KJV
+2,1 John2:8 ,WORD,"Again,",G3825,Epistles,New Testament,1 John,KJV
+2,1 John2:8 ,PHRASE,a new,G2537,Epistles,New Testament,1 John,KJV
+2,1 John2:8 ,WORD,commandment,G1785,Epistles,New Testament,1 John,KJV
+2,1 John2:8 ,PHRASE,I write,G1125,Epistles,New Testament,1 John,KJV
+2,1 John2:8 ,PHRASE,"unto you,",G5213,Epistles,New Testament,1 John,KJV
+2,1 John2:8 ,PHRASE,which thing,G3739,Epistles,New Testament,1 John,KJV
+2,1 John2:8 ,WORD,is,G2076,Epistles,New Testament,1 John,KJV
+2,1 John2:8 ,WORD,true,G227,Epistles,New Testament,1 John,KJV
+2,1 John2:8 ,WORD,in,G1722,Epistles,New Testament,1 John,KJV
+2,1 John2:8 ,WORD,him,G846,Epistles,New Testament,1 John,KJV
+2,1 John2:8 ,WORD,and,G2532,Epistles,New Testament,1 John,KJV
+2,1 John2:8 ,WORD,in,G1722,Epistles,New Testament,1 John,KJV
+2,1 John2:8 ,WORD,you:,G5213,Epistles,New Testament,1 John,KJV
+2,1 John2:8 ,WORD,because,G3754,Epistles,New Testament,1 John,KJV
+2,1 John2:8 ,WORD,the,G3588,Epistles,New Testament,1 John,KJV
+2,1 John2:8 ,WORD,darkness,G4653,Epistles,New Testament,1 John,KJV
+2,1 John2:8 ,PHRASE,"is past,",G3855,Epistles,New Testament,1 John,KJV
+2,1 John2:8 ,WORD,and,G2532,Epistles,New Testament,1 John,KJV
+2,1 John2:8 ,WORD,the,G3588,Epistles,New Testament,1 John,KJV
+2,1 John2:8 ,WORD,true,G228,Epistles,New Testament,1 John,KJV
+2,1 John2:8 ,WORD,light,G5457,Epistles,New Testament,1 John,KJV
+2,1 John2:8 ,WORD,now,G2235,Epistles,New Testament,1 John,KJV
+2,1 John2:8 ,WORD,shineth.,G5316,Epistles,New Testament,1 John,KJV
+2,1 John2:9 ,PHRASE,He that,G3588,Epistles,New Testament,1 John,KJV
+2,1 John2:9 ,WORD,saith,G3004,Epistles,New Testament,1 John,KJV
+2,1 John2:9 ,PHRASE,he is,G1511,Epistles,New Testament,1 John,KJV
+2,1 John2:9 ,WORD,in,G1722,Epistles,New Testament,1 John,KJV
+2,1 John2:9 ,WORD,the,G3588,Epistles,New Testament,1 John,KJV
+2,1 John2:9 ,WORD,"light,",G5457,Epistles,New Testament,1 John,KJV
+2,1 John2:9 ,WORD,and,G2532,Epistles,New Testament,1 John,KJV
+2,1 John2:9 ,WORD,hateth,G3404,Epistles,New Testament,1 John,KJV
+2,1 John2:9 ,WORD,his,G846,Epistles,New Testament,1 John,KJV
+2,1 John2:9 ,WORD,"brother,",G80,Epistles,New Testament,1 John,KJV
+2,1 John2:9 ,WORD,is,G2076,Epistles,New Testament,1 John,KJV
+2,1 John2:9 ,WORD,in,G1722,Epistles,New Testament,1 John,KJV
+2,1 John2:9 ,WORD,darkness,G4653,Epistles,New Testament,1 John,KJV
+2,1 John2:9 ,PHRASE,even until,G2193,Epistles,New Testament,1 John,KJV
+2,1 John2:9 ,WORD,now.,G737,Epistles,New Testament,1 John,KJV
+2,1 John2:10 ,PHRASE,He that,G3588,Epistles,New Testament,1 John,KJV
+2,1 John2:10 ,WORD,loveth,G25,Epistles,New Testament,1 John,KJV
+2,1 John2:10 ,WORD,his,G846,Epistles,New Testament,1 John,KJV
+2,1 John2:10 ,WORD,brother,G80,Epistles,New Testament,1 John,KJV
+2,1 John2:10 ,WORD,abideth,G3306,Epistles,New Testament,1 John,KJV
+2,1 John2:10 ,WORD,in,G1722,Epistles,New Testament,1 John,KJV
+2,1 John2:10 ,WORD,the,G3588,Epistles,New Testament,1 John,KJV
+2,1 John2:10 ,WORD,"light,",G5457,Epistles,New Testament,1 John,KJV
+2,1 John2:10 ,WORD,and,G2532,Epistles,New Testament,1 John,KJV
+2,1 John2:10 ,PHRASE,there is,G2076,Epistles,New Testament,1 John,KJV
+2,1 John2:10 ,WORD,none,G3756,Epistles,New Testament,1 John,KJV
+2,1 John2:10 ,PHRASE,occasion of stumbling,G4625,Epistles,New Testament,1 John,KJV
+2,1 John2:10 ,WORD,in,G1722,Epistles,New Testament,1 John,KJV
+2,1 John2:10 ,WORD,him.,G846,Epistles,New Testament,1 John,KJV
+2,1 John2:11 ,WORD,But,G1161,Epistles,New Testament,1 John,KJV
+2,1 John2:11 ,PHRASE,he that,G3588,Epistles,New Testament,1 John,KJV
+2,1 John2:11 ,WORD,hateth,G3404,Epistles,New Testament,1 John,KJV
+2,1 John2:11 ,WORD,his,G846,Epistles,New Testament,1 John,KJV
+2,1 John2:11 ,WORD,brother,G80,Epistles,New Testament,1 John,KJV
+2,1 John2:11 ,WORD,is,G2076,Epistles,New Testament,1 John,KJV
+2,1 John2:11 ,WORD,in,G1722,Epistles,New Testament,1 John,KJV
+2,1 John2:11 ,WORD,"darkness,",G4653,Epistles,New Testament,1 John,KJV
+2,1 John2:11 ,WORD,and,G2532,Epistles,New Testament,1 John,KJV
+2,1 John2:11 ,WORD,walketh,G4043,Epistles,New Testament,1 John,KJV
+2,1 John2:11 ,WORD,in,G1722,Epistles,New Testament,1 John,KJV
+2,1 John2:11 ,WORD,"darkness,",G4653,Epistles,New Testament,1 John,KJV
+2,1 John2:11 ,WORD,and,G2532,Epistles,New Testament,1 John,KJV
+2,1 John2:11 ,WORD,knoweth,G1492,Epistles,New Testament,1 John,KJV
+2,1 John2:11 ,WORD,not,G3756,Epistles,New Testament,1 John,KJV
+2,1 John2:11 ,WORD,whither,G4225,Epistles,New Testament,1 John,KJV
+2,1 John2:11 ,PHRASE,"he goeth,",G5217,Epistles,New Testament,1 John,KJV
+2,1 John2:11 ,WORD,because,G3754,Epistles,New Testament,1 John,KJV
+2,1 John2:11 ,PHRASE,that darkness,G4653,Epistles,New Testament,1 John,KJV
+2,1 John2:11 ,PHRASE,hath blinded,G5186,Epistles,New Testament,1 John,KJV
+2,1 John2:11 ,WORD,his,G846,Epistles,New Testament,1 John,KJV
+2,1 John2:11 ,WORD,eyes.,G3788,Epistles,New Testament,1 John,KJV
+2,1 John2:12 ,PHRASE,I write,G1125,Epistles,New Testament,1 John,KJV
+2,1 John2:12 ,PHRASE,"unto you,",G5213,Epistles,New Testament,1 John,KJV
+2,1 John2:12 ,PHRASE,"little children,",G5040,Epistles,New Testament,1 John,KJV
+2,1 John2:12 ,WORD,because,G3754,Epistles,New Testament,1 John,KJV
+2,1 John2:12 ,PHRASE,your sins,G266,Epistles,New Testament,1 John,KJV
+2,1 John2:12 ,PHRASE,are forgiven,G863,Epistles,New Testament,1 John,KJV
+2,1 John2:12 ,WORD,you,G5213,Epistles,New Testament,1 John,KJV
+2,1 John2:12 ,WORD,for,G1223,Epistles,New Testament,1 John,KJV
+2,1 John2:12 ,WORD,his,G846,Epistles,New Testament,1 John,KJV
+2,1 John2:12 ,WORD,name's,G3686,Epistles,New Testament,1 John,KJV
+2,1 John2:12 ,WORD,sake.,G1223,Epistles,New Testament,1 John,KJV
+2,1 John2:13 ,PHRASE,I write,G1125,Epistles,New Testament,1 John,KJV
+2,1 John2:13 ,PHRASE,"unto you,",G5213,Epistles,New Testament,1 John,KJV
+2,1 John2:13 ,WORD,"fathers,",G3962,Epistles,New Testament,1 John,KJV
+2,1 John2:13 ,WORD,because,G3754,Epistles,New Testament,1 John,KJV
+2,1 John2:13 ,PHRASE,ye have known,G1097,Epistles,New Testament,1 John,KJV
+2,1 John2:13 ,PHRASE,him [that is] from,G575,Epistles,New Testament,1 John,KJV
+2,1 John2:13 ,PHRASE,the beginning.,G746,Epistles,New Testament,1 John,KJV
+2,1 John2:13 ,PHRASE,I write,G1125,Epistles,New Testament,1 John,KJV
+2,1 John2:13 ,PHRASE,"unto you,",G5213,Epistles,New Testament,1 John,KJV
+2,1 John2:13 ,PHRASE,"young men,",G3495,Epistles,New Testament,1 John,KJV
+2,1 John2:13 ,WORD,because,G3754,Epistles,New Testament,1 John,KJV
+2,1 John2:13 ,PHRASE,ye have overcome,G3528,Epistles,New Testament,1 John,KJV
+2,1 John2:13 ,WORD,the,G3588,Epistles,New Testament,1 John,KJV
+2,1 John2:13 ,PHRASE,wicked one.,G4190,Epistles,New Testament,1 John,KJV
+2,1 John2:13 ,PHRASE,I write,G1125,Epistles,New Testament,1 John,KJV
+2,1 John2:13 ,PHRASE,"unto you,",G5213,Epistles,New Testament,1 John,KJV
+2,1 John2:13 ,PHRASE,"little children,",G3813,Epistles,New Testament,1 John,KJV
+2,1 John2:13 ,WORD,because,G3754,Epistles,New Testament,1 John,KJV
+2,1 John2:13 ,PHRASE,ye have known,G1097,Epistles,New Testament,1 John,KJV
+2,1 John2:13 ,WORD,the,G3588,Epistles,New Testament,1 John,KJV
+2,1 John2:13 ,WORD,Father.,G3962,Epistles,New Testament,1 John,KJV
+2,1 John2:14 ,PHRASE,I have written,G1125,Epistles,New Testament,1 John,KJV
+2,1 John2:14 ,PHRASE,"unto you,",G5213,Epistles,New Testament,1 John,KJV
+2,1 John2:14 ,WORD,"fathers,",G3962,Epistles,New Testament,1 John,KJV
+2,1 John2:14 ,WORD,because,G3754,Epistles,New Testament,1 John,KJV
+2,1 John2:14 ,PHRASE,ye have known,G1097,Epistles,New Testament,1 John,KJV
+2,1 John2:14 ,PHRASE,him [that is] from,G575,Epistles,New Testament,1 John,KJV
+2,1 John2:14 ,PHRASE,the beginning.,G746,Epistles,New Testament,1 John,KJV
+2,1 John2:14 ,PHRASE,I have written,G1125,Epistles,New Testament,1 John,KJV
+2,1 John2:14 ,PHRASE,"unto you,",G5213,Epistles,New Testament,1 John,KJV
+2,1 John2:14 ,PHRASE,"young men,",G3495,Epistles,New Testament,1 John,KJV
+2,1 John2:14 ,WORD,because,G3754,Epistles,New Testament,1 John,KJV
+2,1 John2:14 ,PHRASE,ye are,G2075,Epistles,New Testament,1 John,KJV
+2,1 John2:14 ,WORD,"strong,",G2478,Epistles,New Testament,1 John,KJV
+2,1 John2:14 ,WORD,and,G2532,Epistles,New Testament,1 John,KJV
+2,1 John2:14 ,WORD,the,G3588,Epistles,New Testament,1 John,KJV
+2,1 John2:14 ,WORD,word,G3056,Epistles,New Testament,1 John,KJV
+2,1 John2:14 ,PHRASE,of God,G2316,Epistles,New Testament,1 John,KJV
+2,1 John2:14 ,WORD,abideth,G3306,Epistles,New Testament,1 John,KJV
+2,1 John2:14 ,WORD,in,G1722,Epistles,New Testament,1 John,KJV
+2,1 John2:14 ,WORD,"you,",G5213,Epistles,New Testament,1 John,KJV
+2,1 John2:14 ,WORD,and,G2532,Epistles,New Testament,1 John,KJV
+2,1 John2:14 ,PHRASE,ye have overcome,G3528,Epistles,New Testament,1 John,KJV
+2,1 John2:14 ,WORD,the,G3588,Epistles,New Testament,1 John,KJV
+2,1 John2:14 ,PHRASE,wicked one.,G4190,Epistles,New Testament,1 John,KJV
+2,1 John2:15 ,WORD,Love,G25,Epistles,New Testament,1 John,KJV
+2,1 John2:15 ,WORD,not,G3361,Epistles,New Testament,1 John,KJV
+2,1 John2:15 ,WORD,the,G3588,Epistles,New Testament,1 John,KJV
+2,1 John2:15 ,WORD,"world,",G2889,Epistles,New Testament,1 John,KJV
+2,1 John2:15 ,WORD,neither,G3366,Epistles,New Testament,1 John,KJV
+2,1 John2:15 ,PHRASE,the things,G3588,Epistles,New Testament,1 John,KJV
+2,1 John2:15 ,PHRASE,[that are],,Epistles,New Testament,1 John,KJV
+2,1 John2:15 ,WORD,in,G1722,Epistles,New Testament,1 John,KJV
+2,1 John2:15 ,WORD,the,G3588,Epistles,New Testament,1 John,KJV
+2,1 John2:15 ,WORD,world.,G2889,Epistles,New Testament,1 John,KJV
+2,1 John2:15 ,WORD,If,G1437,Epistles,New Testament,1 John,KJV
+2,1 John2:15 ,PHRASE,any man,G5100,Epistles,New Testament,1 John,KJV
+2,1 John2:15 ,WORD,love,G25,Epistles,New Testament,1 John,KJV
+2,1 John2:15 ,WORD,the,G3588,Epistles,New Testament,1 John,KJV
+2,1 John2:15 ,WORD,"world,",G2889,Epistles,New Testament,1 John,KJV
+2,1 John2:15 ,WORD,the,G3588,Epistles,New Testament,1 John,KJV
+2,1 John2:15 ,WORD,love,G26,Epistles,New Testament,1 John,KJV
+2,1 John2:15 ,PHRASE,of the,G3588,Epistles,New Testament,1 John,KJV
+2,1 John2:15 ,WORD,Father,G3962,Epistles,New Testament,1 John,KJV
+2,1 John2:15 ,WORD,is,G2076,Epistles,New Testament,1 John,KJV
+2,1 John2:15 ,WORD,not,G3756,Epistles,New Testament,1 John,KJV
+2,1 John2:15 ,WORD,in,G1722,Epistles,New Testament,1 John,KJV
+2,1 John2:15 ,WORD,him.,G846,Epistles,New Testament,1 John,KJV
+2,1 John2:16 ,WORD,For,G3754,Epistles,New Testament,1 John,KJV
+2,1 John2:16 ,WORD,all,G3956,Epistles,New Testament,1 John,KJV
+2,1 John2:16 ,PHRASE,that [is],G3588,Epistles,New Testament,1 John,KJV
+2,1 John2:16 ,WORD,in,G1722,Epistles,New Testament,1 John,KJV
+2,1 John2:16 ,WORD,the,G3588,Epistles,New Testament,1 John,KJV
+2,1 John2:16 ,WORD,"world,",G2889,Epistles,New Testament,1 John,KJV
+2,1 John2:16 ,WORD,the,G3588,Epistles,New Testament,1 John,KJV
+2,1 John2:16 ,WORD,lust,G1939,Epistles,New Testament,1 John,KJV
+2,1 John2:16 ,PHRASE,of the,G3588,Epistles,New Testament,1 John,KJV
+2,1 John2:16 ,WORD,"flesh,",G4561,Epistles,New Testament,1 John,KJV
+2,1 John2:16 ,WORD,and,G2532,Epistles,New Testament,1 John,KJV
+2,1 John2:16 ,WORD,the,G3588,Epistles,New Testament,1 John,KJV
+2,1 John2:16 ,WORD,lust,G1939,Epistles,New Testament,1 John,KJV
+2,1 John2:16 ,PHRASE,of the,G3588,Epistles,New Testament,1 John,KJV
+2,1 John2:16 ,WORD,"eyes,",G3788,Epistles,New Testament,1 John,KJV
+2,1 John2:16 ,WORD,and,G2532,Epistles,New Testament,1 John,KJV
+2,1 John2:16 ,WORD,the,G3588,Epistles,New Testament,1 John,KJV
+2,1 John2:16 ,WORD,pride,G212,Epistles,New Testament,1 John,KJV
+2,1 John2:16 ,PHRASE,"of life,",G979,Epistles,New Testament,1 John,KJV
+2,1 John2:16 ,WORD,is,G2076,Epistles,New Testament,1 John,KJV
+2,1 John2:16 ,WORD,not,G3756,Epistles,New Testament,1 John,KJV
+2,1 John2:16 ,WORD,of,G1537,Epistles,New Testament,1 John,KJV
+2,1 John2:16 ,WORD,the,G3588,Epistles,New Testament,1 John,KJV
+2,1 John2:16 ,WORD,"Father,",G3962,Epistles,New Testament,1 John,KJV
+2,1 John2:16 ,WORD,but,G235,Epistles,New Testament,1 John,KJV
+2,1 John2:16 ,WORD,is,G2076,Epistles,New Testament,1 John,KJV
+2,1 John2:16 ,WORD,of,G1537,Epistles,New Testament,1 John,KJV
+2,1 John2:16 ,WORD,the,G3588,Epistles,New Testament,1 John,KJV
+2,1 John2:16 ,WORD,world.,G2889,Epistles,New Testament,1 John,KJV
+2,1 John2:17 ,WORD,And,G2532,Epistles,New Testament,1 John,KJV
+2,1 John2:17 ,WORD,the,G3588,Epistles,New Testament,1 John,KJV
+2,1 John2:17 ,WORD,world,G2889,Epistles,New Testament,1 John,KJV
+2,1 John2:17 ,PHRASE,"passeth away,",G3855,Epistles,New Testament,1 John,KJV
+2,1 John2:17 ,WORD,and,G2532,Epistles,New Testament,1 John,KJV
+2,1 John2:17 ,WORD,the,G3588,Epistles,New Testament,1 John,KJV
+2,1 John2:17 ,WORD,lust,G1939,Epistles,New Testament,1 John,KJV
+2,1 John2:17 ,WORD,thereof:,G846,Epistles,New Testament,1 John,KJV
+2,1 John2:17 ,WORD,but,G1161,Epistles,New Testament,1 John,KJV
+2,1 John2:17 ,PHRASE,he that,G3588,Epistles,New Testament,1 John,KJV
+2,1 John2:17 ,WORD,doeth,G4160,Epistles,New Testament,1 John,KJV
+2,1 John2:17 ,WORD,the,G3588,Epistles,New Testament,1 John,KJV
+2,1 John2:17 ,WORD,will,G2307,Epistles,New Testament,1 John,KJV
+2,1 John2:17 ,PHRASE,of God,G2316,Epistles,New Testament,1 John,KJV
+2,1 John2:17 ,WORD,abideth,G3306,Epistles,New Testament,1 John,KJV
+2,1 John2:17 ,WORD,for,G1519,Epistles,New Testament,1 John,KJV
+2,1 John2:17 ,WORD,ever.,G165,Epistles,New Testament,1 John,KJV
+2,1 John2:18 ,PHRASE,"Little children,",G3813,Epistles,New Testament,1 John,KJV
+2,1 John2:18 ,PHRASE,it is,G2076,Epistles,New Testament,1 John,KJV
+2,1 John2:18 ,PHRASE,the last,G2078,Epistles,New Testament,1 John,KJV
+2,1 John2:18 ,WORD,time:,G5610,Epistles,New Testament,1 John,KJV
+2,1 John2:18 ,WORD,and,G2532,Epistles,New Testament,1 John,KJV
+2,1 John2:18 ,WORD,as,G2531,Epistles,New Testament,1 John,KJV
+2,1 John2:18 ,PHRASE,ye have heard,G191,Epistles,New Testament,1 John,KJV
+2,1 John2:18 ,WORD,that,G3754,Epistles,New Testament,1 John,KJV
+2,1 John2:18 ,WORD,antichrist,G500,Epistles,New Testament,1 John,KJV
+2,1 John2:18 ,PHRASE,"shall come,",G2064,Epistles,New Testament,1 John,KJV
+2,1 John2:18 ,WORD,even,G2532,Epistles,New Testament,1 John,KJV
+2,1 John2:18 ,WORD,now,G3568,Epistles,New Testament,1 John,KJV
+2,1 John2:18 ,PHRASE,are there,G1096,Epistles,New Testament,1 John,KJV
+2,1 John2:18 ,WORD,many,G4183,Epistles,New Testament,1 John,KJV
+2,1 John2:18 ,WORD,antichrists;,G500,Epistles,New Testament,1 John,KJV
+2,1 John2:18 ,WORD,whereby,G3606,Epistles,New Testament,1 John,KJV
+2,1 John2:18 ,PHRASE,we know,G1097,Epistles,New Testament,1 John,KJV
+2,1 John2:18 ,WORD,that,G3754,Epistles,New Testament,1 John,KJV
+2,1 John2:18 ,PHRASE,it is,G2076,Epistles,New Testament,1 John,KJV
+2,1 John2:18 ,PHRASE,the last,G2078,Epistles,New Testament,1 John,KJV
+2,1 John2:18 ,WORD,time.,G5610,Epistles,New Testament,1 John,KJV
+2,1 John2:19 ,PHRASE,They went out,G1831,Epistles,New Testament,1 John,KJV
+2,1 John2:19 ,WORD,from,G1537,Epistles,New Testament,1 John,KJV
+2,1 John2:19 ,WORD,"us,",G2257,Epistles,New Testament,1 John,KJV
+2,1 John2:19 ,WORD,but,G235,Epistles,New Testament,1 John,KJV
+2,1 John2:19 ,PHRASE,they were,G2258,Epistles,New Testament,1 John,KJV
+2,1 John2:19 ,WORD,not,G3756,Epistles,New Testament,1 John,KJV
+2,1 John2:19 ,WORD,of,G1537,Epistles,New Testament,1 John,KJV
+2,1 John2:19 ,WORD,us;,G2257,Epistles,New Testament,1 John,KJV
+2,1 John2:19 ,WORD,for,G1063,Epistles,New Testament,1 John,KJV
+2,1 John2:19 ,WORD,if,G1487,Epistles,New Testament,1 John,KJV
+2,1 John2:19 ,PHRASE,they had been,G2258,Epistles,New Testament,1 John,KJV
+2,1 John2:19 ,WORD,of,G1537,Epistles,New Testament,1 John,KJV
+2,1 John2:19 ,WORD,"us,",G2257,Epistles,New Testament,1 John,KJV
+2,1 John2:19 ,PHRASE,they would,G302,Epistles,New Testament,1 John,KJV
+2,1 John2:19 ,PHRASE,[no doubt],,Epistles,New Testament,1 John,KJV
+2,1 John2:19 ,PHRASE,have continued,G3306,Epistles,New Testament,1 John,KJV
+2,1 John2:19 ,WORD,with,G3326,Epistles,New Testament,1 John,KJV
+2,1 John2:19 ,WORD,us:,G2257,Epistles,New Testament,1 John,KJV
+2,1 John2:19 ,WORD,but,G235,Epistles,New Testament,1 John,KJV
+2,1 John2:19 ,PHRASE,"[they went out],",,Epistles,New Testament,1 John,KJV
+2,1 John2:19 ,WORD,that,G2443,Epistles,New Testament,1 John,KJV
+2,1 John2:19 ,PHRASE,they might be made manifest,G5319,Epistles,New Testament,1 John,KJV
+2,1 John2:19 ,WORD,that,G3754,Epistles,New Testament,1 John,KJV
+2,1 John2:19 ,PHRASE,they were,G1526,Epistles,New Testament,1 John,KJV
+2,1 John2:19 ,WORD,not,G3756,Epistles,New Testament,1 John,KJV
+2,1 John2:19 ,WORD,all,G3956,Epistles,New Testament,1 John,KJV
+2,1 John2:19 ,WORD,of,G1537,Epistles,New Testament,1 John,KJV
+2,1 John2:19 ,WORD,us.,G2257,Epistles,New Testament,1 John,KJV
+2,1 John2:20 ,WORD,But,G2532,Epistles,New Testament,1 John,KJV
+2,1 John2:20 ,WORD,ye,G5210,Epistles,New Testament,1 John,KJV
+2,1 John2:20 ,WORD,have,G2192,Epistles,New Testament,1 John,KJV
+2,1 John2:20 ,PHRASE,an unction,G5545,Epistles,New Testament,1 John,KJV
+2,1 John2:20 ,WORD,from,G575,Epistles,New Testament,1 John,KJV
+2,1 John2:20 ,WORD,the,G3588,Epistles,New Testament,1 John,KJV
+2,1 John2:20 ,PHRASE,"Holy One,",G40,Epistles,New Testament,1 John,KJV
+2,1 John2:20 ,WORD,and,G2532,Epistles,New Testament,1 John,KJV
+2,1 John2:20 ,PHRASE,ye know,G1492,Epistles,New Testament,1 John,KJV
+2,1 John2:20 ,PHRASE,all things.,G3956,Epistles,New Testament,1 John,KJV
+2,1 John2:21 ,PHRASE,I have,G1125,Epistles,New Testament,1 John,KJV
+2,1 John2:21 ,WORD,not,G3756,Epistles,New Testament,1 John,KJV
+2,1 John2:21 ,WORD,written,G1125,Epistles,New Testament,1 John,KJV
+2,1 John2:21 ,PHRASE,unto you,G5213,Epistles,New Testament,1 John,KJV
+2,1 John2:21 ,WORD,because,G3754,Epistles,New Testament,1 John,KJV
+2,1 John2:21 ,PHRASE,ye know,G1492,Epistles,New Testament,1 John,KJV
+2,1 John2:21 ,WORD,not,G3756,Epistles,New Testament,1 John,KJV
+2,1 John2:21 ,WORD,the,G3588,Epistles,New Testament,1 John,KJV
+2,1 John2:21 ,WORD,"truth,",G225,Epistles,New Testament,1 John,KJV
+2,1 John2:21 ,WORD,but,G235,Epistles,New Testament,1 John,KJV
+2,1 John2:21 ,WORD,because,G3754,Epistles,New Testament,1 John,KJV
+2,1 John2:21 ,PHRASE,ye know,G1492,Epistles,New Testament,1 John,KJV
+2,1 John2:21 ,WORD,"it,",G846,Epistles,New Testament,1 John,KJV
+2,1 John2:21 ,WORD,and,G2532,Epistles,New Testament,1 John,KJV
+2,1 John2:21 ,WORD,that,G3754,Epistles,New Testament,1 John,KJV
+2,1 John2:21 ,WORD,no,G3956,Epistles,New Testament,1 John,KJV
+2,1 John2:21 ,WORD,,G3756,Epistles,New Testament,1 John,KJV
+2,1 John2:21 ,WORD,lie,G5579,Epistles,New Testament,1 John,KJV
+2,1 John2:21 ,WORD,is,G2076,Epistles,New Testament,1 John,KJV
+2,1 John2:21 ,WORD,of,G1537,Epistles,New Testament,1 John,KJV
+2,1 John2:21 ,WORD,the,G3588,Epistles,New Testament,1 John,KJV
+2,1 John2:21 ,WORD,truth.,G225,Epistles,New Testament,1 John,KJV
+2,1 John2:22 ,WORD,Who,G5101,Epistles,New Testament,1 John,KJV
+2,1 John2:22 ,WORD,is,G2076,Epistles,New Testament,1 John,KJV
+2,1 John2:22 ,WORD,a,G3588,Epistles,New Testament,1 John,KJV
+2,1 John2:22 ,WORD,liar,G5583,Epistles,New Testament,1 John,KJV
+2,1 John2:22 ,WORD,,G1487,Epistles,New Testament,1 John,KJV
+2,1 John2:22 ,WORD,but,G3361,Epistles,New Testament,1 John,KJV
+2,1 John2:22 ,PHRASE,he that,G3588,Epistles,New Testament,1 John,KJV
+2,1 John2:22 ,WORD,denieth,G720,Epistles,New Testament,1 John,KJV
+2,1 John2:22 ,WORD,that,G3754,Epistles,New Testament,1 John,KJV
+2,1 John2:22 ,WORD,Jesus,G2424,Epistles,New Testament,1 John,KJV
+2,1 John2:22 ,WORD,is,G2076,Epistles,New Testament,1 John,KJV
+2,1 John2:22 ,WORD,,G3756,Epistles,New Testament,1 John,KJV
+2,1 John2:22 ,WORD,the,G3588,Epistles,New Testament,1 John,KJV
+2,1 John2:22 ,WORD,Christ?,G5547,Epistles,New Testament,1 John,KJV
+2,1 John2:22 ,WORD,He,G3778,Epistles,New Testament,1 John,KJV
+2,1 John2:22 ,WORD,is,G2076,Epistles,New Testament,1 John,KJV
+2,1 John2:22 ,WORD,"antichrist,",G500,Epistles,New Testament,1 John,KJV
+2,1 John2:22 ,PHRASE,that denieth,G720,Epistles,New Testament,1 John,KJV
+2,1 John2:22 ,WORD,the,G3588,Epistles,New Testament,1 John,KJV
+2,1 John2:22 ,WORD,Father,G3962,Epistles,New Testament,1 John,KJV
+2,1 John2:22 ,WORD,and,G2532,Epistles,New Testament,1 John,KJV
+2,1 John2:22 ,WORD,the,G3588,Epistles,New Testament,1 John,KJV
+2,1 John2:22 ,WORD,Son.,G5207,Epistles,New Testament,1 John,KJV
+2,1 John2:23 ,WORD,Whosoever,G3956,Epistles,New Testament,1 John,KJV
+2,1 John2:23 ,WORD,denieth,G720,Epistles,New Testament,1 John,KJV
+2,1 John2:23 ,WORD,the,G3588,Epistles,New Testament,1 John,KJV
+2,1 John2:23 ,WORD,"Son,",G5207,Epistles,New Testament,1 John,KJV
+2,1 John2:23 ,PHRASE,the same hath,G2192,Epistles,New Testament,1 John,KJV
+2,1 John2:23 ,WORD,not,G3761,Epistles,New Testament,1 John,KJV
+2,1 John2:23 ,WORD,the,G3588,Epistles,New Testament,1 John,KJV
+2,1 John2:23 ,WORD,Father:,G3962,Epistles,New Testament,1 John,KJV
+2,1 John2:23 ,PHRASE,[(but) he,,Epistles,New Testament,1 John,KJV
+2,1 John2:23 ,PHRASE,that acknowledgeth,G3670,Epistles,New Testament,1 John,KJV
+2,1 John2:23 ,PHRASE,the Son,G5207,Epistles,New Testament,1 John,KJV
+2,1 John2:23 ,WORD,hath,G2192,Epistles,New Testament,1 John,KJV
+2,1 John2:23 ,PHRASE,the Father,G3962,Epistles,New Testament,1 John,KJV
+2,1 John2:23 ,WORD,also].,G2532,Epistles,New Testament,1 John,KJV
+2,1 John2:24 ,WORD,Let,G3306,Epistles,New Testament,1 John,KJV
+2,1 John2:24 ,PHRASE,that therefore,G3767,Epistles,New Testament,1 John,KJV
+2,1 John2:24 ,WORD,abide,G3306,Epistles,New Testament,1 John,KJV
+2,1 John2:24 ,WORD,in,G1722,Epistles,New Testament,1 John,KJV
+2,1 John2:24 ,WORD,"you,",G5213,Epistles,New Testament,1 John,KJV
+2,1 John2:24 ,WORD,which,G3739,Epistles,New Testament,1 John,KJV
+2,1 John2:24 ,WORD,ye,G5210,Epistles,New Testament,1 John,KJV
+2,1 John2:24 ,PHRASE,have heard,G191,Epistles,New Testament,1 John,KJV
+2,1 John2:24 ,WORD,from,G575,Epistles,New Testament,1 John,KJV
+2,1 John2:24 ,PHRASE,the beginning.,G746,Epistles,New Testament,1 John,KJV
+2,1 John2:24 ,WORD,If,G1437,Epistles,New Testament,1 John,KJV
+2,1 John2:24 ,PHRASE,that which,G3739,Epistles,New Testament,1 John,KJV
+2,1 John2:24 ,PHRASE,ye have heard,G191,Epistles,New Testament,1 John,KJV
+2,1 John2:24 ,WORD,from,G575,Epistles,New Testament,1 John,KJV
+2,1 John2:24 ,PHRASE,the beginning,G746,Epistles,New Testament,1 John,KJV
+2,1 John2:24 ,PHRASE,shall remain,G3306,Epistles,New Testament,1 John,KJV
+2,1 John2:24 ,WORD,in,G1722,Epistles,New Testament,1 John,KJV
+2,1 John2:24 ,WORD,"you,",G5213,Epistles,New Testament,1 John,KJV
+2,1 John2:24 ,WORD,ye,G5210,Epistles,New Testament,1 John,KJV
+2,1 John2:24 ,WORD,also,G2532,Epistles,New Testament,1 John,KJV
+2,1 John2:24 ,PHRASE,shall continue,G3306,Epistles,New Testament,1 John,KJV
+2,1 John2:24 ,WORD,in,G1722,Epistles,New Testament,1 John,KJV
+2,1 John2:24 ,WORD,the,G3588,Epistles,New Testament,1 John,KJV
+2,1 John2:24 ,WORD,"Son,",G5207,Epistles,New Testament,1 John,KJV
+2,1 John2:24 ,WORD,and,G2532,Epistles,New Testament,1 John,KJV
+2,1 John2:24 ,WORD,in,G1722,Epistles,New Testament,1 John,KJV
+2,1 John2:24 ,WORD,the,G3588,Epistles,New Testament,1 John,KJV
+2,1 John2:24 ,WORD,Father.,G3962,Epistles,New Testament,1 John,KJV
+2,1 John2:25 ,WORD,And,G2532,Epistles,New Testament,1 John,KJV
+2,1 John2:25 ,WORD,this,G3778,Epistles,New Testament,1 John,KJV
+2,1 John2:25 ,WORD,is,G2076,Epistles,New Testament,1 John,KJV
+2,1 John2:25 ,WORD,the,G3588,Epistles,New Testament,1 John,KJV
+2,1 John2:25 ,WORD,promise,G1860,Epistles,New Testament,1 John,KJV
+2,1 John2:25 ,WORD,that,G3739,Epistles,New Testament,1 John,KJV
+2,1 John2:25 ,WORD,he,G846,Epistles,New Testament,1 John,KJV
+2,1 John2:25 ,PHRASE,hath promised,G1861,Epistles,New Testament,1 John,KJV
+2,1 John2:25 ,WORD,"us,",G2254,Epistles,New Testament,1 John,KJV
+2,1 John2:25 ,WORD,[even],,Epistles,New Testament,1 John,KJV
+2,1 John2:25 ,WORD,eternal,G166,Epistles,New Testament,1 John,KJV
+2,1 John2:25 ,WORD,life.,G2222,Epistles,New Testament,1 John,KJV
+2,1 John2:26 ,WORD,These,G5023,Epistles,New Testament,1 John,KJV
+2,1 John2:26 ,WORD,[things],,Epistles,New Testament,1 John,KJV
+2,1 John2:26 ,PHRASE,have I written,G1125,Epistles,New Testament,1 John,KJV
+2,1 John2:26 ,PHRASE,unto you,G5213,Epistles,New Testament,1 John,KJV
+2,1 John2:26 ,WORD,concerning,G4012,Epistles,New Testament,1 John,KJV
+2,1 John2:26 ,PHRASE,them that,G3588,Epistles,New Testament,1 John,KJV
+2,1 John2:26 ,WORD,seduce,G4105,Epistles,New Testament,1 John,KJV
+2,1 John2:26 ,WORD,you.,G5209,Epistles,New Testament,1 John,KJV
+2,1 John2:27 ,WORD,But,G2532,Epistles,New Testament,1 John,KJV
+2,1 John2:27 ,WORD,the,G3588,Epistles,New Testament,1 John,KJV
+2,1 John2:27 ,WORD,anointing,G5545,Epistles,New Testament,1 John,KJV
+2,1 John2:27 ,WORD,which,G3739,Epistles,New Testament,1 John,KJV
+2,1 John2:27 ,WORD,ye,G5210,Epistles,New Testament,1 John,KJV
+2,1 John2:27 ,PHRASE,have received,G2983,Epistles,New Testament,1 John,KJV
+2,1 John2:27 ,WORD,of,G575,Epistles,New Testament,1 John,KJV
+2,1 John2:27 ,WORD,him,G846,Epistles,New Testament,1 John,KJV
+2,1 John2:27 ,WORD,abideth,G3306,Epistles,New Testament,1 John,KJV
+2,1 John2:27 ,WORD,in,G1722,Epistles,New Testament,1 John,KJV
+2,1 John2:27 ,WORD,"you,",G5213,Epistles,New Testament,1 John,KJV
+2,1 John2:27 ,WORD,and,G2532,Epistles,New Testament,1 John,KJV
+2,1 John2:27 ,PHRASE,ye need,G5532,Epistles,New Testament,1 John,KJV
+2,1 John2:27 ,WORD,,G2192,Epistles,New Testament,1 John,KJV
+2,1 John2:27 ,WORD,not,G3756,Epistles,New Testament,1 John,KJV
+2,1 John2:27 ,WORD,that,G2443,Epistles,New Testament,1 John,KJV
+2,1 John2:27 ,PHRASE,any man,G5100,Epistles,New Testament,1 John,KJV
+2,1 John2:27 ,WORD,teach,G1321,Epistles,New Testament,1 John,KJV
+2,1 John2:27 ,WORD,you:,G5209,Epistles,New Testament,1 John,KJV
+2,1 John2:27 ,WORD,but,G235,Epistles,New Testament,1 John,KJV
+2,1 John2:27 ,WORD,as,G5613,Epistles,New Testament,1 John,KJV
+2,1 John2:27 ,WORD,the,G3588,Epistles,New Testament,1 John,KJV
+2,1 John2:27 ,WORD,same,G846,Epistles,New Testament,1 John,KJV
+2,1 John2:27 ,WORD,anointing,G5545,Epistles,New Testament,1 John,KJV
+2,1 John2:27 ,WORD,teacheth,G1321,Epistles,New Testament,1 John,KJV
+2,1 John2:27 ,WORD,you,G5209,Epistles,New Testament,1 John,KJV
+2,1 John2:27 ,WORD,of,G4012,Epistles,New Testament,1 John,KJV
+2,1 John2:27 ,PHRASE,"all things,",G3956,Epistles,New Testament,1 John,KJV
+2,1 John2:27 ,WORD,and,G2532,Epistles,New Testament,1 John,KJV
+2,1 John2:27 ,WORD,is,G2076,Epistles,New Testament,1 John,KJV
+2,1 John2:27 ,WORD,"truth,",G227,Epistles,New Testament,1 John,KJV
+2,1 John2:27 ,WORD,and,G2532,Epistles,New Testament,1 John,KJV
+2,1 John2:27 ,WORD,is,G2076,Epistles,New Testament,1 John,KJV
+2,1 John2:27 ,WORD,no,G3756,Epistles,New Testament,1 John,KJV
+2,1 John2:27 ,WORD,"lie,",G5579,Epistles,New Testament,1 John,KJV
+2,1 John2:27 ,WORD,and,G2532,Epistles,New Testament,1 John,KJV
+2,1 John2:27 ,PHRASE,even as,G2531,Epistles,New Testament,1 John,KJV
+2,1 John2:27 ,PHRASE,it hath taught,G1321,Epistles,New Testament,1 John,KJV
+2,1 John2:27 ,WORD,"you,",G5209,Epistles,New Testament,1 John,KJV
+2,1 John2:27 ,PHRASE,ye shall abide,G3306,Epistles,New Testament,1 John,KJV
+2,1 John2:27 ,WORD,in,G1722,Epistles,New Testament,1 John,KJV
+2,1 John2:27 ,WORD,him.,G846,Epistles,New Testament,1 John,KJV
+2,1 John2:28 ,WORD,And,G2532,Epistles,New Testament,1 John,KJV
+2,1 John2:28 ,WORD,"now,",G3568,Epistles,New Testament,1 John,KJV
+2,1 John2:28 ,PHRASE,"little children,",G5040,Epistles,New Testament,1 John,KJV
+2,1 John2:28 ,WORD,abide,G3306,Epistles,New Testament,1 John,KJV
+2,1 John2:28 ,WORD,in,G1722,Epistles,New Testament,1 John,KJV
+2,1 John2:28 ,WORD,him;,G846,Epistles,New Testament,1 John,KJV
+2,1 John2:28 ,WORD,"that,",G2443,Epistles,New Testament,1 John,KJV
+2,1 John2:28 ,WORD,when,G3752,Epistles,New Testament,1 John,KJV
+2,1 John2:28 ,PHRASE,"he shall appear,",G5319,Epistles,New Testament,1 John,KJV
+2,1 John2:28 ,PHRASE,we may have,G2192,Epistles,New Testament,1 John,KJV
+2,1 John2:28 ,WORD,"confidence,",G3954,Epistles,New Testament,1 John,KJV
+2,1 John2:28 ,WORD,and,G2532,Epistles,New Testament,1 John,KJV
+2,1 John2:28 ,WORD,not,G3361,Epistles,New Testament,1 John,KJV
+2,1 John2:28 ,PHRASE,be ashamed,G153,Epistles,New Testament,1 John,KJV
+2,1 John2:28 ,WORD,before,G575,Epistles,New Testament,1 John,KJV
+2,1 John2:28 ,WORD,him,G846,Epistles,New Testament,1 John,KJV
+2,1 John2:28 ,WORD,at,G1722,Epistles,New Testament,1 John,KJV
+2,1 John2:28 ,WORD,his,G846,Epistles,New Testament,1 John,KJV
+2,1 John2:28 ,WORD,coming.,G3952,Epistles,New Testament,1 John,KJV
+2,1 John2:29 ,WORD,If,G1437,Epistles,New Testament,1 John,KJV
+2,1 John2:29 ,PHRASE,ye know,G1492,Epistles,New Testament,1 John,KJV
+2,1 John2:29 ,WORD,that,G3754,Epistles,New Testament,1 John,KJV
+2,1 John2:29 ,PHRASE,he is,G2076,Epistles,New Testament,1 John,KJV
+2,1 John2:29 ,WORD,"righteous,",G1342,Epistles,New Testament,1 John,KJV
+2,1 John2:29 ,PHRASE,ye know,G1097,Epistles,New Testament,1 John,KJV
+2,1 John2:29 ,WORD,that,G3754,Epistles,New Testament,1 John,KJV
+2,1 John2:29 ,PHRASE,every one,G3956,Epistles,New Testament,1 John,KJV
+2,1 John2:29 ,PHRASE,that doeth,G4160,Epistles,New Testament,1 John,KJV
+2,1 John2:29 ,WORD,righteousness,G1343,Epistles,New Testament,1 John,KJV
+2,1 John2:29 ,PHRASE,is born,G1080,Epistles,New Testament,1 John,KJV
+2,1 John2:29 ,WORD,of,G1537,Epistles,New Testament,1 John,KJV
+2,1 John2:29 ,WORD,him.,G846,Epistles,New Testament,1 John,KJV
+3,1 John3:1 ,WORD,"Behold,",G3708,Epistles,New Testament,1 John,KJV
+3,1 John3:1 ,PHRASE,what manner,G4217,Epistles,New Testament,1 John,KJV
+3,1 John3:1 ,PHRASE,of love,G26,Epistles,New Testament,1 John,KJV
+3,1 John3:1 ,WORD,the,G3588,Epistles,New Testament,1 John,KJV
+3,1 John3:1 ,WORD,Father,G3962,Epistles,New Testament,1 John,KJV
+3,1 John3:1 ,PHRASE,hath bestowed,G1325,Epistles,New Testament,1 John,KJV
+3,1 John3:1 ,PHRASE,"upon us,",G2254,Epistles,New Testament,1 John,KJV
+3,1 John3:1 ,WORD,that,G2443,Epistles,New Testament,1 John,KJV
+3,1 John3:1 ,PHRASE,we should be called,G2564,Epistles,New Testament,1 John,KJV
+3,1 John3:1 ,PHRASE,the sons,G5043,Epistles,New Testament,1 John,KJV
+3,1 John3:1 ,PHRASE,of God:,G2316,Epistles,New Testament,1 John,KJV
+3,1 John3:1 ,WORD,therefore,G1223,Epistles,New Testament,1 John,KJV
+3,1 John3:1 ,WORD,,G5124,Epistles,New Testament,1 John,KJV
+3,1 John3:1 ,WORD,the,G3588,Epistles,New Testament,1 John,KJV
+3,1 John3:1 ,WORD,world,G2889,Epistles,New Testament,1 John,KJV
+3,1 John3:1 ,WORD,knoweth,G1097,Epistles,New Testament,1 John,KJV
+3,1 John3:1 ,WORD,us,G2248,Epistles,New Testament,1 John,KJV
+3,1 John3:1 ,WORD,"not,",G3756,Epistles,New Testament,1 John,KJV
+3,1 John3:1 ,WORD,because,G3754,Epistles,New Testament,1 John,KJV
+3,1 John3:1 ,PHRASE,it knew,G1097,Epistles,New Testament,1 John,KJV
+3,1 John3:1 ,WORD,him,G846,Epistles,New Testament,1 John,KJV
+3,1 John3:1 ,WORD,not.,G3756,Epistles,New Testament,1 John,KJV
+3,1 John3:2 ,WORD,"Beloved,",G27,Epistles,New Testament,1 John,KJV
+3,1 John3:2 ,WORD,now,G3568,Epistles,New Testament,1 John,KJV
+3,1 John3:2 ,PHRASE,are we,G2070,Epistles,New Testament,1 John,KJV
+3,1 John3:2 ,PHRASE,the sons,G5043,Epistles,New Testament,1 John,KJV
+3,1 John3:2 ,PHRASE,"of God,",G2316,Epistles,New Testament,1 John,KJV
+3,1 John3:2 ,WORD,and,G2532,Epistles,New Testament,1 John,KJV
+3,1 John3:2 ,PHRASE,it doth,G5319,Epistles,New Testament,1 John,KJV
+3,1 John3:2 ,PHRASE,not yet,G3768,Epistles,New Testament,1 John,KJV
+3,1 John3:2 ,WORD,appear,G5319,Epistles,New Testament,1 John,KJV
+3,1 John3:2 ,WORD,what,G5101,Epistles,New Testament,1 John,KJV
+3,1 John3:2 ,PHRASE,we shall be:,G2071,Epistles,New Testament,1 John,KJV
+3,1 John3:2 ,WORD,but,G1161,Epistles,New Testament,1 John,KJV
+3,1 John3:2 ,PHRASE,we know,G1492,Epistles,New Testament,1 John,KJV
+3,1 John3:2 ,WORD,"that,",G3754,Epistles,New Testament,1 John,KJV
+3,1 John3:2 ,WORD,when,G1437,Epistles,New Testament,1 John,KJV
+3,1 John3:2 ,PHRASE,"he shall appear,",G5319,Epistles,New Testament,1 John,KJV
+3,1 John3:2 ,PHRASE,we shall be,G2071,Epistles,New Testament,1 John,KJV
+3,1 John3:2 ,WORD,like,G3664,Epistles,New Testament,1 John,KJV
+3,1 John3:2 ,WORD,him;,G846,Epistles,New Testament,1 John,KJV
+3,1 John3:2 ,WORD,for,G3754,Epistles,New Testament,1 John,KJV
+3,1 John3:2 ,PHRASE,we shall see,G3700,Epistles,New Testament,1 John,KJV
+3,1 John3:2 ,WORD,him,G846,Epistles,New Testament,1 John,KJV
+3,1 John3:2 ,WORD,as,G2531,Epistles,New Testament,1 John,KJV
+3,1 John3:2 ,PHRASE,he is.,G2076,Epistles,New Testament,1 John,KJV
+3,1 John3:3 ,WORD,And,G2532,Epistles,New Testament,1 John,KJV
+3,1 John3:3 ,PHRASE,every man,G3956,Epistles,New Testament,1 John,KJV
+3,1 John3:3 ,PHRASE,that hath,G2192,Epistles,New Testament,1 John,KJV
+3,1 John3:3 ,WORD,this,G3778,Epistles,New Testament,1 John,KJV
+3,1 John3:3 ,WORD,hope,G1680,Epistles,New Testament,1 John,KJV
+3,1 John3:3 ,WORD,in,G1909,Epistles,New Testament,1 John,KJV
+3,1 John3:3 ,WORD,him,G846,Epistles,New Testament,1 John,KJV
+3,1 John3:3 ,WORD,purifieth,G48,Epistles,New Testament,1 John,KJV
+3,1 John3:3 ,WORD,"himself,",G1438,Epistles,New Testament,1 John,KJV
+3,1 John3:3 ,PHRASE,even as,G2531,Epistles,New Testament,1 John,KJV
+3,1 John3:3 ,WORD,he,G1565,Epistles,New Testament,1 John,KJV
+3,1 John3:3 ,WORD,is,G2076,Epistles,New Testament,1 John,KJV
+3,1 John3:3 ,WORD,pure.,G53,Epistles,New Testament,1 John,KJV
+3,1 John3:4 ,WORD,Whosoever,G3956,Epistles,New Testament,1 John,KJV
+3,1 John3:4 ,WORD,committeth,G4160,Epistles,New Testament,1 John,KJV
+3,1 John3:4 ,WORD,sin,G266,Epistles,New Testament,1 John,KJV
+3,1 John3:4 ,WORD,transgresseth,G4160,Epistles,New Testament,1 John,KJV
+3,1 John3:4 ,WORD,also,G2532,Epistles,New Testament,1 John,KJV
+3,1 John3:4 ,PHRASE,the law:,G458,Epistles,New Testament,1 John,KJV
+3,1 John3:4 ,WORD,for,G2532,Epistles,New Testament,1 John,KJV
+3,1 John3:4 ,WORD,sin,G266,Epistles,New Testament,1 John,KJV
+3,1 John3:4 ,WORD,is,G2076,Epistles,New Testament,1 John,KJV
+3,1 John3:4 ,WORD,the,G3588,Epistles,New Testament,1 John,KJV
+3,1 John3:4 ,PHRASE,transgression of the law.,G458,Epistles,New Testament,1 John,KJV
+3,1 John3:5 ,WORD,And,G2532,Epistles,New Testament,1 John,KJV
+3,1 John3:5 ,PHRASE,ye know,G1492,Epistles,New Testament,1 John,KJV
+3,1 John3:5 ,WORD,that,G3754,Epistles,New Testament,1 John,KJV
+3,1 John3:5 ,WORD,he,G1565,Epistles,New Testament,1 John,KJV
+3,1 John3:5 ,PHRASE,was manifested,G5319,Epistles,New Testament,1 John,KJV
+3,1 John3:5 ,WORD,to,G2443,Epistles,New Testament,1 John,KJV
+3,1 John3:5 ,PHRASE,take away,G142,Epistles,New Testament,1 John,KJV
+3,1 John3:5 ,WORD,our,G2257,Epistles,New Testament,1 John,KJV
+3,1 John3:5 ,WORD,sins;,G266,Epistles,New Testament,1 John,KJV
+3,1 John3:5 ,WORD,and,G2532,Epistles,New Testament,1 John,KJV
+3,1 John3:5 ,WORD,in,G1722,Epistles,New Testament,1 John,KJV
+3,1 John3:5 ,WORD,him,G846,Epistles,New Testament,1 John,KJV
+3,1 John3:5 ,WORD,is,G2076,Epistles,New Testament,1 John,KJV
+3,1 John3:5 ,WORD,no,G3756,Epistles,New Testament,1 John,KJV
+3,1 John3:5 ,WORD,sin.,G266,Epistles,New Testament,1 John,KJV
+3,1 John3:6 ,WORD,Whosoever,G3956,Epistles,New Testament,1 John,KJV
+3,1 John3:6 ,WORD,abideth,G3306,Epistles,New Testament,1 John,KJV
+3,1 John3:6 ,WORD,in,G1722,Epistles,New Testament,1 John,KJV
+3,1 John3:6 ,WORD,him,G846,Epistles,New Testament,1 John,KJV
+3,1 John3:6 ,WORD,sinneth,G264,Epistles,New Testament,1 John,KJV
+3,1 John3:6 ,WORD,not:,G3756,Epistles,New Testament,1 John,KJV
+3,1 John3:6 ,WORD,whosoever,G3956,Epistles,New Testament,1 John,KJV
+3,1 John3:6 ,WORD,sinneth,G264,Epistles,New Testament,1 John,KJV
+3,1 John3:6 ,WORD,hath,G3708,Epistles,New Testament,1 John,KJV
+3,1 John3:6 ,WORD,not,G3756,Epistles,New Testament,1 John,KJV
+3,1 John3:6 ,WORD,seen,G3708,Epistles,New Testament,1 John,KJV
+3,1 John3:6 ,WORD,"him,",G846,Epistles,New Testament,1 John,KJV
+3,1 John3:6 ,WORD,neither,G3761,Epistles,New Testament,1 John,KJV
+3,1 John3:6 ,WORD,known,G1097,Epistles,New Testament,1 John,KJV
+3,1 John3:6 ,WORD,him.,G846,Epistles,New Testament,1 John,KJV
+3,1 John3:7 ,PHRASE,"Little children,",G5040,Epistles,New Testament,1 John,KJV
+3,1 John3:7 ,WORD,let,G4105,Epistles,New Testament,1 John,KJV
+3,1 John3:7 ,PHRASE,no man,G3367,Epistles,New Testament,1 John,KJV
+3,1 John3:7 ,WORD,deceive,G4105,Epistles,New Testament,1 John,KJV
+3,1 John3:7 ,WORD,you:,G5209,Epistles,New Testament,1 John,KJV
+3,1 John3:7 ,PHRASE,he that,G3588,Epistles,New Testament,1 John,KJV
+3,1 John3:7 ,WORD,doeth,G4160,Epistles,New Testament,1 John,KJV
+3,1 John3:7 ,WORD,righteousness,G1343,Epistles,New Testament,1 John,KJV
+3,1 John3:7 ,WORD,is,G2076,Epistles,New Testament,1 John,KJV
+3,1 John3:7 ,WORD,"righteous,",G1342,Epistles,New Testament,1 John,KJV
+3,1 John3:7 ,PHRASE,even as,G2531,Epistles,New Testament,1 John,KJV
+3,1 John3:7 ,WORD,he,G1565,Epistles,New Testament,1 John,KJV
+3,1 John3:7 ,WORD,is,G2076,Epistles,New Testament,1 John,KJV
+3,1 John3:7 ,WORD,righteous.,G1342,Epistles,New Testament,1 John,KJV
+3,1 John3:8 ,PHRASE,He that,G3588,Epistles,New Testament,1 John,KJV
+3,1 John3:8 ,WORD,committeth,G4160,Epistles,New Testament,1 John,KJV
+3,1 John3:8 ,WORD,sin,G266,Epistles,New Testament,1 John,KJV
+3,1 John3:8 ,WORD,is,G2076,Epistles,New Testament,1 John,KJV
+3,1 John3:8 ,WORD,of,G1537,Epistles,New Testament,1 John,KJV
+3,1 John3:8 ,WORD,the,G3588,Epistles,New Testament,1 John,KJV
+3,1 John3:8 ,WORD,devil;,G1228,Epistles,New Testament,1 John,KJV
+3,1 John3:8 ,WORD,for,G3754,Epistles,New Testament,1 John,KJV
+3,1 John3:8 ,WORD,the,G3588,Epistles,New Testament,1 John,KJV
+3,1 John3:8 ,WORD,devil,G1228,Epistles,New Testament,1 John,KJV
+3,1 John3:8 ,WORD,sinneth,G264,Epistles,New Testament,1 John,KJV
+3,1 John3:8 ,WORD,from,G575,Epistles,New Testament,1 John,KJV
+3,1 John3:8 ,PHRASE,the beginning.,G746,Epistles,New Testament,1 John,KJV
+3,1 John3:8 ,WORD,For,G1519,Epistles,New Testament,1 John,KJV
+3,1 John3:8 ,PHRASE,this purpose,G5124,Epistles,New Testament,1 John,KJV
+3,1 John3:8 ,WORD,the,G3588,Epistles,New Testament,1 John,KJV
+3,1 John3:8 ,WORD,Son,G5207,Epistles,New Testament,1 John,KJV
+3,1 John3:8 ,PHRASE,of God,G2316,Epistles,New Testament,1 John,KJV
+3,1 John3:8 ,PHRASE,"was manifested,",G5319,Epistles,New Testament,1 John,KJV
+3,1 John3:8 ,WORD,that,G2443,Epistles,New Testament,1 John,KJV
+3,1 John3:8 ,PHRASE,he might destroy,G3089,Epistles,New Testament,1 John,KJV
+3,1 John3:8 ,WORD,the,G3588,Epistles,New Testament,1 John,KJV
+3,1 John3:8 ,WORD,works,G2041,Epistles,New Testament,1 John,KJV
+3,1 John3:8 ,PHRASE,of the,G3588,Epistles,New Testament,1 John,KJV
+3,1 John3:8 ,WORD,devil.,G1228,Epistles,New Testament,1 John,KJV
+3,1 John3:9 ,WORD,Whosoever,G3956,Epistles,New Testament,1 John,KJV
+3,1 John3:9 ,PHRASE,is born,G1080,Epistles,New Testament,1 John,KJV
+3,1 John3:9 ,WORD,of,G1537,Epistles,New Testament,1 John,KJV
+3,1 John3:9 ,WORD,God,G2316,Epistles,New Testament,1 John,KJV
+3,1 John3:9 ,WORD,doth,G4160,Epistles,New Testament,1 John,KJV
+3,1 John3:9 ,WORD,not,G3756,Epistles,New Testament,1 John,KJV
+3,1 John3:9 ,PHRASE,commit sin;,G266,Epistles,New Testament,1 John,KJV
+3,1 John3:9 ,WORD,for,G3754,Epistles,New Testament,1 John,KJV
+3,1 John3:9 ,WORD,his,G846,Epistles,New Testament,1 John,KJV
+3,1 John3:9 ,WORD,seed,G4690,Epistles,New Testament,1 John,KJV
+3,1 John3:9 ,WORD,remaineth,G3306,Epistles,New Testament,1 John,KJV
+3,1 John3:9 ,WORD,in,G1722,Epistles,New Testament,1 John,KJV
+3,1 John3:9 ,WORD,him:,G846,Epistles,New Testament,1 John,KJV
+3,1 John3:9 ,WORD,and,G2532,Epistles,New Testament,1 John,KJV
+3,1 John3:9 ,PHRASE,he cannot,G3756,Epistles,New Testament,1 John,KJV
+3,1 John3:9 ,WORD,,G1410,Epistles,New Testament,1 John,KJV
+3,1 John3:9 ,WORD,"sin,",G264,Epistles,New Testament,1 John,KJV
+3,1 John3:9 ,WORD,because,G3754,Epistles,New Testament,1 John,KJV
+3,1 John3:9 ,PHRASE,he is born,G1080,Epistles,New Testament,1 John,KJV
+3,1 John3:9 ,WORD,of,G1537,Epistles,New Testament,1 John,KJV
+3,1 John3:9 ,WORD,God.,G2316,Epistles,New Testament,1 John,KJV
+3,1 John3:10 ,WORD,In,G1722,Epistles,New Testament,1 John,KJV
+3,1 John3:10 ,WORD,this,G5129,Epistles,New Testament,1 John,KJV
+3,1 John3:10 ,WORD,the,G3588,Epistles,New Testament,1 John,KJV
+3,1 John3:10 ,WORD,children,G5043,Epistles,New Testament,1 John,KJV
+3,1 John3:10 ,PHRASE,of God,G2316,Epistles,New Testament,1 John,KJV
+3,1 John3:10 ,WORD,are,G2076,Epistles,New Testament,1 John,KJV
+3,1 John3:10 ,WORD,"manifest,",G5318,Epistles,New Testament,1 John,KJV
+3,1 John3:10 ,WORD,and,G2532,Epistles,New Testament,1 John,KJV
+3,1 John3:10 ,WORD,the,G3588,Epistles,New Testament,1 John,KJV
+3,1 John3:10 ,WORD,children,G5043,Epistles,New Testament,1 John,KJV
+3,1 John3:10 ,PHRASE,of the,G3588,Epistles,New Testament,1 John,KJV
+3,1 John3:10 ,WORD,devil:,G1228,Epistles,New Testament,1 John,KJV
+3,1 John3:10 ,WORD,whosoever,G3956,Epistles,New Testament,1 John,KJV
+3,1 John3:10 ,WORD,doeth,G4160,Epistles,New Testament,1 John,KJV
+3,1 John3:10 ,WORD,not,G3361,Epistles,New Testament,1 John,KJV
+3,1 John3:10 ,WORD,righteousness,G1343,Epistles,New Testament,1 John,KJV
+3,1 John3:10 ,WORD,is,G2076,Epistles,New Testament,1 John,KJV
+3,1 John3:10 ,WORD,not,G3756,Epistles,New Testament,1 John,KJV
+3,1 John3:10 ,WORD,of,G1537,Epistles,New Testament,1 John,KJV
+3,1 John3:10 ,WORD,"God,",G2316,Epistles,New Testament,1 John,KJV
+3,1 John3:10 ,WORD,neither,G2532,Epistles,New Testament,1 John,KJV
+3,1 John3:10 ,PHRASE,he that,G3588,Epistles,New Testament,1 John,KJV
+3,1 John3:10 ,WORD,loveth,G25,Epistles,New Testament,1 John,KJV
+3,1 John3:10 ,WORD,not,G3361,Epistles,New Testament,1 John,KJV
+3,1 John3:10 ,WORD,his,G846,Epistles,New Testament,1 John,KJV
+3,1 John3:10 ,WORD,brother.,G80,Epistles,New Testament,1 John,KJV
+3,1 John3:11 ,WORD,For,G3754,Epistles,New Testament,1 John,KJV
+3,1 John3:11 ,WORD,this,G3778,Epistles,New Testament,1 John,KJV
+3,1 John3:11 ,WORD,is,G2076,Epistles,New Testament,1 John,KJV
+3,1 John3:11 ,WORD,the,G3588,Epistles,New Testament,1 John,KJV
+3,1 John3:11 ,WORD,message,G31,Epistles,New Testament,1 John,KJV
+3,1 John3:11 ,WORD,that,G3739,Epistles,New Testament,1 John,KJV
+3,1 John3:11 ,PHRASE,ye heard,G191,Epistles,New Testament,1 John,KJV
+3,1 John3:11 ,WORD,from,G575,Epistles,New Testament,1 John,KJV
+3,1 John3:11 ,PHRASE,"the beginning,",G746,Epistles,New Testament,1 John,KJV
+3,1 John3:11 ,WORD,that,G2443,Epistles,New Testament,1 John,KJV
+3,1 John3:11 ,PHRASE,we should love,G25,Epistles,New Testament,1 John,KJV
+3,1 John3:11 ,PHRASE,one another.,G240,Epistles,New Testament,1 John,KJV
+3,1 John3:12 ,WORD,Not,G3756,Epistles,New Testament,1 John,KJV
+3,1 John3:12 ,WORD,as,G2531,Epistles,New Testament,1 John,KJV
+3,1 John3:12 ,WORD,"Cain,",G2535,Epistles,New Testament,1 John,KJV
+3,1 John3:12 ,WORD,[who],,Epistles,New Testament,1 John,KJV
+3,1 John3:12 ,WORD,was,G2258,Epistles,New Testament,1 John,KJV
+3,1 John3:12 ,WORD,of,G1537,Epistles,New Testament,1 John,KJV
+3,1 John3:12 ,PHRASE,"that wicked one,",G4190,Epistles,New Testament,1 John,KJV
+3,1 John3:12 ,WORD,and,G2532,Epistles,New Testament,1 John,KJV
+3,1 John3:12 ,WORD,slew,G4969,Epistles,New Testament,1 John,KJV
+3,1 John3:12 ,WORD,his,G846,Epistles,New Testament,1 John,KJV
+3,1 John3:12 ,WORD,brother.,G80,Epistles,New Testament,1 John,KJV
+3,1 John3:12 ,WORD,And,G2532,Epistles,New Testament,1 John,KJV
+3,1 John3:12 ,WORD,wherefore,G5484,Epistles,New Testament,1 John,KJV
+3,1 John3:12 ,WORD,,G5101,Epistles,New Testament,1 John,KJV
+3,1 John3:12 ,WORD,slew,G4969,Epistles,New Testament,1 John,KJV
+3,1 John3:12 ,PHRASE,he him?,G846,Epistles,New Testament,1 John,KJV
+3,1 John3:12 ,WORD,Because,G3754,Epistles,New Testament,1 John,KJV
+3,1 John3:12 ,PHRASE,his own,G846,Epistles,New Testament,1 John,KJV
+3,1 John3:12 ,WORD,works,G2041,Epistles,New Testament,1 John,KJV
+3,1 John3:12 ,WORD,were,G2258,Epistles,New Testament,1 John,KJV
+3,1 John3:12 ,WORD,"evil,",G4190,Epistles,New Testament,1 John,KJV
+3,1 John3:12 ,WORD,and,G1161,Epistles,New Testament,1 John,KJV
+3,1 John3:12 ,WORD,his,G846,Epistles,New Testament,1 John,KJV
+3,1 John3:12 ,WORD,brother's,G80,Epistles,New Testament,1 John,KJV
+3,1 John3:12 ,WORD,righteous.,G1342,Epistles,New Testament,1 John,KJV
+3,1 John3:13 ,WORD,Marvel,G2296,Epistles,New Testament,1 John,KJV
+3,1 John3:13 ,WORD,"not,",G3361,Epistles,New Testament,1 John,KJV
+3,1 John3:13 ,WORD,my,G3450,Epistles,New Testament,1 John,KJV
+3,1 John3:13 ,WORD,"brethren,",G80,Epistles,New Testament,1 John,KJV
+3,1 John3:13 ,WORD,if,G1487,Epistles,New Testament,1 John,KJV
+3,1 John3:13 ,WORD,the,G3588,Epistles,New Testament,1 John,KJV
+3,1 John3:13 ,WORD,world,G2889,Epistles,New Testament,1 John,KJV
+3,1 John3:13 ,WORD,hate,G3404,Epistles,New Testament,1 John,KJV
+3,1 John3:13 ,WORD,you.,G5209,Epistles,New Testament,1 John,KJV
+3,1 John3:14 ,PHRASE,We know,G1492,Epistles,New Testament,1 John,KJV
+3,1 John3:14 ,WORD,that,G3754,Epistles,New Testament,1 John,KJV
+3,1 John3:14 ,WORD,we,G2249,Epistles,New Testament,1 John,KJV
+3,1 John3:14 ,PHRASE,have passed,G3327,Epistles,New Testament,1 John,KJV
+3,1 John3:14 ,WORD,from,G1537,Epistles,New Testament,1 John,KJV
+3,1 John3:14 ,WORD,death,G2288,Epistles,New Testament,1 John,KJV
+3,1 John3:14 ,WORD,unto,G1519,Epistles,New Testament,1 John,KJV
+3,1 John3:14 ,WORD,"life,",G2222,Epistles,New Testament,1 John,KJV
+3,1 John3:14 ,WORD,because,G3754,Epistles,New Testament,1 John,KJV
+3,1 John3:14 ,PHRASE,we love,G25,Epistles,New Testament,1 John,KJV
+3,1 John3:14 ,WORD,the,G3588,Epistles,New Testament,1 John,KJV
+3,1 John3:14 ,WORD,brethren.,G80,Epistles,New Testament,1 John,KJV
+3,1 John3:14 ,PHRASE,He that,G3588,Epistles,New Testament,1 John,KJV
+3,1 John3:14 ,WORD,loveth,G25,Epistles,New Testament,1 John,KJV
+3,1 John3:14 ,WORD,not,G3361,Epistles,New Testament,1 John,KJV
+3,1 John3:14 ,WORD,[his],,Epistles,New Testament,1 John,KJV
+3,1 John3:14 ,WORD,brother,G80,Epistles,New Testament,1 John,KJV
+3,1 John3:14 ,WORD,abideth,G3306,Epistles,New Testament,1 John,KJV
+3,1 John3:14 ,WORD,in,G1722,Epistles,New Testament,1 John,KJV
+3,1 John3:14 ,WORD,death.,G2288,Epistles,New Testament,1 John,KJV
+3,1 John3:15 ,WORD,Whosoever,G3956,Epistles,New Testament,1 John,KJV
+3,1 John3:15 ,WORD,hateth,G3404,Epistles,New Testament,1 John,KJV
+3,1 John3:15 ,WORD,his,G846,Epistles,New Testament,1 John,KJV
+3,1 John3:15 ,WORD,brother,G80,Epistles,New Testament,1 John,KJV
+3,1 John3:15 ,WORD,is,G2076,Epistles,New Testament,1 John,KJV
+3,1 John3:15 ,PHRASE,a murderer:,G443,Epistles,New Testament,1 John,KJV
+3,1 John3:15 ,WORD,and,G2532,Epistles,New Testament,1 John,KJV
+3,1 John3:15 ,PHRASE,ye know,G1492,Epistles,New Testament,1 John,KJV
+3,1 John3:15 ,WORD,that,G3754,Epistles,New Testament,1 John,KJV
+3,1 John3:15 ,WORD,no,G3756,Epistles,New Testament,1 John,KJV
+3,1 John3:15 ,WORD,,G3956,Epistles,New Testament,1 John,KJV
+3,1 John3:15 ,WORD,murderer,G443,Epistles,New Testament,1 John,KJV
+3,1 John3:15 ,WORD,hath,G2192,Epistles,New Testament,1 John,KJV
+3,1 John3:15 ,WORD,eternal,G166,Epistles,New Testament,1 John,KJV
+3,1 John3:15 ,WORD,life,G2222,Epistles,New Testament,1 John,KJV
+3,1 John3:15 ,WORD,abiding,G3306,Epistles,New Testament,1 John,KJV
+3,1 John3:15 ,WORD,in,G1722,Epistles,New Testament,1 John,KJV
+3,1 John3:15 ,WORD,him.,G846,Epistles,New Testament,1 John,KJV
+3,1 John3:16 ,WORD,Hereby,G1722,Epistles,New Testament,1 John,KJV
+3,1 John3:16 ,WORD,,G5129,Epistles,New Testament,1 John,KJV
+3,1 John3:16 ,PHRASE,perceive we,G1097,Epistles,New Testament,1 John,KJV
+3,1 John3:16 ,WORD,the,G3588,Epistles,New Testament,1 John,KJV
+3,1 John3:16 ,WORD,love,G26,Epistles,New Testament,1 John,KJV
+3,1 John3:16 ,PHRASE,"[of God],",,Epistles,New Testament,1 John,KJV
+3,1 John3:16 ,WORD,because,G3754,Epistles,New Testament,1 John,KJV
+3,1 John3:16 ,WORD,he,G1565,Epistles,New Testament,1 John,KJV
+3,1 John3:16 ,PHRASE,laid down,G5087,Epistles,New Testament,1 John,KJV
+3,1 John3:16 ,WORD,his,G846,Epistles,New Testament,1 John,KJV
+3,1 John3:16 ,WORD,life,G5590,Epistles,New Testament,1 John,KJV
+3,1 John3:16 ,WORD,for,G5228,Epistles,New Testament,1 John,KJV
+3,1 John3:16 ,WORD,us:,G2257,Epistles,New Testament,1 John,KJV
+3,1 John3:16 ,WORD,and,G2532,Epistles,New Testament,1 John,KJV
+3,1 John3:16 ,WORD,we,G2249,Epistles,New Testament,1 John,KJV
+3,1 John3:16 ,WORD,ought,G3784,Epistles,New Testament,1 John,KJV
+3,1 John3:16 ,PHRASE,to lay down,G5087,Epistles,New Testament,1 John,KJV
+3,1 John3:16 ,WORD,[our],,Epistles,New Testament,1 John,KJV
+3,1 John3:16 ,WORD,lives,G5590,Epistles,New Testament,1 John,KJV
+3,1 John3:16 ,WORD,for,G5228,Epistles,New Testament,1 John,KJV
+3,1 John3:16 ,WORD,the,G3588,Epistles,New Testament,1 John,KJV
+3,1 John3:16 ,WORD,brethren.,G80,Epistles,New Testament,1 John,KJV
+3,1 John3:17 ,WORD,But,G1161,Epistles,New Testament,1 John,KJV
+3,1 John3:17 ,WORD,whoso,G3739,Epistles,New Testament,1 John,KJV
+3,1 John3:17 ,WORD,,G302,Epistles,New Testament,1 John,KJV
+3,1 John3:17 ,WORD,hath,G2192,Epistles,New Testament,1 John,KJV
+3,1 John3:17 ,WORD,this,G3588,Epistles,New Testament,1 John,KJV
+3,1 John3:17 ,WORD,world's,G2889,Epistles,New Testament,1 John,KJV
+3,1 John3:17 ,WORD,"good,",G979,Epistles,New Testament,1 John,KJV
+3,1 John3:17 ,WORD,and,G2532,Epistles,New Testament,1 John,KJV
+3,1 John3:17 ,WORD,seeth,G2334,Epistles,New Testament,1 John,KJV
+3,1 John3:17 ,WORD,his,G846,Epistles,New Testament,1 John,KJV
+3,1 John3:17 ,WORD,brother,G80,Epistles,New Testament,1 John,KJV
+3,1 John3:17 ,WORD,have,G2192,Epistles,New Testament,1 John,KJV
+3,1 John3:17 ,WORD,"need,",G5532,Epistles,New Testament,1 John,KJV
+3,1 John3:17 ,WORD,and,G2532,Epistles,New Testament,1 John,KJV
+3,1 John3:17 ,PHRASE,shutteth up,G2808,Epistles,New Testament,1 John,KJV
+3,1 John3:17 ,WORD,his,G846,Epistles,New Testament,1 John,KJV
+3,1 John3:17 ,WORD,bowels,G4698,Epistles,New Testament,1 John,KJV
+3,1 John3:17 ,PHRASE,[of compassion],,Epistles,New Testament,1 John,KJV
+3,1 John3:17 ,WORD,from,G575,Epistles,New Testament,1 John,KJV
+3,1 John3:17 ,WORD,"him,",G846,Epistles,New Testament,1 John,KJV
+3,1 John3:17 ,WORD,how,G4459,Epistles,New Testament,1 John,KJV
+3,1 John3:17 ,WORD,dwelleth,G3306,Epistles,New Testament,1 John,KJV
+3,1 John3:17 ,WORD,the,G3588,Epistles,New Testament,1 John,KJV
+3,1 John3:17 ,WORD,love,G26,Epistles,New Testament,1 John,KJV
+3,1 John3:17 ,PHRASE,of God,G2316,Epistles,New Testament,1 John,KJV
+3,1 John3:17 ,WORD,in,G1722,Epistles,New Testament,1 John,KJV
+3,1 John3:17 ,WORD,him?,G846,Epistles,New Testament,1 John,KJV
+3,1 John3:18 ,WORD,My,G3450,Epistles,New Testament,1 John,KJV
+3,1 John3:18 ,PHRASE,"little children,",G5040,Epistles,New Testament,1 John,KJV
+3,1 John3:18 ,PHRASE,let us,G25,Epistles,New Testament,1 John,KJV
+3,1 John3:18 ,WORD,not,G3361,Epistles,New Testament,1 John,KJV
+3,1 John3:18 ,WORD,love,G25,Epistles,New Testament,1 John,KJV
+3,1 John3:18 ,PHRASE,"in word,",G3056,Epistles,New Testament,1 John,KJV
+3,1 John3:18 ,WORD,neither,G3366,Epistles,New Testament,1 John,KJV
+3,1 John3:18 ,PHRASE,in tongue;,G1100,Epistles,New Testament,1 John,KJV
+3,1 John3:18 ,WORD,but,G235,Epistles,New Testament,1 John,KJV
+3,1 John3:18 ,PHRASE,in deed,G2041,Epistles,New Testament,1 John,KJV
+3,1 John3:18 ,WORD,and,G2532,Epistles,New Testament,1 John,KJV
+3,1 John3:18 ,PHRASE,in truth.,G225,Epistles,New Testament,1 John,KJV
+3,1 John3:19 ,WORD,And,G2532,Epistles,New Testament,1 John,KJV
+3,1 John3:19 ,WORD,hereby,G1722,Epistles,New Testament,1 John,KJV
+3,1 John3:19 ,WORD,,G5129,Epistles,New Testament,1 John,KJV
+3,1 John3:19 ,PHRASE,we know,G1097,Epistles,New Testament,1 John,KJV
+3,1 John3:19 ,WORD,that,G3754,Epistles,New Testament,1 John,KJV
+3,1 John3:19 ,PHRASE,we are,G2070,Epistles,New Testament,1 John,KJV
+3,1 John3:19 ,WORD,of,G1537,Epistles,New Testament,1 John,KJV
+3,1 John3:19 ,WORD,the,G3588,Epistles,New Testament,1 John,KJV
+3,1 John3:19 ,WORD,"truth,",G225,Epistles,New Testament,1 John,KJV
+3,1 John3:19 ,WORD,and,G2532,Epistles,New Testament,1 John,KJV
+3,1 John3:19 ,PHRASE,shall assure,G3982,Epistles,New Testament,1 John,KJV
+3,1 John3:19 ,WORD,our,G2257,Epistles,New Testament,1 John,KJV
+3,1 John3:19 ,WORD,hearts,G2588,Epistles,New Testament,1 John,KJV
+3,1 John3:19 ,WORD,before,G1715,Epistles,New Testament,1 John,KJV
+3,1 John3:19 ,WORD,him.,G846,Epistles,New Testament,1 John,KJV
+3,1 John3:20 ,WORD,For,G3754,Epistles,New Testament,1 John,KJV
+3,1 John3:20 ,WORD,if,G1437,Epistles,New Testament,1 John,KJV
+3,1 John3:20 ,WORD,our,G2257,Epistles,New Testament,1 John,KJV
+3,1 John3:20 ,WORD,heart,G2588,Epistles,New Testament,1 John,KJV
+3,1 John3:20 ,PHRASE,"condemn us,",G2607,Epistles,New Testament,1 John,KJV
+3,1 John3:20 ,WORD,,G3754,Epistles,New Testament,1 John,KJV
+3,1 John3:20 ,WORD,God,G2316,Epistles,New Testament,1 John,KJV
+3,1 John3:20 ,WORD,is,G2076,Epistles,New Testament,1 John,KJV
+3,1 John3:20 ,WORD,greater,G3187,Epistles,New Testament,1 John,KJV
+3,1 John3:20 ,PHRASE,than our,G2257,Epistles,New Testament,1 John,KJV
+3,1 John3:20 ,WORD,"heart,",G2588,Epistles,New Testament,1 John,KJV
+3,1 John3:20 ,WORD,and,G2532,Epistles,New Testament,1 John,KJV
+3,1 John3:20 ,WORD,knoweth,G1097,Epistles,New Testament,1 John,KJV
+3,1 John3:20 ,PHRASE,all things.,G3956,Epistles,New Testament,1 John,KJV
+3,1 John3:21 ,WORD,"Beloved,",G27,Epistles,New Testament,1 John,KJV
+3,1 John3:21 ,WORD,if,G1437,Epistles,New Testament,1 John,KJV
+3,1 John3:21 ,WORD,our,G2257,Epistles,New Testament,1 John,KJV
+3,1 John3:21 ,WORD,heart,G2588,Epistles,New Testament,1 John,KJV
+3,1 John3:21 ,WORD,condemn,G2607,Epistles,New Testament,1 John,KJV
+3,1 John3:21 ,WORD,us,G2257,Epistles,New Testament,1 John,KJV
+3,1 John3:21 ,WORD,"not,",G3361,Epistles,New Testament,1 John,KJV
+3,1 John3:21 ,WORD,[then],,Epistles,New Testament,1 John,KJV
+3,1 John3:21 ,PHRASE,have we,G2192,Epistles,New Testament,1 John,KJV
+3,1 John3:21 ,WORD,confidence,G3954,Epistles,New Testament,1 John,KJV
+3,1 John3:21 ,WORD,toward,G4314,Epistles,New Testament,1 John,KJV
+3,1 John3:21 ,WORD,God.,G2316,Epistles,New Testament,1 John,KJV
+3,1 John3:22 ,WORD,And,G2532,Epistles,New Testament,1 John,KJV
+3,1 John3:22 ,WORD,whatsoever,G3739,Epistles,New Testament,1 John,KJV
+3,1 John3:22 ,WORD,,G1437,Epistles,New Testament,1 John,KJV
+3,1 John3:22 ,PHRASE,"we ask,",G154,Epistles,New Testament,1 John,KJV
+3,1 John3:22 ,PHRASE,we receive,G2983,Epistles,New Testament,1 John,KJV
+3,1 John3:22 ,WORD,of,G3844,Epistles,New Testament,1 John,KJV
+3,1 John3:22 ,WORD,"him,",G846,Epistles,New Testament,1 John,KJV
+3,1 John3:22 ,WORD,because,G3754,Epistles,New Testament,1 John,KJV
+3,1 John3:22 ,PHRASE,we keep,G5083,Epistles,New Testament,1 John,KJV
+3,1 John3:22 ,WORD,his,G846,Epistles,New Testament,1 John,KJV
+3,1 John3:22 ,WORD,"commandments,",G1785,Epistles,New Testament,1 John,KJV
+3,1 John3:22 ,WORD,and,G2532,Epistles,New Testament,1 John,KJV
+3,1 John3:22 ,WORD,do,G4160,Epistles,New Testament,1 John,KJV
+3,1 John3:22 ,PHRASE,those things,G3588,Epistles,New Testament,1 John,KJV
+3,1 John3:22 ,PHRASE,that are pleasing,G701,Epistles,New Testament,1 John,KJV
+3,1 John3:22 ,PHRASE,in his,G846,Epistles,New Testament,1 John,KJV
+3,1 John3:22 ,WORD,sight.,G1799,Epistles,New Testament,1 John,KJV
+3,1 John3:23 ,WORD,And,G2532,Epistles,New Testament,1 John,KJV
+3,1 John3:23 ,WORD,this,G3778,Epistles,New Testament,1 John,KJV
+3,1 John3:23 ,WORD,is,G2076,Epistles,New Testament,1 John,KJV
+3,1 John3:23 ,WORD,his,G846,Epistles,New Testament,1 John,KJV
+3,1 John3:23 ,WORD,"commandment,",G1785,Epistles,New Testament,1 John,KJV
+3,1 John3:23 ,WORD,That,G2443,Epistles,New Testament,1 John,KJV
+3,1 John3:23 ,PHRASE,we should believe,G4100,Epistles,New Testament,1 John,KJV
+3,1 John3:23 ,PHRASE,on the,G3588,Epistles,New Testament,1 John,KJV
+3,1 John3:23 ,WORD,name,G3686,Epistles,New Testament,1 John,KJV
+3,1 John3:23 ,PHRASE,of his,G846,Epistles,New Testament,1 John,KJV
+3,1 John3:23 ,WORD,Son,G5207,Epistles,New Testament,1 John,KJV
+3,1 John3:23 ,WORD,Jesus,G2424,Epistles,New Testament,1 John,KJV
+3,1 John3:23 ,WORD,"Christ,",G5547,Epistles,New Testament,1 John,KJV
+3,1 John3:23 ,WORD,and,G2532,Epistles,New Testament,1 John,KJV
+3,1 John3:23 ,WORD,love,G25,Epistles,New Testament,1 John,KJV
+3,1 John3:23 ,PHRASE,"one another,",G240,Epistles,New Testament,1 John,KJV
+3,1 John3:23 ,WORD,as,G2531,Epistles,New Testament,1 John,KJV
+3,1 John3:23 ,PHRASE,he gave,G1325,Epistles,New Testament,1 John,KJV
+3,1 John3:23 ,WORD,us,G2254,Epistles,New Testament,1 John,KJV
+3,1 John3:23 ,WORD,commandment.,G1785,Epistles,New Testament,1 John,KJV
+3,1 John3:24 ,WORD,And,G2532,Epistles,New Testament,1 John,KJV
+3,1 John3:24 ,PHRASE,he that,G3588,Epistles,New Testament,1 John,KJV
+3,1 John3:24 ,WORD,keepeth,G5083,Epistles,New Testament,1 John,KJV
+3,1 John3:24 ,WORD,his,G846,Epistles,New Testament,1 John,KJV
+3,1 John3:24 ,WORD,commandments,G1785,Epistles,New Testament,1 John,KJV
+3,1 John3:24 ,WORD,dwelleth,G3306,Epistles,New Testament,1 John,KJV
+3,1 John3:24 ,WORD,in,G1722,Epistles,New Testament,1 John,KJV
+3,1 John3:24 ,WORD,"him,",G846,Epistles,New Testament,1 John,KJV
+3,1 John3:24 ,WORD,and,G2532,Epistles,New Testament,1 John,KJV
+3,1 John3:24 ,WORD,he,G846,Epistles,New Testament,1 John,KJV
+3,1 John3:24 ,WORD,in,G1722,Epistles,New Testament,1 John,KJV
+3,1 John3:24 ,WORD,him.,G846,Epistles,New Testament,1 John,KJV
+3,1 John3:24 ,WORD,And,G2532,Epistles,New Testament,1 John,KJV
+3,1 John3:24 ,WORD,hereby,G1722,Epistles,New Testament,1 John,KJV
+3,1 John3:24 ,WORD,,G5129,Epistles,New Testament,1 John,KJV
+3,1 John3:24 ,PHRASE,we know,G1097,Epistles,New Testament,1 John,KJV
+3,1 John3:24 ,WORD,that,G3754,Epistles,New Testament,1 John,KJV
+3,1 John3:24 ,PHRASE,he abideth,G3306,Epistles,New Testament,1 John,KJV
+3,1 John3:24 ,WORD,in,G1722,Epistles,New Testament,1 John,KJV
+3,1 John3:24 ,WORD,"us,",G2254,Epistles,New Testament,1 John,KJV
+3,1 John3:24 ,WORD,by,G1537,Epistles,New Testament,1 John,KJV
+3,1 John3:24 ,WORD,the,G3588,Epistles,New Testament,1 John,KJV
+3,1 John3:24 ,WORD,Spirit,G4151,Epistles,New Testament,1 John,KJV
+3,1 John3:24 ,WORD,which,G3739,Epistles,New Testament,1 John,KJV
+3,1 John3:24 ,PHRASE,he hath given,G1325,Epistles,New Testament,1 John,KJV
+3,1 John3:24 ,WORD,us.,G2254,Epistles,New Testament,1 John,KJV
+4,1 John4:1 ,WORD,"Beloved,",G27,Epistles,New Testament,1 John,KJV
+4,1 John4:1 ,WORD,believe,G4100,Epistles,New Testament,1 John,KJV
+4,1 John4:1 ,WORD,not,G3361,Epistles,New Testament,1 John,KJV
+4,1 John4:1 ,WORD,every,G3956,Epistles,New Testament,1 John,KJV
+4,1 John4:1 ,WORD,"spirit,",G4151,Epistles,New Testament,1 John,KJV
+4,1 John4:1 ,WORD,but,G235,Epistles,New Testament,1 John,KJV
+4,1 John4:1 ,WORD,try,G1381,Epistles,New Testament,1 John,KJV
+4,1 John4:1 ,WORD,the,G3588,Epistles,New Testament,1 John,KJV
+4,1 John4:1 ,WORD,spirits,G4151,Epistles,New Testament,1 John,KJV
+4,1 John4:1 ,WORD,whether,G1487,Epistles,New Testament,1 John,KJV
+4,1 John4:1 ,PHRASE,they are,G2076,Epistles,New Testament,1 John,KJV
+4,1 John4:1 ,WORD,of,G1537,Epistles,New Testament,1 John,KJV
+4,1 John4:1 ,WORD,God:,G2316,Epistles,New Testament,1 John,KJV
+4,1 John4:1 ,WORD,because,G3754,Epistles,New Testament,1 John,KJV
+4,1 John4:1 ,WORD,many,G4183,Epistles,New Testament,1 John,KJV
+4,1 John4:1 ,PHRASE,false prophets,G5578,Epistles,New Testament,1 John,KJV
+4,1 John4:1 ,PHRASE,are gone out,G1831,Epistles,New Testament,1 John,KJV
+4,1 John4:1 ,WORD,into,G1519,Epistles,New Testament,1 John,KJV
+4,1 John4:1 ,WORD,the,G3588,Epistles,New Testament,1 John,KJV
+4,1 John4:1 ,WORD,world.,G2889,Epistles,New Testament,1 John,KJV
+4,1 John4:2 ,WORD,Hereby,G1722,Epistles,New Testament,1 John,KJV
+4,1 John4:2 ,WORD,,G5129,Epistles,New Testament,1 John,KJV
+4,1 John4:2 ,PHRASE,know ye,G1097,Epistles,New Testament,1 John,KJV
+4,1 John4:2 ,WORD,the,G3588,Epistles,New Testament,1 John,KJV
+4,1 John4:2 ,WORD,Spirit,G4151,Epistles,New Testament,1 John,KJV
+4,1 John4:2 ,PHRASE,of God:,G2316,Epistles,New Testament,1 John,KJV
+4,1 John4:2 ,WORD,Every,G3956,Epistles,New Testament,1 John,KJV
+4,1 John4:2 ,WORD,spirit,G4151,Epistles,New Testament,1 John,KJV
+4,1 John4:2 ,WORD,that,G3739,Epistles,New Testament,1 John,KJV
+4,1 John4:2 ,WORD,confesseth,G3670,Epistles,New Testament,1 John,KJV
+4,1 John4:2 ,PHRASE,that Jesus,G2424,Epistles,New Testament,1 John,KJV
+4,1 John4:2 ,WORD,Christ,G5547,Epistles,New Testament,1 John,KJV
+4,1 John4:2 ,PHRASE,is come,G2064,Epistles,New Testament,1 John,KJV
+4,1 John4:2 ,WORD,in,G1722,Epistles,New Testament,1 John,KJV
+4,1 John4:2 ,PHRASE,the flesh,G4561,Epistles,New Testament,1 John,KJV
+4,1 John4:2 ,WORD,is,G2076,Epistles,New Testament,1 John,KJV
+4,1 John4:2 ,WORD,of,G1537,Epistles,New Testament,1 John,KJV
+4,1 John4:2 ,WORD,God:,G2316,Epistles,New Testament,1 John,KJV
+4,1 John4:3 ,WORD,And,G2532,Epistles,New Testament,1 John,KJV
+4,1 John4:3 ,WORD,every,G3956,Epistles,New Testament,1 John,KJV
+4,1 John4:3 ,WORD,spirit,G4151,Epistles,New Testament,1 John,KJV
+4,1 John4:3 ,WORD,that,G3739,Epistles,New Testament,1 John,KJV
+4,1 John4:3 ,WORD,confesseth,G3670,Epistles,New Testament,1 John,KJV
+4,1 John4:3 ,WORD,not,G3361,Epistles,New Testament,1 John,KJV
+4,1 John4:3 ,PHRASE,that Jesus,G2424,Epistles,New Testament,1 John,KJV
+4,1 John4:3 ,WORD,Christ,G5547,Epistles,New Testament,1 John,KJV
+4,1 John4:3 ,PHRASE,is come,G2064,Epistles,New Testament,1 John,KJV
+4,1 John4:3 ,WORD,in,G1722,Epistles,New Testament,1 John,KJV
+4,1 John4:3 ,PHRASE,the flesh,G4561,Epistles,New Testament,1 John,KJV
+4,1 John4:3 ,WORD,is,G2076,Epistles,New Testament,1 John,KJV
+4,1 John4:3 ,WORD,not,G3756,Epistles,New Testament,1 John,KJV
+4,1 John4:3 ,WORD,of,G1537,Epistles,New Testament,1 John,KJV
+4,1 John4:3 ,WORD,God:,G2316,Epistles,New Testament,1 John,KJV
+4,1 John4:3 ,WORD,and,G2532,Epistles,New Testament,1 John,KJV
+4,1 John4:3 ,WORD,this,G5124,Epistles,New Testament,1 John,KJV
+4,1 John4:3 ,WORD,is,G2076,Epistles,New Testament,1 John,KJV
+4,1 John4:3 ,PHRASE,"that [spirit] of antichrist,",G500,Epistles,New Testament,1 John,KJV
+4,1 John4:3 ,WORD,whereof,G3739,Epistles,New Testament,1 John,KJV
+4,1 John4:3 ,PHRASE,ye have heard,G191,Epistles,New Testament,1 John,KJV
+4,1 John4:3 ,WORD,that,G3754,Epistles,New Testament,1 John,KJV
+4,1 John4:3 ,PHRASE,it should come;,G2064,Epistles,New Testament,1 John,KJV
+4,1 John4:3 ,PHRASE,and even,G2532,Epistles,New Testament,1 John,KJV
+4,1 John4:3 ,WORD,now,G3568,Epistles,New Testament,1 John,KJV
+4,1 John4:3 ,WORD,already,G2235,Epistles,New Testament,1 John,KJV
+4,1 John4:3 ,PHRASE,is it,G2076,Epistles,New Testament,1 John,KJV
+4,1 John4:3 ,WORD,in,G1722,Epistles,New Testament,1 John,KJV
+4,1 John4:3 ,WORD,the,G3588,Epistles,New Testament,1 John,KJV
+4,1 John4:3 ,WORD,world.,G2889,Epistles,New Testament,1 John,KJV
+4,1 John4:4 ,WORD,Ye,G5210,Epistles,New Testament,1 John,KJV
+4,1 John4:4 ,WORD,are,G2075,Epistles,New Testament,1 John,KJV
+4,1 John4:4 ,WORD,of,G1537,Epistles,New Testament,1 John,KJV
+4,1 John4:4 ,WORD,"God,",G2316,Epistles,New Testament,1 John,KJV
+4,1 John4:4 ,PHRASE,"little children,",G5040,Epistles,New Testament,1 John,KJV
+4,1 John4:4 ,WORD,and,G2532,Epistles,New Testament,1 John,KJV
+4,1 John4:4 ,PHRASE,have overcome,G3528,Epistles,New Testament,1 John,KJV
+4,1 John4:4 ,WORD,them:,G846,Epistles,New Testament,1 John,KJV
+4,1 John4:4 ,WORD,because,G3754,Epistles,New Testament,1 John,KJV
+4,1 John4:4 ,WORD,greater,G3187,Epistles,New Testament,1 John,KJV
+4,1 John4:4 ,PHRASE,is he that is,G2076,Epistles,New Testament,1 John,KJV
+4,1 John4:4 ,WORD,in,G1722,Epistles,New Testament,1 John,KJV
+4,1 John4:4 ,WORD,"you,",G5213,Epistles,New Testament,1 John,KJV
+4,1 John4:4 ,WORD,than,G2228,Epistles,New Testament,1 John,KJV
+4,1 John4:4 ,PHRASE,he that,G3588,Epistles,New Testament,1 John,KJV
+4,1 John4:4 ,PHRASE,is in,G1722,Epistles,New Testament,1 John,KJV
+4,1 John4:4 ,WORD,the,G3588,Epistles,New Testament,1 John,KJV
+4,1 John4:4 ,WORD,world.,G2889,Epistles,New Testament,1 John,KJV
+4,1 John4:5 ,WORD,They,G846,Epistles,New Testament,1 John,KJV
+4,1 John4:5 ,WORD,are,G1526,Epistles,New Testament,1 John,KJV
+4,1 John4:5 ,WORD,of,G1537,Epistles,New Testament,1 John,KJV
+4,1 John4:5 ,WORD,the,G3588,Epistles,New Testament,1 John,KJV
+4,1 John4:5 ,WORD,world:,G2889,Epistles,New Testament,1 John,KJV
+4,1 John4:5 ,WORD,therefore,G1223,Epistles,New Testament,1 John,KJV
+4,1 John4:5 ,WORD,,G5124,Epistles,New Testament,1 John,KJV
+4,1 John4:5 ,PHRASE,speak they,G2980,Epistles,New Testament,1 John,KJV
+4,1 John4:5 ,WORD,of,G1537,Epistles,New Testament,1 John,KJV
+4,1 John4:5 ,WORD,the,G3588,Epistles,New Testament,1 John,KJV
+4,1 John4:5 ,WORD,"world,",G2889,Epistles,New Testament,1 John,KJV
+4,1 John4:5 ,WORD,and,G2532,Epistles,New Testament,1 John,KJV
+4,1 John4:5 ,WORD,the,G3588,Epistles,New Testament,1 John,KJV
+4,1 John4:5 ,WORD,world,G2889,Epistles,New Testament,1 John,KJV
+4,1 John4:5 ,WORD,heareth,G191,Epistles,New Testament,1 John,KJV
+4,1 John4:5 ,WORD,them.,G846,Epistles,New Testament,1 John,KJV
+4,1 John4:6 ,WORD,We,G2249,Epistles,New Testament,1 John,KJV
+4,1 John4:6 ,WORD,are,G2070,Epistles,New Testament,1 John,KJV
+4,1 John4:6 ,WORD,of,G1537,Epistles,New Testament,1 John,KJV
+4,1 John4:6 ,WORD,God:,G2316,Epistles,New Testament,1 John,KJV
+4,1 John4:6 ,PHRASE,he that,G3588,Epistles,New Testament,1 John,KJV
+4,1 John4:6 ,WORD,knoweth,G1097,Epistles,New Testament,1 John,KJV
+4,1 John4:6 ,WORD,God,G2316,Epistles,New Testament,1 John,KJV
+4,1 John4:6 ,WORD,heareth,G191,Epistles,New Testament,1 John,KJV
+4,1 John4:6 ,WORD,us;,G2257,Epistles,New Testament,1 John,KJV
+4,1 John4:6 ,PHRASE,he that,G3739,Epistles,New Testament,1 John,KJV
+4,1 John4:6 ,WORD,is,G2076,Epistles,New Testament,1 John,KJV
+4,1 John4:6 ,WORD,not,G3756,Epistles,New Testament,1 John,KJV
+4,1 John4:6 ,WORD,of,G1537,Epistles,New Testament,1 John,KJV
+4,1 John4:6 ,WORD,God,G2316,Epistles,New Testament,1 John,KJV
+4,1 John4:6 ,WORD,heareth,G191,Epistles,New Testament,1 John,KJV
+4,1 John4:6 ,WORD,not,G3756,Epistles,New Testament,1 John,KJV
+4,1 John4:6 ,WORD,us.,G2257,Epistles,New Testament,1 John,KJV
+4,1 John4:6 ,WORD,Hereby,G1537,Epistles,New Testament,1 John,KJV
+4,1 John4:6 ,WORD,,G5127,Epistles,New Testament,1 John,KJV
+4,1 John4:6 ,PHRASE,know we,G1097,Epistles,New Testament,1 John,KJV
+4,1 John4:6 ,WORD,the,G3588,Epistles,New Testament,1 John,KJV
+4,1 John4:6 ,WORD,spirit,G4151,Epistles,New Testament,1 John,KJV
+4,1 John4:6 ,PHRASE,"of truth,",G225,Epistles,New Testament,1 John,KJV
+4,1 John4:6 ,WORD,and,G2532,Epistles,New Testament,1 John,KJV
+4,1 John4:6 ,WORD,the,G3588,Epistles,New Testament,1 John,KJV
+4,1 John4:6 ,WORD,spirit,G4151,Epistles,New Testament,1 John,KJV
+4,1 John4:6 ,PHRASE,of error.,G4106,Epistles,New Testament,1 John,KJV
+4,1 John4:7 ,WORD,"Beloved,",G27,Epistles,New Testament,1 John,KJV
+4,1 John4:7 ,PHRASE,let us love,G25,Epistles,New Testament,1 John,KJV
+4,1 John4:7 ,PHRASE,one another:,G240,Epistles,New Testament,1 John,KJV
+4,1 John4:7 ,WORD,for,G3754,Epistles,New Testament,1 John,KJV
+4,1 John4:7 ,WORD,love,G26,Epistles,New Testament,1 John,KJV
+4,1 John4:7 ,WORD,is,G2076,Epistles,New Testament,1 John,KJV
+4,1 John4:7 ,WORD,of,G1537,Epistles,New Testament,1 John,KJV
+4,1 John4:7 ,WORD,God;,G2316,Epistles,New Testament,1 John,KJV
+4,1 John4:7 ,WORD,and,G2532,Epistles,New Testament,1 John,KJV
+4,1 John4:7 ,PHRASE,every one,G3956,Epistles,New Testament,1 John,KJV
+4,1 John4:7 ,PHRASE,that loveth,G25,Epistles,New Testament,1 John,KJV
+4,1 John4:7 ,PHRASE,is born,G1080,Epistles,New Testament,1 John,KJV
+4,1 John4:7 ,WORD,of,G1537,Epistles,New Testament,1 John,KJV
+4,1 John4:7 ,WORD,"God,",G2316,Epistles,New Testament,1 John,KJV
+4,1 John4:7 ,WORD,and,G2532,Epistles,New Testament,1 John,KJV
+4,1 John4:7 ,WORD,knoweth,G1097,Epistles,New Testament,1 John,KJV
+4,1 John4:7 ,WORD,God.,G2316,Epistles,New Testament,1 John,KJV
+4,1 John4:8 ,PHRASE,He that,G3588,Epistles,New Testament,1 John,KJV
+4,1 John4:8 ,WORD,loveth,G25,Epistles,New Testament,1 John,KJV
+4,1 John4:8 ,WORD,not,G3361,Epistles,New Testament,1 John,KJV
+4,1 John4:8 ,WORD,knoweth,G1097,Epistles,New Testament,1 John,KJV
+4,1 John4:8 ,WORD,not,G3756,Epistles,New Testament,1 John,KJV
+4,1 John4:8 ,WORD,God;,G2316,Epistles,New Testament,1 John,KJV
+4,1 John4:8 ,WORD,for,G3754,Epistles,New Testament,1 John,KJV
+4,1 John4:8 ,WORD,God,G2316,Epistles,New Testament,1 John,KJV
+4,1 John4:8 ,WORD,is,G2076,Epistles,New Testament,1 John,KJV
+4,1 John4:8 ,WORD,love.,G26,Epistles,New Testament,1 John,KJV
+4,1 John4:9 ,WORD,In,G1722,Epistles,New Testament,1 John,KJV
+4,1 John4:9 ,WORD,this,G5129,Epistles,New Testament,1 John,KJV
+4,1 John4:9 ,PHRASE,was manifested,G5319,Epistles,New Testament,1 John,KJV
+4,1 John4:9 ,WORD,the,G3588,Epistles,New Testament,1 John,KJV
+4,1 John4:9 ,WORD,love,G26,Epistles,New Testament,1 John,KJV
+4,1 John4:9 ,PHRASE,of God,G2316,Epistles,New Testament,1 John,KJV
+4,1 John4:9 ,WORD,toward,G1722,Epistles,New Testament,1 John,KJV
+4,1 John4:9 ,WORD,"us,",G2254,Epistles,New Testament,1 John,KJV
+4,1 John4:9 ,WORD,because,G3754,Epistles,New Testament,1 John,KJV
+4,1 John4:9 ,PHRASE,that God,G2316,Epistles,New Testament,1 John,KJV
+4,1 John4:9 ,WORD,sent,G649,Epistles,New Testament,1 John,KJV
+4,1 John4:9 ,WORD,his,G846,Epistles,New Testament,1 John,KJV
+4,1 John4:9 ,PHRASE,only begotten,G3439,Epistles,New Testament,1 John,KJV
+4,1 John4:9 ,WORD,Son,G5207,Epistles,New Testament,1 John,KJV
+4,1 John4:9 ,WORD,into,G1519,Epistles,New Testament,1 John,KJV
+4,1 John4:9 ,WORD,the,G3588,Epistles,New Testament,1 John,KJV
+4,1 John4:9 ,WORD,"world,",G2889,Epistles,New Testament,1 John,KJV
+4,1 John4:9 ,WORD,that,G2443,Epistles,New Testament,1 John,KJV
+4,1 John4:9 ,PHRASE,we might live,G2198,Epistles,New Testament,1 John,KJV
+4,1 John4:9 ,WORD,through,G1223,Epistles,New Testament,1 John,KJV
+4,1 John4:9 ,WORD,him.,G846,Epistles,New Testament,1 John,KJV
+4,1 John4:10 ,WORD,Herein,G1722,Epistles,New Testament,1 John,KJV
+4,1 John4:10 ,WORD,,G5129,Epistles,New Testament,1 John,KJV
+4,1 John4:10 ,WORD,is,G2076,Epistles,New Testament,1 John,KJV
+4,1 John4:10 ,WORD,"love,",G26,Epistles,New Testament,1 John,KJV
+4,1 John4:10 ,WORD,not,G3754,Epistles,New Testament,1 John,KJV
+4,1 John4:10 ,WORD,that,G3756,Epistles,New Testament,1 John,KJV
+4,1 John4:10 ,WORD,we,G2249,Epistles,New Testament,1 John,KJV
+4,1 John4:10 ,WORD,loved,G25,Epistles,New Testament,1 John,KJV
+4,1 John4:10 ,WORD,"God,",G2316,Epistles,New Testament,1 John,KJV
+4,1 John4:10 ,WORD,but,G235,Epistles,New Testament,1 John,KJV
+4,1 John4:10 ,WORD,that,G3754,Epistles,New Testament,1 John,KJV
+4,1 John4:10 ,WORD,he,G846,Epistles,New Testament,1 John,KJV
+4,1 John4:10 ,WORD,loved,G25,Epistles,New Testament,1 John,KJV
+4,1 John4:10 ,WORD,"us,",G2248,Epistles,New Testament,1 John,KJV
+4,1 John4:10 ,WORD,and,G2532,Epistles,New Testament,1 John,KJV
+4,1 John4:10 ,WORD,sent,G649,Epistles,New Testament,1 John,KJV
+4,1 John4:10 ,WORD,his,G846,Epistles,New Testament,1 John,KJV
+4,1 John4:10 ,WORD,Son,G5207,Epistles,New Testament,1 John,KJV
+4,1 John4:10 ,PHRASE,[to be],,Epistles,New Testament,1 John,KJV
+4,1 John4:10 ,PHRASE,the propitiation,G2434,Epistles,New Testament,1 John,KJV
+4,1 John4:10 ,WORD,for,G4012,Epistles,New Testament,1 John,KJV
+4,1 John4:10 ,WORD,our,G2257,Epistles,New Testament,1 John,KJV
+4,1 John4:10 ,WORD,sins.,G266,Epistles,New Testament,1 John,KJV
+4,1 John4:11 ,WORD,"Beloved,",G27,Epistles,New Testament,1 John,KJV
+4,1 John4:11 ,WORD,if,G1487,Epistles,New Testament,1 John,KJV
+4,1 John4:11 ,WORD,God,G2316,Epistles,New Testament,1 John,KJV
+4,1 John4:11 ,WORD,so,G3779,Epistles,New Testament,1 John,KJV
+4,1 John4:11 ,WORD,loved,G25,Epistles,New Testament,1 John,KJV
+4,1 John4:11 ,WORD,"us,",G2248,Epistles,New Testament,1 John,KJV
+4,1 John4:11 ,WORD,we,G2249,Epistles,New Testament,1 John,KJV
+4,1 John4:11 ,WORD,ought,G3784,Epistles,New Testament,1 John,KJV
+4,1 John4:11 ,WORD,also,G2532,Epistles,New Testament,1 John,KJV
+4,1 John4:11 ,PHRASE,to love,G25,Epistles,New Testament,1 John,KJV
+4,1 John4:11 ,PHRASE,one another.,G240,Epistles,New Testament,1 John,KJV
+4,1 John4:12 ,PHRASE,No man,G3762,Epistles,New Testament,1 John,KJV
+4,1 John4:12 ,PHRASE,hath seen,G2300,Epistles,New Testament,1 John,KJV
+4,1 John4:12 ,WORD,God,G2316,Epistles,New Testament,1 John,KJV
+4,1 John4:12 ,PHRASE,at any time.,G4455,Epistles,New Testament,1 John,KJV
+4,1 John4:12 ,WORD,If,G1437,Epistles,New Testament,1 John,KJV
+4,1 John4:12 ,PHRASE,we love,G25,Epistles,New Testament,1 John,KJV
+4,1 John4:12 ,PHRASE,"one another,",G240,Epistles,New Testament,1 John,KJV
+4,1 John4:12 ,WORD,God,G2316,Epistles,New Testament,1 John,KJV
+4,1 John4:12 ,WORD,dwelleth,G3306,Epistles,New Testament,1 John,KJV
+4,1 John4:12 ,WORD,in,G1722,Epistles,New Testament,1 John,KJV
+4,1 John4:12 ,WORD,"us,",G2254,Epistles,New Testament,1 John,KJV
+4,1 John4:12 ,WORD,and,G2532,Epistles,New Testament,1 John,KJV
+4,1 John4:12 ,WORD,his,G846,Epistles,New Testament,1 John,KJV
+4,1 John4:12 ,WORD,love,G26,Epistles,New Testament,1 John,KJV
+4,1 John4:12 ,WORD,is,G2076,Epistles,New Testament,1 John,KJV
+4,1 John4:12 ,WORD,perfected,G5048,Epistles,New Testament,1 John,KJV
+4,1 John4:12 ,WORD,in,G1722,Epistles,New Testament,1 John,KJV
+4,1 John4:12 ,WORD,us.,G2254,Epistles,New Testament,1 John,KJV
+4,1 John4:13 ,WORD,Hereby,G1722,Epistles,New Testament,1 John,KJV
+4,1 John4:13 ,WORD,,G5129,Epistles,New Testament,1 John,KJV
+4,1 John4:13 ,PHRASE,know we,G1097,Epistles,New Testament,1 John,KJV
+4,1 John4:13 ,WORD,that,G3754,Epistles,New Testament,1 John,KJV
+4,1 John4:13 ,PHRASE,we dwell,G3306,Epistles,New Testament,1 John,KJV
+4,1 John4:13 ,WORD,in,G1722,Epistles,New Testament,1 John,KJV
+4,1 John4:13 ,WORD,"him,",G846,Epistles,New Testament,1 John,KJV
+4,1 John4:13 ,WORD,and,G2532,Epistles,New Testament,1 John,KJV
+4,1 John4:13 ,WORD,he,G846,Epistles,New Testament,1 John,KJV
+4,1 John4:13 ,WORD,in,G1722,Epistles,New Testament,1 John,KJV
+4,1 John4:13 ,WORD,"us,",G2254,Epistles,New Testament,1 John,KJV
+4,1 John4:13 ,WORD,because,G3754,Epistles,New Testament,1 John,KJV
+4,1 John4:13 ,PHRASE,he hath given,G1325,Epistles,New Testament,1 John,KJV
+4,1 John4:13 ,WORD,us,G2254,Epistles,New Testament,1 John,KJV
+4,1 John4:13 ,WORD,of,G1537,Epistles,New Testament,1 John,KJV
+4,1 John4:13 ,WORD,his,G846,Epistles,New Testament,1 John,KJV
+4,1 John4:13 ,WORD,Spirit.,G4151,Epistles,New Testament,1 John,KJV
+4,1 John4:14 ,WORD,And,G2532,Epistles,New Testament,1 John,KJV
+4,1 John4:14 ,WORD,we,G2249,Epistles,New Testament,1 John,KJV
+4,1 John4:14 ,PHRASE,have seen,G2300,Epistles,New Testament,1 John,KJV
+4,1 John4:14 ,WORD,and,G2532,Epistles,New Testament,1 John,KJV
+4,1 John4:14 ,PHRASE,do testify,G3140,Epistles,New Testament,1 John,KJV
+4,1 John4:14 ,WORD,that,G3754,Epistles,New Testament,1 John,KJV
+4,1 John4:14 ,WORD,the,G3588,Epistles,New Testament,1 John,KJV
+4,1 John4:14 ,WORD,Father,G3962,Epistles,New Testament,1 John,KJV
+4,1 John4:14 ,WORD,sent,G649,Epistles,New Testament,1 John,KJV
+4,1 John4:14 ,WORD,the,G3588,Epistles,New Testament,1 John,KJV
+4,1 John4:14 ,WORD,Son,G5207,Epistles,New Testament,1 John,KJV
+4,1 John4:14 ,PHRASE,[to be],,Epistles,New Testament,1 John,KJV
+4,1 John4:14 ,PHRASE,the Saviour,G4990,Epistles,New Testament,1 John,KJV
+4,1 John4:14 ,PHRASE,of the,G3588,Epistles,New Testament,1 John,KJV
+4,1 John4:14 ,WORD,world.,G2889,Epistles,New Testament,1 John,KJV
+4,1 John4:15 ,WORD,Whosoever,G3739,Epistles,New Testament,1 John,KJV
+4,1 John4:15 ,WORD,,G302,Epistles,New Testament,1 John,KJV
+4,1 John4:15 ,PHRASE,shall confess,G3670,Epistles,New Testament,1 John,KJV
+4,1 John4:15 ,WORD,that,G3754,Epistles,New Testament,1 John,KJV
+4,1 John4:15 ,WORD,Jesus,G2424,Epistles,New Testament,1 John,KJV
+4,1 John4:15 ,WORD,is,G2076,Epistles,New Testament,1 John,KJV
+4,1 John4:15 ,WORD,the,G3588,Epistles,New Testament,1 John,KJV
+4,1 John4:15 ,WORD,Son,G5207,Epistles,New Testament,1 John,KJV
+4,1 John4:15 ,PHRASE,"of God,",G2316,Epistles,New Testament,1 John,KJV
+4,1 John4:15 ,WORD,God,G2316,Epistles,New Testament,1 John,KJV
+4,1 John4:15 ,WORD,dwelleth,G3306,Epistles,New Testament,1 John,KJV
+4,1 John4:15 ,WORD,in,G1722,Epistles,New Testament,1 John,KJV
+4,1 John4:15 ,WORD,"him,",G846,Epistles,New Testament,1 John,KJV
+4,1 John4:15 ,WORD,and,G2532,Epistles,New Testament,1 John,KJV
+4,1 John4:15 ,WORD,he,G846,Epistles,New Testament,1 John,KJV
+4,1 John4:15 ,WORD,in,G1722,Epistles,New Testament,1 John,KJV
+4,1 John4:15 ,WORD,God.,G2316,Epistles,New Testament,1 John,KJV
+4,1 John4:16 ,WORD,And,G2532,Epistles,New Testament,1 John,KJV
+4,1 John4:16 ,WORD,we,G2249,Epistles,New Testament,1 John,KJV
+4,1 John4:16 ,PHRASE,have known,G1097,Epistles,New Testament,1 John,KJV
+4,1 John4:16 ,WORD,and,G2532,Epistles,New Testament,1 John,KJV
+4,1 John4:16 ,WORD,believed,G4100,Epistles,New Testament,1 John,KJV
+4,1 John4:16 ,WORD,the,G3588,Epistles,New Testament,1 John,KJV
+4,1 John4:16 ,WORD,love,G26,Epistles,New Testament,1 John,KJV
+4,1 John4:16 ,WORD,that,G3739,Epistles,New Testament,1 John,KJV
+4,1 John4:16 ,WORD,God,G2316,Epistles,New Testament,1 John,KJV
+4,1 John4:16 ,WORD,hath,G2192,Epistles,New Testament,1 John,KJV
+4,1 John4:16 ,WORD,to,G1722,Epistles,New Testament,1 John,KJV
+4,1 John4:16 ,WORD,us.,G2254,Epistles,New Testament,1 John,KJV
+4,1 John4:16 ,WORD,God,G2316,Epistles,New Testament,1 John,KJV
+4,1 John4:16 ,WORD,is,G2076,Epistles,New Testament,1 John,KJV
+4,1 John4:16 ,WORD,love;,G26,Epistles,New Testament,1 John,KJV
+4,1 John4:16 ,WORD,and,G2532,Epistles,New Testament,1 John,KJV
+4,1 John4:16 ,PHRASE,he that,G3588,Epistles,New Testament,1 John,KJV
+4,1 John4:16 ,WORD,dwelleth,G3306,Epistles,New Testament,1 John,KJV
+4,1 John4:16 ,WORD,in,G1722,Epistles,New Testament,1 John,KJV
+4,1 John4:16 ,WORD,love,G26,Epistles,New Testament,1 John,KJV
+4,1 John4:16 ,WORD,dwelleth,G3306,Epistles,New Testament,1 John,KJV
+4,1 John4:16 ,WORD,in,G1722,Epistles,New Testament,1 John,KJV
+4,1 John4:16 ,WORD,"God,",G2316,Epistles,New Testament,1 John,KJV
+4,1 John4:16 ,WORD,and,G2532,Epistles,New Testament,1 John,KJV
+4,1 John4:16 ,WORD,God,G2316,Epistles,New Testament,1 John,KJV
+4,1 John4:16 ,WORD,in,G1722,Epistles,New Testament,1 John,KJV
+4,1 John4:16 ,WORD,him.,G846,Epistles,New Testament,1 John,KJV
+4,1 John4:17 ,WORD,Herein,G1722,Epistles,New Testament,1 John,KJV
+4,1 John4:17 ,WORD,,G5129,Epistles,New Testament,1 John,KJV
+4,1 John4:17 ,PHRASE,is our,G3326,Epistles,New Testament,1 John,KJV
+4,1 John4:17 ,WORD,,G2257,Epistles,New Testament,1 John,KJV
+4,1 John4:17 ,WORD,love,G26,Epistles,New Testament,1 John,KJV
+4,1 John4:17 ,PHRASE,"made perfect,",G5048,Epistles,New Testament,1 John,KJV
+4,1 John4:17 ,WORD,that,G2443,Epistles,New Testament,1 John,KJV
+4,1 John4:17 ,PHRASE,we may have,G2192,Epistles,New Testament,1 John,KJV
+4,1 John4:17 ,WORD,boldness,G3954,Epistles,New Testament,1 John,KJV
+4,1 John4:17 ,WORD,in,G1722,Epistles,New Testament,1 John,KJV
+4,1 John4:17 ,WORD,the,G3588,Epistles,New Testament,1 John,KJV
+4,1 John4:17 ,WORD,day,G2250,Epistles,New Testament,1 John,KJV
+4,1 John4:17 ,PHRASE,of judgment:,G2920,Epistles,New Testament,1 John,KJV
+4,1 John4:17 ,WORD,because,G3754,Epistles,New Testament,1 John,KJV
+4,1 John4:17 ,WORD,as,G2531,Epistles,New Testament,1 John,KJV
+4,1 John4:17 ,WORD,he,G1565,Epistles,New Testament,1 John,KJV
+4,1 John4:17 ,WORD,"is,",G2076,Epistles,New Testament,1 John,KJV
+4,1 John4:17 ,WORD,so,G2532,Epistles,New Testament,1 John,KJV
+4,1 John4:17 ,WORD,are,G2070,Epistles,New Testament,1 John,KJV
+4,1 John4:17 ,WORD,we,G2249,Epistles,New Testament,1 John,KJV
+4,1 John4:17 ,WORD,in,G1722,Epistles,New Testament,1 John,KJV
+4,1 John4:17 ,WORD,this,G5129,Epistles,New Testament,1 John,KJV
+4,1 John4:17 ,WORD,world.,G2889,Epistles,New Testament,1 John,KJV
+4,1 John4:18 ,PHRASE,There is,G2076,Epistles,New Testament,1 John,KJV
+4,1 John4:18 ,WORD,no,G3756,Epistles,New Testament,1 John,KJV
+4,1 John4:18 ,WORD,fear,G5401,Epistles,New Testament,1 John,KJV
+4,1 John4:18 ,WORD,in,G1722,Epistles,New Testament,1 John,KJV
+4,1 John4:18 ,WORD,love;,G26,Epistles,New Testament,1 John,KJV
+4,1 John4:18 ,WORD,but,G235,Epistles,New Testament,1 John,KJV
+4,1 John4:18 ,WORD,perfect,G5046,Epistles,New Testament,1 John,KJV
+4,1 John4:18 ,WORD,love,G26,Epistles,New Testament,1 John,KJV
+4,1 John4:18 ,WORD,casteth,G906,Epistles,New Testament,1 John,KJV
+4,1 John4:18 ,WORD,out,G1854,Epistles,New Testament,1 John,KJV
+4,1 John4:18 ,WORD,fear:,G5401,Epistles,New Testament,1 John,KJV
+4,1 John4:18 ,WORD,because,G3754,Epistles,New Testament,1 John,KJV
+4,1 John4:18 ,WORD,fear,G5401,Epistles,New Testament,1 John,KJV
+4,1 John4:18 ,WORD,hath,G2192,Epistles,New Testament,1 John,KJV
+4,1 John4:18 ,WORD,torment.,G2851,Epistles,New Testament,1 John,KJV
+4,1 John4:18 ,PHRASE,He that,G3588,Epistles,New Testament,1 John,KJV
+4,1 John4:18 ,WORD,feareth,G5399,Epistles,New Testament,1 John,KJV
+4,1 John4:18 ,WORD,is,G5048,Epistles,New Testament,1 John,KJV
+4,1 John4:18 ,WORD,not,G3756,Epistles,New Testament,1 John,KJV
+4,1 John4:18 ,PHRASE,made perfect,G5048,Epistles,New Testament,1 John,KJV
+4,1 John4:18 ,WORD,in,G1722,Epistles,New Testament,1 John,KJV
+4,1 John4:18 ,WORD,love.,G26,Epistles,New Testament,1 John,KJV
+4,1 John4:19 ,WORD,We,G2249,Epistles,New Testament,1 John,KJV
+4,1 John4:19 ,WORD,love,G25,Epistles,New Testament,1 John,KJV
+4,1 John4:19 ,WORD,"him,",G846,Epistles,New Testament,1 John,KJV
+4,1 John4:19 ,WORD,because,G3754,Epistles,New Testament,1 John,KJV
+4,1 John4:19 ,WORD,he,G846,Epistles,New Testament,1 John,KJV
+4,1 John4:19 ,WORD,first,G4413,Epistles,New Testament,1 John,KJV
+4,1 John4:19 ,WORD,loved,G25,Epistles,New Testament,1 John,KJV
+4,1 John4:19 ,WORD,us.,G2248,Epistles,New Testament,1 John,KJV
+4,1 John4:20 ,WORD,If,G1437,Epistles,New Testament,1 John,KJV
+4,1 John4:20 ,PHRASE,a man,G5100,Epistles,New Testament,1 John,KJV
+4,1 John4:20 ,WORD,"say,",G2036,Epistles,New Testament,1 John,KJV
+4,1 John4:20 ,PHRASE,I love,G25,Epistles,New Testament,1 John,KJV
+4,1 John4:20 ,WORD,"God,",G2316,Epistles,New Testament,1 John,KJV
+4,1 John4:20 ,WORD,and,G2532,Epistles,New Testament,1 John,KJV
+4,1 John4:20 ,WORD,hateth,G3404,Epistles,New Testament,1 John,KJV
+4,1 John4:20 ,WORD,his,G846,Epistles,New Testament,1 John,KJV
+4,1 John4:20 ,WORD,"brother,",G80,Epistles,New Testament,1 John,KJV
+4,1 John4:20 ,PHRASE,he is,G2076,Epistles,New Testament,1 John,KJV
+4,1 John4:20 ,PHRASE,a liar:,G5583,Epistles,New Testament,1 John,KJV
+4,1 John4:20 ,WORD,for,G1063,Epistles,New Testament,1 John,KJV
+4,1 John4:20 ,PHRASE,he that,G3588,Epistles,New Testament,1 John,KJV
+4,1 John4:20 ,WORD,loveth,G25,Epistles,New Testament,1 John,KJV
+4,1 John4:20 ,WORD,not,G3361,Epistles,New Testament,1 John,KJV
+4,1 John4:20 ,WORD,his,G846,Epistles,New Testament,1 John,KJV
+4,1 John4:20 ,WORD,brother,G80,Epistles,New Testament,1 John,KJV
+4,1 John4:20 ,WORD,whom,G3739,Epistles,New Testament,1 John,KJV
+4,1 John4:20 ,PHRASE,"he hath seen,",G3708,Epistles,New Testament,1 John,KJV
+4,1 John4:20 ,WORD,how,G4459,Epistles,New Testament,1 John,KJV
+4,1 John4:20 ,WORD,can,G1410,Epistles,New Testament,1 John,KJV
+4,1 John4:20 ,PHRASE,he love,G25,Epistles,New Testament,1 John,KJV
+4,1 John4:20 ,WORD,God,G2316,Epistles,New Testament,1 John,KJV
+4,1 John4:20 ,WORD,whom,G3739,Epistles,New Testament,1 John,KJV
+4,1 John4:20 ,PHRASE,he hath,G3708,Epistles,New Testament,1 John,KJV
+4,1 John4:20 ,WORD,not,G3756,Epistles,New Testament,1 John,KJV
+4,1 John4:20 ,WORD,seen?,G3708,Epistles,New Testament,1 John,KJV
+4,1 John4:21 ,WORD,And,G2532,Epistles,New Testament,1 John,KJV
+4,1 John4:21 ,WORD,this,G3778,Epistles,New Testament,1 John,KJV
+4,1 John4:21 ,WORD,commandment,G1785,Epistles,New Testament,1 John,KJV
+4,1 John4:21 ,PHRASE,have we,G2192,Epistles,New Testament,1 John,KJV
+4,1 John4:21 ,WORD,from,G575,Epistles,New Testament,1 John,KJV
+4,1 John4:21 ,WORD,"him,",G846,Epistles,New Testament,1 John,KJV
+4,1 John4:21 ,WORD,That,G2443,Epistles,New Testament,1 John,KJV
+4,1 John4:21 ,PHRASE,he who,G3588,Epistles,New Testament,1 John,KJV
+4,1 John4:21 ,WORD,loveth,G25,Epistles,New Testament,1 John,KJV
+4,1 John4:21 ,WORD,God,G2316,Epistles,New Testament,1 John,KJV
+4,1 John4:21 ,WORD,love,G25,Epistles,New Testament,1 John,KJV
+4,1 John4:21 ,WORD,his,G846,Epistles,New Testament,1 John,KJV
+4,1 John4:21 ,WORD,brother,G80,Epistles,New Testament,1 John,KJV
+4,1 John4:21 ,WORD,also.,G2532,Epistles,New Testament,1 John,KJV
+5,1 John5:1 ,WORD,Whosoever,G3956,Epistles,New Testament,1 John,KJV
+5,1 John5:1 ,WORD,believeth,G4100,Epistles,New Testament,1 John,KJV
+5,1 John5:1 ,WORD,that,G3754,Epistles,New Testament,1 John,KJV
+5,1 John5:1 ,WORD,Jesus,G2424,Epistles,New Testament,1 John,KJV
+5,1 John5:1 ,WORD,is,G2076,Epistles,New Testament,1 John,KJV
+5,1 John5:1 ,WORD,the,G3588,Epistles,New Testament,1 John,KJV
+5,1 John5:1 ,WORD,Christ,G5547,Epistles,New Testament,1 John,KJV
+5,1 John5:1 ,PHRASE,is born,G1080,Epistles,New Testament,1 John,KJV
+5,1 John5:1 ,WORD,of,G1537,Epistles,New Testament,1 John,KJV
+5,1 John5:1 ,WORD,God:,G2316,Epistles,New Testament,1 John,KJV
+5,1 John5:1 ,WORD,and,G2532,Epistles,New Testament,1 John,KJV
+5,1 John5:1 ,PHRASE,every one,G3956,Epistles,New Testament,1 John,KJV
+5,1 John5:1 ,PHRASE,that loveth,G25,Epistles,New Testament,1 John,KJV
+5,1 John5:1 ,PHRASE,him that,G3588,Epistles,New Testament,1 John,KJV
+5,1 John5:1 ,WORD,begat,G1080,Epistles,New Testament,1 John,KJV
+5,1 John5:1 ,WORD,loveth,G25,Epistles,New Testament,1 John,KJV
+5,1 John5:1 ,PHRASE,him also,G2532,Epistles,New Testament,1 John,KJV
+5,1 John5:1 ,PHRASE,that is begotten,G1080,Epistles,New Testament,1 John,KJV
+5,1 John5:1 ,WORD,of,G1537,Epistles,New Testament,1 John,KJV
+5,1 John5:1 ,WORD,him.,G846,Epistles,New Testament,1 John,KJV
+5,1 John5:2 ,WORD,By,G1722,Epistles,New Testament,1 John,KJV
+5,1 John5:2 ,WORD,this,G5129,Epistles,New Testament,1 John,KJV
+5,1 John5:2 ,PHRASE,we know,G1097,Epistles,New Testament,1 John,KJV
+5,1 John5:2 ,WORD,that,G3754,Epistles,New Testament,1 John,KJV
+5,1 John5:2 ,PHRASE,we love,G25,Epistles,New Testament,1 John,KJV
+5,1 John5:2 ,WORD,the,G3588,Epistles,New Testament,1 John,KJV
+5,1 John5:2 ,WORD,children,G5043,Epistles,New Testament,1 John,KJV
+5,1 John5:2 ,PHRASE,"of God,",G2316,Epistles,New Testament,1 John,KJV
+5,1 John5:2 ,WORD,when,G3752,Epistles,New Testament,1 John,KJV
+5,1 John5:2 ,PHRASE,we love,G25,Epistles,New Testament,1 John,KJV
+5,1 John5:2 ,WORD,"God,",G2316,Epistles,New Testament,1 John,KJV
+5,1 John5:2 ,WORD,and,G2532,Epistles,New Testament,1 John,KJV
+5,1 John5:2 ,WORD,keep,G5083,Epistles,New Testament,1 John,KJV
+5,1 John5:2 ,WORD,his,G846,Epistles,New Testament,1 John,KJV
+5,1 John5:2 ,WORD,commandments.,G1785,Epistles,New Testament,1 John,KJV
+5,1 John5:3 ,WORD,For,G1063,Epistles,New Testament,1 John,KJV
+5,1 John5:3 ,WORD,this,G3778,Epistles,New Testament,1 John,KJV
+5,1 John5:3 ,WORD,is,G2076,Epistles,New Testament,1 John,KJV
+5,1 John5:3 ,WORD,the,G3588,Epistles,New Testament,1 John,KJV
+5,1 John5:3 ,WORD,love,G26,Epistles,New Testament,1 John,KJV
+5,1 John5:3 ,PHRASE,"of God,",G2316,Epistles,New Testament,1 John,KJV
+5,1 John5:3 ,WORD,that,G2443,Epistles,New Testament,1 John,KJV
+5,1 John5:3 ,PHRASE,we keep,G5083,Epistles,New Testament,1 John,KJV
+5,1 John5:3 ,WORD,his,G846,Epistles,New Testament,1 John,KJV
+5,1 John5:3 ,WORD,commandments:,G1785,Epistles,New Testament,1 John,KJV
+5,1 John5:3 ,WORD,and,G2532,Epistles,New Testament,1 John,KJV
+5,1 John5:3 ,WORD,his,G846,Epistles,New Testament,1 John,KJV
+5,1 John5:3 ,WORD,commandments,G1785,Epistles,New Testament,1 John,KJV
+5,1 John5:3 ,WORD,are,G1526,Epistles,New Testament,1 John,KJV
+5,1 John5:3 ,WORD,not,G3756,Epistles,New Testament,1 John,KJV
+5,1 John5:3 ,WORD,grievous.,G926,Epistles,New Testament,1 John,KJV
+5,1 John5:4 ,WORD,For,G3754,Epistles,New Testament,1 John,KJV
+5,1 John5:4 ,WORD,whatsoever,G3956,Epistles,New Testament,1 John,KJV
+5,1 John5:4 ,PHRASE,is born,G1080,Epistles,New Testament,1 John,KJV
+5,1 John5:4 ,WORD,of,G1537,Epistles,New Testament,1 John,KJV
+5,1 John5:4 ,WORD,God,G2316,Epistles,New Testament,1 John,KJV
+5,1 John5:4 ,WORD,overcometh,G3528,Epistles,New Testament,1 John,KJV
+5,1 John5:4 ,WORD,the,G3588,Epistles,New Testament,1 John,KJV
+5,1 John5:4 ,WORD,world:,G2889,Epistles,New Testament,1 John,KJV
+5,1 John5:4 ,WORD,and,G2532,Epistles,New Testament,1 John,KJV
+5,1 John5:4 ,WORD,this,G3778,Epistles,New Testament,1 John,KJV
+5,1 John5:4 ,WORD,is,G2076,Epistles,New Testament,1 John,KJV
+5,1 John5:4 ,WORD,the,G3588,Epistles,New Testament,1 John,KJV
+5,1 John5:4 ,WORD,victory,G3529,Epistles,New Testament,1 John,KJV
+5,1 John5:4 ,PHRASE,that overcometh,G3528,Epistles,New Testament,1 John,KJV
+5,1 John5:4 ,WORD,the,G3588,Epistles,New Testament,1 John,KJV
+5,1 John5:4 ,WORD,"world,",G2889,Epistles,New Testament,1 John,KJV
+5,1 John5:4 ,WORD,[even],,Epistles,New Testament,1 John,KJV
+5,1 John5:4 ,WORD,our,G2257,Epistles,New Testament,1 John,KJV
+5,1 John5:4 ,WORD,faith.,G4102,Epistles,New Testament,1 John,KJV
+5,1 John5:5 ,WORD,Who,G5101,Epistles,New Testament,1 John,KJV
+5,1 John5:5 ,WORD,is,G2076,Epistles,New Testament,1 John,KJV
+5,1 John5:5 ,PHRASE,he that,G3588,Epistles,New Testament,1 John,KJV
+5,1 John5:5 ,WORD,overcometh,G3528,Epistles,New Testament,1 John,KJV
+5,1 John5:5 ,WORD,the,G3588,Epistles,New Testament,1 John,KJV
+5,1 John5:5 ,WORD,"world,",G2889,Epistles,New Testament,1 John,KJV
+5,1 John5:5 ,WORD,,G1487,Epistles,New Testament,1 John,KJV
+5,1 John5:5 ,WORD,but,G3361,Epistles,New Testament,1 John,KJV
+5,1 John5:5 ,PHRASE,he that,G3588,Epistles,New Testament,1 John,KJV
+5,1 John5:5 ,WORD,believeth,G4100,Epistles,New Testament,1 John,KJV
+5,1 John5:5 ,WORD,that,G3754,Epistles,New Testament,1 John,KJV
+5,1 John5:5 ,WORD,Jesus,G2424,Epistles,New Testament,1 John,KJV
+5,1 John5:5 ,WORD,is,G2076,Epistles,New Testament,1 John,KJV
+5,1 John5:5 ,WORD,the,G3588,Epistles,New Testament,1 John,KJV
+5,1 John5:5 ,WORD,Son,G5207,Epistles,New Testament,1 John,KJV
+5,1 John5:5 ,PHRASE,of God?,G2316,Epistles,New Testament,1 John,KJV
+5,1 John5:6 ,WORD,This,G3778,Epistles,New Testament,1 John,KJV
+5,1 John5:6 ,WORD,is,G2076,Epistles,New Testament,1 John,KJV
+5,1 John5:6 ,PHRASE,he that,G3588,Epistles,New Testament,1 John,KJV
+5,1 John5:6 ,WORD,came,G2064,Epistles,New Testament,1 John,KJV
+5,1 John5:6 ,WORD,by,G1223,Epistles,New Testament,1 John,KJV
+5,1 John5:6 ,WORD,water,G5204,Epistles,New Testament,1 John,KJV
+5,1 John5:6 ,WORD,and,G2532,Epistles,New Testament,1 John,KJV
+5,1 John5:6 ,WORD,"blood,",G129,Epistles,New Testament,1 John,KJV
+5,1 John5:6 ,WORD,[even],,Epistles,New Testament,1 John,KJV
+5,1 John5:6 ,WORD,Jesus,G2424,Epistles,New Testament,1 John,KJV
+5,1 John5:6 ,WORD,Christ;,G5547,Epistles,New Testament,1 John,KJV
+5,1 John5:6 ,WORD,not,G3756,Epistles,New Testament,1 John,KJV
+5,1 John5:6 ,WORD,by,G1722,Epistles,New Testament,1 John,KJV
+5,1 John5:6 ,WORD,water,G5204,Epistles,New Testament,1 John,KJV
+5,1 John5:6 ,WORD,"only,",G3440,Epistles,New Testament,1 John,KJV
+5,1 John5:6 ,WORD,but,G235,Epistles,New Testament,1 John,KJV
+5,1 John5:6 ,WORD,by,G1722,Epistles,New Testament,1 John,KJV
+5,1 John5:6 ,WORD,water,G5204,Epistles,New Testament,1 John,KJV
+5,1 John5:6 ,WORD,and,G2532,Epistles,New Testament,1 John,KJV
+5,1 John5:6 ,WORD,blood.,G129,Epistles,New Testament,1 John,KJV
+5,1 John5:6 ,WORD,And,G2532,Epistles,New Testament,1 John,KJV
+5,1 John5:6 ,PHRASE,it is,G2076,Epistles,New Testament,1 John,KJV
+5,1 John5:6 ,WORD,the,G3588,Epistles,New Testament,1 John,KJV
+5,1 John5:6 ,WORD,Spirit,G4151,Epistles,New Testament,1 John,KJV
+5,1 John5:6 ,PHRASE,"that beareth witness,",G3140,Epistles,New Testament,1 John,KJV
+5,1 John5:6 ,WORD,because,G3754,Epistles,New Testament,1 John,KJV
+5,1 John5:6 ,WORD,the,G3588,Epistles,New Testament,1 John,KJV
+5,1 John5:6 ,WORD,Spirit,G4151,Epistles,New Testament,1 John,KJV
+5,1 John5:6 ,WORD,is,G2076,Epistles,New Testament,1 John,KJV
+5,1 John5:6 ,WORD,truth.,G225,Epistles,New Testament,1 John,KJV
+5,1 John5:7 ,WORD,For,G3754,Epistles,New Testament,1 John,KJV
+5,1 John5:7 ,PHRASE,there are,G1526,Epistles,New Testament,1 John,KJV
+5,1 John5:7 ,WORD,three,G5140,Epistles,New Testament,1 John,KJV
+5,1 John5:7 ,PHRASE,that bear record,G3140,Epistles,New Testament,1 John,KJV
+5,1 John5:7 ,WORD,in,G1722,Epistles,New Testament,1 John,KJV
+5,1 John5:7 ,WORD,"heaven,",G3772,Epistles,New Testament,1 John,KJV
+5,1 John5:7 ,WORD,the,G3588,Epistles,New Testament,1 John,KJV
+5,1 John5:7 ,WORD,"Father,",G3962,Epistles,New Testament,1 John,KJV
+5,1 John5:7 ,WORD,the,G3588,Epistles,New Testament,1 John,KJV
+5,1 John5:7 ,WORD,"Word,",G3056,Epistles,New Testament,1 John,KJV
+5,1 John5:7 ,WORD,and,G2532,Epistles,New Testament,1 John,KJV
+5,1 John5:7 ,WORD,the,G3588,Epistles,New Testament,1 John,KJV
+5,1 John5:7 ,WORD,Holy,G40,Epistles,New Testament,1 John,KJV
+5,1 John5:7 ,WORD,Ghost:,G4151,Epistles,New Testament,1 John,KJV
+5,1 John5:7 ,WORD,and,G2532,Epistles,New Testament,1 John,KJV
+5,1 John5:7 ,WORD,these,G3778,Epistles,New Testament,1 John,KJV
+5,1 John5:7 ,WORD,three,G5140,Epistles,New Testament,1 John,KJV
+5,1 John5:7 ,WORD,are,G1526,Epistles,New Testament,1 John,KJV
+5,1 John5:7 ,WORD,one.,G1520,Epistles,New Testament,1 John,KJV
+5,1 John5:8 ,WORD,And,G2532,Epistles,New Testament,1 John,KJV
+5,1 John5:8 ,PHRASE,there are,G1526,Epistles,New Testament,1 John,KJV
+5,1 John5:8 ,WORD,three,G5140,Epistles,New Testament,1 John,KJV
+5,1 John5:8 ,PHRASE,that bear witness,G3140,Epistles,New Testament,1 John,KJV
+5,1 John5:8 ,WORD,in,G1722,Epistles,New Testament,1 John,KJV
+5,1 John5:8 ,WORD,"earth,",G1093,Epistles,New Testament,1 John,KJV
+5,1 John5:8 ,WORD,the,G3588,Epistles,New Testament,1 John,KJV
+5,1 John5:8 ,WORD,"Spirit,",G4151,Epistles,New Testament,1 John,KJV
+5,1 John5:8 ,WORD,and,G2532,Epistles,New Testament,1 John,KJV
+5,1 John5:8 ,WORD,the,G3588,Epistles,New Testament,1 John,KJV
+5,1 John5:8 ,WORD,"water,",G5204,Epistles,New Testament,1 John,KJV
+5,1 John5:8 ,WORD,and,G2532,Epistles,New Testament,1 John,KJV
+5,1 John5:8 ,WORD,the,G3588,Epistles,New Testament,1 John,KJV
+5,1 John5:8 ,WORD,blood:,G129,Epistles,New Testament,1 John,KJV
+5,1 John5:8 ,WORD,and,G2532,Epistles,New Testament,1 John,KJV
+5,1 John5:8 ,PHRASE,these three,G5140,Epistles,New Testament,1 John,KJV
+5,1 John5:8 ,WORD,agree,G1526,Epistles,New Testament,1 John,KJV
+5,1 John5:8 ,WORD,in,G1519,Epistles,New Testament,1 John,KJV
+5,1 John5:8 ,WORD,one.,G1520,Epistles,New Testament,1 John,KJV
+5,1 John5:9 ,WORD,If,G1487,Epistles,New Testament,1 John,KJV
+5,1 John5:9 ,PHRASE,we receive,G2983,Epistles,New Testament,1 John,KJV
+5,1 John5:9 ,WORD,the,G3588,Epistles,New Testament,1 John,KJV
+5,1 John5:9 ,WORD,witness,G3141,Epistles,New Testament,1 John,KJV
+5,1 John5:9 ,PHRASE,"of men,",G444,Epistles,New Testament,1 John,KJV
+5,1 John5:9 ,WORD,the,G3588,Epistles,New Testament,1 John,KJV
+5,1 John5:9 ,WORD,witness,G3141,Epistles,New Testament,1 John,KJV
+5,1 John5:9 ,PHRASE,of God,G2316,Epistles,New Testament,1 John,KJV
+5,1 John5:9 ,WORD,is,G2076,Epistles,New Testament,1 John,KJV
+5,1 John5:9 ,WORD,greater:,G3187,Epistles,New Testament,1 John,KJV
+5,1 John5:9 ,WORD,for,G3754,Epistles,New Testament,1 John,KJV
+5,1 John5:9 ,WORD,this,G3778,Epistles,New Testament,1 John,KJV
+5,1 John5:9 ,WORD,is,G2076,Epistles,New Testament,1 John,KJV
+5,1 John5:9 ,WORD,the,G3588,Epistles,New Testament,1 John,KJV
+5,1 John5:9 ,WORD,witness,G3141,Epistles,New Testament,1 John,KJV
+5,1 John5:9 ,PHRASE,of God,G2316,Epistles,New Testament,1 John,KJV
+5,1 John5:9 ,WORD,which,G3739,Epistles,New Testament,1 John,KJV
+5,1 John5:9 ,PHRASE,he hath testified,G3140,Epistles,New Testament,1 John,KJV
+5,1 John5:9 ,WORD,of,G4012,Epistles,New Testament,1 John,KJV
+5,1 John5:9 ,WORD,his,G846,Epistles,New Testament,1 John,KJV
+5,1 John5:9 ,WORD,Son.,G5207,Epistles,New Testament,1 John,KJV
+5,1 John5:10 ,PHRASE,He that,G3588,Epistles,New Testament,1 John,KJV
+5,1 John5:10 ,WORD,believeth,G4100,Epistles,New Testament,1 John,KJV
+5,1 John5:10 ,WORD,on,G1519,Epistles,New Testament,1 John,KJV
+5,1 John5:10 ,WORD,the,G3588,Epistles,New Testament,1 John,KJV
+5,1 John5:10 ,WORD,Son,G5207,Epistles,New Testament,1 John,KJV
+5,1 John5:10 ,PHRASE,of God,G2316,Epistles,New Testament,1 John,KJV
+5,1 John5:10 ,WORD,hath,G2192,Epistles,New Testament,1 John,KJV
+5,1 John5:10 ,WORD,the,G3588,Epistles,New Testament,1 John,KJV
+5,1 John5:10 ,WORD,witness,G3141,Epistles,New Testament,1 John,KJV
+5,1 John5:10 ,WORD,in,G1722,Epistles,New Testament,1 John,KJV
+5,1 John5:10 ,WORD,himself:,G1438,Epistles,New Testament,1 John,KJV
+5,1 John5:10 ,PHRASE,he that,G3588,Epistles,New Testament,1 John,KJV
+5,1 John5:10 ,WORD,believeth,G4100,Epistles,New Testament,1 John,KJV
+5,1 John5:10 ,WORD,not,G3361,Epistles,New Testament,1 John,KJV
+5,1 John5:10 ,WORD,God,G2316,Epistles,New Testament,1 John,KJV
+5,1 John5:10 ,PHRASE,hath made,G4160,Epistles,New Testament,1 John,KJV
+5,1 John5:10 ,WORD,him,G846,Epistles,New Testament,1 John,KJV
+5,1 John5:10 ,PHRASE,a liar;,G5583,Epistles,New Testament,1 John,KJV
+5,1 John5:10 ,WORD,because,G3754,Epistles,New Testament,1 John,KJV
+5,1 John5:10 ,PHRASE,he believeth,G4100,Epistles,New Testament,1 John,KJV
+5,1 John5:10 ,WORD,not,G3756,Epistles,New Testament,1 John,KJV
+5,1 John5:10 ,WORD,,G1519,Epistles,New Testament,1 John,KJV
+5,1 John5:10 ,WORD,the,G3588,Epistles,New Testament,1 John,KJV
+5,1 John5:10 ,WORD,record,G3141,Epistles,New Testament,1 John,KJV
+5,1 John5:10 ,WORD,that,G3739,Epistles,New Testament,1 John,KJV
+5,1 John5:10 ,WORD,God,G2316,Epistles,New Testament,1 John,KJV
+5,1 John5:10 ,WORD,gave,G3140,Epistles,New Testament,1 John,KJV
+5,1 John5:10 ,WORD,of,G4012,Epistles,New Testament,1 John,KJV
+5,1 John5:10 ,WORD,his,G846,Epistles,New Testament,1 John,KJV
+5,1 John5:10 ,WORD,Son.,G5207,Epistles,New Testament,1 John,KJV
+5,1 John5:11 ,WORD,And,G2532,Epistles,New Testament,1 John,KJV
+5,1 John5:11 ,WORD,this,G3778,Epistles,New Testament,1 John,KJV
+5,1 John5:11 ,WORD,is,G2076,Epistles,New Testament,1 John,KJV
+5,1 John5:11 ,WORD,the,G3588,Epistles,New Testament,1 John,KJV
+5,1 John5:11 ,WORD,"record,",G3141,Epistles,New Testament,1 John,KJV
+5,1 John5:11 ,WORD,that,G3754,Epistles,New Testament,1 John,KJV
+5,1 John5:11 ,WORD,God,G2316,Epistles,New Testament,1 John,KJV
+5,1 John5:11 ,PHRASE,hath given,G1325,Epistles,New Testament,1 John,KJV
+5,1 John5:11 ,PHRASE,to us,G2254,Epistles,New Testament,1 John,KJV
+5,1 John5:11 ,WORD,eternal,G166,Epistles,New Testament,1 John,KJV
+5,1 John5:11 ,WORD,"life,",G2222,Epistles,New Testament,1 John,KJV
+5,1 John5:11 ,WORD,and,G2532,Epistles,New Testament,1 John,KJV
+5,1 John5:11 ,WORD,this,G3778,Epistles,New Testament,1 John,KJV
+5,1 John5:11 ,WORD,life,G2222,Epistles,New Testament,1 John,KJV
+5,1 John5:11 ,WORD,is,G2076,Epistles,New Testament,1 John,KJV
+5,1 John5:11 ,WORD,in,G1722,Epistles,New Testament,1 John,KJV
+5,1 John5:11 ,WORD,his,G846,Epistles,New Testament,1 John,KJV
+5,1 John5:11 ,WORD,Son.,G5207,Epistles,New Testament,1 John,KJV
+5,1 John5:12 ,PHRASE,He that,G3588,Epistles,New Testament,1 John,KJV
+5,1 John5:12 ,WORD,hath,G2192,Epistles,New Testament,1 John,KJV
+5,1 John5:12 ,WORD,the,G3588,Epistles,New Testament,1 John,KJV
+5,1 John5:12 ,WORD,Son,G5207,Epistles,New Testament,1 John,KJV
+5,1 John5:12 ,WORD,hath,G2192,Epistles,New Testament,1 John,KJV
+5,1 John5:12 ,WORD,life;,G2222,Epistles,New Testament,1 John,KJV
+5,1 John5:12 ,WORD,[and],,Epistles,New Testament,1 John,KJV
+5,1 John5:12 ,PHRASE,he that,G3588,Epistles,New Testament,1 John,KJV
+5,1 John5:12 ,WORD,hath,G2192,Epistles,New Testament,1 John,KJV
+5,1 John5:12 ,WORD,not,G3361,Epistles,New Testament,1 John,KJV
+5,1 John5:12 ,WORD,the,G3588,Epistles,New Testament,1 John,KJV
+5,1 John5:12 ,WORD,Son,G5207,Epistles,New Testament,1 John,KJV
+5,1 John5:12 ,PHRASE,of God,G2316,Epistles,New Testament,1 John,KJV
+5,1 John5:12 ,WORD,hath,G2192,Epistles,New Testament,1 John,KJV
+5,1 John5:12 ,WORD,not,G3756,Epistles,New Testament,1 John,KJV
+5,1 John5:12 ,WORD,life.,G2222,Epistles,New Testament,1 John,KJV
+5,1 John5:13 ,PHRASE,These things,G5023,Epistles,New Testament,1 John,KJV
+5,1 John5:13 ,PHRASE,have I written,G1125,Epistles,New Testament,1 John,KJV
+5,1 John5:13 ,PHRASE,unto you,G5213,Epistles,New Testament,1 John,KJV
+5,1 John5:13 ,PHRASE,that believe,G4100,Epistles,New Testament,1 John,KJV
+5,1 John5:13 ,WORD,on,G1519,Epistles,New Testament,1 John,KJV
+5,1 John5:13 ,WORD,the,G3588,Epistles,New Testament,1 John,KJV
+5,1 John5:13 ,WORD,name,G3686,Epistles,New Testament,1 John,KJV
+5,1 John5:13 ,PHRASE,of the,G3588,Epistles,New Testament,1 John,KJV
+5,1 John5:13 ,WORD,Son,G5207,Epistles,New Testament,1 John,KJV
+5,1 John5:13 ,PHRASE,of God;,G2316,Epistles,New Testament,1 John,KJV
+5,1 John5:13 ,WORD,that,G2443,Epistles,New Testament,1 John,KJV
+5,1 John5:13 ,PHRASE,ye may know,G1492,Epistles,New Testament,1 John,KJV
+5,1 John5:13 ,PHRASE,that ye,G3754,Epistles,New Testament,1 John,KJV
+5,1 John5:13 ,WORD,have,G2192,Epistles,New Testament,1 John,KJV
+5,1 John5:13 ,WORD,eternal,G166,Epistles,New Testament,1 John,KJV
+5,1 John5:13 ,WORD,"life,",G2222,Epistles,New Testament,1 John,KJV
+5,1 John5:13 ,WORD,and,G2532,Epistles,New Testament,1 John,KJV
+5,1 John5:13 ,WORD,that,G2443,Epistles,New Testament,1 John,KJV
+5,1 John5:13 ,PHRASE,ye may believe,G4100,Epistles,New Testament,1 John,KJV
+5,1 John5:13 ,WORD,on,G1519,Epistles,New Testament,1 John,KJV
+5,1 John5:13 ,WORD,the,G3588,Epistles,New Testament,1 John,KJV
+5,1 John5:13 ,WORD,name,G3686,Epistles,New Testament,1 John,KJV
+5,1 John5:13 ,PHRASE,of the,G3588,Epistles,New Testament,1 John,KJV
+5,1 John5:13 ,WORD,Son,G5207,Epistles,New Testament,1 John,KJV
+5,1 John5:13 ,PHRASE,of God.,G2316,Epistles,New Testament,1 John,KJV
+5,1 John5:14 ,WORD,And,G2532,Epistles,New Testament,1 John,KJV
+5,1 John5:14 ,WORD,this,G3778,Epistles,New Testament,1 John,KJV
+5,1 John5:14 ,WORD,is,G2076,Epistles,New Testament,1 John,KJV
+5,1 John5:14 ,WORD,the,G3588,Epistles,New Testament,1 John,KJV
+5,1 John5:14 ,WORD,confidence,G3954,Epistles,New Testament,1 John,KJV
+5,1 John5:14 ,WORD,that,G3739,Epistles,New Testament,1 John,KJV
+5,1 John5:14 ,PHRASE,we have,G2192,Epistles,New Testament,1 John,KJV
+5,1 John5:14 ,WORD,in,G4314,Epistles,New Testament,1 John,KJV
+5,1 John5:14 ,WORD,"him,",G846,Epistles,New Testament,1 John,KJV
+5,1 John5:14 ,WORD,"that,",G3754,Epistles,New Testament,1 John,KJV
+5,1 John5:14 ,WORD,if,G1437,Epistles,New Testament,1 John,KJV
+5,1 John5:14 ,PHRASE,we ask,G154,Epistles,New Testament,1 John,KJV
+5,1 John5:14 ,PHRASE,any thing,G5100,Epistles,New Testament,1 John,KJV
+5,1 John5:14 ,WORD,according,G2596,Epistles,New Testament,1 John,KJV
+5,1 John5:14 ,PHRASE,to his,G846,Epistles,New Testament,1 John,KJV
+5,1 John5:14 ,WORD,"will,",G2307,Epistles,New Testament,1 John,KJV
+5,1 John5:14 ,PHRASE,he heareth,G191,Epistles,New Testament,1 John,KJV
+5,1 John5:14 ,WORD,us:,G2257,Epistles,New Testament,1 John,KJV
+5,1 John5:15 ,WORD,And,G2532,Epistles,New Testament,1 John,KJV
+5,1 John5:15 ,WORD,if,G1437,Epistles,New Testament,1 John,KJV
+5,1 John5:15 ,PHRASE,we know,G1492,Epistles,New Testament,1 John,KJV
+5,1 John5:15 ,WORD,that,G3754,Epistles,New Testament,1 John,KJV
+5,1 John5:15 ,PHRASE,he hear,G191,Epistles,New Testament,1 John,KJV
+5,1 John5:15 ,WORD,"us,",G2257,Epistles,New Testament,1 John,KJV
+5,1 John5:15 ,WORD,whatsoever,G3739,Epistles,New Testament,1 John,KJV
+5,1 John5:15 ,WORD,,G302,Epistles,New Testament,1 John,KJV
+5,1 John5:15 ,PHRASE,"we ask,",G154,Epistles,New Testament,1 John,KJV
+5,1 John5:15 ,PHRASE,we know,G1492,Epistles,New Testament,1 John,KJV
+5,1 John5:15 ,WORD,that,G3754,Epistles,New Testament,1 John,KJV
+5,1 John5:15 ,PHRASE,we have,G2192,Epistles,New Testament,1 John,KJV
+5,1 John5:15 ,WORD,the,G3588,Epistles,New Testament,1 John,KJV
+5,1 John5:15 ,WORD,petitions,G155,Epistles,New Testament,1 John,KJV
+5,1 John5:15 ,WORD,that,G3739,Epistles,New Testament,1 John,KJV
+5,1 John5:15 ,PHRASE,we desired,G154,Epistles,New Testament,1 John,KJV
+5,1 John5:15 ,WORD,of,G3844,Epistles,New Testament,1 John,KJV
+5,1 John5:15 ,WORD,him.,G846,Epistles,New Testament,1 John,KJV
+5,1 John5:16 ,WORD,If,G1437,Epistles,New Testament,1 John,KJV
+5,1 John5:16 ,PHRASE,any man,G5100,Epistles,New Testament,1 John,KJV
+5,1 John5:16 ,WORD,see,G3708,Epistles,New Testament,1 John,KJV
+5,1 John5:16 ,WORD,his,G846,Epistles,New Testament,1 John,KJV
+5,1 John5:16 ,WORD,brother,G80,Epistles,New Testament,1 John,KJV
+5,1 John5:16 ,WORD,sin,G264,Epistles,New Testament,1 John,KJV
+5,1 John5:16 ,PHRASE,a sin,G266,Epistles,New Testament,1 John,KJV
+5,1 John5:16 ,PHRASE,[which is],,Epistles,New Testament,1 John,KJV
+5,1 John5:16 ,WORD,not,G3361,Epistles,New Testament,1 John,KJV
+5,1 John5:16 ,WORD,unto,G4314,Epistles,New Testament,1 John,KJV
+5,1 John5:16 ,WORD,"death,",G2288,Epistles,New Testament,1 John,KJV
+5,1 John5:16 ,PHRASE,"he shall ask,",G154,Epistles,New Testament,1 John,KJV
+5,1 John5:16 ,WORD,and,G2532,Epistles,New Testament,1 John,KJV
+5,1 John5:16 ,PHRASE,he shall give,G1325,Epistles,New Testament,1 John,KJV
+5,1 John5:16 ,WORD,him,G846,Epistles,New Testament,1 John,KJV
+5,1 John5:16 ,WORD,life,G2222,Epistles,New Testament,1 John,KJV
+5,1 John5:16 ,PHRASE,for them,G3588,Epistles,New Testament,1 John,KJV
+5,1 John5:16 ,PHRASE,that sin,G264,Epistles,New Testament,1 John,KJV
+5,1 John5:16 ,WORD,not,G3361,Epistles,New Testament,1 John,KJV
+5,1 John5:16 ,WORD,unto,G4314,Epistles,New Testament,1 John,KJV
+5,1 John5:16 ,WORD,death.,G2288,Epistles,New Testament,1 John,KJV
+5,1 John5:16 ,PHRASE,There is,G2076,Epistles,New Testament,1 John,KJV
+5,1 John5:16 ,PHRASE,a sin,G266,Epistles,New Testament,1 John,KJV
+5,1 John5:16 ,WORD,unto,G4314,Epistles,New Testament,1 John,KJV
+5,1 John5:16 ,WORD,death:,G2288,Epistles,New Testament,1 John,KJV
+5,1 John5:16 ,PHRASE,I do not,G3756,Epistles,New Testament,1 John,KJV
+5,1 John5:16 ,WORD,say,G3004,Epistles,New Testament,1 John,KJV
+5,1 John5:16 ,WORD,that,G2443,Epistles,New Testament,1 John,KJV
+5,1 John5:16 ,PHRASE,he shall pray,G2065,Epistles,New Testament,1 John,KJV
+5,1 John5:16 ,WORD,for,G4012,Epistles,New Testament,1 John,KJV
+5,1 John5:16 ,WORD,it.,G1565,Epistles,New Testament,1 John,KJV
+5,1 John5:17 ,WORD,All,G3956,Epistles,New Testament,1 John,KJV
+5,1 John5:17 ,WORD,unrighteousness,G93,Epistles,New Testament,1 John,KJV
+5,1 John5:17 ,WORD,is,G2076,Epistles,New Testament,1 John,KJV
+5,1 John5:17 ,WORD,sin:,G266,Epistles,New Testament,1 John,KJV
+5,1 John5:17 ,WORD,and,G2532,Epistles,New Testament,1 John,KJV
+5,1 John5:17 ,PHRASE,there is,G2076,Epistles,New Testament,1 John,KJV
+5,1 John5:17 ,PHRASE,a sin,G266,Epistles,New Testament,1 John,KJV
+5,1 John5:17 ,WORD,not,G3756,Epistles,New Testament,1 John,KJV
+5,1 John5:17 ,WORD,unto,G4314,Epistles,New Testament,1 John,KJV
+5,1 John5:17 ,WORD,death.,G2288,Epistles,New Testament,1 John,KJV
+5,1 John5:18 ,PHRASE,We know,G1492,Epistles,New Testament,1 John,KJV
+5,1 John5:18 ,WORD,that,G3754,Epistles,New Testament,1 John,KJV
+5,1 John5:18 ,WORD,whosoever,G3956,Epistles,New Testament,1 John,KJV
+5,1 John5:18 ,PHRASE,is born,G1080,Epistles,New Testament,1 John,KJV
+5,1 John5:18 ,WORD,of,G1537,Epistles,New Testament,1 John,KJV
+5,1 John5:18 ,WORD,God,G2316,Epistles,New Testament,1 John,KJV
+5,1 John5:18 ,WORD,sinneth,G264,Epistles,New Testament,1 John,KJV
+5,1 John5:18 ,WORD,not;,G3756,Epistles,New Testament,1 John,KJV
+5,1 John5:18 ,WORD,but,G235,Epistles,New Testament,1 John,KJV
+5,1 John5:18 ,PHRASE,he that,G3588,Epistles,New Testament,1 John,KJV
+5,1 John5:18 ,PHRASE,is begotten,G1080,Epistles,New Testament,1 John,KJV
+5,1 John5:18 ,WORD,of,G1537,Epistles,New Testament,1 John,KJV
+5,1 John5:18 ,WORD,God,G2316,Epistles,New Testament,1 John,KJV
+5,1 John5:18 ,WORD,keepeth,G5083,Epistles,New Testament,1 John,KJV
+5,1 John5:18 ,WORD,"himself,",G1438,Epistles,New Testament,1 John,KJV
+5,1 John5:18 ,WORD,and,G2532,Epistles,New Testament,1 John,KJV
+5,1 John5:18 ,PHRASE,that wicked one,G4190,Epistles,New Testament,1 John,KJV
+5,1 John5:18 ,WORD,toucheth,G680,Epistles,New Testament,1 John,KJV
+5,1 John5:18 ,WORD,him,G846,Epistles,New Testament,1 John,KJV
+5,1 John5:18 ,WORD,not.,G3756,Epistles,New Testament,1 John,KJV
+5,1 John5:19 ,WORD,[And],,Epistles,New Testament,1 John,KJV
+5,1 John5:19 ,PHRASE,we know,G1492,Epistles,New Testament,1 John,KJV
+5,1 John5:19 ,WORD,that,G3754,Epistles,New Testament,1 John,KJV
+5,1 John5:19 ,PHRASE,we are,G2070,Epistles,New Testament,1 John,KJV
+5,1 John5:19 ,WORD,of,G1537,Epistles,New Testament,1 John,KJV
+5,1 John5:19 ,WORD,"God,",G2316,Epistles,New Testament,1 John,KJV
+5,1 John5:19 ,WORD,and,G2532,Epistles,New Testament,1 John,KJV
+5,1 John5:19 ,WORD,the,G3588,Epistles,New Testament,1 John,KJV
+5,1 John5:19 ,WORD,whole,G3650,Epistles,New Testament,1 John,KJV
+5,1 John5:19 ,WORD,world,G2889,Epistles,New Testament,1 John,KJV
+5,1 John5:19 ,WORD,lieth,G2749,Epistles,New Testament,1 John,KJV
+5,1 John5:19 ,WORD,in,G1722,Epistles,New Testament,1 John,KJV
+5,1 John5:19 ,WORD,wickedness.,G4190,Epistles,New Testament,1 John,KJV
+5,1 John5:20 ,WORD,And,G1161,Epistles,New Testament,1 John,KJV
+5,1 John5:20 ,PHRASE,we know,G1492,Epistles,New Testament,1 John,KJV
+5,1 John5:20 ,WORD,that,G3754,Epistles,New Testament,1 John,KJV
+5,1 John5:20 ,WORD,the,G3588,Epistles,New Testament,1 John,KJV
+5,1 John5:20 ,WORD,Son,G5207,Epistles,New Testament,1 John,KJV
+5,1 John5:20 ,PHRASE,of God,G2316,Epistles,New Testament,1 John,KJV
+5,1 John5:20 ,PHRASE,"is come,",G2240,Epistles,New Testament,1 John,KJV
+5,1 John5:20 ,WORD,and,G2532,Epistles,New Testament,1 John,KJV
+5,1 John5:20 ,PHRASE,hath given,G1325,Epistles,New Testament,1 John,KJV
+5,1 John5:20 ,WORD,us,G2254,Epistles,New Testament,1 John,KJV
+5,1 John5:20 ,PHRASE,"an understanding,",G1271,Epistles,New Testament,1 John,KJV
+5,1 John5:20 ,WORD,that,G2443,Epistles,New Testament,1 John,KJV
+5,1 John5:20 ,PHRASE,we may know,G1097,Epistles,New Testament,1 John,KJV
+5,1 John5:20 ,PHRASE,him that,G3588,Epistles,New Testament,1 John,KJV
+5,1 John5:20 ,PHRASE,"is true,",G228,Epistles,New Testament,1 John,KJV
+5,1 John5:20 ,WORD,and,G2532,Epistles,New Testament,1 John,KJV
+5,1 John5:20 ,PHRASE,we are,G2070,Epistles,New Testament,1 John,KJV
+5,1 John5:20 ,WORD,in,G1722,Epistles,New Testament,1 John,KJV
+5,1 John5:20 ,PHRASE,him that,G3588,Epistles,New Testament,1 John,KJV
+5,1 John5:20 ,PHRASE,"is true,",G228,Epistles,New Testament,1 John,KJV
+5,1 John5:20 ,WORD,[even],,Epistles,New Testament,1 John,KJV
+5,1 John5:20 ,WORD,in,G1722,Epistles,New Testament,1 John,KJV
+5,1 John5:20 ,WORD,his,G846,Epistles,New Testament,1 John,KJV
+5,1 John5:20 ,WORD,Son,G5207,Epistles,New Testament,1 John,KJV
+5,1 John5:20 ,WORD,Jesus,G2424,Epistles,New Testament,1 John,KJV
+5,1 John5:20 ,WORD,Christ.,G5547,Epistles,New Testament,1 John,KJV
+5,1 John5:20 ,WORD,This,G3778,Epistles,New Testament,1 John,KJV
+5,1 John5:20 ,WORD,is,G2076,Epistles,New Testament,1 John,KJV
+5,1 John5:20 ,WORD,the,G3588,Epistles,New Testament,1 John,KJV
+5,1 John5:20 ,WORD,true,G228,Epistles,New Testament,1 John,KJV
+5,1 John5:20 ,WORD,"God,",G2316,Epistles,New Testament,1 John,KJV
+5,1 John5:20 ,WORD,and,G2532,Epistles,New Testament,1 John,KJV
+5,1 John5:20 ,WORD,eternal,G166,Epistles,New Testament,1 John,KJV
+5,1 John5:20 ,WORD,life.,G2222,Epistles,New Testament,1 John,KJV
+5,1 John5:21 ,PHRASE,"Little children,",G5040,Epistles,New Testament,1 John,KJV
+5,1 John5:21 ,WORD,keep,G5442,Epistles,New Testament,1 John,KJV
+5,1 John5:21 ,WORD,yourselves,G1438,Epistles,New Testament,1 John,KJV
+5,1 John5:21 ,WORD,from,G575,Epistles,New Testament,1 John,KJV
+5,1 John5:21 ,WORD,idols.,G1497,Epistles,New Testament,1 John,KJV
+5,1 John5:21 ,WORD,Amen.,G281,Epistles,New Testament,1 John,KJV

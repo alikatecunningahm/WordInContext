@@ -1,0 +1,831 @@
+bible_chapter,bible_verse,verse_part_type,verse_part,hebrew_id,lit_type,testament_type,bible_book,version
+1,Zephaniah1:1,PHRASE,The word,H1697,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:1,PHRASE,of the LORD,H3068,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:1,WORD,which,H834,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:1,WORD,came,H1961,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:1,WORD,unto,H413,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:1,WORD,Zephaniah,H6846,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:1,PHRASE,the son,H1121,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:1,PHRASE,"of Cushi,",H3570,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:1,PHRASE,the son,H1121,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:1,PHRASE,"of Gedaliah,",H1436,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:1,PHRASE,the son,H1121,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:1,PHRASE,"of Amariah,",H568,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:1,PHRASE,the son,H1121,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:1,PHRASE,"of Hizkiah,",H2396,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:1,PHRASE,in the days,H3117,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:1,PHRASE,of Josiah,H2977,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:1,PHRASE,the son,H1121,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:1,PHRASE,"of Amon,",H526,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:1,WORD,king,H4428,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:1,PHRASE,of Judah.,H3063,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:2,PHRASE,I will,H5486,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:2,WORD,utterly,H622,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:2,WORD,consume,H5486,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:2,WORD,all,H3605,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:2,WORD,[things],,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:2,PHRASE,from off,H5921,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:2,PHRASE,"the land,",H127,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:2,WORD,saith,H5002,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:2,PHRASE,the LORD.,H3068,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:3,PHRASE,I will consume,H622,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:3,WORD,man,H120,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:3,PHRASE,and beast;,H929,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:3,PHRASE,I will consume,H622,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:3,PHRASE,the fowls,H5775,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:3,PHRASE,"of the heaven,",H8064,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:3,PHRASE,and the fishes,H1709,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:3,PHRASE,"of the sea,",H3220,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:3,PHRASE,and the stumblingblocks,H4384,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:3,WORD,with,H854,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:3,PHRASE,the wicked;,H7563,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:3,PHRASE,and I will cut off,H3772,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:3,WORD,man,H120,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:3,PHRASE,from off,H5921,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:3,PHRASE,"the land,",H127,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:3,WORD,saith,H5002,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:3,PHRASE,the LORD.,H3068,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:4,PHRASE,I will also stretch out,H5186,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:4,PHRASE,mine hand,H3027,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:4,WORD,upon,H5921,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:4,WORD,"Judah,",H3063,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:4,PHRASE,and upon,H5921,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:4,WORD,all,H3605,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:4,PHRASE,the inhabitants,H3427,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:4,PHRASE,of Jerusalem;,H3389,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:4,PHRASE,and I will cut off,H3772,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:4,PHRASE,the remnant,H7605,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:4,PHRASE,of Baal,H1168,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:4,WORD,from,H4480,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:4,WORD,this,H2088,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:4,WORD,"place,",H4725,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:4,WORD,[and],,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:4,PHRASE,the name,H8034,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:4,PHRASE,of the Chemarims,H3649,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:4,WORD,with,H5973,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:4,PHRASE,the priests;,H3548,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:5,WORD,And,H853,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:5,PHRASE,them that worship,H7812,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:5,WORD,the,H8064,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:5,WORD,host,H6635,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:5,PHRASE,of heaven,H8064,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:5,WORD,upon,H5921,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:5,PHRASE,the housetops;,H1406,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:5,WORD,and,H853,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:5,PHRASE,them that worship,H7812,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:5,WORD,[and],,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:5,PHRASE,that swear,H7650,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:5,PHRASE,"by the LORD,",H3068,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:5,PHRASE,and that swear,H7650,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:5,PHRASE,by Malcham;,H4445,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:6,WORD,And,H853,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:6,PHRASE,them that are turned back,H5472,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:6,WORD,from,H310,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:6,PHRASE,the LORD;,H3068,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:6,PHRASE,and [those] that,H834,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:6,WORD,have,H1245,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:6,WORD,not,H3808,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:6,WORD,sought,H1245,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:6,PHRASE,"the LORD,",H3068,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:6,WORD,nor,H3808,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:6,PHRASE,enquired for him.,H1875,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:7,PHRASE,Hold thy peace,H2013,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:7,PHRASE,at the presence,H6440,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:7,PHRASE,of the Lord,H136,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:7,WORD,GOD:,H3069,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:7,WORD,for,H3588,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:7,PHRASE,the day,H3117,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:7,PHRASE,of the LORD,H3068,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:7,WORD,[is],,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:7,PHRASE,at hand:,H7138,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:7,WORD,for,H3588,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:7,PHRASE,the LORD,H3068,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:7,PHRASE,hath prepared,H3559,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:7,PHRASE,"a sacrifice,",H2077,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:7,PHRASE,he hath bid,H6942,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:7,PHRASE,his guests.,H7121,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:8,PHRASE,And it shall come to pass,H1961,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:8,PHRASE,in the day,H3117,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:8,PHRASE,of the,H2077,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:8,WORD,LORD'S,H3068,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:8,WORD,"sacrifice,",H2077,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:8,PHRASE,that I will punish,H6485,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:8,PHRASE,"the princes,",H8269,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:8,WORD,and,H5921,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:8,PHRASE,the king's,H4428,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:8,WORD,"children,",H1121,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:8,WORD,and,H5921,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:8,WORD,all,H3605,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:8,PHRASE,such as are clothed,H3847,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:8,WORD,with,H4403,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:8,WORD,strange,H5237,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:8,WORD,apparel.,H4403,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:9,PHRASE,In the,H3117,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:9,WORD,same,H1931,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:9,WORD,day,H3117,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:9,PHRASE,also will I punish,H6485,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:9,WORD,all,H3605,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:9,PHRASE,those that leap,H1801,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:9,WORD,on,H5921,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:9,PHRASE,"the threshold,",H4670,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:9,PHRASE,which fill,H4390,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:9,PHRASE,their masters',H113,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:9,WORD,houses,H1004,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:9,PHRASE,with violence,H2555,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:9,PHRASE,and deceit.,H4820,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:10,PHRASE,And it shall come to pass,H1961,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:10,WORD,in,H3117,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:10,WORD,that,H1931,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:10,WORD,"day,",H3117,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:10,WORD,saith,H5002,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:10,PHRASE,"the LORD,",H3068,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:10,PHRASE,[that there shall be],,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:10,PHRASE,the noise,H6963,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:10,PHRASE,of a cry,H6818,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:10,WORD,from,H8179,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:10,PHRASE,the fish,H1709,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:10,WORD,"gate,",H8179,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:10,PHRASE,and an howling,H3215,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:10,WORD,from,H4480,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:10,PHRASE,"the second,",H4932,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:10,PHRASE,and a,H7667,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:10,WORD,great,H1419,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:10,WORD,crashing,H7667,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:10,PHRASE,from the hills.,H1389,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:11,PHRASE,"Howl, ye",H3213,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:11,WORD,inhabitants,H3427,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:11,PHRASE,"of Maktesh,",H4389,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:11,WORD,for,H3588,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:11,WORD,all,H3605,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:11,WORD,the,H5971,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:11,WORD,merchant,H3667,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:11,WORD,people,H5971,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:11,PHRASE,are cut down;,H1820,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:11,WORD,all,H3605,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:11,WORD,they,H3772,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:11,PHRASE,that bear,H5187,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:11,WORD,silver,H3701,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:11,PHRASE,are cut off.,H3772,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:12,PHRASE,And it shall come to pass,H1961,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:12,WORD,at,H6256,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:12,WORD,that,H1931,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:12,WORD,"time,",H6256,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:12,WORD,[that],,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:12,PHRASE,I will search,H2664,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:12,WORD,Jerusalem,H3389,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:12,PHRASE,"with candles,",H5216,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:12,PHRASE,and punish,H6485,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:12,PHRASE,the men,H376,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:12,PHRASE,that are settled,H7087,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:12,WORD,on,H5921,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:12,PHRASE,their lees:,H8105,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:12,PHRASE,that say,H559,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:12,PHRASE,"in their heart,",H3824,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:12,PHRASE,The LORD,H3068,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:12,WORD,will,H3190,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:12,WORD,not,H3808,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:12,PHRASE,"do good,",H3190,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:12,WORD,neither,H3808,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:12,PHRASE,will he do evil.,H7489,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:13,WORD,Therefore,H1961,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:13,PHRASE,their goods,H2428,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:13,PHRASE,shall become,H1961,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:13,PHRASE,"a booty,",H4933,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:13,PHRASE,and their houses,H1004,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:13,PHRASE,a desolation:,H8077,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:13,PHRASE,they shall also build,H1129,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:13,WORD,"houses,",H1004,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:13,PHRASE,but not,H3808,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:13,WORD,inhabit,H3427,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:13,WORD,[them];,,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:13,PHRASE,and they shall plant,H5193,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:13,WORD,"vineyards,",H3754,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:13,PHRASE,but not,H3808,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:13,WORD,drink,H8354,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:13,PHRASE,the wine thereof.,H3196,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:14,PHRASE,The great,H1419,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:14,WORD,day,H3117,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:14,PHRASE,of the LORD,H3068,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:14,WORD,[is],,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:14,WORD,"near,",H7138,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:14,PHRASE,[it is],,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:14,WORD,"near,",H7138,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:14,PHRASE,and hasteth,H4118,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:14,WORD,"greatly,",H3966,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:14,WORD,[even],,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:14,PHRASE,the voice,H6963,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:14,PHRASE,of the day,H3117,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:14,PHRASE,of the LORD:,H3068,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:14,PHRASE,the mighty man,H1368,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:14,PHRASE,shall cry,H6873,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:14,WORD,there,H8033,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:14,WORD,bitterly.,H4751,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:15,WORD,That,H1931,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:15,WORD,day,H3117,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:15,WORD,[is],,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:15,PHRASE,a day,H3117,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:15,PHRASE,"of wrath,",H5678,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:15,PHRASE,a day,H3117,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:15,PHRASE,of trouble,H6869,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:15,PHRASE,"and distress,",H4691,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:15,PHRASE,a day,H3117,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:15,PHRASE,of wasteness,H7722,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:15,PHRASE,"and desolation,",H4875,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:15,PHRASE,a day,H3117,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:15,PHRASE,of darkness,H2822,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:15,PHRASE,"and gloominess,",H653,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:15,PHRASE,a day,H3117,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:15,PHRASE,of clouds,H6051,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:15,PHRASE,"and thick darkness,",H6205,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:16,PHRASE,A day,H3117,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:16,PHRASE,of the trumpet,H7782,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:16,PHRASE,and alarm,H8643,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:16,WORD,against,H5921,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:16,WORD,the,H5892,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:16,WORD,fenced,H1219,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:16,WORD,"cities,",H5892,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:16,PHRASE,and against,H5921,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:16,WORD,the,H6438,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:16,WORD,high,H1364,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:16,WORD,towers.,H6438,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:17,PHRASE,And I will bring distress,H6887,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:17,PHRASE,"upon men,",H120,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:17,PHRASE,that they shall walk,H1980,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:17,PHRASE,"like blind men,",H5787,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:17,WORD,because,H3588,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:17,PHRASE,they have sinned,H2398,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:17,PHRASE,against the LORD:,H3068,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:17,WORD,and,H8210,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:17,PHRASE,their blood,H1818,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:17,PHRASE,shall be poured out,H8210,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:17,PHRASE,"as dust,",H6083,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:17,PHRASE,and their flesh,H3894,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:17,PHRASE,as the dung.,H1561,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:18,WORD,Neither,H1571,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:18,PHRASE,their silver,H3701,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:18,WORD,nor,H1571,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:18,PHRASE,their gold,H2091,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:18,PHRASE,shall be able,H3201,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:18,PHRASE,to deliver them,H5337,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:18,PHRASE,in the day,H3117,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:18,PHRASE,of the,H5678,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:18,WORD,LORD'S,H3068,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:18,WORD,wrath;,H5678,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:18,WORD,but,H784,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:18,WORD,the,H776,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:18,WORD,whole,H3605,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:18,WORD,land,H776,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:18,PHRASE,shall be devoured,H398,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:18,PHRASE,by the fire,H784,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:18,PHRASE,of his jealousy:,H7068,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:18,WORD,for,H3588,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:18,PHRASE,he shall make,H6213,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:18,WORD,even,H389,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:18,WORD,a,H3617,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:18,WORD,speedy,H926,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:18,WORD,riddance,H3617,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:18,PHRASE,of all,H3605,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:18,PHRASE,them that dwell,H3427,Minor Prophets,Old Testament,Zephaniah,KJV
+1,Zephaniah1:18,PHRASE,in the land.,H776,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:1,PHRASE,"Gather yourselves together,",H7197,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:1,PHRASE,"yea, gather together,",H7197,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:1,PHRASE,O nation,H1471,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:1,WORD,not,H3808,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:1,WORD,desired;,H3700,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:2,WORD,Before,H2962,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:2,PHRASE,the decree,H2706,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:2,PHRASE,"bring forth,",H3205,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:2,WORD,[before],,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:2,PHRASE,the day,H3117,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:2,WORD,pass,H5674,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:2,PHRASE,"as the chaff,",H4671,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:2,WORD,before,H2962,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:2,PHRASE,the fierce,H2740,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:2,WORD,anger,H639,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:2,PHRASE,of the LORD,H3068,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:2,WORD,come,H935,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:2,PHRASE,"upon you,",H5921,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:2,WORD,before,H2962,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:2,PHRASE,the day,H3117,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:2,PHRASE,of the,H639,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:2,WORD,LORD'S,H3068,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:2,WORD,anger,H639,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:2,WORD,come,H935,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:2,PHRASE,upon you.,H5921,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:3,PHRASE,Seek ye,H1245,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:3,PHRASE,"the LORD,",H3068,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:3,WORD,all,H3605,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:3,PHRASE,ye meek,H6035,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:3,PHRASE,"of the earth,",H776,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:3,WORD,which,H834,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:3,PHRASE,have wrought,H6466,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:3,PHRASE,his judgment;,H4941,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:3,WORD,seek,H1245,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:3,WORD,"righteousness,",H6664,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:3,WORD,seek,H1245,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:3,WORD,meekness:,H6038,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:3,PHRASE,it may be,H194,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:3,PHRASE,ye shall be hid,H5641,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:3,PHRASE,in the day,H3117,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:3,PHRASE,of the,H639,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:3,WORD,LORD'S,H3068,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:3,WORD,anger.,H639,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:4,WORD,For,H3588,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:4,WORD,Gaza,H5804,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:4,PHRASE,shall be,H1961,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:4,WORD,"forsaken,",H5800,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:4,PHRASE,and Ashkelon,H831,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:4,PHRASE,a desolation:,H8077,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:4,PHRASE,they shall drive out,H1644,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:4,WORD,Ashdod,H795,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:4,PHRASE,"at the noon day,",H6672,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:4,PHRASE,and Ekron,H6138,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:4,PHRASE,shall be rooted up.,H6131,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:5,WORD,Woe,H1945,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:5,PHRASE,unto the inhabitants,H3427,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:5,PHRASE,of the sea,H3220,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:5,WORD,"coast,",H2256,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:5,PHRASE,the nation,H1471,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:5,PHRASE,of the Cherethites!,H3774,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:5,PHRASE,the word,H1697,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:5,PHRASE,of the LORD,H3068,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:5,PHRASE,"[is] against you; O Canaan,",H3667,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:5,PHRASE,the land,H776,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:5,PHRASE,"of the Philistines,",H6430,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:5,PHRASE,I will even destroy,H6,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:5,PHRASE,"thee, that there shall be no inhabitant.",H3427,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:6,WORD,And,H1961,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:6,PHRASE,the sea,H3220,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:6,WORD,coast,H2256,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:6,PHRASE,shall be,H1961,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:6,WORD,dwellings,H5116,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:6,WORD,[and],,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:6,WORD,cottages,H3741,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:6,PHRASE,"for shepherds,",H7462,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:6,PHRASE,and folds,H1448,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:6,PHRASE,for flocks.,H6629,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:7,WORD,And,H1961,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:7,PHRASE,the coast,H2256,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:7,PHRASE,shall be,H1961,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:7,PHRASE,for the remnant,H7611,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:7,PHRASE,of the house,H1004,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:7,PHRASE,of Judah;,H3063,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:7,PHRASE,they shall feed,H7462,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:7,WORD,thereupon:,H5921,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:7,PHRASE,in the houses,H1004,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:7,PHRASE,of Ashkelon,H831,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:7,PHRASE,shall they lie down,H7257,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:7,PHRASE,in the evening:,H6153,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:7,WORD,for,H3588,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:7,PHRASE,the LORD,H3068,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:7,PHRASE,their God,H430,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:7,PHRASE,"shall visit them,",H6485,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:7,PHRASE,and turn away,H7725,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:7,PHRASE,their captivity.,H7622,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:8,PHRASE,I have heard,H8085,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:8,PHRASE,the reproach,H2781,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:8,PHRASE,"of Moab,",H4124,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:8,PHRASE,and the revilings,H1421,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:8,PHRASE,of the children,H1121,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:8,PHRASE,"of Ammon,",H5983,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:8,WORD,whereby,H834,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:8,PHRASE,they have reproached,H2778,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:8,PHRASE,"my people,",H5971,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:8,PHRASE,and magnified,H1431,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:8,WORD,[themselves],,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:8,WORD,against,H5921,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:8,PHRASE,their border.,H1366,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:9,WORD,Therefore,H3651,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:9,WORD,[as],,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:9,WORD,I,H589,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:9,WORD,"live,",H2416,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:9,WORD,saith,H5002,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:9,PHRASE,the LORD,H3068,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:9,PHRASE,"of hosts,",H6635,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:9,PHRASE,the God,H430,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:9,PHRASE,"of Israel,",H3478,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:9,WORD,Surely,H3588,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:9,WORD,Moab,H4124,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:9,PHRASE,shall be,H1961,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:9,PHRASE,"as Sodom,",H5467,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:9,PHRASE,and the children,H1121,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:9,PHRASE,of Ammon,H5983,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:9,PHRASE,"as Gomorrah,",H6017,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:9,WORD,[even],,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:9,PHRASE,the breeding,H4476,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:9,PHRASE,"of nettles,",H2738,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:9,PHRASE,"and saltpits,",H4379,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:9,WORD,,H4417,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:9,PHRASE,and a,H8077,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:9,WORD,,H5704,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:9,WORD,perpetual,H5769,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:9,WORD,desolation:,H8077,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:9,PHRASE,the residue,H7611,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:9,PHRASE,of my people,H5971,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:9,PHRASE,"shall spoil them,",H962,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:9,PHRASE,and the remnant,H3499,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:9,PHRASE,of my people,H1471,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:9,PHRASE,shall possess them.,H5157,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:10,WORD,This,H2063,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:10,PHRASE,shall they have,,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:10,WORD,for,H8478,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:10,PHRASE,"their pride,",H1347,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:10,WORD,because,H3588,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:10,PHRASE,they have reproached,H2778,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:10,PHRASE,and magnified,H1431,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:10,WORD,[themselves],,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:10,WORD,against,H5921,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:10,PHRASE,the people,H5971,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:10,PHRASE,of the LORD,H3068,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:10,PHRASE,of hosts.,H6635,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:11,PHRASE,The LORD,H3068,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:11,PHRASE,[will be],,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:11,WORD,terrible,H3372,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:11,PHRASE,unto them:,H5921,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:11,WORD,for,H3588,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:11,PHRASE,he will famish,H7329,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:11,WORD,all,H3605,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:11,PHRASE,the gods,H430,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:11,PHRASE,of the earth;,H776,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:11,WORD,and,H7812,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:11,WORD,[men],,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:11,PHRASE,shall worship,H7812,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:11,WORD,"him,",,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:11,PHRASE,every one,H376,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:11,PHRASE,"from his place,",H4725,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:11,WORD,[even],,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:11,WORD,all,H3605,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:11,PHRASE,the isles,H339,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:11,PHRASE,of the heathen.,H1471,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:12,PHRASE,Ye Ethiopians,H3569,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:12,PHRASE,"also, ye",H1992,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:12,PHRASE,[shall be],,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:12,WORD,slain,H2491,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:12,PHRASE,by my sword.,H2719,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:13,PHRASE,And he will stretch out,H5186,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:13,PHRASE,his hand,H3027,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:13,WORD,against,H5921,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:13,PHRASE,"the north,",H6828,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:13,PHRASE,and destroy,H6,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:13,WORD,Assyria;,H804,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:13,PHRASE,and will make,H7760,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:13,WORD,Nineveh,H5210,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:13,PHRASE,"a desolation,",H8077,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:13,WORD,[and],,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:13,WORD,dry,H6723,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:13,PHRASE,like a wilderness.,H4057,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:14,WORD,And,H7257,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:14,WORD,flocks,H5739,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:14,PHRASE,shall lie down,H7257,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:14,PHRASE,"in the midst of her,",H8432,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:14,WORD,all,H3605,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:14,PHRASE,the beasts,H2416,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:14,PHRASE,of the nations:,H1471,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:14,WORD,both,H1571,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:14,PHRASE,the cormorant,H6893,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:14,WORD,and,H1571,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:14,PHRASE,the bittern,H7090,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:14,PHRASE,shall lodge,H3885,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:14,PHRASE,in the upper lintels of it;,H3730,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:14,WORD,[their],,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:14,WORD,voice,H6963,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:14,PHRASE,shall sing,H7891,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:14,PHRASE,in the windows;,H2474,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:14,WORD,desolation,H2721,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:14,PHRASE,[shall be],,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:14,PHRASE,in the thresholds:,H5592,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:14,WORD,for,H3588,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:14,PHRASE,he shall uncover,H6168,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:14,PHRASE,the cedar work.,H731,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:15,PHRASE,This [is] the rejoicing,H5947,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:15,WORD,city,H5892,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:15,PHRASE,that dwelt,H3427,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:15,WORD,"carelessly,",H983,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:15,PHRASE,that said,H559,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:15,PHRASE,"in her heart,",H3824,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:15,PHRASE,"I [am], and [there is] none beside",H657,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:15,PHRASE,"me: how is she become a desolation,",H8047,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:15,PHRASE,a place for beasts,H2416,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:15,PHRASE,to lie down in!,H4769,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:15,PHRASE,every one that passeth by,H5674,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:15,PHRASE,"her shall hiss,",H8319,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:15,WORD,[and],,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:15,WORD,wag,H5128,Minor Prophets,Old Testament,Zephaniah,KJV
+2,Zephaniah2:15,PHRASE,his hand.,H3027,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:1,WORD,Woe,H1945,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:1,PHRASE,to her that is filthy,H4754,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:1,PHRASE,"and polluted,",H1351,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:1,PHRASE,to the,H5892,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:1,WORD,oppressing,H3238,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:1,WORD,city!,H5892,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:2,PHRASE,She obeyed,H8085,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:2,WORD,not,H3808,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:2,PHRASE,the voice;,H6963,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:2,PHRASE,she received,H3947,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:2,WORD,not,H3808,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:2,WORD,correction;,H4148,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:2,PHRASE,she trusted,H982,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:2,WORD,not,H3808,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:2,PHRASE,in the LORD;,H3068,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:2,PHRASE,she drew,H7126,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:2,WORD,not,H3808,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:2,WORD,near,H7126,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:2,WORD,to,H413,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:2,PHRASE,her God.,H430,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:3,PHRASE,Her princes,H8269,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:3,PHRASE,within her,H7130,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:3,WORD,[are],,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:3,WORD,roaring,H7580,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:3,WORD,lions;,H738,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:3,PHRASE,her judges,H8199,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:3,WORD,[are],,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:3,WORD,evening,H6153,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:3,WORD,wolves;,H2061,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:3,PHRASE,they gnaw,H1633,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:3,WORD,not,H3808,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:3,PHRASE,the bones,H1633,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:3,PHRASE,till the morrow.,H1242,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:4,PHRASE,Her prophets,H5030,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:4,WORD,[are],,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:4,WORD,light,H6348,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:4,WORD,[and],,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:4,WORD,treacherous,H900,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:4,WORD,persons:,H376,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:4,PHRASE,her priests,H3548,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:4,PHRASE,have polluted,H2490,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:4,PHRASE,"the sanctuary,",H6944,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:4,PHRASE,they have done violence,H2554,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:4,PHRASE,to the law.,H8451,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:5,WORD,The,H3068,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:5,WORD,just,H6662,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:5,WORD,LORD,H3068,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:5,WORD,[is],,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:5,PHRASE,in the midst thereof;,H7130,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:5,PHRASE,he will,H6213,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:5,WORD,not,H3808,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:5,WORD,do,H6213,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:5,WORD,iniquity:,H5766,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:5,PHRASE,every morning,H1242,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:5,WORD,,H1242,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:5,PHRASE,doth he bring,H5414,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:5,PHRASE,his judgment,H4941,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:5,PHRASE,"to light,",H216,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:5,PHRASE,he faileth,H5737,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:5,WORD,not;,H3808,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:5,WORD,but,H3808,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:5,PHRASE,the unjust,H5767,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:5,WORD,knoweth,H3045,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:5,WORD,no,H3808,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:5,WORD,shame.,H1322,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:6,PHRASE,I have cut off,H3772,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:6,PHRASE,the nations:,H1471,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:6,PHRASE,their towers,H6438,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:6,PHRASE,are desolate;,H8074,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:6,PHRASE,I made their streets,H2351,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:6,WORD,"waste,",H2717,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:6,PHRASE,that none passeth by:,H5674,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:6,PHRASE,their cities,H5892,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:6,PHRASE,"are destroyed,",H6658,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:6,PHRASE,"so that there is no man,",H376,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:6,PHRASE,that there is none inhabitant.,H3427,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:7,PHRASE,"I said,",H559,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:7,WORD,Surely,H389,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:7,PHRASE,thou wilt fear,H3372,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:7,WORD,"me,",H853,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:7,PHRASE,thou wilt receive,H3947,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:7,WORD,instruction;,H4148,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:7,WORD,so,H3808,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:7,PHRASE,their dwelling,H4585,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:7,WORD,should,H3772,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:7,WORD,not,H3808,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:7,PHRASE,"be cut off,",H3772,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:7,WORD,,H3605,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:7,WORD,howsoever,H834,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:7,PHRASE,I punished,H6485,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:7,WORD,them:,H5921,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:7,WORD,but,H403,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:7,PHRASE,"they rose early,",H7925,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:7,WORD,[and],,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:7,WORD,corrupted,H7843,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:7,WORD,all,H3605,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:7,PHRASE,their doings.,H5949,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:8,WORD,Therefore,H3651,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:8,PHRASE,wait ye,H2442,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:8,PHRASE,"upon me,",H589,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:8,WORD,saith,H5002,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:8,PHRASE,"the LORD,",H3068,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:8,PHRASE,until the day,H3117,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:8,PHRASE,that I rise up,H6965,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:8,PHRASE,to the prey:,H5706,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:8,WORD,for,H3588,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:8,PHRASE,my determination,H4941,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:8,WORD,[is],,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:8,PHRASE,to gather,H622,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:8,PHRASE,"the nations,",H1471,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:8,PHRASE,that I may assemble,H6908,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:8,PHRASE,"the kingdoms,",H4467,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:8,PHRASE,to pour,H8210,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:8,PHRASE,upon them,H5921,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:8,PHRASE,"mine indignation,",H2195,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:8,WORD,[even],,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:8,WORD,all,H3605,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:8,WORD,my,H639,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:8,WORD,fierce,H2740,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:8,WORD,anger:,H639,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:8,WORD,for,H3588,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:8,WORD,all,H3605,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:8,PHRASE,the earth,H776,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:8,PHRASE,shall be devoured,H398,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:8,PHRASE,with the fire,H784,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:8,PHRASE,of my jealousy.,H7068,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:9,WORD,For,H3588,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:9,WORD,then,H227,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:9,PHRASE,will I turn,H2015,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:9,WORD,to,H413,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:9,PHRASE,the people,H5971,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:9,WORD,a,H8193,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:9,WORD,pure,H1305,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:9,WORD,"language,",H8193,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:9,WORD,that,H7121,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:9,WORD,they,H3605,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:9,WORD,may,H7121,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:9,WORD,all,H3605,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:9,WORD,call,H7121,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:9,PHRASE,upon the name,H8034,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:9,PHRASE,"of the LORD,",H3068,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:9,PHRASE,to serve him,H5647,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:9,WORD,with,H7926,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:9,WORD,one,H259,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:9,WORD,consent.,H7926,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:10,PHRASE,From beyond,H5676,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:10,PHRASE,the rivers,H5104,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:10,PHRASE,of Ethiopia,H3568,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:10,PHRASE,"my suppliants,",H6282,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:10,WORD,[even],,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:10,PHRASE,the daughter,H1323,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:10,PHRASE,"of my dispersed,",H6327,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:10,PHRASE,shall bring,H2986,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:10,PHRASE,mine offering.,H4503,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:11,WORD,In,H3117,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:11,WORD,that,H1931,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:11,WORD,day,H3117,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:11,PHRASE,shalt thou,H954,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:11,WORD,not,H3808,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:11,PHRASE,be ashamed,H954,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:11,PHRASE,for all,H3605,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:11,PHRASE,"thy doings,",H5949,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:11,WORD,wherein,H834,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:11,PHRASE,thou hast transgressed,H6586,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:11,PHRASE,against me:,,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:11,WORD,for,H3588,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:11,WORD,then,H227,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:11,PHRASE,I will take away,H5493,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:11,PHRASE,out of the midst of thee,H7130,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:11,PHRASE,them that rejoice,H5947,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:11,PHRASE,"in thy pride,",H1346,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:11,WORD,and,H3808,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:11,PHRASE,thou shalt,H3254,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:11,WORD,no,H3808,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:11,WORD,more,H5750,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:11,PHRASE,be haughty,H1361,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:11,PHRASE,because of,H2022,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:11,PHRASE,my holy,H6944,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:11,WORD,mountain.,H2022,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:12,PHRASE,I will also leave,H7604,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:12,PHRASE,in the midst of thee,H7130,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:12,WORD,an,H5971,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:12,WORD,afflicted,H6041,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:12,PHRASE,and poor,H1800,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:12,WORD,"people,",H5971,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:12,PHRASE,and they shall trust,H2620,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:12,PHRASE,in the name,H8034,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:12,PHRASE,of the LORD.,H3068,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:13,PHRASE,The remnant,H7611,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:13,PHRASE,of Israel,H3478,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:13,WORD,shall,H6213,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:13,WORD,not,H3808,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:13,WORD,do,H6213,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:13,WORD,"iniquity,",H5766,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:13,WORD,nor,H3808,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:13,WORD,speak,H1696,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:13,WORD,lies;,H3577,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:13,WORD,neither,H3808,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:13,WORD,shall,H4672,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:13,WORD,a,H3956,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:13,WORD,deceitful,H8649,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:13,WORD,tongue,H3956,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:13,PHRASE,be found,H4672,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:13,PHRASE,in their mouth:,H6310,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:13,WORD,for,H3588,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:13,WORD,they,H1992,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:13,PHRASE,shall feed,H7462,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:13,PHRASE,"and lie down,",H7257,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:13,PHRASE,and none,H369,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:13,PHRASE,shall make [them] afraid.,H2729,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:14,WORD,"Sing,",H7442,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:14,PHRASE,O daughter,H1323,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:14,PHRASE,of Zion;,H6726,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:14,WORD,"shout,",H7321,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:14,PHRASE,O Israel;,H3478,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:14,PHRASE,be glad,H8055,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:14,PHRASE,and rejoice,H5937,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:14,PHRASE,with all,H3605,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:14,PHRASE,"the heart,",H3820,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:14,PHRASE,O daughter,H1323,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:14,PHRASE,of Jerusalem.,H3389,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:15,PHRASE,The LORD,H3068,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:15,PHRASE,hath taken away,H5493,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:15,PHRASE,"thy judgments,",H4941,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:15,PHRASE,he hath cast out,H6437,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:15,PHRASE,thine enemy:,H341,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:15,PHRASE,the king,H4428,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:15,PHRASE,"of Israel,",H3478,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:15,WORD,[even],,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:15,PHRASE,"the LORD,",H3068,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:15,WORD,[is],,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:15,PHRASE,in the midst of thee:,H7130,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:15,PHRASE,thou shalt,H3372,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:15,WORD,not,H3808,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:15,WORD,see,H3372,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:15,WORD,evil,H7451,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:15,PHRASE,any more.,H5750,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:16,WORD,In,H3117,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:16,WORD,that,H1931,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:16,WORD,day,H3117,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:16,PHRASE,it shall be said,H559,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:16,PHRASE,"to Jerusalem,",H3389,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:16,PHRASE,Fear thou,H3372,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:16,WORD,not:,H408,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:16,PHRASE,[and to],,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:16,WORD,"Zion,",H6726,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:16,WORD,Let,H7503,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:16,WORD,not,H408,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:16,PHRASE,thine hands,H3027,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:16,PHRASE,be slack.,H7503,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:17,PHRASE,The LORD,H3068,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:17,PHRASE,thy God,H430,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:17,PHRASE,in the midst of thee,H7130,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:17,WORD,[is],,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:17,WORD,mighty;,H1368,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:17,PHRASE,"he will save,",H3467,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:17,PHRASE,he will rejoice,H7797,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:17,PHRASE,over thee,H5921,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:17,PHRASE,with joy;,H8057,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:17,PHRASE,he will rest,H2790,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:17,PHRASE,"in his love,",H160,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:17,PHRASE,he will joy,H1523,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:17,PHRASE,over thee,H5921,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:17,PHRASE,with singing.,H7440,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:18,PHRASE,I will gather,H622,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:18,PHRASE,[them that are],,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:18,WORD,sorrowful,H3013,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:18,PHRASE,"for the solemn assembly,",H4150,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:18,WORD,[who],,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:18,WORD,are,H1961,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:18,PHRASE,"of thee,",H4480,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:18,PHRASE,[to whom],,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:18,PHRASE,the reproach,H2781,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:18,PHRASE,of it,H5921,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:18,WORD,[was],,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:18,PHRASE,a burden.,H4864,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:19,WORD,"Behold,",H2005,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:19,WORD,at,H6256,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:19,WORD,that,H1931,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:19,WORD,time,H6256,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:19,WORD,I,H2005,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:19,PHRASE,will undo,H6213,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:19,WORD,all,H3605,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:19,PHRASE,that afflict thee:,H6031,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:19,PHRASE,and I will save,H3467,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:19,PHRASE,"her that halteth,",H6760,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:19,WORD,and,H5080,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:19,WORD,gather,H6908,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:19,PHRASE,her that was driven out;,H5080,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:19,PHRASE,and I will get them,H7760,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:19,WORD,praise,H8416,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:19,PHRASE,and fame,H8034,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:19,PHRASE,in every,H3605,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:19,WORD,land,H776,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:19,PHRASE,where they have been put to shame.,H1322,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:20,WORD,At,H6256,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:20,WORD,that,H1931,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:20,WORD,time,H6256,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:20,PHRASE,will I bring,H935,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:20,WORD,you,H853,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:20,WORD,"[again],",,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:20,PHRASE,even in the time,H6256,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:20,PHRASE,that I gather,H6908,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:20,WORD,you:,H853,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:20,WORD,for,H3588,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:20,PHRASE,I will make,H5414,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:20,WORD,you,H853,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:20,PHRASE,a name,H8034,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:20,PHRASE,and a praise,H8416,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:20,PHRASE,among all,H3605,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:20,WORD,people,H5971,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:20,PHRASE,"of the earth,",H776,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:20,PHRASE,when I turn back,H7725,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:20,PHRASE,your captivity,H7622,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:20,PHRASE,"before your eyes,",H5869,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:20,WORD,saith,H559,Minor Prophets,Old Testament,Zephaniah,KJV
+3,Zephaniah3:20,PHRASE,the LORD.,H3068,Minor Prophets,Old Testament,Zephaniah,KJV

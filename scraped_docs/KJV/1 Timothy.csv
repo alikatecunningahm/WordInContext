@@ -1,0 +1,1619 @@
+bible_chapter,bible_verse,verse_part_type,verse_part,hebrew_id,lit_type,testament_type,bible_book,version
+1,1 Timothy1:1 ,WORD,"Paul,",G3972,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:1 ,PHRASE,an apostle,G652,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:1 ,PHRASE,of Jesus,G2424,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:1 ,WORD,Christ,G5547,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:1 ,WORD,by,G2596,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:1 ,PHRASE,the commandment,G2003,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:1 ,PHRASE,of God,G2316,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:1 ,WORD,our,G2257,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:1 ,WORD,"Saviour,",G4990,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:1 ,WORD,and,G2532,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:1 ,WORD,Lord,G2962,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:1 ,WORD,Jesus,G2424,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:1 ,WORD,"Christ,",G5547,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:1 ,PHRASE,[which is],G3588,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:1 ,WORD,our,G2257,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:1 ,WORD,hope;,G1680,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:2 ,PHRASE,"Unto Timothy,",G5095,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:2 ,WORD,[my],,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:2 ,WORD,own,G1103,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:2 ,WORD,son,G5043,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:2 ,WORD,in,G1722,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:2 ,PHRASE,the faith:,G4102,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:2 ,WORD,"Grace,",G5485,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:2 ,WORD,"mercy,",G1656,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:2 ,WORD,[and],,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:2 ,WORD,"peace,",G1515,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:2 ,WORD,from,G575,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:2 ,WORD,God,G2316,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:2 ,WORD,our,G2257,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:2 ,WORD,Father,G3962,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:2 ,WORD,and,G2532,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:2 ,WORD,Jesus,G2424,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:2 ,WORD,Christ,G5547,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:2 ,WORD,our,G2257,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:2 ,WORD,Lord.,G2962,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:3 ,WORD,As,G2531,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:3 ,PHRASE,I besought,G3870,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:3 ,WORD,thee,G4571,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:3 ,PHRASE,to abide still,G4357,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:3 ,WORD,at,G1722,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:3 ,WORD,"Ephesus,",G2181,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:3 ,PHRASE,when I went,G4198,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:3 ,WORD,into,G1519,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:3 ,WORD,"Macedonia,",G3109,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:3 ,WORD,that,G2443,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:3 ,PHRASE,thou mightest charge,G3853,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:3 ,WORD,some,G5100,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:3 ,PHRASE,that they teach,G2085,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:3 ,WORD,no,G3361,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:3 ,PHRASE,"other doctrine,",G2085,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:4 ,WORD,Neither,G3366,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:4 ,PHRASE,give heed,G4337,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:4 ,PHRASE,to fables,G3454,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:4 ,WORD,and,G2532,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:4 ,WORD,endless,G562,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:4 ,WORD,"genealogies,",G1076,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:4 ,WORD,which,G3748,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:4 ,WORD,minister,G3930,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:4 ,WORD,"questions,",G2214,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:4 ,WORD,rather,G3123,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:4 ,WORD,than,G2228,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:4 ,WORD,godly,G2316,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:4 ,WORD,edifying,G3622,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:4 ,WORD,which,G3588,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:4 ,PHRASE,is in,G1722,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:4 ,WORD,faith:,G4102,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:4 ,PHRASE,[so do].,,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:5 ,WORD,Now,G1161,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:5 ,WORD,the,G3588,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:5 ,WORD,end,G5056,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:5 ,PHRASE,of the,G3588,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:5 ,WORD,commandment,G3852,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:5 ,WORD,is,G2076,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:5 ,WORD,charity,G26,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:5 ,PHRASE,out of,G1537,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:5 ,PHRASE,a pure,G2513,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:5 ,WORD,"heart,",G2588,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:5 ,WORD,and,G2532,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:5 ,WORD,[of],,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:5 ,PHRASE,a good,G18,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:5 ,WORD,"conscience,",G4893,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:5 ,WORD,and,G2532,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:5 ,WORD,[of],,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:5 ,WORD,faith,G4102,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:5 ,WORD,unfeigned:,G505,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:6 ,PHRASE,From which,G3739,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:6 ,WORD,some,G5100,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:6 ,PHRASE,having swerved,G795,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:6 ,PHRASE,have turned aside,G1624,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:6 ,WORD,unto,G1519,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:6 ,PHRASE,vain jangling;,G3150,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:7 ,WORD,Desiring,G2309,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:7 ,PHRASE,to be,G1511,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:7 ,PHRASE,teachers of the law;,G3547,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:7 ,WORD,,G3361,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:7 ,WORD,understanding,G3539,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:7 ,WORD,neither,G3383,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:7 ,WORD,what,G3739,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:7 ,PHRASE,"they say,",G3004,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:7 ,WORD,nor,G3383,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:7 ,WORD,whereof,G4012,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:7 ,WORD,,G5101,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:7 ,PHRASE,they affirm.,G1226,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:8 ,WORD,But,G1161,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:8 ,PHRASE,we know,G1492,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:8 ,WORD,that,G3754,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:8 ,WORD,the,G3588,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:8 ,WORD,law,G3551,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:8 ,WORD,[is],,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:8 ,WORD,"good,",G2570,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:8 ,WORD,if,G1437,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:8 ,PHRASE,a man,G5100,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:8 ,WORD,use,G5530,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:8 ,WORD,it,G846,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:8 ,WORD,lawfully;,G3545,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:9 ,WORD,Knowing,G1492,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:9 ,WORD,"this,",G5124,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:9 ,WORD,that,G3754,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:9 ,PHRASE,the law,G3551,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:9 ,WORD,is,G2749,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:9 ,WORD,not,G3756,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:9 ,WORD,made,G2749,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:9 ,PHRASE,"for a righteous man,",G1342,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:9 ,WORD,but,G1161,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:9 ,PHRASE,for the lawless,G459,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:9 ,WORD,and,G2532,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:9 ,WORD,"disobedient,",G506,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:9 ,PHRASE,for the ungodly,G765,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:9 ,WORD,and,G2532,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:9 ,PHRASE,"for sinners,",G268,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:9 ,PHRASE,for unholy,G462,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:9 ,WORD,and,G2532,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:9 ,WORD,"profane,",G952,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:9 ,PHRASE,for murderers of fathers,G3964,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:9 ,WORD,and,G2532,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:9 ,PHRASE,"murderers of mothers,",G3389,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:9 ,PHRASE,"for manslayers,",G409,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:10 ,PHRASE,"For whoremongers,",G4205,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:10 ,PHRASE,"for them that defile themselves with mankind,",G733,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:10 ,PHRASE,"for menstealers,",G405,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:10 ,PHRASE,"for liars,",G5583,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:10 ,PHRASE,"for perjured persons,",G1965,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:10 ,WORD,and,G2532,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:10 ,WORD,if,G1487,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:10 ,PHRASE,there be any,G5100,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:10 ,PHRASE,other thing,G2087,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:10 ,PHRASE,that is contrary,G480,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:10 ,PHRASE,to sound,G5198,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:10 ,WORD,doctrine;,G1319,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:11 ,WORD,According,G2596,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:11 ,PHRASE,to the,G3588,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:11 ,WORD,glorious,G1391,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:11 ,WORD,gospel,G2098,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:11 ,PHRASE,of the,G3588,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:11 ,WORD,blessed,G3107,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:11 ,WORD,"God,",G2316,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:11 ,WORD,which,G3739,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:11 ,PHRASE,was committed to,G4100,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:11 ,WORD,my,G1473,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:11 ,WORD,trust.,G4100,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:12 ,WORD,And,G2532,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:12 ,PHRASE,I thank,G2192,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:12 ,WORD,,G5485,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:12 ,WORD,Christ,G5547,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:12 ,WORD,Jesus,G2424,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:12 ,WORD,our,G2257,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:12 ,WORD,"Lord,",G2962,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:12 ,WORD,who,G3588,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:12 ,PHRASE,hath enabled,G1743,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:12 ,WORD,"me,",G3165,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:12 ,WORD,for,G3754,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:12 ,PHRASE,that he counted,G2233,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:12 ,WORD,me,G3165,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:12 ,WORD,"faithful,",G4103,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:12 ,PHRASE,putting me,G5087,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:12 ,WORD,into,G1519,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:12 ,PHRASE,the ministry;,G1248,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:13 ,WORD,Who,G3588,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:13 ,WORD,was,G5607,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:13 ,WORD,before,G4386,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:13 ,PHRASE,"a blasphemer,",G989,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:13 ,WORD,and,G2532,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:13 ,PHRASE,"a persecutor,",G1376,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:13 ,WORD,and,G2532,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:13 ,WORD,injurious:,G5197,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:13 ,WORD,but,G235,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:13 ,PHRASE,"I obtained mercy,",G1653,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:13 ,WORD,because,G3754,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:13 ,PHRASE,I did,G4160,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:13 ,WORD,[it],,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:13 ,WORD,ignorantly,G50,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:13 ,WORD,in,G1722,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:13 ,WORD,unbelief.,G570,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:14 ,WORD,And,G1161,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:14 ,WORD,the,G3588,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:14 ,WORD,grace,G5485,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:14 ,PHRASE,of our,G2257,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:14 ,WORD,Lord,G2962,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:14 ,PHRASE,was exceeding abundant,G5250,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:14 ,WORD,with,G3326,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:14 ,WORD,faith,G4102,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:14 ,WORD,and,G2532,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:14 ,WORD,love,G26,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:14 ,WORD,which,G3588,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:14 ,PHRASE,is in,G1722,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:14 ,WORD,Christ,G5547,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:14 ,WORD,Jesus.,G2424,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:15 ,PHRASE,This [is] a faithful,G4103,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:15 ,WORD,"saying,",G3056,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:15 ,WORD,and,G2532,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:15 ,WORD,worthy,G514,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:15 ,PHRASE,of all,G3956,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:15 ,WORD,"acceptation,",G594,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:15 ,WORD,that,G3754,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:15 ,WORD,Christ,G5547,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:15 ,WORD,Jesus,G2424,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:15 ,WORD,came,G2064,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:15 ,WORD,into,G1519,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:15 ,WORD,the,G3588,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:15 ,WORD,world,G2889,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:15 ,PHRASE,to save,G4982,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:15 ,WORD,sinners;,G268,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:15 ,PHRASE,of whom,G3739,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:15 ,WORD,I,G1473,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:15 ,WORD,am,G1510,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:15 ,WORD,chief.,G4413,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:16 ,WORD,Howbeit,G235,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:16 ,PHRASE,for this,G5124,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:16 ,WORD,cause,G1223,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:16 ,PHRASE,"I obtained mercy,",G1653,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:16 ,WORD,that,G2443,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:16 ,WORD,in,G1722,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:16 ,WORD,me,G1698,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:16 ,WORD,first,G4413,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:16 ,WORD,Jesus,G2424,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:16 ,WORD,Christ,G5547,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:16 ,PHRASE,might shew forth,G1731,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:16 ,WORD,all,G3956,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:16 ,WORD,"longsuffering,",G3115,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:16 ,WORD,for,G4314,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:16 ,PHRASE,a pattern,G5296,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:16 ,PHRASE,to them which,G3588,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:16 ,PHRASE,should hereafter,G3195,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:16 ,WORD,believe,G4100,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:16 ,WORD,on,G1909,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:16 ,WORD,him,G846,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:16 ,WORD,to,G1519,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:16 ,WORD,life,G2222,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:16 ,WORD,everlasting.,G166,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:17 ,WORD,Now,G1161,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:17 ,PHRASE,unto the,G3588,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:17 ,WORD,King,G935,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:17 ,WORD,"eternal,",G165,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:17 ,WORD,"immortal,",G862,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:17 ,WORD,"invisible,",G517,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:17 ,PHRASE,the only,G3441,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:17 ,WORD,wise,G4680,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:17 ,WORD,"God,",G2316,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:17 ,WORD,[be],,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:17 ,WORD,honour,G5092,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:17 ,WORD,and,G2532,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:17 ,WORD,glory,G1391,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:17 ,WORD,for,G1519,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:17 ,WORD,ever,G165,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:17 ,PHRASE,and ever.,G165,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:17 ,WORD,Amen.,G281,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:18 ,WORD,This,G3778,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:18 ,WORD,charge,G3852,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:18 ,PHRASE,I commit,G3908,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:18 ,PHRASE,"unto thee,",G4671,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:18 ,WORD,son,G5043,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:18 ,WORD,"Timothy,",G5095,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:18 ,PHRASE,according to,G2596,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:18 ,PHRASE,the prophecies,G4394,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:18 ,WORD,which,G3588,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:18 ,PHRASE,went before,G4254,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:18 ,WORD,on,G1909,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:18 ,WORD,"thee,",G4571,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:18 ,WORD,that,G2443,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:18 ,WORD,thou,G4754,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:18 ,WORD,by,G1722,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:18 ,WORD,them,G846,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:18 ,PHRASE,mightest war,G4754,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:18 ,WORD,a,G3588,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:18 ,WORD,good,G2570,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:18 ,WORD,warfare;,G4752,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:19 ,WORD,Holding,G2192,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:19 ,WORD,"faith,",G4102,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:19 ,WORD,and,G2532,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:19 ,PHRASE,a good,G18,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:19 ,WORD,conscience;,G4893,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:19 ,WORD,which,G3739,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:19 ,WORD,some,G5100,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:19 ,PHRASE,having put away,G683,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:19 ,WORD,concerning,G4012,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:19 ,WORD,faith,G4102,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:19 ,PHRASE,have made shipwreck:,G3489,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:20 ,PHRASE,Of whom,G3739,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:20 ,WORD,is,G2076,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:20 ,WORD,Hymenaeus,G5211,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:20 ,WORD,and,G2532,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:20 ,WORD,Alexander;,G223,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:20 ,WORD,whom,G3739,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:20 ,PHRASE,I have delivered,G3860,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:20 ,PHRASE,"unto Satan,",G4567,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:20 ,WORD,that,G2443,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:20 ,PHRASE,they may learn,G3811,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:20 ,WORD,not,G3361,Epistles,New Testament,1 Timothy,KJV
+1,1 Timothy1:20 ,PHRASE,to blaspheme.,G987,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:1 ,PHRASE,I exhort,G3870,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:1 ,WORD,"therefore,",G3767,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:1 ,PHRASE,"that, first",G4412,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:1 ,PHRASE,"of all,",G3956,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:1 ,WORD,"supplications,",G1162,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:1 ,WORD,"prayers,",G4335,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:1 ,WORD,"intercessions,",G1783,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:1 ,WORD,[and],,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:1 ,PHRASE,"giving of thanks,",G2169,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:1 ,PHRASE,be made,G4160,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:1 ,WORD,for,G5228,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:1 ,WORD,all,G3956,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:1 ,WORD,men;,G444,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:2 ,WORD,For,G5228,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:2 ,WORD,"kings,",G935,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:2 ,WORD,and,G2532,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:2 ,WORD,[for],,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:2 ,WORD,all,G3956,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:2 ,PHRASE,that are,G5607,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:2 ,WORD,in,G1722,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:2 ,WORD,authority;,G5247,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:2 ,WORD,that,G2443,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:2 ,PHRASE,we may lead,G1236,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:2 ,PHRASE,a quiet,G2263,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:2 ,WORD,and,G2532,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:2 ,WORD,peaceable,G2272,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:2 ,WORD,life,G979,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:2 ,WORD,in,G1722,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:2 ,WORD,all,G3956,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:2 ,WORD,godliness,G2150,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:2 ,WORD,and,G2532,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:2 ,WORD,honesty.,G4587,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:3 ,WORD,For,G1063,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:3 ,WORD,this,G5124,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:3 ,WORD,[is],,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:3 ,WORD,good,G2570,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:3 ,WORD,and,G2532,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:3 ,WORD,acceptable,G587,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:3 ,PHRASE,in the sight,G1799,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:3 ,PHRASE,of God,G2316,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:3 ,WORD,our,G2257,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:3 ,WORD,Saviour;,G4990,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:4 ,WORD,Who,G3739,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:4 ,PHRASE,will have,G2309,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:4 ,WORD,all,G3956,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:4 ,WORD,men,G444,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:4 ,PHRASE,"to be saved,",G4982,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:4 ,WORD,and,G2532,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:4 ,PHRASE,to come,G2064,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:4 ,WORD,unto,G1519,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:4 ,PHRASE,the knowledge,G1922,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:4 ,PHRASE,of the truth.,G225,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:5 ,WORD,For,G1063,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:5 ,PHRASE,[there is],,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:5 ,WORD,one,G1520,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:5 ,WORD,"God,",G2316,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:5 ,WORD,and,G2532,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:5 ,WORD,one,G1520,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:5 ,WORD,mediator,G3316,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:5 ,PHRASE,between God,G2316,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:5 ,WORD,and,G2532,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:5 ,WORD,"men,",G444,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:5 ,PHRASE,the man,G444,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:5 ,WORD,Christ,G5547,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:5 ,WORD,Jesus;,G2424,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:6 ,WORD,Who,G3588,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:6 ,WORD,gave,G1325,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:6 ,WORD,himself,G1438,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:6 ,PHRASE,a ransom,G487,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:6 ,WORD,for,G5228,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:6 ,WORD,"all,",G3956,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:6 ,PHRASE,to be testified,G3142,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:6 ,PHRASE,in due,G2398,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:6 ,WORD,time.,G2540,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:7 ,WORD,Whereunto,G1519,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:7 ,WORD,,G3739,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:7 ,WORD,I,G1473,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:7 ,PHRASE,am ordained,G5087,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:7 ,PHRASE,"a preacher,",G2783,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:7 ,WORD,and,G2532,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:7 ,PHRASE,"an apostle,",G652,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:7 ,PHRASE,(I speak,G3004,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:7 ,PHRASE,the truth,G225,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:7 ,WORD,in,G1722,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:7 ,WORD,"Christ,",G5547,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:7 ,WORD,[and],,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:7 ,WORD,lie,G5574,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:7 ,WORD,not;),G3756,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:7 ,PHRASE,a teacher,G1320,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:7 ,PHRASE,of the Gentiles,G1484,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:7 ,WORD,in,G1722,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:7 ,WORD,faith,G4102,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:7 ,WORD,and,G2532,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:7 ,WORD,verity.,G225,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:8 ,PHRASE,I will,G1014,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:8 ,WORD,therefore,G3767,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:8 ,PHRASE,that men,G435,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:8 ,WORD,pray,G4336,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:8 ,WORD,every,G1722,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:8 ,WORD,,G3956,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:8 ,WORD,"where,",G5117,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:8 ,PHRASE,lifting up,G1869,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:8 ,WORD,holy,G3741,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:8 ,WORD,"hands,",G5495,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:8 ,WORD,without,G5565,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:8 ,WORD,wrath,G3709,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:8 ,WORD,and,G2532,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:8 ,WORD,doubting.,G1261,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:9 ,PHRASE,In like manner,G5615,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:9 ,WORD,"also,",G2532,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:9 ,PHRASE,that women,G1135,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:9 ,WORD,adorn,G2885,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:9 ,WORD,themselves,G1438,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:9 ,WORD,in,G1722,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:9 ,WORD,modest,G2887,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:9 ,WORD,"apparel,",G2689,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:9 ,WORD,with,G3326,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:9 ,WORD,shamefacedness,G127,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:9 ,WORD,and,G2532,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:9 ,WORD,sobriety;,G4997,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:9 ,WORD,not,G3361,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:9 ,WORD,with,G1722,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:9 ,PHRASE,"broided hair,",G4117,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:9 ,WORD,or,G2228,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:9 ,WORD,"gold,",G5557,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:9 ,WORD,or,G2228,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:9 ,WORD,"pearls,",G3135,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:9 ,WORD,or,G2228,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:9 ,WORD,costly,G4185,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:9 ,WORD,array;,G2441,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:10 ,WORD,But,G235,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:10 ,WORD,(which,G3739,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:10 ,WORD,becometh,G4241,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:10 ,WORD,women,G1135,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:10 ,WORD,professing,G1861,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:10 ,WORD,godliness),G2317,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:10 ,WORD,with,G1223,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:10 ,WORD,good,G18,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:10 ,WORD,works.,G2041,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:11 ,WORD,Let,G3129,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:11 ,PHRASE,the woman,G1135,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:11 ,WORD,learn,G3129,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:11 ,WORD,in,G1722,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:11 ,WORD,silence,G2271,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:11 ,WORD,with,G1722,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:11 ,WORD,all,G3956,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:11 ,WORD,subjection.,G5292,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:12 ,WORD,But,G1161,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:12 ,PHRASE,I suffer,G2010,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:12 ,WORD,not,G3756,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:12 ,PHRASE,a woman,G1135,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:12 ,PHRASE,"to teach,",G1321,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:12 ,WORD,nor,G3761,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:12 ,PHRASE,to usurp authority,G831,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:12 ,PHRASE,"over the man,",G435,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:12 ,WORD,but,G235,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:12 ,PHRASE,to be,G1511,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:12 ,WORD,in,G1722,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:12 ,WORD,silence.,G2271,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:13 ,WORD,For,G1063,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:13 ,WORD,Adam,G76,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:13 ,WORD,was,G4111,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:13 ,WORD,first,G4413,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:13 ,WORD,"formed,",G4111,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:13 ,WORD,then,G1534,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:13 ,WORD,Eve.,G2096,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:14 ,WORD,And,G2532,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:14 ,WORD,Adam,G76,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:14 ,WORD,was,G538,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:14 ,WORD,not,G3756,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:14 ,WORD,"deceived,",G538,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:14 ,WORD,but,G1161,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:14 ,WORD,the,G3588,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:14 ,WORD,woman,G1135,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:14 ,PHRASE,being deceived,G538,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:14 ,WORD,was,G1096,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:14 ,WORD,in,G1722,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:14 ,PHRASE,the transgression.,G3847,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:15 ,WORD,Notwithstanding,G1161,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:15 ,PHRASE,she shall be saved,G4982,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:15 ,WORD,in,G1223,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:15 ,WORD,"childbearing,",G5042,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:15 ,WORD,if,G1437,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:15 ,PHRASE,they continue,G3306,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:15 ,WORD,in,G1722,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:15 ,WORD,faith,G4102,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:15 ,WORD,and,G2532,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:15 ,WORD,charity,G26,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:15 ,WORD,and,G2532,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:15 ,WORD,holiness,G38,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:15 ,WORD,with,G3326,Epistles,New Testament,1 Timothy,KJV
+2,1 Timothy2:15 ,WORD,sobriety.,G4997,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:1 ,PHRASE,This [is] a true,G4103,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:1 ,WORD,"saying,",G3056,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:1 ,WORD,If,G1487,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:1 ,PHRASE,a man,G5100,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:1 ,WORD,desire,G3713,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:1 ,PHRASE,"the office of a bishop,",G1984,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:1 ,PHRASE,he desireth,G1937,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:1 ,PHRASE,a good,G2570,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:1 ,WORD,work.,G2041,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:2 ,WORD,A,G3588,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:2 ,WORD,bishop,G1985,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:2 ,WORD,then,G3767,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:2 ,WORD,must,G1163,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:2 ,WORD,be,G1511,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:2 ,WORD,"blameless,",G423,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:2 ,PHRASE,the husband,G435,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:2 ,PHRASE,of one,G1520,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:2 ,WORD,"wife,",G1135,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:2 ,WORD,"vigilant,",G3524,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:2 ,WORD,"sober,",G4998,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:2 ,PHRASE,"of good behaviour,",G2887,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:2 ,PHRASE,"given to hospitality,",G5382,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:2 ,PHRASE,apt to teach;,G1317,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:3 ,WORD,Not,G3361,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:3 ,PHRASE,"given to wine,",G3943,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:3 ,WORD,no,G3361,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:3 ,WORD,"striker,",G4131,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:3 ,WORD,not,G3361,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:3 ,PHRASE,greedy of filthy lucre;,G146,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:3 ,WORD,but,G235,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:3 ,WORD,"patient,",G1933,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:3 ,PHRASE,"not a brawler,",G269,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:3 ,PHRASE,not covetous;,G866,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:4 ,PHRASE,One that ruleth,G4291,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:4 ,WORD,well,G2573,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:4 ,PHRASE,his own,G2398,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:4 ,WORD,"house,",G3624,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:4 ,WORD,having,G2192,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:4 ,PHRASE,his children,G5043,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:4 ,WORD,in,G1722,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:4 ,WORD,subjection,G5292,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:4 ,WORD,with,G3326,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:4 ,WORD,all,G3956,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:4 ,WORD,gravity;,G4587,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:5 ,WORD,(For,G1161,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:5 ,WORD,if,G1487,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:5 ,PHRASE,a man,G5100,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:5 ,WORD,know,G1492,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:5 ,WORD,not,G3756,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:5 ,WORD,how,G1492,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:5 ,PHRASE,to rule,G4291,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:5 ,PHRASE,his own,G2398,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:5 ,WORD,"house,",G3624,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:5 ,WORD,how,G4459,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:5 ,PHRASE,shall he take care of,G1959,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:5 ,PHRASE,the church,G1577,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:5 ,PHRASE,of God?),G2316,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:6 ,WORD,Not,G3361,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:6 ,PHRASE,"a novice,",G3504,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:6 ,WORD,,G2443,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:6 ,WORD,lest,G3361,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:6 ,PHRASE,being lifted up with pride,G5187,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:6 ,PHRASE,he fall,G1706,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:6 ,WORD,into,G1519,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:6 ,PHRASE,the condemnation,G2917,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:6 ,PHRASE,of the,G3588,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:6 ,WORD,devil.,G1228,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:7 ,WORD,Moreover,G1161,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:7 ,WORD,he,G846,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:7 ,WORD,must,G1163,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:7 ,WORD,have,G2192,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:7 ,PHRASE,a good,G2570,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:7 ,WORD,report,G3141,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:7 ,WORD,of,G575,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:7 ,PHRASE,them which,G3588,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:7 ,PHRASE,are without;,G1855,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:7 ,WORD,,G2443,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:7 ,WORD,lest,G3361,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:7 ,PHRASE,he fall,G1706,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:7 ,WORD,into,G1519,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:7 ,WORD,reproach,G3680,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:7 ,WORD,and,G2532,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:7 ,PHRASE,the snare,G3803,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:7 ,PHRASE,of the,G3588,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:7 ,WORD,devil.,G1228,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:8 ,WORD,Likewise,G5615,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:8 ,WORD,[must],,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:8 ,PHRASE,the deacons,G1249,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:8 ,WORD,[be],,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:8 ,WORD,"grave,",G4586,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:8 ,WORD,not,G3361,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:8 ,WORD,"doubletongued,",G1351,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:8 ,WORD,not,G3361,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:8 ,WORD,given,G4337,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:8 ,PHRASE,to much,G4183,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:8 ,WORD,"wine,",G3631,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:8 ,WORD,not,G3361,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:8 ,PHRASE,greedy of filthy lucre;,G146,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:9 ,WORD,Holding,G2192,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:9 ,WORD,the,G3588,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:9 ,WORD,mystery,G3466,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:9 ,PHRASE,of the,G3588,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:9 ,WORD,faith,G4102,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:9 ,WORD,in,G1722,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:9 ,PHRASE,a pure,G2513,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:9 ,WORD,conscience.,G4893,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:10 ,WORD,And,G1161,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:10 ,WORD,let,G1381,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:10 ,WORD,these,G3778,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:10 ,WORD,also,G2532,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:10 ,WORD,first,G4412,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:10 ,PHRASE,be proved;,G1381,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:10 ,WORD,then,G1534,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:10 ,PHRASE,"let them use the office of a deacon,",G1247,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:10 ,WORD,being,G5607,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:10 ,WORD,[found],,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:10 ,WORD,blameless.,G410,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:11 ,PHRASE,Even so,G5615,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:11 ,PHRASE,[must their],,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:11 ,WORD,wives,G1135,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:11 ,WORD,[be],,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:11 ,WORD,"grave,",G4586,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:11 ,WORD,not,G3361,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:11 ,WORD,"slanderers,",G1228,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:11 ,WORD,"sober,",G3524,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:11 ,WORD,faithful,G4103,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:11 ,WORD,in,G1722,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:11 ,PHRASE,all things.,G3956,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:12 ,WORD,Let,G2077,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:12 ,PHRASE,the deacons,G1249,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:12 ,WORD,be,G2077,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:12 ,PHRASE,the husbands,G435,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:12 ,PHRASE,of one,G1520,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:12 ,WORD,"wife,",G1135,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:12 ,WORD,ruling,G4291,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:12 ,PHRASE,their children,G5043,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:12 ,WORD,and,G2532,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:12 ,PHRASE,their own,G2398,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:12 ,WORD,houses,G3624,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:12 ,WORD,well.,G2573,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:13 ,WORD,For,G1063,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:13 ,PHRASE,they that,G3588,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:13 ,PHRASE,have used the office of a deacon,G1247,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:13 ,WORD,well,G2573,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:13 ,WORD,purchase,G4046,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:13 ,PHRASE,to themselves,G1438,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:13 ,PHRASE,a good,G2570,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:13 ,WORD,"degree,",G898,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:13 ,WORD,and,G2532,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:13 ,WORD,great,G4183,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:13 ,WORD,boldness,G3954,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:13 ,WORD,in,G1722,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:13 ,PHRASE,the faith,G4102,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:13 ,WORD,which,G3588,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:13 ,PHRASE,is in,G1722,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:13 ,WORD,Christ,G5547,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:13 ,WORD,Jesus.,G2424,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:14 ,PHRASE,These things,G5023,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:14 ,PHRASE,write I,G1125,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:14 ,PHRASE,"unto thee,",G4671,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:14 ,WORD,hoping,G1679,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:14 ,PHRASE,to come,G2064,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:14 ,WORD,unto,G4314,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:14 ,WORD,thee,G4571,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:14 ,WORD,shortly:,G5032,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:15 ,WORD,But,G1161,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:15 ,WORD,if,G1437,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:15 ,PHRASE,"I tarry long,",G1019,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:15 ,WORD,that,G2443,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:15 ,PHRASE,thou mayest know,G1492,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:15 ,WORD,how,G4459,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:15 ,PHRASE,thou oughtest,G1163,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:15 ,PHRASE,to behave thyself,G390,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:15 ,WORD,in,G1722,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:15 ,PHRASE,the house,G3624,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:15 ,PHRASE,"of God,",G2316,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:15 ,WORD,which,G3748,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:15 ,WORD,is,G2076,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:15 ,PHRASE,the church,G1577,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:15 ,PHRASE,of the living,G2198,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:15 ,WORD,"God,",G2316,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:15 ,PHRASE,the pillar,G4769,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:15 ,WORD,and,G2532,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:15 ,WORD,ground,G1477,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:15 ,PHRASE,of the,G3588,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:15 ,WORD,truth.,G225,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:16 ,WORD,And,G2532,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:16 ,PHRASE,without controversy,G3672,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:16 ,WORD,great,G3173,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:16 ,WORD,is,G2076,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:16 ,WORD,the,G3588,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:16 ,WORD,mystery,G3466,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:16 ,PHRASE,of godliness:,G2150,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:16 ,WORD,God,G2316,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:16 ,PHRASE,was manifest,G5319,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:16 ,WORD,in,G1722,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:16 ,PHRASE,"the flesh,",G4561,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:16 ,WORD,justified,G1344,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:16 ,WORD,in,G1722,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:16 ,PHRASE,"the Spirit,",G4151,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:16 ,WORD,seen,G3700,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:16 ,PHRASE,"of angels,",G32,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:16 ,WORD,preached,G2784,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:16 ,WORD,unto,G1722,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:16 ,PHRASE,"the Gentiles,",G1484,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:16 ,PHRASE,believed on,G4100,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:16 ,WORD,in,G1722,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:16 ,PHRASE,"the world,",G2889,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:16 ,PHRASE,received up,G353,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:16 ,WORD,into,G1722,Epistles,New Testament,1 Timothy,KJV
+3,1 Timothy3:16 ,WORD,glory.,G1391,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:1 ,WORD,Now,G1161,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:1 ,WORD,the,G3588,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:1 ,WORD,Spirit,G4151,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:1 ,WORD,speaketh,G3004,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:1 ,WORD,"expressly,",G4490,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:1 ,WORD,that,G3754,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:1 ,WORD,in,G1722,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:1 ,PHRASE,the latter,G5306,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:1 ,WORD,times,G2540,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:1 ,WORD,some,G5100,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:1 ,PHRASE,shall depart from,G868,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:1 ,WORD,the,G3588,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:1 ,WORD,"faith,",G4102,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:1 ,PHRASE,giving heed,G4337,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:1 ,PHRASE,to seducing,G4108,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:1 ,WORD,"spirits,",G4151,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:1 ,WORD,and,G2532,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:1 ,WORD,doctrines,G1319,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:1 ,PHRASE,of devils;,G1140,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:2 ,PHRASE,Speaking lies,G5573,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:2 ,WORD,in,G1722,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:2 ,WORD,hypocrisy;,G5272,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:2 ,WORD,having,G2743,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:2 ,WORD,their,G2398,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:2 ,WORD,conscience,G4893,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:2 ,PHRASE,seared with a hot iron;,G2743,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:3 ,WORD,Forbidding,G2967,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:3 ,PHRASE,"to marry,",G1060,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:3 ,PHRASE,[and commanding],,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:3 ,PHRASE,to abstain from,G567,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:3 ,WORD,"meats,",G1033,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:3 ,WORD,which,G3739,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:3 ,WORD,God,G2316,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:3 ,PHRASE,hath created,G2936,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:3 ,WORD,to,G1519,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:3 ,PHRASE,be received,G3336,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:3 ,WORD,with,G3326,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:3 ,WORD,thanksgiving,G2169,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:3 ,PHRASE,of them which,G3588,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:3 ,WORD,believe,G4103,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:3 ,WORD,and,G2532,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:3 ,WORD,know,G1921,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:3 ,WORD,the,G3588,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:3 ,WORD,truth.,G225,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:4 ,WORD,For,G3754,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:4 ,WORD,every,G3956,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:4 ,WORD,creature,G2938,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:4 ,PHRASE,of God,G2316,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:4 ,WORD,[is],,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:4 ,WORD,"good,",G2570,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:4 ,WORD,and,G2532,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:4 ,WORD,nothing,G3762,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:4 ,PHRASE,"to be refused,",G579,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:4 ,PHRASE,if it be received,G2983,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:4 ,WORD,with,G3326,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:4 ,WORD,thanksgiving:,G2169,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:5 ,WORD,For,G1063,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:5 ,PHRASE,it is sanctified,G37,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:5 ,WORD,by,G1223,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:5 ,PHRASE,the word,G3056,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:5 ,PHRASE,of God,G2316,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:5 ,WORD,and,G2532,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:5 ,WORD,prayer.,G1783,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:6 ,PHRASE,If thou put,G5294,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:6 ,WORD,the,G3588,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:6 ,WORD,brethren,G80,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:6 ,PHRASE,in remembrance,G5294,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:6 ,PHRASE,"of these things,",G5023,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:6 ,PHRASE,thou shalt be,G2071,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:6 ,PHRASE,a good,G2570,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:6 ,WORD,minister,G1249,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:6 ,PHRASE,of Jesus,G2424,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:6 ,WORD,"Christ,",G5547,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:6 ,PHRASE,nourished up,G1789,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:6 ,PHRASE,in the,G3588,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:6 ,WORD,words,G3056,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:6 ,PHRASE,of faith,G4102,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:6 ,WORD,and,G2532,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:6 ,PHRASE,of good,G2570,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:6 ,WORD,"doctrine,",G1319,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:6 ,WORD,whereunto,G3739,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:6 ,PHRASE,thou hast attained.,G3877,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:7 ,WORD,But,G1161,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:7 ,WORD,refuse,G3868,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:7 ,WORD,profane,G952,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:7 ,WORD,and,G2532,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:7 ,PHRASE,old wives',G1126,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:7 ,WORD,"fables,",G3454,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:7 ,WORD,and,G1161,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:7 ,WORD,exercise,G1128,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:7 ,WORD,thyself,G4572,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:7 ,WORD,[rather],,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:7 ,WORD,unto,G4314,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:7 ,WORD,godliness.,G2150,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:8 ,WORD,For,G1063,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:8 ,WORD,bodily,G4984,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:8 ,WORD,exercise,G1129,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:8 ,WORD,profiteth,G2076,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:8 ,WORD,little:,G4314,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:8 ,WORD,,G3641,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:8 ,WORD,but,G1161,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:8 ,WORD,godliness,G2150,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:8 ,WORD,is,G2076,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:8 ,WORD,profitable,G5624,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:8 ,WORD,unto,G4314,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:8 ,PHRASE,"all things,",G3956,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:8 ,WORD,having,G2192,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:8 ,WORD,promise,G1860,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:8 ,PHRASE,of the life,G2222,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:8 ,PHRASE,"that now is,",G3568,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:8 ,WORD,and,G2532,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:8 ,PHRASE,of that which is to come.,G3195,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:9 ,PHRASE,This [is] a faithful,G4103,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:9 ,WORD,saying,G3056,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:9 ,WORD,and,G2532,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:9 ,WORD,worthy,G514,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:9 ,PHRASE,of all,G3956,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:9 ,WORD,acceptation.,G594,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:10 ,WORD,For,G1063,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:10 ,WORD,therefore,G1519,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:10 ,WORD,,G5124,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:10 ,WORD,we,G2872,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:10 ,WORD,both,G2532,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:10 ,WORD,labour,G2872,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:10 ,WORD,and,G2532,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:10 ,PHRASE,"suffer reproach,",G3679,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:10 ,WORD,because,G3754,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:10 ,PHRASE,we trust,G1679,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:10 ,WORD,in,G1909,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:10 ,PHRASE,the living,G2198,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:10 ,WORD,"God,",G2316,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:10 ,WORD,who,G3739,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:10 ,WORD,is,G2076,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:10 ,PHRASE,the Saviour,G4990,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:10 ,PHRASE,of all,G3956,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:10 ,WORD,"men,",G444,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:10 ,WORD,specially,G3122,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:10 ,PHRASE,of those that believe.,G4103,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:11 ,PHRASE,These things,G5023,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:11 ,WORD,command,G3853,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:11 ,WORD,and,G2532,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:11 ,WORD,teach.,G1321,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:12 ,WORD,Let,G2706,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:12 ,PHRASE,no man,G3367,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:12 ,WORD,despise,G2706,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:12 ,WORD,thy,G4675,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:12 ,WORD,youth;,G3503,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:12 ,WORD,but,G235,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:12 ,PHRASE,be thou,G1096,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:12 ,PHRASE,an example,G5179,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:12 ,PHRASE,of the,G3588,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:12 ,WORD,"believers,",G4103,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:12 ,WORD,in,G1722,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:12 ,WORD,"word,",G3056,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:12 ,WORD,in,G1722,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:12 ,WORD,"conversation,",G391,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:12 ,WORD,in,G1722,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:12 ,WORD,"charity,",G26,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:12 ,WORD,in,G1722,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:12 ,WORD,"spirit,",G4151,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:12 ,WORD,in,G1722,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:12 ,WORD,"faith,",G4102,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:12 ,WORD,in,G1722,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:12 ,WORD,purity.,G47,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:13 ,WORD,Till,G2193,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:13 ,PHRASE,"I come,",G2064,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:13 ,PHRASE,give attendance,G4337,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:13 ,PHRASE,"to reading,",G320,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:13 ,PHRASE,"to exhortation,",G3874,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:13 ,PHRASE,to doctrine.,G1319,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:14 ,WORD,Neglect,G272,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:14 ,WORD,not,G3361,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:14 ,PHRASE,the gift,G5486,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:14 ,PHRASE,that is in,G1722,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:14 ,WORD,"thee,",G4671,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:14 ,WORD,which,G3739,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:14 ,PHRASE,was given,G1325,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:14 ,WORD,thee,G4671,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:14 ,WORD,by,G1223,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:14 ,WORD,"prophecy,",G4394,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:14 ,WORD,with,G3326,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:14 ,PHRASE,the laying on,G1936,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:14 ,PHRASE,of the,G3588,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:14 ,WORD,hands,G5495,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:14 ,PHRASE,of the,G3588,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:14 ,WORD,presbytery.,G4244,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:15 ,PHRASE,Meditate upon,G3191,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:15 ,PHRASE,these things;,G5023,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:15 ,PHRASE,give thyself,G2468,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:15 ,PHRASE,wholly to,G1722,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:15 ,WORD,them;,G5125,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:15 ,WORD,that,G2443,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:15 ,WORD,thy,G4675,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:15 ,WORD,profiting,G4297,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:15 ,WORD,may,G5600,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:15 ,WORD,appear,G5318,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:15 ,WORD,to,G1722,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:15 ,WORD,all.,G3956,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:16 ,PHRASE,Take heed,G1907,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:16 ,PHRASE,"unto thyself,",G4572,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:16 ,WORD,and,G2532,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:16 ,PHRASE,unto the,G3588,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:16 ,WORD,doctrine;,G1319,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:16 ,WORD,continue,G1961,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:16 ,PHRASE,in them:,G846,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:16 ,WORD,for,G1063,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:16 ,PHRASE,in doing,G4160,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:16 ,WORD,this,G5124,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:16 ,PHRASE,thou shalt,G4982,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:16 ,WORD,both,G2532,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:16 ,WORD,save,G4982,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:16 ,WORD,"thyself,",G4572,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:16 ,WORD,and,G2532,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:16 ,PHRASE,them that,G3588,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:16 ,WORD,hear,G191,Epistles,New Testament,1 Timothy,KJV
+4,1 Timothy4:16 ,WORD,thee.,G4675,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:1 ,WORD,Rebuke,G1969,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:1 ,WORD,not,G3361,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:1 ,PHRASE,"an elder,",G4245,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:1 ,WORD,but,G235,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:1 ,WORD,intreat,G3870,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:1 ,WORD,[him],,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:1 ,WORD,as,G5613,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:1 ,PHRASE,a father;,G3962,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:1 ,WORD,[and],,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:1 ,PHRASE,the younger men,G3501,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:1 ,WORD,as,G5613,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:1 ,WORD,brethren;,G80,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:2 ,PHRASE,The elder women,G4245,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:2 ,WORD,as,G5613,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:2 ,WORD,mothers;,G3384,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:2 ,PHRASE,the younger,G3501,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:2 ,WORD,as,G5613,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:2 ,WORD,"sisters,",G79,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:2 ,WORD,with,G1722,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:2 ,WORD,all,G3956,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:2 ,WORD,purity.,G47,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:3 ,WORD,Honour,G5091,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:3 ,WORD,widows,G5503,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:3 ,PHRASE,that are widows,G5503,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:3 ,WORD,indeed.,G3689,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:4 ,WORD,But,G1161,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:4 ,WORD,if,G1487,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:4 ,WORD,any,G5100,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:4 ,WORD,widow,G5503,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:4 ,WORD,have,G2192,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:4 ,WORD,children,G5043,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:4 ,WORD,or,G2228,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:4 ,WORD,"nephews,",G1549,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:4 ,PHRASE,let them learn,G3129,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:4 ,WORD,first,G4412,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:4 ,PHRASE,to shew piety,G2151,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:4 ,PHRASE,"at home,",G2398,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:4 ,WORD,,G3624,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:4 ,WORD,and,G2532,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:4 ,PHRASE,to requite,G287,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:4 ,WORD,,G591,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:4 ,PHRASE,their parents:,G4269,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:4 ,WORD,for,G1063,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:4 ,WORD,that,G5124,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:4 ,WORD,is,G2076,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:4 ,WORD,good,G2570,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:4 ,WORD,and,G2532,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:4 ,WORD,acceptable,G587,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:4 ,WORD,before,G1799,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:4 ,WORD,God.,G2316,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:5 ,WORD,Now,G1161,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:5 ,PHRASE,she that,G3588,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:5 ,PHRASE,is a widow,G5503,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:5 ,WORD,"indeed,",G3689,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:5 ,WORD,and,G2532,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:5 ,WORD,"desolate,",G3443,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:5 ,WORD,trusteth,G1679,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:5 ,WORD,in,G1909,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:5 ,WORD,"God,",G2316,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:5 ,WORD,and,G2532,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:5 ,WORD,continueth,G4357,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:5 ,PHRASE,in supplications,G1162,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:5 ,WORD,and,G2532,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:5 ,WORD,prayers,G4335,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:5 ,WORD,night,G3571,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:5 ,WORD,and,G2532,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:5 ,WORD,day.,G2250,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:6 ,WORD,But,G1161,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:6 ,PHRASE,she that,G3588,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:6 ,PHRASE,liveth in pleasure,G4684,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:6 ,PHRASE,is dead,G2348,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:6 ,PHRASE,while she liveth.,G2198,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:7 ,WORD,And,G2532,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:7 ,PHRASE,these things,G5023,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:7 ,PHRASE,"give in charge,",G3853,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:7 ,WORD,that,G2443,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:7 ,PHRASE,they may be,G5600,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:7 ,WORD,blameless.,G423,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:8 ,WORD,But,G1161,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:8 ,WORD,if,G1487,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:8 ,WORD,any,G5100,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:8 ,WORD,provide,G4306,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:8 ,WORD,not,G3756,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:8 ,PHRASE,"for his own,",G2398,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:8 ,WORD,and,G2532,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:8 ,WORD,specially,G3122,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:8 ,PHRASE,"for those of his own house,",G3609,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:8 ,PHRASE,he hath denied,G720,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:8 ,WORD,the,G3588,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:8 ,WORD,"faith,",G4102,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:8 ,WORD,and,G2532,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:8 ,WORD,is,G2076,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:8 ,PHRASE,worse than,G5501,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:8 ,PHRASE,an infidel.,G571,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:9 ,WORD,Let,G2639,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:9 ,WORD,not,G3361,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:9 ,PHRASE,a widow,G5503,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:9 ,PHRASE,be taken into the number,G2639,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:9 ,WORD,under,G1640,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:9 ,WORD,threescore,G1835,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:9 ,PHRASE,"years old,",G2094,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:9 ,PHRASE,having been,G1096,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:9 ,PHRASE,the wife,G1135,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:9 ,PHRASE,of one,G1520,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:9 ,WORD,"man,",G435,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:10 ,PHRASE,Well reported of,G3140,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:10 ,WORD,for,G1722,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:10 ,WORD,good,G2570,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:10 ,WORD,works;,G2041,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:10 ,WORD,if,G1487,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:10 ,PHRASE,"she have brought up children,",G5044,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:10 ,WORD,if,G1487,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:10 ,PHRASE,"she have lodged strangers,",G3580,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:10 ,WORD,if,G1487,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:10 ,PHRASE,she have washed,G3538,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:10 ,PHRASE,the saints',G40,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:10 ,WORD,"feet,",G4228,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:10 ,WORD,if,G1487,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:10 ,PHRASE,she have relieved,G1884,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:10 ,PHRASE,"the afflicted,",G2346,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:10 ,WORD,if,G1487,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:10 ,PHRASE,she have diligently followed,G1872,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:10 ,WORD,every,G3956,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:10 ,WORD,good,G18,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:10 ,WORD,work.,G2041,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:11 ,WORD,But,G1161,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:11 ,PHRASE,the younger,G3501,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:11 ,WORD,widows,G5503,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:11 ,WORD,refuse:,G3868,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:11 ,WORD,for,G1063,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:11 ,WORD,when,G3752,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:11 ,PHRASE,they have begun to wax wanton against,G2691,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:11 ,WORD,"Christ,",G5547,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:11 ,PHRASE,they will,G2309,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:11 ,WORD,marry;,G1060,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:12 ,WORD,Having,G2192,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:12 ,WORD,"damnation,",G2917,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:12 ,WORD,because,G3754,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:12 ,PHRASE,they have cast off,G114,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:12 ,PHRASE,their first,G4413,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:12 ,WORD,faith.,G4102,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:13 ,WORD,And,G1161,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:13 ,WORD,,G2532,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:13 ,WORD,withal,G260,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:13 ,PHRASE,they learn,G3129,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:13 ,PHRASE,[to be],,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:13 ,WORD,"idle,",G692,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:13 ,PHRASE,wandering about,G4022,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:13 ,PHRASE,from house to house;,G3614,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:13 ,WORD,and,G1161,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:13 ,WORD,not,G3756,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:13 ,WORD,only,G3440,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:13 ,WORD,"idle,",G692,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:13 ,WORD,but,G235,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:13 ,WORD,tattlers,G5397,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:13 ,WORD,also,G2532,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:13 ,WORD,and,G2532,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:13 ,WORD,"busybodies,",G4021,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:13 ,WORD,speaking,G2980,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:13 ,PHRASE,things which,G3588,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:13 ,PHRASE,they ought,G1163,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:13 ,WORD,not.,G3361,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:14 ,PHRASE,I will,G1014,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:14 ,WORD,therefore,G3767,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:14 ,PHRASE,that the younger women,G3501,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:14 ,WORD,"marry,",G1060,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:14 ,PHRASE,"bear children,",G5041,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:14 ,PHRASE,"guide the house,",G3616,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:14 ,WORD,give,G1325,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:14 ,WORD,none,G3367,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:14 ,WORD,occasion,G874,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:14 ,PHRASE,to the,G3588,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:14 ,WORD,adversary,G480,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:14 ,WORD,to,G5484,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:14 ,PHRASE,speak reproachfully.,G3059,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:15 ,WORD,For,G1063,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:15 ,WORD,some,G5100,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:15 ,WORD,are,G1624,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:15 ,WORD,already,G2235,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:15 ,PHRASE,turned aside,G1624,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:15 ,WORD,after,G3694,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:15 ,WORD,Satan.,G4567,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:16 ,WORD,If,G1487,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:16 ,WORD,any,G5100,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:16 ,WORD,man,G4103,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:16 ,WORD,or,G2228,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:16 ,PHRASE,woman that believeth,G4103,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:16 ,WORD,have,G2192,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:16 ,WORD,"widows,",G5503,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:16 ,PHRASE,let them relieve,G1884,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:16 ,WORD,"them,",G846,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:16 ,WORD,and,G2532,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:16 ,WORD,let,G916,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:16 ,WORD,not,G3361,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:16 ,WORD,the,G3588,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:16 ,WORD,church,G1577,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:16 ,PHRASE,be charged;,G916,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:16 ,WORD,that,G2443,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:16 ,PHRASE,it may relieve,G1884,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:16 ,PHRASE,them that,G3588,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:16 ,PHRASE,are widows,G5503,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:16 ,WORD,indeed.,G3689,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:17 ,WORD,Let,G515,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:17 ,PHRASE,the elders,G4245,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:17 ,PHRASE,that rule,G4291,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:17 ,WORD,well,G2573,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:17 ,PHRASE,be counted worthy,G515,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:17 ,PHRASE,of double,G1362,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:17 ,WORD,"honour,",G5092,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:17 ,WORD,especially,G3122,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:17 ,PHRASE,they who,G3588,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:17 ,WORD,labour,G2872,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:17 ,WORD,in,G1722,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:17 ,PHRASE,the word,G3056,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:17 ,WORD,and,G2532,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:17 ,WORD,doctrine.,G1319,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:18 ,WORD,For,G1063,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:18 ,WORD,the,G3588,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:18 ,WORD,scripture,G1124,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:18 ,WORD,"saith,",G3004,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:18 ,PHRASE,Thou shalt,G5392,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:18 ,WORD,not,G3756,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:18 ,WORD,muzzle,G5392,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:18 ,PHRASE,the ox,G1016,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:18 ,PHRASE,that treadeth out the corn.,G248,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:18 ,WORD,"And,",G2532,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:18 ,WORD,The,G3588,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:18 ,WORD,labourer,G2040,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:18 ,WORD,[is],,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:18 ,WORD,worthy,G514,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:18 ,PHRASE,of his,G846,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:18 ,WORD,reward.,G3408,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:19 ,WORD,Against,G2596,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:19 ,PHRASE,an elder,G4245,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:19 ,WORD,receive,G3858,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:19 ,WORD,not,G3361,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:19 ,PHRASE,"an accusation,",G2724,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:19 ,WORD,,G1487,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:19 ,WORD,but,G3361,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:19 ,WORD,,G1622,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:19 ,WORD,before,G1909,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:19 ,WORD,two,G1417,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:19 ,WORD,or,G2228,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:19 ,WORD,three,G5140,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:19 ,WORD,witnesses.,G3144,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:20 ,PHRASE,Them that,G3588,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:20 ,WORD,sin,G264,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:20 ,WORD,rebuke,G1651,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:20 ,WORD,before,G1799,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:20 ,WORD,"all,",G3956,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:20 ,WORD,that,G2443,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:20 ,WORD,others,G3062,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:20 ,WORD,also,G2532,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:20 ,WORD,may,G2192,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:20 ,WORD,fear.,G5401,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:21 ,PHRASE,I charge,G1263,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:21 ,WORD,[thee],,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:21 ,WORD,before,G1799,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:21 ,WORD,"God,",G2316,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:21 ,WORD,and,G2532,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:21 ,PHRASE,the Lord,G2962,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:21 ,WORD,Jesus,G2424,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:21 ,WORD,"Christ,",G5547,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:21 ,WORD,and,G2532,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:21 ,WORD,the,G3588,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:21 ,WORD,elect,G1588,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:21 ,WORD,"angels,",G32,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:21 ,WORD,that,G2443,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:21 ,PHRASE,thou observe,G5442,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:21 ,PHRASE,these things,G5023,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:21 ,WORD,without,G5565,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:21 ,PHRASE,"preferring one before another,",G4299,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:21 ,WORD,doing,G4160,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:21 ,WORD,nothing,G3367,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:21 ,WORD,by,G2596,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:21 ,WORD,partiality.,G4346,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:22 ,WORD,Lay,G2007,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:22 ,WORD,hands,G5495,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:22 ,WORD,suddenly,G5030,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:22 ,WORD,on,G2007,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:22 ,PHRASE,"no man,",G3367,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:22 ,WORD,neither,G3366,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:22 ,PHRASE,be partaker,G2841,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:22 ,PHRASE,of other,G245,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:22 ,PHRASE,men's sins:,G266,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:22 ,WORD,keep,G5083,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:22 ,WORD,thyself,G4572,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:22 ,WORD,pure.,G53,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:23 ,WORD,Drink,G5202,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:23 ,PHRASE,no longer,G3371,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:23 ,WORD,"water,",G5202,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:23 ,WORD,but,G235,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:23 ,WORD,use,G5530,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:23 ,PHRASE,a little,G3641,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:23 ,WORD,wine,G3631,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:23 ,WORD,for,G1223,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:23 ,WORD,thy,G4675,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:23 ,PHRASE,stomach's sake,G4751,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:23 ,WORD,and,G2532,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:23 ,WORD,thine,G4675,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:23 ,WORD,often,G4437,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:23 ,WORD,infirmities.,G769,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:24 ,WORD,Some,G5100,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:24 ,WORD,men's,G444,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:24 ,WORD,sins,G266,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:24 ,WORD,are,G1526,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:24 ,PHRASE,"open beforehand,",G4271,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:24 ,PHRASE,going before,G4254,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:24 ,WORD,to,G1519,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:24 ,WORD,judgment;,G2920,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:24 ,WORD,and,G1161,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:24 ,WORD,,G2532,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:24 ,WORD,some,G5100,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:24 ,WORD,[men],,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:24 ,PHRASE,they follow after.,G1872,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:25 ,WORD,Likewise,G5615,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:25 ,WORD,also,G2532,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:25 ,WORD,the,G3588,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:25 ,WORD,good,G2570,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:25 ,WORD,works,G2041,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:25 ,PHRASE,[of some],,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:25 ,WORD,are,G2076,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:25 ,PHRASE,manifest beforehand;,G4271,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:25 ,WORD,and,G2532,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:25 ,PHRASE,they that,G3588,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:25 ,WORD,are,G2192,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:25 ,WORD,otherwise,G247,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:25 ,WORD,cannot,G3756,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:25 ,WORD,,G1410,Epistles,New Testament,1 Timothy,KJV
+5,1 Timothy5:25 ,PHRASE,be hid.,G2928,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:1 ,WORD,Let,G1526,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:1 ,PHRASE,as many,G3745,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:1 ,WORD,servants,G1401,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:1 ,WORD,as,G3745,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:1 ,WORD,are,G1526,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:1 ,WORD,under,G5259,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:1 ,PHRASE,the yoke,G2218,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:1 ,WORD,count,G2233,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:1 ,PHRASE,their own,G2398,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:1 ,WORD,masters,G1203,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:1 ,WORD,worthy,G514,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:1 ,PHRASE,of all,G3956,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:1 ,WORD,"honour,",G5092,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:1 ,WORD,that,G2443,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:1 ,WORD,the,G3588,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:1 ,WORD,name,G3686,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:1 ,PHRASE,of God,G2316,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:1 ,WORD,and,G2532,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:1 ,WORD,[his],,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:1 ,WORD,doctrine,G1319,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:1 ,WORD,be,G987,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:1 ,WORD,not,G3361,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:1 ,WORD,blasphemed.,G987,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:2 ,WORD,And,G1161,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:2 ,PHRASE,they that,G3588,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:2 ,WORD,have,G2192,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:2 ,WORD,believing,G4103,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:2 ,WORD,"masters,",G1203,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:2 ,PHRASE,let them,G2706,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:2 ,WORD,not,G3361,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:2 ,WORD,despise,G2706,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:2 ,WORD,"[them],",,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:2 ,WORD,because,G3754,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:2 ,PHRASE,they are,G1526,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:2 ,WORD,brethren;,G80,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:2 ,WORD,but,G235,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:2 ,WORD,rather,G3123,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:2 ,PHRASE,do [them],,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:2 ,WORD,"service,",G1398,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:2 ,WORD,because,G3754,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:2 ,PHRASE,they are,G1526,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:2 ,WORD,faithful,G4103,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:2 ,WORD,and,G2532,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:2 ,WORD,"beloved,",G27,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:2 ,WORD,partakers,G482,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:2 ,PHRASE,of the,G3588,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:2 ,WORD,benefit.,G2108,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:2 ,PHRASE,These things,G5023,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:2 ,WORD,teach,G1321,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:2 ,WORD,and,G2532,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:2 ,WORD,exhort.,G3870,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:3 ,WORD,If,G1487,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:3 ,PHRASE,any man,G5100,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:3 ,PHRASE,"teach otherwise,",G2085,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:3 ,WORD,and,G2532,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:3 ,WORD,consent,G4334,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:3 ,WORD,not,G3361,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:3 ,PHRASE,to wholesome,G5198,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:3 ,WORD,"words,",G3056,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:3 ,WORD,[even],,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:3 ,PHRASE,the words of our,G2257,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:3 ,WORD,Lord,G2962,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:3 ,WORD,Jesus,G2424,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:3 ,WORD,"Christ,",G5547,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:3 ,WORD,and,G2532,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:3 ,PHRASE,to the doctrine,G1319,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:3 ,WORD,which,G3588,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:3 ,PHRASE,is according,G2596,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:3 ,PHRASE,to godliness;,G2150,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:4 ,PHRASE,"He is proud,",G5187,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:4 ,WORD,knowing,G1987,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:4 ,WORD,"nothing,",G3367,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:4 ,WORD,but,G235,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:4 ,WORD,doting,G3552,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:4 ,WORD,about,G4012,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:4 ,WORD,questions,G2214,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:4 ,WORD,and,G2532,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:4 ,PHRASE,"strifes of words,",G3055,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:4 ,WORD,whereof,G1537,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:4 ,WORD,,G3739,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:4 ,WORD,cometh,G1096,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:4 ,WORD,"envy,",G5355,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:4 ,WORD,"strife,",G2054,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:4 ,WORD,"railings,",G988,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:4 ,WORD,evil,G4190,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:4 ,WORD,"surmisings,",G5283,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:5 ,PHRASE,Perverse disputings,G3859,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:5 ,PHRASE,of men,G444,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:5 ,PHRASE,of corrupt,G1311,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:5 ,WORD,"minds,",G3563,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:5 ,WORD,and,G2532,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:5 ,WORD,destitute,G650,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:5 ,PHRASE,of the,G3588,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:5 ,WORD,"truth,",G225,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:5 ,WORD,supposing,G3543,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:5 ,PHRASE,that gain,G4200,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:5 ,WORD,is,G1511,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:5 ,WORD,godliness:,G2150,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:5 ,WORD,from,G575,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:5 ,WORD,such,G5108,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:5 ,PHRASE,withdraw thyself.,G868,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:6 ,WORD,But,G1161,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:6 ,WORD,godliness,G2150,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:6 ,WORD,with,G3326,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:6 ,WORD,contentment,G841,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:6 ,WORD,is,G2076,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:6 ,WORD,great,G3173,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:6 ,WORD,gain.,G4200,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:7 ,WORD,For,G1063,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:7 ,PHRASE,we brought,G1533,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:7 ,WORD,nothing,G3762,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:7 ,WORD,into,G1519,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:7 ,WORD,[this],,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:7 ,WORD,"world,",G2889,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:7 ,PHRASE,[and it is],,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:7 ,WORD,certain,G1212,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:7 ,WORD,,G3754,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:7 ,PHRASE,we can,G1410,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:7 ,WORD,carry,G1627,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:7 ,WORD,nothing,G3761,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:7 ,WORD,,G5100,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:7 ,WORD,out.,G1627,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:8 ,WORD,And,G1161,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:8 ,WORD,having,G2192,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:8 ,WORD,food,G1305,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:8 ,WORD,and,G2532,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:8 ,WORD,raiment,G4629,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:8 ,PHRASE,let us be,G714,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:8 ,WORD,therewith,G5125,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:8 ,WORD,content.,G714,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:9 ,WORD,But,G1161,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:9 ,PHRASE,they that,G3588,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:9 ,WORD,will,G1014,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:9 ,PHRASE,be rich,G4147,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:9 ,WORD,fall,G1706,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:9 ,WORD,into,G1519,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:9 ,WORD,temptation,G3986,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:9 ,WORD,and,G2532,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:9 ,PHRASE,"a snare,",G3803,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:9 ,WORD,and,G2532,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:9 ,WORD,[into],,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:9 ,WORD,many,G4183,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:9 ,WORD,foolish,G453,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:9 ,WORD,and,G2532,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:9 ,WORD,hurtful,G983,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:9 ,WORD,"lusts,",G1939,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:9 ,WORD,which,G3748,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:9 ,WORD,drown,G1036,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:9 ,WORD,men,G444,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:9 ,WORD,in,G1519,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:9 ,WORD,destruction,G3639,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:9 ,WORD,and,G2532,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:9 ,WORD,perdition.,G684,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:10 ,WORD,For,G1063,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:10 ,WORD,the,G3588,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:10 ,PHRASE,love of money,G5365,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:10 ,WORD,is,G2076,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:10 ,PHRASE,the root,G4491,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:10 ,PHRASE,of all,G3956,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:10 ,WORD,evil:,G2556,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:10 ,WORD,which,G3739,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:10 ,PHRASE,while some,G5100,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:10 ,PHRASE,"coveted after,",G3713,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:10 ,PHRASE,they have erred,G635,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:10 ,WORD,from,G575,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:10 ,WORD,the,G3588,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:10 ,WORD,"faith,",G4102,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:10 ,WORD,and,G2532,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:10 ,WORD,pierced,G4044,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:10 ,WORD,themselves,G1438,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:10 ,WORD,through,G4044,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:10 ,PHRASE,with many,G4183,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:10 ,WORD,sorrows.,G3601,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:11 ,WORD,But,G1161,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:11 ,WORD,"thou,",G4771,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:11 ,WORD,O,G5599,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:11 ,WORD,man,G444,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:11 ,PHRASE,"of God,",G2316,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:11 ,WORD,flee,G5343,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:11 ,PHRASE,these things;,G5023,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:11 ,WORD,and,G1161,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:11 ,PHRASE,follow after,G1377,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:11 ,WORD,"righteousness,",G1343,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:11 ,WORD,"godliness,",G2150,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:11 ,WORD,"faith,",G4102,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:11 ,WORD,"love,",G26,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:11 ,WORD,"patience,",G5281,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:11 ,WORD,meekness.,G4236,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:12 ,WORD,Fight,G75,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:12 ,WORD,the,G3588,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:12 ,WORD,good,G2570,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:12 ,WORD,fight,G73,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:12 ,PHRASE,"of faith,",G4102,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:12 ,PHRASE,lay hold on,G1949,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:12 ,WORD,eternal,G166,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:12 ,WORD,"life,",G2222,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:12 ,WORD,whereunto,G1519,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:12 ,WORD,,G3739,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:12 ,PHRASE,thou art,G2564,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:12 ,WORD,also,G2532,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:12 ,WORD,"called,",G2564,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:12 ,WORD,and,G2532,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:12 ,PHRASE,hast professed,G3670,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:12 ,WORD,a,G3588,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:12 ,WORD,good,G2570,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:12 ,WORD,profession,G3671,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:12 ,WORD,before,G1799,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:12 ,WORD,many,G4183,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:12 ,WORD,witnesses.,G3144,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:13 ,PHRASE,I give,G3853,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:13 ,WORD,thee,G4671,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:13 ,WORD,charge,G3853,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:13 ,PHRASE,in the sight,G1799,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:13 ,PHRASE,"of God,",G2316,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:13 ,WORD,who,G3588,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:13 ,WORD,quickeneth,G2227,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:13 ,PHRASE,"all things,",G3956,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:13 ,WORD,and,G2532,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:13 ,WORD,[before],,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:13 ,WORD,Christ,G5547,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:13 ,WORD,"Jesus,",G2424,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:13 ,WORD,who,G3588,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:13 ,WORD,before,G1909,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:13 ,WORD,Pontius,G4194,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:13 ,WORD,Pilate,G4091,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:13 ,WORD,witnessed,G3140,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:13 ,WORD,a,G3588,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:13 ,WORD,good,G2570,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:13 ,WORD,confession;,G3671,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:14 ,PHRASE,That thou,G4571,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:14 ,WORD,keep,G5083,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:14 ,WORD,[this],,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:14 ,WORD,commandment,G1785,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:14 ,PHRASE,"without spot,",G784,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:14 ,WORD,"unrebukeable,",G423,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:14 ,WORD,until,G3360,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:14 ,WORD,the,G3588,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:14 ,WORD,appearing,G2015,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:14 ,PHRASE,of our,G2257,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:14 ,WORD,Lord,G2962,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:14 ,WORD,Jesus,G2424,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:14 ,WORD,Christ:,G5547,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:15 ,WORD,Which,G3739,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:15 ,PHRASE,in his,G2398,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:15 ,WORD,times,G2540,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:15 ,PHRASE,"he shall shew,",G1166,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:15 ,PHRASE,[who is],,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:15 ,WORD,the,G3588,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:15 ,WORD,blessed,G3107,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:15 ,WORD,and,G2532,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:15 ,WORD,only,G3441,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:15 ,WORD,"Potentate,",G1413,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:15 ,WORD,the,G3588,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:15 ,WORD,King,G935,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:15 ,PHRASE,"of kings,",G936,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:15 ,WORD,and,G2532,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:15 ,WORD,Lord,G2962,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:15 ,PHRASE,of lords;,G2961,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:16 ,WORD,Who,G3588,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:16 ,WORD,only,G3441,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:16 ,WORD,hath,G2192,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:16 ,WORD,"immortality,",G110,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:16 ,WORD,dwelling,G3611,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:16 ,PHRASE,in the light,G5457,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:16 ,PHRASE,which no man,G3762,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:16 ,PHRASE,can approach unto;,G676,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:16 ,WORD,whom,G3739,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:16 ,PHRASE,no man,G444,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:16 ,PHRASE,"hath seen,",G1492,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:16 ,WORD,nor,G3761,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:16 ,WORD,can,G1410,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:16 ,WORD,see:,G3708,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:16 ,PHRASE,to whom,G3739,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:16 ,WORD,[be],,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:16 ,WORD,honour,G5092,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:16 ,WORD,and,G2532,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:16 ,WORD,power,G2904,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:16 ,WORD,everlasting.,G166,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:16 ,WORD,Amen.,G281,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:17 ,WORD,Charge,G3853,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:17 ,PHRASE,them that,G3588,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:17 ,PHRASE,are rich,G4145,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:17 ,WORD,in,G1722,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:17 ,WORD,this,G3568,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:17 ,WORD,"world,",G165,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:17 ,PHRASE,that they be,G5309,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:17 ,WORD,not,G3361,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:17 ,WORD,"highminded,",G5309,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:17 ,WORD,nor,G3366,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:17 ,WORD,trust,G1679,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:17 ,WORD,in,G1909,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:17 ,WORD,uncertain,G83,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:17 ,WORD,"riches,",G4149,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:17 ,WORD,but,G235,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:17 ,WORD,in,G1722,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:17 ,WORD,the,G3588,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:17 ,WORD,living,G2198,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:17 ,WORD,"God,",G2316,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:17 ,WORD,who,G3588,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:17 ,WORD,giveth,G3930,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:17 ,WORD,us,G2254,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:17 ,WORD,richly,G4146,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:17 ,PHRASE,all things,G3956,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:17 ,WORD,to,G1519,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:17 ,WORD,enjoy;,G619,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:18 ,PHRASE,"That they do good,",G14,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:18 ,PHRASE,that they be rich,G4147,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:18 ,WORD,in,G1722,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:18 ,WORD,good,G2570,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:18 ,WORD,"works,",G2041,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:18 ,PHRASE,"ready to distribute,",G1511,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:18 ,WORD,,G2130,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:18 ,PHRASE,willing to communicate;,G2843,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:19 ,PHRASE,Laying up in store,G597,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:19 ,PHRASE,for themselves,G1438,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:19 ,PHRASE,a good,G2570,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:19 ,WORD,foundation,G2310,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:19 ,WORD,against,G1519,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:19 ,WORD,the,G3588,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:19 ,PHRASE,"time to come,",G3195,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:19 ,WORD,that,G2443,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:19 ,PHRASE,they may lay hold on,G1949,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:19 ,WORD,eternal,G166,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:19 ,WORD,life.,G2222,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:20 ,WORD,O,G5599,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:20 ,WORD,"Timothy,",G5095,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:20 ,WORD,keep,G5442,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:20 ,PHRASE,that which,G3588,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:20 ,PHRASE,"is committed to thy trust,",G3872,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:20 ,WORD,avoiding,G1624,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:20 ,WORD,profane,G952,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:20 ,WORD,[and],,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:20 ,PHRASE,"vain babblings,",G2757,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:20 ,WORD,and,G2532,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:20 ,WORD,oppositions,G477,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:20 ,PHRASE,of science,G1108,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:20 ,PHRASE,falsely so called:,G5581,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:21 ,WORD,Which,G3739,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:21 ,WORD,some,G5100,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:21 ,WORD,professing,G1861,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:21 ,PHRASE,have erred,G795,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:21 ,WORD,concerning,G4012,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:21 ,WORD,the,G3588,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:21 ,WORD,faith.,G4102,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:21 ,WORD,Grace,G5485,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:21 ,WORD,[be],,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:21 ,WORD,with,G3326,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:21 ,WORD,thee.,G4675,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:21 ,WORD,Amen.,G281,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:21 ,PHRASE,The first,G4413,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:21 ,WORD,to,G4314,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:21 ,WORD,Timothy,G5095,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:21 ,PHRASE,was written,G1125,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:21 ,WORD,from,G575,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:21 ,WORD,"Laodicea,",G2993,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:21 ,WORD,which,G3748,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:21 ,WORD,is,G2076,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:21 ,PHRASE,the chiefest city,G3390,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:21 ,PHRASE,of Phrygia,G5435,Epistles,New Testament,1 Timothy,KJV
+6,1 Timothy6:21 ,WORD,Pacatiana.,G3818,Epistles,New Testament,1 Timothy,KJV

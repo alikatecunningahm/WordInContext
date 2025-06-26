@@ -1,0 +1,1365 @@
+bible_chapter,bible_verse,verse_part_type,verse_part,hebrew_id,lit_type,testament_type,bible_book,version
+1,1 Thessalonians1:1 ,WORD,Paul,G3972,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:1 ,WORD,and,G2532,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:1 ,WORD,Silvanus,G4610,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:1 ,WORD,and,G2532,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:1 ,WORD,Timothy,G5095,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:1 ,PHRASE,To the,G3588,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:1 ,WORD,church,G1577,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:1 ,PHRASE,of the Thessalonians,G2331,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:1 ,WORD,in,G1722,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:1 ,WORD,God,G2316,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:1 ,PHRASE,the Father,G3962,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:1 ,WORD,and,G2532,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:1 ,PHRASE,the Lord,G2962,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:1 ,WORD,Jesus,G2424,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:1 ,WORD,Christ,G5547,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:1 ,WORD,Grace,G5485,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:1 ,PHRASE,to you,G4771,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:1 ,WORD,and,G2532,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:1 ,WORD,peace,G1515,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:2 ,PHRASE,We give thanks,G2168,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:2 ,PHRASE,to God,G2316,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:2 ,WORD,always,G3842,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:2 ,WORD,for,G4012,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:2 ,WORD,all,G3956,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:2 ,PHRASE,of you,G4771,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:2 ,WORD,making,G4160,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:2 ,PHRASE,mention of you,G3417,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:2 ,WORD,in,G1909,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:2 ,WORD,our,G1473,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:2 ,WORD,prayers,G4335,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:3 ,WORD,constantly,G89,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:3 ,PHRASE,bearing in mind,G3421,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:3 ,WORD,your,G4771,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:3 ,WORD,work,G2041,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:3 ,PHRASE,of faith,G4102,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:3 ,WORD,and,G2532,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:3 ,WORD,labor,G2873,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:3 ,PHRASE,of love,G26,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:3 ,WORD,and,G2532,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:3 ,WORD,steadfastness,G5281,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:3 ,PHRASE,of hope,G1680,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:3 ,PHRASE,in our,G1473,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:3 ,WORD,Lord,G2962,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:3 ,WORD,Jesus,G2424,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:3 ,WORD,Christ,G5547,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:3 ,PHRASE,in the presence,G1715,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:3 ,PHRASE,of our,G1473,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:3 ,WORD,God,G2316,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:3 ,WORD,and,G2532,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:3 ,WORD,Father,G3962,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:4 ,WORD,knowing,G1492,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:4 ,WORD,brethren,G80,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:4 ,WORD,beloved,G25,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:4 ,WORD,by,G5259,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:4 ,WORD,God,G2316,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:4 ,PHRASE,His choice,G1589,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:4 ,PHRASE,of you,G4771,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:5 ,WORD,for,G3754,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:5 ,PHRASE,our gospel,G2098,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:5 ,PHRASE,did not,G3756,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:5 ,WORD,come,G1096,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:5 ,WORD,to,G1519,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:5 ,WORD,you,G4771,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:5 ,WORD,in,G1722,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:5 ,WORD,word,G3056,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:5 ,WORD,only,G3440,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:5 ,WORD,but,G235,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:5 ,WORD,also,G2532,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:5 ,WORD,in,G1722,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:5 ,WORD,power,G1411,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:5 ,WORD,and,G2532,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:5 ,WORD,in,G1722,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:5 ,PHRASE,the Holy,G40,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:5 ,WORD,Spirit,G4151,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:5 ,WORD,and,G2532,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:5 ,WORD,with,G1722,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:5 ,WORD,full,G4183,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:5 ,WORD,conviction,G4136,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:5 ,PHRASE,just as,G2531,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:5 ,PHRASE,you know,G1492,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:5 ,PHRASE,what kind of men,G3634,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:5 ,PHRASE,we proved,G1096,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:5 ,PHRASE,to be among,G1722,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:5 ,WORD,you,G4771,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:5 ,WORD,for,G1223,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:5 ,PHRASE,your sake,G4771,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:6 ,WORD,You,G4771,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:6 ,WORD,also,G2532,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:6 ,WORD,became,G1096,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:6 ,WORD,imitators,G3402,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:6 ,PHRASE,of us,G1473,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:6 ,WORD,and,G2532,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:6 ,PHRASE,of the,G3588,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:6 ,WORD,Lord,G2962,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:6 ,PHRASE,having received,G1209,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:6 ,WORD,the,G3588,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:6 ,WORD,word,G3056,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:6 ,WORD,in,G1722,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:6 ,WORD,much,G4183,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:6 ,WORD,tribulation,G2347,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:6 ,WORD,with,G3326,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:6 ,PHRASE,the joy,G5479,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:6 ,PHRASE,of the Holy,G40,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:6 ,WORD,Spirit,G4151,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:7 ,PHRASE,so that,G5620,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:7 ,WORD,you,G4771,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:7 ,WORD,became,G1096,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:7 ,PHRASE,an example,G5179,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:7 ,PHRASE,to all,G3956,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:7 ,WORD,the,G3588,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:7 ,WORD,believers,G4100,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:7 ,WORD,in,G1722,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:7 ,WORD,Macedonia,G3109,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:7 ,WORD,and,G2532,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:7 ,WORD,in,G1722,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:7 ,WORD,Achaia,G882,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:8 ,WORD,For,G1063,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:8 ,WORD,the,G3588,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:8 ,WORD,word,G3056,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:8 ,PHRASE,of the,G3588,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:8 ,WORD,Lord,G2962,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:8 ,PHRASE,has sounded forth,G1837,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:8 ,WORD,from,G575,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:8 ,WORD,you,G4771,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:8 ,WORD,not,G3756,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:8 ,WORD,only,G3440,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:8 ,WORD,in,G1722,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:8 ,WORD,Macedonia,G3109,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:8 ,WORD,and,G2532,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:8 ,WORD,,G1722,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:8 ,WORD,Achaia,G882,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:8 ,PHRASE,but also,G235,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:8 ,WORD,in,G1722,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:8 ,WORD,every,G3956,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:8 ,WORD,place,G5117,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:8 ,WORD,your,G4771,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:8 ,WORD,faith,G4102,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:8 ,WORD,toward,G4314,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:8 ,WORD,God,G2316,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:8 ,PHRASE,has gone forth,G1831,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:8 ,PHRASE,so that,G5620,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:8 ,WORD,we,G1473,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:8 ,WORD,have,G2192,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:8 ,WORD,no,G3361,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:8 ,WORD,need,G5532,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:8 ,PHRASE,to say,G2980,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:8 ,WORD,anything,G5100,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:9 ,WORD,For,G1063,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:9 ,PHRASE,they themselves,G846,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:9 ,WORD,report,G518,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:9 ,WORD,about,G4012,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:9 ,WORD,us,G1473,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:9 ,PHRASE,what kind,G3697,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:9 ,PHRASE,of a reception,G1529,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:9 ,PHRASE,we had,G2192,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:9 ,WORD,with,G4314,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:9 ,WORD,you,G4771,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:9 ,WORD,and,G2532,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:9 ,WORD,how,G4459,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:9 ,PHRASE,you turned,G1994,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:9 ,WORD,to,G4314,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:9 ,WORD,God,G2316,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:9 ,WORD,from,G575,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:9 ,WORD,idols,G1497,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:9 ,PHRASE,to serve,G1398,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:9 ,PHRASE,a living,G2198,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:9 ,WORD,and,G2532,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:9 ,WORD,true,G228,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:9 ,WORD,God,G2316,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:10 ,WORD,and,G2532,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:10 ,PHRASE,to wait,G362,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:10 ,PHRASE,for His,G846,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:10 ,WORD,Son,G5207,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:10 ,WORD,from,G1537,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:10 ,WORD,heaven,G3772,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:10 ,WORD,whom,G3739,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:10 ,PHRASE,He raised,G1453,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:10 ,WORD,from,G1537,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:10 ,WORD,the,G3588,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:10 ,WORD,dead,G3498,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:10 ,PHRASE,that is Jesus,G2424,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:10 ,WORD,who,G3588,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:10 ,WORD,rescues,G4506,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:10 ,WORD,us,G1473,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:10 ,WORD,from,G1537,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:10 ,WORD,the,G3588,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:10 ,WORD,wrath,G3709,Epistles,New Testament,1 Thessalonians,LXX
+1,1 Thessalonians1:10 ,PHRASE,to come,G2064,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:1 ,WORD,For,G1063,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:1 ,PHRASE,you yourselves,G846,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:1 ,WORD,know,G1492,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:1 ,WORD,brethren,G80,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:1 ,PHRASE,that our,G1473,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:1 ,WORD,coming,G1529,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:1 ,WORD,to,G4314,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:1 ,WORD,you,G4771,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:1 ,WORD,was,G1096,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:1 ,WORD,not,G3756,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:1 ,PHRASE,in vain,G2756,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:2 ,WORD,but,G235,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:2 ,PHRASE,after we had already suffered,G4310,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:2 ,WORD,and,G2532,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:2 ,PHRASE,been mistreated,G5195,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:2 ,WORD,in,G1722,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:2 ,WORD,Philippi,G5375,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:2 ,WORD,as,G2531,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:2 ,PHRASE,you know,G1492,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:2 ,PHRASE,we had the boldness,G3955,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:2 ,WORD,in,G1722,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:2 ,WORD,our,G1473,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:2 ,WORD,God,G2316,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:2 ,PHRASE,to speak,G2980,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:2 ,WORD,to,G4314,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:2 ,WORD,you,G4771,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:2 ,WORD,the,G3588,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:2 ,WORD,gospel,G2098,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:2 ,PHRASE,of God,G2316,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:2 ,WORD,amid,G1722,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:2 ,WORD,much,G4183,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:2 ,WORD,opposition,G73,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:3 ,WORD,For,G1063,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:3 ,WORD,our,G1473,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:3 ,WORD,exhortation,G3874,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:3 ,PHRASE,does not,G3756,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:3 ,PHRASE,come from,G1537,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:3 ,WORD,error,G4106,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:3 ,WORD,or,G3761,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:3 ,WORD,,G1537,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:3 ,WORD,impurity,G167,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:3 ,WORD,or,G3761,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:3 ,PHRASE,by way,G1722,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:3 ,PHRASE,of deceit,G1388,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:4 ,WORD,but,G235,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:4 ,PHRASE,just as,G2531,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:4 ,PHRASE,we have been approved,G1381,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:4 ,WORD,by,G5259,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:4 ,WORD,God,G2316,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:4 ,PHRASE,to be entrusted with,G4100,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:4 ,WORD,the,G3588,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:4 ,WORD,gospel,G2098,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:4 ,WORD,so,G3779,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:4 ,PHRASE,we speak,G2980,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:4 ,WORD,not,G3756,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:4 ,WORD,as,G5613,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:4 ,WORD,pleasing,G700,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:4 ,WORD,men,G444,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:4 ,WORD,but,G235,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:4 ,WORD,God,G2316,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:4 ,WORD,who,G3588,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:4 ,WORD,examines,G1381,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:4 ,WORD,our,G1473,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:4 ,WORD,hearts,G2588,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:5 ,WORD,For,G1063,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:5 ,PHRASE,we never,G3777,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:5 ,WORD,,G4218,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:5 ,WORD,came,G1096,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:5 ,WORD,with,G1722,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:5 ,WORD,flattering,G2850,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:5 ,WORD,speech,G3056,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:5 ,WORD,as,G2531,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:5 ,PHRASE,you know,G1492,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:5 ,WORD,nor,G3777,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:5 ,WORD,with,G1722,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:5 ,PHRASE,a pretext,G4392,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:5 ,PHRASE,for greed,G4124,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:5 ,WORD,God,G2316,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:5 ,PHRASE,is witness,G3144,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:6 ,WORD,nor,G3777,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:6 ,PHRASE,did we seek,G2212,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:6 ,WORD,glory,G1391,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:6 ,WORD,from,G1537,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:6 ,WORD,men,G444,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:6 ,WORD,either,G3777,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:6 ,WORD,from,G575,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:6 ,WORD,you,G4771,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:6 ,WORD,or,G3777,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:6 ,WORD,from,G575,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:6 ,WORD,others,G243,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:6 ,PHRASE,even though as,G5613,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:6 ,WORD,apostles,G652,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:6 ,PHRASE,of Christ,G5547,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:6 ,PHRASE,we might have asserted our authority,G1410,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:6 ,WORD,,G1722,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:6 ,WORD,,G922,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:6 ,WORD,,G1510,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:7 ,WORD,But,G235,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:7 ,PHRASE,we proved to be,G1096,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:7 ,WORD,gentle,G3516,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:7 ,WORD,among,G1722,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:7 ,WORD,,G3319,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:7 ,WORD,you,G4771,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:7 ,WORD,as,G5613,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:7 ,PHRASE,a nursing mother,G5162,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:7 ,PHRASE,tenderly cares,G2282,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:7 ,PHRASE,for her own,G1438,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:7 ,WORD,children,G5043,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:8 ,PHRASE,Having so,G3779,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:8 ,PHRASE,fond an affection,G2442,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:8 ,PHRASE,for you,G4771,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:8 ,PHRASE,we were well-pleased,G2106,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:8 ,PHRASE,to impart,G3330,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:8 ,PHRASE,to you,G4771,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:8 ,WORD,not,G3756,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:8 ,WORD,only,G3440,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:8 ,WORD,the,G3588,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:8 ,WORD,gospel,G2098,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:8 ,PHRASE,of God,G2316,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:8 ,WORD,but,G235,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:8 ,WORD,also,G2532,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:8 ,PHRASE,our own,G1438,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:8 ,WORD,lives,G5590,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:8 ,WORD,because,G1360,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:8 ,PHRASE,you had become,G1096,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:8 ,PHRASE,very dear,G27,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:8 ,PHRASE,to us,G1473,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:9 ,WORD,For,G1063,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:9 ,PHRASE,you recall,G3421,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:9 ,WORD,brethren,G80,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:9 ,WORD,our,G1473,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:9 ,WORD,labor,G2873,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:9 ,WORD,and,G2532,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:9 ,WORD,hardship,G3449,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:9 ,PHRASE,how working,G2038,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:9 ,WORD,night,G3571,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:9 ,WORD,and,G2532,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:9 ,WORD,day,G2250,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:9 ,PHRASE,so as,G4314,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:9 ,WORD,not,G3361,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:9 ,PHRASE,to be a burden,G1912,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:9 ,PHRASE,to any,G5100,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:9 ,PHRASE,of you,G4771,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:9 ,PHRASE,we proclaimed,G2784,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:9 ,WORD,to,G1519,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:9 ,WORD,you,G4771,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:9 ,WORD,the,G3588,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:9 ,WORD,gospel,G2098,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:9 ,PHRASE,of God,G2316,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:10 ,WORD,You,G4771,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:10 ,PHRASE,are witnesses,G3144,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:10 ,PHRASE,and so,G2532,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:10 ,PHRASE,is God,G2316,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:10 ,WORD,how,G5613,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:10 ,WORD,devoutly,G3743,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:10 ,WORD,and,G2532,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:10 ,WORD,uprightly,G1346,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:10 ,WORD,and,G2532,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:10 ,WORD,blamelessly,G274,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:10 ,PHRASE,we behaved,G1096,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:10 ,PHRASE,toward you,G4771,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:10 ,WORD,believers,G4100,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:11 ,PHRASE,just as,G2509,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:11 ,PHRASE,you know,G1492,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:11 ,WORD,how,G5613,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:11 ,PHRASE,we were exhorting,G3870,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:11 ,WORD,and,G2532,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:11 ,WORD,encouraging,G3888,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:11 ,WORD,and,G2532,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:11 ,WORD,imploring,G3143,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:11 ,WORD,each,G1538,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:11 ,WORD,one,G1520,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:11 ,PHRASE,of you,G4771,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:11 ,WORD,as,G5613,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:11 ,PHRASE,a father,G3962,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:11 ,PHRASE,would his own,G1438,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:11 ,WORD,children,G5043,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:12 ,PHRASE,so that,G1519,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:12 ,PHRASE,you would walk,G4043,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:12 ,PHRASE,in a manner worthy,G516,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:12 ,PHRASE,of the,G3588,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:12 ,WORD,God,G2316,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:12 ,WORD,who,G3588,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:12 ,WORD,calls,G2564,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:12 ,WORD,you,G4771,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:12 ,WORD,into,G1519,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:12 ,PHRASE,His own,G1438,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:12 ,WORD,kingdom,G932,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:12 ,WORD,and,G2532,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:12 ,WORD,glory,G1391,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:13 ,WORD,For,G1223,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:13 ,PHRASE,this reason,G3778,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:13 ,WORD,we,G1473,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:13 ,WORD,also,G2532,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:13 ,WORD,constantly,G89,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:13 ,WORD,thank,G2168,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:13 ,WORD,God,G2316,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:13 ,WORD,that,G3754,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:13 ,PHRASE,when you received,G3880,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:13 ,PHRASE,the word,G3056,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:13 ,PHRASE,of God,G2316,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:13 ,PHRASE,which you heard,G189,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:13 ,WORD,from,G3844,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:13 ,WORD,us,G1473,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:13 ,PHRASE,you accepted it,G1209,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:13 ,WORD,not,G3756,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:13 ,PHRASE,as the word,G3056,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:13 ,PHRASE,of men,G444,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:13 ,WORD,but,G235,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:13 ,PHRASE,for what,G2531,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:13 ,PHRASE,it really,G230,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:13 ,WORD,is,G1510,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:13 ,PHRASE,the word,G3056,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:13 ,PHRASE,of God,G2316,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:13 ,WORD,which,G3739,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:13 ,WORD,also,G2532,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:13 ,PHRASE,performs its work,G1754,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:13 ,WORD,in,G1722,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:13 ,WORD,you,G4771,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:13 ,WORD,who,G3588,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:13 ,WORD,believe,G4100,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:14 ,WORD,For,G1063,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:14 ,WORD,you,G4771,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:14 ,WORD,brethren,G80,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:14 ,WORD,became,G1096,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:14 ,WORD,imitators,G3402,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:14 ,PHRASE,of the,G3588,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:14 ,WORD,churches,G1577,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:14 ,PHRASE,of God,G2316,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:14 ,WORD,in,G1722,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:14 ,WORD,Christ,G5547,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:14 ,WORD,Jesus,G2424,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:14 ,WORD,that,G3588,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:14 ,WORD,are,G1510,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:14 ,WORD,in,G1722,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:14 ,WORD,Judea,G2449,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:14 ,WORD,for,G3754,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:14 ,WORD,you,G4771,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:14 ,WORD,also,G2532,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:14 ,WORD,endured,G3958,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:14 ,WORD,the,G3588,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:14 ,WORD,same,G846,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:14 ,WORD,sufferings,G3958,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:14 ,PHRASE,at the hands,G5259,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:14 ,PHRASE,of your own,G2398,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:14 ,WORD,countrymen,G4853,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:14 ,WORD,even,G2532,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:14 ,WORD,as,G2531,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:14 ,PHRASE,they did,G846,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:14 ,WORD,from,G5259,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:14 ,WORD,the,G3588,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:14 ,WORD,Jews,G2453,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:15 ,WORD,who,G3588,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:15 ,WORD,both,G2532,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:15 ,WORD,killed,G615,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:15 ,WORD,the,G3588,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:15 ,WORD,Lord,G2962,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:15 ,WORD,Jesus,G2424,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:15 ,WORD,and,G2532,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:15 ,WORD,the,G3588,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:15 ,WORD,prophets,G4396,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:15 ,WORD,and,G2532,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:15 ,WORD,drove,G1559,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:15 ,WORD,us,G1473,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:15 ,WORD,out,G1559,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:15 ,PHRASE,They are not,G3361,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:15 ,WORD,pleasing,G700,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:15 ,PHRASE,to God,G2316,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:15 ,WORD,but,G2532,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:15 ,WORD,hostile,G1727,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:15 ,PHRASE,to all,G3956,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:15 ,WORD,men,G444,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:16 ,WORD,hindering,G2967,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:16 ,WORD,us,G1473,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:16 ,PHRASE,from speaking,G2980,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:16 ,PHRASE,to the,G3588,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:16 ,WORD,Gentiles,G1484,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:16 ,PHRASE,so that,G2443,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:16 ,PHRASE,they may be saved,G4982,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:16 ,PHRASE,with the result that,G1519,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:16 ,PHRASE,they always,G3842,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:16 ,PHRASE,fill up the measure,G378,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:16 ,PHRASE,of their,G846,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:16 ,WORD,sins,G266,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:16 ,WORD,But,G1161,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:16 ,WORD,wrath,G3709,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:16 ,PHRASE,has come,G5348,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:16 ,WORD,upon,G1909,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:16 ,WORD,them,G846,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:16 ,WORD,to,G1519,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:16 ,PHRASE,the utmost,G5056,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:17 ,WORD,But,G1161,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:17 ,WORD,we,G1473,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:17 ,WORD,brethren,G80,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:17 ,PHRASE,having been taken away,G642,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:17 ,WORD,from,G575,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:17 ,WORD,you,G4771,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:17 ,WORD,for,G4314,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:17 ,PHRASE,a short,G2540,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:17 ,WORD,while,G5610,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:17 ,PHRASE,in person,G4383,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:17 ,WORD,not,G3756,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:17 ,PHRASE,in spirit,G2588,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:17 ,PHRASE,were all the more,G4056,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:17 ,WORD,eager,G4704,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:17 ,WORD,with,G1722,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:17 ,WORD,great,G4183,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:17 ,WORD,desire,G1939,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:17 ,PHRASE,to see,G3708,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:17 ,WORD,your,G4771,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:17 ,WORD,face,G4383,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:18 ,WORD,For,G1360,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:18 ,PHRASE,we wanted,G2309,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:18 ,PHRASE,to come,G2064,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:18 ,WORD,to,G4314,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:18 ,WORD,you,G4771,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:18 ,WORD,I,G1473,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:18 ,WORD,Paul,G3972,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:18 ,WORD,more,G2532,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:18 ,WORD,,G1364,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:18 ,WORD,than,G2532,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:18 ,WORD,once,G530,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:18 ,PHRASE,and yet,G2532,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:18 ,WORD,Satan,G4567,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:18 ,WORD,hindered,G1465,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:18 ,WORD,us,G1473,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:19 ,WORD,For,G1063,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:19 ,WORD,who,G5101,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:19 ,PHRASE,is our,G1473,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:19 ,WORD,hope,G1680,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:19 ,WORD,or,G2228,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:19 ,WORD,joy,G5479,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:19 ,WORD,or,G2228,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:19 ,WORD,crown,G4735,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:19 ,PHRASE,of exultation,G2746,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:19 ,PHRASE,Is it not,G3780,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:19 ,WORD,even,G2532,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:19 ,WORD,you,G4771,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:19 ,PHRASE,in the presence,G1715,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:19 ,PHRASE,of our,G1473,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:19 ,WORD,Lord,G2962,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:19 ,WORD,Jesus,G2424,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:19 ,WORD,at,G1722,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:19 ,WORD,His,G846,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:19 ,WORD,coming,G3952,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:20 ,WORD,For,G1063,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:20 ,WORD,you,G4771,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:20 ,WORD,are,G1510,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:20 ,WORD,our,G1473,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:20 ,WORD,glory,G1391,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:20 ,WORD,and,G2532,Epistles,New Testament,1 Thessalonians,LXX
+2,1 Thessalonians2:20 ,WORD,joy,G5479,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:1 ,WORD,Therefore,G1352,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:1 ,PHRASE,when we could endure it,G4722,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:1 ,PHRASE,no longer,G3371,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:1 ,PHRASE,we thought it best,G2106,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:1 ,PHRASE,to be left behind,G2641,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:1 ,WORD,at,G1722,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:1 ,WORD,Athens,G116,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:1 ,WORD,alone,G3441,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:2 ,WORD,and,G2532,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:2 ,PHRASE,we sent,G3992,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:2 ,WORD,Timothy,G5095,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:2 ,WORD,our,G1473,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:2 ,WORD,brother,G80,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:2 ,WORD,and,G2532,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:2 ,WORD,God's,G2316,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:2 ,PHRASE,fellow worker,G4904,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:2 ,WORD,in,G1722,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:2 ,WORD,the,G3588,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:2 ,WORD,gospel,G2098,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:2 ,PHRASE,of Christ,G5547,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:2 ,WORD,to,G1519,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:2 ,WORD,strengthen,G4741,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:2 ,WORD,and,G2532,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:2 ,WORD,encourage,G3870,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:2 ,WORD,you,G4771,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:2 ,PHRASE,as to,G5228,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:2 ,WORD,your,G4771,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:2 ,WORD,faith,G4102,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:3 ,PHRASE,so that no one,G3367,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:3 ,PHRASE,would be disturbed,G4525,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:3 ,WORD,by,G1722,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:3 ,WORD,these,G3778,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:3 ,WORD,afflictions,G2347,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:3 ,WORD,for,G1063,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:3 ,PHRASE,you yourselves,G846,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:3 ,WORD,know,G1492,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:3 ,WORD,that,G3754,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:3 ,PHRASE,we have been destined,G2749,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:3 ,WORD,for,G1519,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:3 ,WORD,this,G3778,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:4 ,WORD,For,G1063,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:4 ,WORD,indeed,G2532,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:4 ,WORD,when,G3753,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:4 ,PHRASE,we were,G1510,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:4 ,WORD,with,G4314,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:4 ,WORD,you,G4771,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:4 ,PHRASE,we kept telling,G4302,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:4 ,WORD,you,G4771,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:4 ,PHRASE,in advance,G4302,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:4 ,WORD,that,G3754,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:4 ,PHRASE,we were going,G3195,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:4 ,PHRASE,to suffer affliction,G2346,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:4 ,WORD,and,G2532,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:4 ,WORD,so,G2531,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:4 ,PHRASE,it came to pass,G1096,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:4 ,WORD,as,G2532,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:4 ,PHRASE,you know,G1492,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:5 ,WORD,For,G1223,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:5 ,PHRASE,this reason,G3778,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:5 ,PHRASE,when I,G2504,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:5 ,PHRASE,could endure it,G4722,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:5 ,PHRASE,no longer,G3371,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:5 ,PHRASE,I also sent,G3992,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:5 ,WORD,to,G1519,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:5 ,PHRASE,find out about,G1097,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:5 ,WORD,your,G4771,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:5 ,WORD,faith,G4102,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:5 ,WORD,,G3361,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:5 ,PHRASE,for fear that,G4458,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:5 ,WORD,the,G3588,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:5 ,WORD,tempter,G3985,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:5 ,PHRASE,might have tempted,G3985,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:5 ,WORD,you,G4771,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:5 ,WORD,and,G2532,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:5 ,WORD,our,G1473,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:5 ,WORD,labor,G2873,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:5 ,PHRASE,would be,G1096,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:5 ,WORD,in,G1519,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:5 ,WORD,vain,G2756,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:6 ,WORD,But,G1161,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:6 ,PHRASE,now that,G737,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:6 ,WORD,Timothy,G5095,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:6 ,PHRASE,has come,G2064,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:6 ,WORD,to,G4314,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:6 ,WORD,us,G1473,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:6 ,WORD,from,G575,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:6 ,WORD,you,G4771,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:6 ,WORD,and,G2532,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:6 ,PHRASE,has brought,G2097,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:6 ,WORD,us,G1473,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:6 ,PHRASE,good news,G2097,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:6 ,PHRASE,of your,G4771,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:6 ,WORD,faith,G4102,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:6 ,WORD,and,G2532,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:6 ,WORD,love,G26,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:6 ,WORD,and,G2532,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:6 ,WORD,that,G3754,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:6 ,PHRASE,you always,G3842,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:6 ,WORD,think,G2192,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:6 ,WORD,,G3417,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:6 ,WORD,kindly,G18,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:6 ,PHRASE,of us,G1473,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:6 ,WORD,longing,G1971,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:6 ,PHRASE,to see,G3708,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:6 ,WORD,us,G1473,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:6 ,PHRASE,just as,G2509,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:6 ,WORD,we,G1473,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:6 ,WORD,also,G2532,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:6 ,PHRASE,long to see you,G4771,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:7 ,WORD,for,G1223,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:7 ,PHRASE,this reason,G3778,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:7 ,WORD,brethren,G80,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:7 ,WORD,in,G1909,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:7 ,WORD,all,G3956,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:7 ,WORD,our,G1473,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:7 ,WORD,distress,G318,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:7 ,WORD,and,G2532,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:7 ,WORD,affliction,G2347,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:7 ,PHRASE,we were comforted,G3870,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:7 ,WORD,about,G1909,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:7 ,WORD,you,G4771,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:7 ,WORD,through,G1223,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:7 ,WORD,your,G4771,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:7 ,WORD,faith,G4102,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:8 ,WORD,for,G3754,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:8 ,WORD,now,G3568,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:8 ,PHRASE,we really live,G2198,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:8 ,WORD,if,G1437,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:8 ,WORD,you,G4771,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:8 ,PHRASE,stand firm,G4739,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:8 ,WORD,in,G1722,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:8 ,PHRASE,the Lord,G2962,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:9 ,WORD,For,G1063,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:9 ,WORD,what,G5101,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:9 ,WORD,thanks,G2169,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:9 ,WORD,can,G1410,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:9 ,PHRASE,we render,G467,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:9 ,PHRASE,to God,G2316,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:9 ,WORD,for,G4012,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:9 ,WORD,you,G4771,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:9 ,PHRASE,in return,G467,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:9 ,WORD,for,G1909,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:9 ,WORD,all,G3956,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:9 ,WORD,the,G3588,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:9 ,WORD,joy,G5479,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:9 ,PHRASE,with which,G3739,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:9 ,PHRASE,we rejoice,G5463,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:9 ,WORD,before,G1715,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:9 ,WORD,our,G1473,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:9 ,WORD,God,G2316,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:9 ,WORD,on,G1223,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:9 ,WORD,your,G4771,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:9 ,WORD,account,G1223,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:10 ,PHRASE,as we night,G3571,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:10 ,WORD,and,G2532,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:10 ,WORD,day,G2250,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:10 ,PHRASE,keep praying,G1189,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:10 ,PHRASE,most earnestly,G4057,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:10 ,WORD,that,G1519,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:10 ,PHRASE,we may see,G3708,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:10 ,WORD,your,G4771,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:10 ,WORD,face,G4383,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:10 ,WORD,and,G2532,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:10 ,PHRASE,may complete,G2675,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:10 ,WORD,what,G3588,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:10 ,PHRASE,is lacking,G5303,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:10 ,PHRASE,in your,G4771,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:10 ,WORD,faith,G4102,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:11 ,WORD,Now,G1161,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:11 ,PHRASE,may our,G1473,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:11 ,WORD,God,G2316,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:11 ,WORD,and,G2532,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:11 ,WORD,Father,G3962,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:11 ,WORD,Himself,G846,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:11 ,WORD,and,G2532,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:11 ,WORD,Jesus,G2424,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:11 ,WORD,our,G1473,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:11 ,WORD,Lord,G2962,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:11 ,WORD,direct,G2720,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:11 ,WORD,our,G1473,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:11 ,WORD,way,G3598,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:11 ,WORD,to,G4314,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:11 ,WORD,you,G4771,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:12 ,WORD,and,G1161,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:12 ,WORD,may,G4121,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:12 ,WORD,the,G3588,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:12 ,WORD,Lord,G2962,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:12 ,WORD,cause,G4121,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:12 ,WORD,you,G4771,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:12 ,PHRASE,to increase,G4121,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:12 ,WORD,and,G2532,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:12 ,WORD,abound,G4052,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:12 ,PHRASE,in love,G26,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:12 ,WORD,for,G1519,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:12 ,PHRASE,one another,G240,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:12 ,WORD,and,G2532,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:12 ,WORD,for,G1519,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:12 ,PHRASE,all people,G3956,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:12 ,PHRASE,just as,G2509,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:12 ,WORD,we,G1473,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:12 ,WORD,also,G2532,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:12 ,PHRASE,do for,G1519,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:12 ,WORD,you,G4771,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:13 ,PHRASE,so that,G1519,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:13 ,PHRASE,He may establish,G4741,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:13 ,WORD,your,G4771,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:13 ,WORD,hearts,G2588,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:13 ,PHRASE,without blame,G273,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:13 ,WORD,in,G1722,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:13 ,WORD,holiness,G42,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:13 ,WORD,before,G1715,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:13 ,WORD,our,G1473,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:13 ,WORD,God,G2316,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:13 ,WORD,and,G2532,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:13 ,WORD,Father,G3962,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:13 ,WORD,at,G1722,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:13 ,WORD,the,G3588,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:13 ,WORD,coming,G3952,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:13 ,PHRASE,of our,G1473,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:13 ,WORD,Lord,G2962,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:13 ,WORD,Jesus,G2424,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:13 ,WORD,with,G3326,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:13 ,WORD,all,G3956,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:13 ,WORD,His,G846,Epistles,New Testament,1 Thessalonians,LXX
+3,1 Thessalonians3:13 ,WORD,saints,G40,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:1 ,WORD,Finally,G3062,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:1 ,WORD,then,G3767,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:1 ,WORD,brethren,G80,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:1 ,PHRASE,we request,G2065,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:1 ,WORD,and,G2532,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:1 ,WORD,exhort,G3870,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:1 ,WORD,you,G4771,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:1 ,WORD,in,G1722,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:1 ,PHRASE,the Lord,G2962,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:1 ,WORD,Jesus,G2424,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:1 ,WORD,that,G2443,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:1 ,WORD,as,G2531,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:1 ,PHRASE,you received,G3880,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:1 ,WORD,from,G3844,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:1 ,WORD,us,G1473,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:1 ,PHRASE,instruction as to,G3588,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:1 ,WORD,how,G4459,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:1 ,WORD,you,G4771,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:1 ,WORD,ought,G1163,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:1 ,PHRASE,to walk,G4043,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:1 ,WORD,and,G2532,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:1 ,WORD,please,G700,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:1 ,WORD,God,G2316,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:1 ,PHRASE,(just as,G2531,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:1 ,PHRASE,you actually,G2532,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:1 ,PHRASE,do walk),G4043,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:1 ,WORD,that,G2443,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:1 ,PHRASE,you excel,G4052,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:1 ,PHRASE,still more,G3123,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:2 ,WORD,For,G1063,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:2 ,PHRASE,you know,G1492,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:2 ,WORD,what,G5101,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:2 ,WORD,commandments,G3852,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:2 ,PHRASE,we gave,G1325,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:2 ,WORD,you,G4771,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:2 ,WORD,by,G1223,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:2 ,PHRASE,the authority,,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:2 ,PHRASE,of the,G3588,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:2 ,WORD,Lord,G2962,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:2 ,WORD,Jesus,G2424,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:3 ,WORD,For,G1063,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:3 ,WORD,this,G3778,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:3 ,WORD,is,G1510,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:3 ,PHRASE,the will,G2307,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:3 ,PHRASE,of God,G2316,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:3 ,WORD,your,G4771,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:3 ,WORD,sanctification,G38,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:3 ,PHRASE,that is,G568,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:3 ,PHRASE,that you,G4771,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:3 ,WORD,abstain,G568,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:3 ,WORD,from,G575,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:3 ,PHRASE,sexual immorality,G4202,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:4 ,PHRASE,that each,G1538,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:4 ,PHRASE,of you,G4771,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:4 ,PHRASE,know how,G1492,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:4 ,PHRASE,to possess,G2932,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:4 ,PHRASE,his own,G1438,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:4 ,WORD,vessel,G4632,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:4 ,WORD,in,G1722,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:4 ,WORD,sanctification,G38,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:4 ,WORD,and,G2532,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:4 ,WORD,honor,G5092,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:5 ,WORD,not,G3361,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:5 ,WORD,in,G1722,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:5 ,WORD,lustful,G1939,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:5 ,WORD,passion,G3806,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:5 ,WORD,like,G2509,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:5 ,WORD,the,G3588,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:5 ,WORD,Gentiles,G1484,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:5 ,WORD,who,G3588,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:5 ,PHRASE,do not,G3361,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:5 ,WORD,know,G1492,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:5 ,WORD,God,G2316,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:6 ,WORD,and,G3588,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:6 ,PHRASE,that no man,G3361,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:6 ,WORD,transgress,G5233,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:6 ,WORD,and,G2532,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:6 ,WORD,defraud,G4122,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:6 ,WORD,his,G846,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:6 ,WORD,brother,G80,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:6 ,WORD,in,G1722,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:6 ,WORD,the,G3588,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:6 ,WORD,matter,G4229,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:6 ,WORD,because,G1360,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:6 ,PHRASE,the Lord,G2962,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:6 ,PHRASE,is the avenger,G1558,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:6 ,WORD,in,G4012,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:6 ,WORD,all,G3956,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:6 ,PHRASE,these things,G3778,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:6 ,PHRASE,just as,G2531,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:6 ,PHRASE,we also,G2532,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:6 ,WORD,told,G4277,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:6 ,WORD,you,G4771,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:6 ,WORD,before,G4277,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:6 ,WORD,and,G2532,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:6 ,PHRASE,solemnly warned you,G1263,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:7 ,WORD,For,G1063,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:7 ,WORD,God,G2316,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:7 ,PHRASE,has not,G3756,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:7 ,WORD,called,G2564,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:7 ,WORD,us,G1473,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:7 ,PHRASE,for the purpose,G1909,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:7 ,PHRASE,of impurity,G167,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:7 ,WORD,but,G235,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:7 ,WORD,in,G1722,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:7 ,WORD,sanctification,G38,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:8 ,WORD,So,G5105,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:8 ,PHRASE,he who,G3588,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:8 ,PHRASE,rejects this,G114,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:8 ,PHRASE,is not,G3756,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:8 ,WORD,rejecting,G114,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:8 ,WORD,man,G444,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:8 ,WORD,but,G235,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:8 ,WORD,the,G3588,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:8 ,WORD,God,G2316,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:8 ,PHRASE,who gives,G1325,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:8 ,WORD,His,G846,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:8 ,WORD,Holy,G40,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:8 ,WORD,Spirit,G4151,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:8 ,WORD,to,G1519,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:8 ,WORD,you,G4771,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:9 ,WORD,Now,G1161,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:9 ,PHRASE,as to,G4012,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:9 ,WORD,the,G3588,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:9 ,PHRASE,love of the brethren,G5360,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:9 ,PHRASE,you have,G2192,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:9 ,WORD,no,G3756,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:9 ,WORD,need,G5532,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:9 ,PHRASE,for anyone to write,G1125,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:9 ,PHRASE,to you,G4771,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:9 ,WORD,for,G1063,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:9 ,WORD,you,G4771,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:9 ,WORD,yourselves,G846,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:9 ,WORD,are,G1510,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:9 ,PHRASE,taught by God,G2312,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:9 ,WORD,to,G1519,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:9 ,WORD,love,G25,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:9 ,PHRASE,one another,G240,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:10 ,WORD,for,G1063,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:10 ,WORD,indeed,G2532,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:10 ,PHRASE,you do practice,G4160,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:10 ,WORD,it,G846,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:10 ,WORD,toward,G1519,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:10 ,WORD,all,G3956,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:10 ,WORD,the,G3588,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:10 ,WORD,brethren,G80,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:10 ,WORD,who,G3588,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:10 ,PHRASE,are in,G1722,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:10 ,WORD,all,G3650,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:10 ,WORD,Macedonia,G3109,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:10 ,WORD,But,G1161,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:10 ,PHRASE,we urge,G3870,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:10 ,WORD,you,G4771,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:10 ,WORD,brethren,G80,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:10 ,PHRASE,to excel,G4052,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:10 ,PHRASE,still more,G3123,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:11 ,WORD,and,G2532,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:11 ,PHRASE,to make it your ambition,G5389,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:11 ,PHRASE,to lead a quiet life,G2270,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:11 ,WORD,and,G2532,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:11 ,PHRASE,attend to,G4238,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:11 ,WORD,,G3588,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:11 ,PHRASE,your own business,G2398,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:11 ,WORD,and,G2532,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:11 ,PHRASE,work with,G2038,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:11 ,WORD,your,G4771,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:11 ,WORD,,G3588,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:11 ,WORD,,G2398,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:11 ,WORD,hands,G5495,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:11 ,PHRASE,just as,G2531,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:11 ,PHRASE,we commanded,G3853,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:11 ,WORD,you,G4771,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:12 ,PHRASE,so that,G2443,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:12 ,PHRASE,you will behave,G4043,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:12 ,WORD,properly,G2156,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:12 ,WORD,toward,G4314,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:12 ,WORD,outsiders,G3588,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:12 ,WORD,,G1854,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:12 ,WORD,and,G2532,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:12 ,WORD,not,G3367,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:12 ,WORD,be,G2192,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:12 ,PHRASE,in any,G3367,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:12 ,WORD,need,G5532,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:13 ,WORD,But,G1161,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:13 ,PHRASE,we do not,G3756,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:13 ,WORD,want,G2309,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:13 ,WORD,you,G4771,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:13 ,PHRASE,to be uninformed,G50,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:13 ,WORD,brethren,G80,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:13 ,WORD,about,G4012,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:13 ,PHRASE,those who,G3588,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:13 ,PHRASE,are asleep,G2837,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:13 ,PHRASE,so that,G2443,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:13 ,PHRASE,you will not,G3361,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:13 ,WORD,grieve,G3076,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:13 ,PHRASE,as do,G2531,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:13 ,WORD,the,G3588,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:13 ,WORD,rest,G3062,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:13 ,PHRASE,who have,G2192,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:13 ,WORD,no,G3361,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:13 ,WORD,hope,G1680,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:14 ,WORD,For,G1063,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:14 ,WORD,if,G1487,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:14 ,PHRASE,we believe,G4100,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:14 ,WORD,that,G3754,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:14 ,WORD,Jesus,G2424,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:14 ,WORD,died,G599,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:14 ,WORD,and,G2532,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:14 ,PHRASE,rose again,G450,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:14 ,WORD,even,G2532,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:14 ,WORD,so,G3779,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:14 ,WORD,God,G2316,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:14 ,PHRASE,will bring,G71,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:14 ,WORD,with,G4862,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:14 ,WORD,Him,G846,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:14 ,PHRASE,those who,G3588,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:14 ,PHRASE,have fallen asleep,G2837,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:14 ,WORD,in,G1223,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:14 ,WORD,Jesus,G2424,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:15 ,WORD,For,G1063,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:15 ,WORD,this,G3778,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:15 ,PHRASE,we say,G3004,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:15 ,PHRASE,to you,G4771,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:15 ,WORD,by,G1722,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:15 ,PHRASE,the word,G3056,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:15 ,PHRASE,of the Lord,G2962,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:15 ,WORD,that,G3754,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:15 ,WORD,we,G1473,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:15 ,WORD,who,G3588,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:15 ,PHRASE,are alive,G2198,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:15 ,PHRASE,and remain,G4035,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:15 ,WORD,until,G1519,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:15 ,WORD,the,G3588,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:15 ,WORD,coming,G3952,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:15 ,PHRASE,of the,G3588,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:15 ,WORD,Lord,G2962,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:15 ,PHRASE,will not,G3756,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:15 ,WORD,,G3361,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:15 ,WORD,precede,G5348,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:15 ,WORD,those,G3588,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:15 ,PHRASE,who have fallen asleep,G2837,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:16 ,WORD,For,G3754,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:16 ,WORD,the,G3588,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:16 ,WORD,Lord,G2962,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:16 ,WORD,Himself,G846,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:16 ,PHRASE,will descend,G2597,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:16 ,WORD,from,G575,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:16 ,WORD,heaven,G3772,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:16 ,WORD,with,G1722,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:16 ,PHRASE,a shout,G2752,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:16 ,WORD,with,G1722,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:16 ,PHRASE,the voice,G5456,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:16 ,PHRASE,of the archangel,G743,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:16 ,WORD,and,G2532,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:16 ,WORD,with,G1722,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:16 ,PHRASE,the trumpet,G4536,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:16 ,PHRASE,of God,G2316,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:16 ,WORD,and,G2532,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:16 ,WORD,the,G3588,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:16 ,WORD,dead,G3498,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:16 ,WORD,in,G1722,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:16 ,WORD,Christ,G5547,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:16 ,PHRASE,will rise,G450,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:16 ,WORD,first,G4413,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:17 ,WORD,Then,G1899,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:17 ,WORD,we,G1473,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:17 ,WORD,who,G3588,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:17 ,PHRASE,are alive,G2198,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:17 ,PHRASE,and remain,G4035,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:17 ,PHRASE,will be caught up,G726,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:17 ,WORD,together,G260,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:17 ,WORD,with,G4862,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:17 ,WORD,them,G846,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:17 ,WORD,in,G1722,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:17 ,PHRASE,the clouds,G3507,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:17 ,WORD,to,G1519,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:17 ,WORD,meet,G529,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:17 ,WORD,the,G3588,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:17 ,WORD,Lord,G2962,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:17 ,WORD,in,G1519,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:17 ,PHRASE,the air,G109,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:17 ,WORD,and,G2532,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:17 ,WORD,so,G3779,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:17 ,PHRASE,we shall always,G3842,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:17 ,WORD,be,G1510,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:17 ,WORD,with,G4862,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:17 ,PHRASE,the Lord,G2962,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:18 ,WORD,Therefore,G5620,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:18 ,WORD,comfort,G3870,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:18 ,PHRASE,one another,G240,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:18 ,WORD,with,G1722,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:18 ,WORD,these,G3778,Epistles,New Testament,1 Thessalonians,LXX
+4,1 Thessalonians4:18 ,WORD,words,G3056,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:1 ,WORD,Now,G1161,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:1 ,PHRASE,as to,G4012,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:1 ,WORD,the,G3588,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:1 ,WORD,times,G5550,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:1 ,WORD,and,G2532,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:1 ,WORD,the,G3588,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:1 ,WORD,epochs,G2540,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:1 ,WORD,brethren,G80,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:1 ,PHRASE,you have,G2192,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:1 ,WORD,no,G3756,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:1 ,WORD,need,G5532,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:1 ,PHRASE,of anything to be written,G1125,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:1 ,PHRASE,to you,G4771,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:2 ,WORD,For,G1063,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:2 ,PHRASE,you yourselves,G846,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:2 ,WORD,know,G1492,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:2 ,PHRASE,full well,G199,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:2 ,WORD,that,G3754,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:2 ,PHRASE,the day,G2250,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:2 ,PHRASE,of the Lord,G2962,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:2 ,PHRASE,will come,G2064,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:2 ,PHRASE,just like,G5613,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:2 ,WORD,,G3779,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:2 ,PHRASE,a thief,G2812,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:2 ,WORD,in,G1722,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:2 ,PHRASE,the night,G3571,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:3 ,WORD,While,G3752,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:3 ,PHRASE,they are saying,G3004,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:3 ,WORD,Peace,G1515,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:3 ,WORD,and,G2532,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:3 ,WORD,safety,G803,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:3 ,WORD,then,G5119,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:3 ,WORD,destruction,G3639,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:3 ,PHRASE,will come upon,G2186,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:3 ,WORD,them,G846,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:3 ,WORD,suddenly,G160,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:3 ,WORD,like,G5618,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:3 ,PHRASE,labor pains,G5604,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:3 ,WORD,upon,G1722,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:3 ,PHRASE,a woman with child,G1064,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:3 ,WORD,,G2192,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:3 ,WORD,and,G2532,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:3 ,WORD,,G3756,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:3 ,PHRASE,they will not,G3361,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:3 ,WORD,escape,G1628,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:4 ,WORD,But,G1161,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:4 ,WORD,you,G4771,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:4 ,WORD,brethren,G80,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:4 ,WORD,are,G1510,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:4 ,WORD,not,G3756,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:4 ,WORD,in,G1722,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:4 ,WORD,darkness,G4655,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:4 ,WORD,that,G2443,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:4 ,WORD,the,G3588,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:4 ,WORD,day,G2250,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:4 ,PHRASE,would overtake,G2638,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:4 ,WORD,you,G4771,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:4 ,WORD,like,G5613,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:4 ,PHRASE,a thief,G2812,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:5 ,WORD,for,G1063,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:5 ,WORD,you,G4771,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:5 ,WORD,are,G1510,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:5 ,WORD,all,G3956,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:5 ,WORD,sons,G5207,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:5 ,PHRASE,of light,G5457,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:5 ,WORD,and,G2532,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:5 ,WORD,sons,G5207,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:5 ,PHRASE,of day,G2250,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:5 ,PHRASE,We are,G1510,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:5 ,WORD,not,G3756,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:5 ,PHRASE,of night,G3571,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:5 ,WORD,nor,G3761,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:5 ,PHRASE,of darkness,G4655,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:6 ,WORD,so,G686,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:6 ,WORD,then,G3767,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:6 ,PHRASE,let us not,G3361,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:6 ,WORD,sleep,G2518,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:6 ,WORD,as,G5613,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:6 ,PHRASE,others do,G3062,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:6 ,WORD,but,G235,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:6 ,PHRASE,let us be alert,G1127,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:6 ,WORD,and,G2532,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:6 ,WORD,sober,G3525,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:7 ,WORD,For,G1063,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:7 ,PHRASE,those who,G3588,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:7 ,WORD,sleep,G2518,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:7 ,PHRASE,do their sleeping,G2518,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:7 ,PHRASE,at night,G3571,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:7 ,WORD,and,G2532,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:7 ,PHRASE,those who,G3588,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:7 ,PHRASE,get drunk,G3182,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:7 ,PHRASE,get drunk,G3184,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:7 ,PHRASE,at night,G3571,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:8 ,WORD,But,G1161,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:8 ,PHRASE,since we,G1473,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:8 ,WORD,are,G1510,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:8 ,PHRASE,of the day,G2250,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:8 ,PHRASE,let us be sober,G3525,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:8 ,PHRASE,having put on,G1746,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:8 ,PHRASE,the breastplate,G2382,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:8 ,PHRASE,of faith,G4102,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:8 ,WORD,and,G2532,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:8 ,WORD,love,G26,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:8 ,WORD,and,G2532,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:8 ,PHRASE,as a helmet,G4030,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:8 ,PHRASE,the hope,G1680,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:8 ,PHRASE,of salvation,G4991,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:9 ,WORD,For,G3754,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:9 ,WORD,God,G2316,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:9 ,PHRASE,has not,G3756,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:9 ,WORD,destined,G5087,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:9 ,WORD,us,G1473,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:9 ,WORD,for,G1519,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:9 ,WORD,wrath,G3709,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:9 ,WORD,but,G235,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:9 ,WORD,for,G1519,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:9 ,WORD,obtaining,G4047,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:9 ,WORD,salvation,G4991,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:9 ,WORD,through,G1223,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:9 ,WORD,our,G1473,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:9 ,WORD,Lord,G2962,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:9 ,WORD,Jesus,G2424,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:9 ,WORD,Christ,G5547,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:10 ,WORD,who,G3588,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:10 ,WORD,died,G599,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:10 ,WORD,for,G5228,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:10 ,WORD,us,G1473,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:10 ,PHRASE,so that,G2443,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:10 ,WORD,whether,G1535,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:10 ,PHRASE,we are awake,G1127,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:10 ,WORD,or,G1535,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:10 ,WORD,asleep,G2518,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:10 ,PHRASE,we will live,G2198,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:10 ,WORD,together,G260,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:10 ,WORD,with,G4862,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:10 ,WORD,Him,G846,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:11 ,WORD,Therefore,G1352,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:11 ,WORD,encourage,G3870,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:11 ,PHRASE,one another,G240,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:11 ,WORD,and,G2532,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:11 ,PHRASE,build up,G3618,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:11 ,WORD,one,G1520,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:11 ,WORD,another,G1520,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:11 ,PHRASE,just as,G2531,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:11 ,PHRASE,you also,G2532,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:11 ,PHRASE,are doing,G4160,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:12 ,WORD,But,G1161,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:12 ,PHRASE,we request,G2065,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:12 ,PHRASE,of you,G4771,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:12 ,WORD,brethren,G80,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:12 ,PHRASE,that you appreciate,G1492,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:12 ,PHRASE,those who,G3588,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:12 ,PHRASE,diligently labor,G2872,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:12 ,WORD,among,G1722,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:12 ,WORD,you,G4771,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:12 ,WORD,and,G2532,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:12 ,PHRASE,have charge over,G4291,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:12 ,WORD,you,G4771,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:12 ,WORD,in,G1722,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:12 ,PHRASE,the Lord,G2962,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:12 ,WORD,and,G2532,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:12 ,WORD,give,G3560,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:12 ,WORD,you,G4771,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:12 ,WORD,instruction,G3560,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:13 ,WORD,and,G2532,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:13 ,PHRASE,that you esteem,G2233,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:13 ,WORD,them,G846,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:13 ,PHRASE,very highly,G4057,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:13 ,WORD,in,G1722,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:13 ,WORD,love,G26,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:13 ,PHRASE,because of,G1223,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:13 ,WORD,their,G846,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:13 ,WORD,work,G2041,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:13 ,PHRASE,Live in peace,G1514,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:13 ,WORD,with,G1722,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:13 ,PHRASE,one another,G1438,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:14 ,PHRASE,We urge,G3870,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:14 ,WORD,you,G4771,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:14 ,WORD,brethren,G80,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:14 ,WORD,admonish,G3560,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:14 ,WORD,the,G3588,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:14 ,WORD,unruly,G813,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:14 ,WORD,encourage,G3888,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:14 ,WORD,the,G3588,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:14 ,WORD,fainthearted,G3642,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:14 ,WORD,help,G472,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:14 ,WORD,the,G3588,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:14 ,WORD,weak,G772,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:14 ,PHRASE,be patient,G3114,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:14 ,WORD,with,G4314,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:14 ,WORD,everyone,G3956,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:15 ,PHRASE,See that,G3708,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:15 ,WORD,no,G3361,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:15 ,WORD,one,G5100,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:15 ,WORD,repays,G591,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:15 ,WORD,another,G5100,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:15 ,PHRASE,with evil,G2556,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:15 ,WORD,for,G473,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:15 ,WORD,evil,G2556,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:15 ,WORD,but,G235,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:15 ,WORD,always,G3842,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:15 ,PHRASE,seek after,G1377,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:15 ,PHRASE,that which,G3588,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:15 ,PHRASE,is good,G18,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:15 ,WORD,for,G1519,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:15 ,PHRASE,one another,G240,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:15 ,WORD,and,G2532,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:15 ,WORD,for,G1519,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:15 ,PHRASE,all people,G3956,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:16 ,WORD,Rejoice,G5463,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:16 ,WORD,always,G3842,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:17 ,WORD,pray,G4336,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:17 ,PHRASE,without ceasing,G89,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:18 ,WORD,in,G1722,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:18 ,WORD,everything,G3956,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:18 ,PHRASE,give thanks,G2168,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:18 ,WORD,for,G1063,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:18 ,WORD,this,G3778,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:18 ,PHRASE,is God's,G2316,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:18 ,WORD,will,G2307,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:18 ,WORD,for,G1519,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:18 ,WORD,you,G4771,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:18 ,WORD,in,G1722,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:18 ,WORD,Christ,G5547,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:18 ,WORD,Jesus,G2424,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:19 ,PHRASE,Do not,G3361,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:19 ,WORD,quench,G4570,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:19 ,WORD,the,G3588,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:19 ,WORD,Spirit,G4151,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:20 ,PHRASE,do not,G3361,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:20 ,WORD,despise,G1848,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:20 ,PHRASE,prophetic utterances,G4394,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:21 ,WORD,But,G1161,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:21 ,WORD,examine,G1381,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:21 ,WORD,everything,G3956,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:21 ,WORD,carefully,G1381,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:21 ,PHRASE,hold fast,G2722,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:21 ,PHRASE,to that which,G3588,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:21 ,PHRASE,is good,G2570,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:22 ,WORD,abstain,G568,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:22 ,WORD,from,G575,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:22 ,WORD,every,G3956,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:22 ,WORD,form,G1491,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:22 ,PHRASE,of evil,G4190,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:23 ,WORD,Now,G1161,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:23 ,WORD,may,G37,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:23 ,WORD,the,G3588,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:23 ,WORD,God,G2316,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:23 ,PHRASE,of peace,G1515,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:23 ,WORD,Himself,G846,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:23 ,WORD,sanctify,G37,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:23 ,WORD,you,G4771,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:23 ,WORD,entirely,G3651,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:23 ,WORD,and,G2532,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:23 ,PHRASE,may your,G4771,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:23 ,WORD,spirit,G4151,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:23 ,WORD,and,G2532,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:23 ,WORD,soul,G5590,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:23 ,WORD,and,G2532,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:23 ,WORD,body,G4983,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:23 ,PHRASE,be preserved,G5083,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:23 ,WORD,complete,G3648,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:23 ,PHRASE,without blame,G274,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:23 ,WORD,at,G1722,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:23 ,WORD,the,G3588,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:23 ,WORD,coming,G3952,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:23 ,PHRASE,of our,G1473,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:23 ,WORD,Lord,G2962,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:23 ,WORD,Jesus,G2424,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:23 ,WORD,Christ,G5547,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:24 ,WORD,Faithful,G4103,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:24 ,PHRASE,is He who calls,G2564,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:24 ,WORD,you,G4771,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:24 ,PHRASE,and He,G3739,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:24 ,WORD,also,G2532,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:24 ,PHRASE,will bring it to pass,G4160,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:25 ,WORD,Brethren,G80,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:25 ,WORD,pray,G4336,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:25 ,WORD,for,G4012,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:25 ,WORD,us,G1473,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:26 ,WORD,Greet,G782,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:26 ,WORD,all,G3956,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:26 ,WORD,the,G3588,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:26 ,WORD,brethren,G80,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:26 ,WORD,with,G1722,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:26 ,PHRASE,a holy,G40,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:26 ,WORD,kiss,G5370,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:27 ,PHRASE,I adjure,G3726,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:27 ,WORD,you,G4771,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:27 ,PHRASE,by the,G3588,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:27 ,WORD,Lord,G2962,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:27 ,PHRASE,to have,G314,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:27 ,WORD,this,G3588,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:27 ,WORD,letter,G1992,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:27 ,WORD,read,G314,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:27 ,PHRASE,to all,G3956,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:27 ,WORD,the,G3588,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:27 ,WORD,brethren,G80,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:28 ,WORD,The,G3588,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:28 ,WORD,grace,G5485,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:28 ,PHRASE,of our,G1473,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:28 ,WORD,Lord,G2962,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:28 ,WORD,Jesus,G2424,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:28 ,WORD,Christ,G5547,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:28 ,PHRASE,be with,G3326,Epistles,New Testament,1 Thessalonians,LXX
+5,1 Thessalonians5:28 ,WORD,you,G4771,Epistles,New Testament,1 Thessalonians,LXX

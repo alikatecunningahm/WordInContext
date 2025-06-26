@@ -1,0 +1,1595 @@
+bible_chapter,bible_verse,verse_part_type,verse_part,hebrew_id,lit_type,testament_type,bible_book,version
+1,Philippians1:1 ,WORD,Paul,G3972,Epistles,New Testament,Philippians,KJV
+1,Philippians1:1 ,WORD,and,G2532,Epistles,New Testament,Philippians,KJV
+1,Philippians1:1 ,WORD,"Timotheus,",G5095,Epistles,New Testament,Philippians,KJV
+1,Philippians1:1 ,PHRASE,the servants,G1401,Epistles,New Testament,Philippians,KJV
+1,Philippians1:1 ,PHRASE,of Jesus,G2424,Epistles,New Testament,Philippians,KJV
+1,Philippians1:1 ,WORD,"Christ,",G5547,Epistles,New Testament,Philippians,KJV
+1,Philippians1:1 ,PHRASE,to all,G3956,Epistles,New Testament,Philippians,KJV
+1,Philippians1:1 ,WORD,the,G3588,Epistles,New Testament,Philippians,KJV
+1,Philippians1:1 ,WORD,saints,G40,Epistles,New Testament,Philippians,KJV
+1,Philippians1:1 ,WORD,in,G1722,Epistles,New Testament,Philippians,KJV
+1,Philippians1:1 ,WORD,Christ,G5547,Epistles,New Testament,Philippians,KJV
+1,Philippians1:1 ,WORD,Jesus,G2424,Epistles,New Testament,Philippians,KJV
+1,Philippians1:1 ,WORD,which,G3588,Epistles,New Testament,Philippians,KJV
+1,Philippians1:1 ,WORD,are,G5607,Epistles,New Testament,Philippians,KJV
+1,Philippians1:1 ,WORD,at,G1722,Epistles,New Testament,Philippians,KJV
+1,Philippians1:1 ,WORD,"Philippi,",G5375,Epistles,New Testament,Philippians,KJV
+1,Philippians1:1 ,WORD,with,G4862,Epistles,New Testament,Philippians,KJV
+1,Philippians1:1 ,PHRASE,the bishops,G1985,Epistles,New Testament,Philippians,KJV
+1,Philippians1:1 ,WORD,and,G2532,Epistles,New Testament,Philippians,KJV
+1,Philippians1:1 ,WORD,deacons:,G1249,Epistles,New Testament,Philippians,KJV
+1,Philippians1:2 ,WORD,Grace,G5485,Epistles,New Testament,Philippians,KJV
+1,Philippians1:2 ,WORD,[be],,Epistles,New Testament,Philippians,KJV
+1,Philippians1:2 ,PHRASE,"unto you,",G5213,Epistles,New Testament,Philippians,KJV
+1,Philippians1:2 ,WORD,and,G2532,Epistles,New Testament,Philippians,KJV
+1,Philippians1:2 ,WORD,"peace,",G1515,Epistles,New Testament,Philippians,KJV
+1,Philippians1:2 ,WORD,from,G575,Epistles,New Testament,Philippians,KJV
+1,Philippians1:2 ,WORD,God,G2316,Epistles,New Testament,Philippians,KJV
+1,Philippians1:2 ,WORD,our,G2257,Epistles,New Testament,Philippians,KJV
+1,Philippians1:2 ,WORD,"Father,",G3962,Epistles,New Testament,Philippians,KJV
+1,Philippians1:2 ,WORD,and,G2532,Epistles,New Testament,Philippians,KJV
+1,Philippians1:2 ,WORD,[from],,Epistles,New Testament,Philippians,KJV
+1,Philippians1:2 ,PHRASE,the Lord,G2962,Epistles,New Testament,Philippians,KJV
+1,Philippians1:2 ,WORD,Jesus,G2424,Epistles,New Testament,Philippians,KJV
+1,Philippians1:2 ,WORD,Christ.,G5547,Epistles,New Testament,Philippians,KJV
+1,Philippians1:3 ,PHRASE,I thank,G2168,Epistles,New Testament,Philippians,KJV
+1,Philippians1:3 ,WORD,my,G3450,Epistles,New Testament,Philippians,KJV
+1,Philippians1:3 ,WORD,God,G2316,Epistles,New Testament,Philippians,KJV
+1,Philippians1:3 ,WORD,upon,G1909,Epistles,New Testament,Philippians,KJV
+1,Philippians1:3 ,WORD,every,G3956,Epistles,New Testament,Philippians,KJV
+1,Philippians1:3 ,WORD,remembrance,G3417,Epistles,New Testament,Philippians,KJV
+1,Philippians1:3 ,PHRASE,"of you,",G5216,Epistles,New Testament,Philippians,KJV
+1,Philippians1:4 ,WORD,Always,G3842,Epistles,New Testament,Philippians,KJV
+1,Philippians1:4 ,WORD,in,G1722,Epistles,New Testament,Philippians,KJV
+1,Philippians1:4 ,WORD,every,G3956,Epistles,New Testament,Philippians,KJV
+1,Philippians1:4 ,WORD,prayer,G1162,Epistles,New Testament,Philippians,KJV
+1,Philippians1:4 ,PHRASE,of mine,G3450,Epistles,New Testament,Philippians,KJV
+1,Philippians1:4 ,WORD,for,G5228,Epistles,New Testament,Philippians,KJV
+1,Philippians1:4 ,WORD,you,G5216,Epistles,New Testament,Philippians,KJV
+1,Philippians1:4 ,WORD,all,G3956,Epistles,New Testament,Philippians,KJV
+1,Philippians1:4 ,WORD,making,G4160,Epistles,New Testament,Philippians,KJV
+1,Philippians1:4 ,WORD,request,G1162,Epistles,New Testament,Philippians,KJV
+1,Philippians1:4 ,WORD,with,G3326,Epistles,New Testament,Philippians,KJV
+1,Philippians1:4 ,WORD,"joy,",G5479,Epistles,New Testament,Philippians,KJV
+1,Philippians1:5 ,WORD,For,G1909,Epistles,New Testament,Philippians,KJV
+1,Philippians1:5 ,WORD,your,G5216,Epistles,New Testament,Philippians,KJV
+1,Philippians1:5 ,WORD,fellowship,G2842,Epistles,New Testament,Philippians,KJV
+1,Philippians1:5 ,WORD,in,G1519,Epistles,New Testament,Philippians,KJV
+1,Philippians1:5 ,WORD,the,G3588,Epistles,New Testament,Philippians,KJV
+1,Philippians1:5 ,WORD,gospel,G2098,Epistles,New Testament,Philippians,KJV
+1,Philippians1:5 ,WORD,from,G575,Epistles,New Testament,Philippians,KJV
+1,Philippians1:5 ,PHRASE,the first,G4413,Epistles,New Testament,Philippians,KJV
+1,Philippians1:5 ,WORD,day,G2250,Epistles,New Testament,Philippians,KJV
+1,Philippians1:5 ,WORD,until,G891,Epistles,New Testament,Philippians,KJV
+1,Philippians1:5 ,WORD,now;,G3568,Epistles,New Testament,Philippians,KJV
+1,Philippians1:6 ,PHRASE,Being confident,G3982,Epistles,New Testament,Philippians,KJV
+1,Philippians1:6 ,PHRASE,of this,G5124,Epistles,New Testament,Philippians,KJV
+1,Philippians1:6 ,PHRASE,"very thing,",G846,Epistles,New Testament,Philippians,KJV
+1,Philippians1:6 ,WORD,that,G3754,Epistles,New Testament,Philippians,KJV
+1,Philippians1:6 ,PHRASE,he which,G3588,Epistles,New Testament,Philippians,KJV
+1,Philippians1:6 ,PHRASE,hath begun,G1728,Epistles,New Testament,Philippians,KJV
+1,Philippians1:6 ,PHRASE,a good,G18,Epistles,New Testament,Philippians,KJV
+1,Philippians1:6 ,WORD,work,G2041,Epistles,New Testament,Philippians,KJV
+1,Philippians1:6 ,WORD,in,G1722,Epistles,New Testament,Philippians,KJV
+1,Philippians1:6 ,WORD,you,G5213,Epistles,New Testament,Philippians,KJV
+1,Philippians1:6 ,PHRASE,will perform,G2005,Epistles,New Testament,Philippians,KJV
+1,Philippians1:6 ,WORD,[it],,Epistles,New Testament,Philippians,KJV
+1,Philippians1:6 ,WORD,until,G891,Epistles,New Testament,Philippians,KJV
+1,Philippians1:6 ,PHRASE,the day,G2250,Epistles,New Testament,Philippians,KJV
+1,Philippians1:6 ,PHRASE,of Jesus,G2424,Epistles,New Testament,Philippians,KJV
+1,Philippians1:6 ,WORD,Christ:,G5547,Epistles,New Testament,Philippians,KJV
+1,Philippians1:7 ,PHRASE,Even as,G2531,Epistles,New Testament,Philippians,KJV
+1,Philippians1:7 ,PHRASE,it is,G2076,Epistles,New Testament,Philippians,KJV
+1,Philippians1:7 ,WORD,meet,G1342,Epistles,New Testament,Philippians,KJV
+1,Philippians1:7 ,PHRASE,for me,G1698,Epistles,New Testament,Philippians,KJV
+1,Philippians1:7 ,PHRASE,to think,G5426,Epistles,New Testament,Philippians,KJV
+1,Philippians1:7 ,WORD,this,G5124,Epistles,New Testament,Philippians,KJV
+1,Philippians1:7 ,WORD,of,G5228,Epistles,New Testament,Philippians,KJV
+1,Philippians1:7 ,WORD,you,G5216,Epistles,New Testament,Philippians,KJV
+1,Philippians1:7 ,WORD,"all,",G3956,Epistles,New Testament,Philippians,KJV
+1,Philippians1:7 ,WORD,because,G1223,Epistles,New Testament,Philippians,KJV
+1,Philippians1:7 ,PHRASE,I have,G2192,Epistles,New Testament,Philippians,KJV
+1,Philippians1:7 ,WORD,you,G5209,Epistles,New Testament,Philippians,KJV
+1,Philippians1:7 ,WORD,in,G1722,Epistles,New Testament,Philippians,KJV
+1,Philippians1:7 ,WORD,my,G3165,Epistles,New Testament,Philippians,KJV
+1,Philippians1:7 ,WORD,heart;,G2588,Epistles,New Testament,Philippians,KJV
+1,Philippians1:7 ,PHRASE,inasmuch as both,G5037,Epistles,New Testament,Philippians,KJV
+1,Philippians1:7 ,WORD,in,G1722,Epistles,New Testament,Philippians,KJV
+1,Philippians1:7 ,WORD,my,G3450,Epistles,New Testament,Philippians,KJV
+1,Philippians1:7 ,WORD,"bonds,",G1199,Epistles,New Testament,Philippians,KJV
+1,Philippians1:7 ,WORD,and,G2532,Epistles,New Testament,Philippians,KJV
+1,Philippians1:7 ,PHRASE,in the,G3588,Epistles,New Testament,Philippians,KJV
+1,Philippians1:7 ,WORD,defence,G627,Epistles,New Testament,Philippians,KJV
+1,Philippians1:7 ,WORD,and,G2532,Epistles,New Testament,Philippians,KJV
+1,Philippians1:7 ,WORD,confirmation,G951,Epistles,New Testament,Philippians,KJV
+1,Philippians1:7 ,PHRASE,of the,G3588,Epistles,New Testament,Philippians,KJV
+1,Philippians1:7 ,WORD,"gospel,",G2098,Epistles,New Testament,Philippians,KJV
+1,Philippians1:7 ,WORD,ye,G5209,Epistles,New Testament,Philippians,KJV
+1,Philippians1:7 ,WORD,all,G3956,Epistles,New Testament,Philippians,KJV
+1,Philippians1:7 ,WORD,are,G5607,Epistles,New Testament,Philippians,KJV
+1,Philippians1:7 ,WORD,partakers,G4791,Epistles,New Testament,Philippians,KJV
+1,Philippians1:7 ,PHRASE,of my,G3450,Epistles,New Testament,Philippians,KJV
+1,Philippians1:7 ,WORD,grace.,G5485,Epistles,New Testament,Philippians,KJV
+1,Philippians1:8 ,WORD,For,G1063,Epistles,New Testament,Philippians,KJV
+1,Philippians1:8 ,WORD,God,G2316,Epistles,New Testament,Philippians,KJV
+1,Philippians1:8 ,WORD,is,G2076,Epistles,New Testament,Philippians,KJV
+1,Philippians1:8 ,WORD,my,G3450,Epistles,New Testament,Philippians,KJV
+1,Philippians1:8 ,WORD,"record,",G3144,Epistles,New Testament,Philippians,KJV
+1,Philippians1:8 ,WORD,how,G5613,Epistles,New Testament,Philippians,KJV
+1,Philippians1:8 ,PHRASE,greatly I long after,G1971,Epistles,New Testament,Philippians,KJV
+1,Philippians1:8 ,WORD,you,G5209,Epistles,New Testament,Philippians,KJV
+1,Philippians1:8 ,WORD,all,G3956,Epistles,New Testament,Philippians,KJV
+1,Philippians1:8 ,WORD,in,G1722,Epistles,New Testament,Philippians,KJV
+1,Philippians1:8 ,PHRASE,the bowels,G4698,Epistles,New Testament,Philippians,KJV
+1,Philippians1:8 ,PHRASE,of Jesus,G2424,Epistles,New Testament,Philippians,KJV
+1,Philippians1:8 ,WORD,Christ.,G5547,Epistles,New Testament,Philippians,KJV
+1,Philippians1:9 ,WORD,And,G2532,Epistles,New Testament,Philippians,KJV
+1,Philippians1:9 ,WORD,this,G5124,Epistles,New Testament,Philippians,KJV
+1,Philippians1:9 ,PHRASE,"I pray,",G4336,Epistles,New Testament,Philippians,KJV
+1,Philippians1:9 ,WORD,that,G2443,Epistles,New Testament,Philippians,KJV
+1,Philippians1:9 ,WORD,your,G5216,Epistles,New Testament,Philippians,KJV
+1,Philippians1:9 ,WORD,love,G26,Epistles,New Testament,Philippians,KJV
+1,Philippians1:9 ,PHRASE,may abound,G4052,Epistles,New Testament,Philippians,KJV
+1,Philippians1:9 ,WORD,yet,G2089,Epistles,New Testament,Philippians,KJV
+1,Philippians1:9 ,WORD,more,G3123,Epistles,New Testament,Philippians,KJV
+1,Philippians1:9 ,WORD,and,G2532,Epistles,New Testament,Philippians,KJV
+1,Philippians1:9 ,WORD,more,G3123,Epistles,New Testament,Philippians,KJV
+1,Philippians1:9 ,WORD,in,G1722,Epistles,New Testament,Philippians,KJV
+1,Philippians1:9 ,WORD,knowledge,G1922,Epistles,New Testament,Philippians,KJV
+1,Philippians1:9 ,WORD,and,G2532,Epistles,New Testament,Philippians,KJV
+1,Philippians1:9 ,WORD,[in],,Epistles,New Testament,Philippians,KJV
+1,Philippians1:9 ,WORD,all,G3956,Epistles,New Testament,Philippians,KJV
+1,Philippians1:9 ,WORD,judgment;,G144,Epistles,New Testament,Philippians,KJV
+1,Philippians1:10 ,WORD,That,G1519,Epistles,New Testament,Philippians,KJV
+1,Philippians1:10 ,WORD,ye,G5209,Epistles,New Testament,Philippians,KJV
+1,Philippians1:10 ,PHRASE,may approve,G1381,Epistles,New Testament,Philippians,KJV
+1,Philippians1:10 ,WORD,things,G3588,Epistles,New Testament,Philippians,KJV
+1,Philippians1:10 ,PHRASE,that are excellent;,G1308,Epistles,New Testament,Philippians,KJV
+1,Philippians1:10 ,WORD,that,G2443,Epistles,New Testament,Philippians,KJV
+1,Philippians1:10 ,PHRASE,ye may be,G5600,Epistles,New Testament,Philippians,KJV
+1,Philippians1:10 ,WORD,sincere,G1506,Epistles,New Testament,Philippians,KJV
+1,Philippians1:10 ,WORD,and,G2532,Epistles,New Testament,Philippians,KJV
+1,Philippians1:10 ,PHRASE,without offence,G677,Epistles,New Testament,Philippians,KJV
+1,Philippians1:10 ,WORD,till,G1519,Epistles,New Testament,Philippians,KJV
+1,Philippians1:10 ,PHRASE,the day,G2250,Epistles,New Testament,Philippians,KJV
+1,Philippians1:10 ,PHRASE,of Christ;,G5547,Epistles,New Testament,Philippians,KJV
+1,Philippians1:11 ,PHRASE,Being filled,G4137,Epistles,New Testament,Philippians,KJV
+1,Philippians1:11 ,PHRASE,with the fruits,G2590,Epistles,New Testament,Philippians,KJV
+1,Philippians1:11 ,PHRASE,"of righteousness,",G1343,Epistles,New Testament,Philippians,KJV
+1,Philippians1:11 ,WORD,which,G3588,Epistles,New Testament,Philippians,KJV
+1,Philippians1:11 ,PHRASE,are by,G1223,Epistles,New Testament,Philippians,KJV
+1,Philippians1:11 ,WORD,Jesus,G2424,Epistles,New Testament,Philippians,KJV
+1,Philippians1:11 ,WORD,"Christ,",G5547,Epistles,New Testament,Philippians,KJV
+1,Philippians1:11 ,WORD,unto,G1519,Epistles,New Testament,Philippians,KJV
+1,Philippians1:11 ,PHRASE,the glory,G1391,Epistles,New Testament,Philippians,KJV
+1,Philippians1:11 ,WORD,and,G2532,Epistles,New Testament,Philippians,KJV
+1,Philippians1:11 ,WORD,praise,G1868,Epistles,New Testament,Philippians,KJV
+1,Philippians1:11 ,PHRASE,of God.,G2316,Epistles,New Testament,Philippians,KJV
+1,Philippians1:12 ,WORD,But,G1161,Epistles,New Testament,Philippians,KJV
+1,Philippians1:12 ,PHRASE,I would,G1014,Epistles,New Testament,Philippians,KJV
+1,Philippians1:12 ,WORD,ye,G5209,Epistles,New Testament,Philippians,KJV
+1,Philippians1:12 ,PHRASE,"should understand,",G1097,Epistles,New Testament,Philippians,KJV
+1,Philippians1:12 ,WORD,"brethren,",G80,Epistles,New Testament,Philippians,KJV
+1,Philippians1:12 ,WORD,that,G3754,Epistles,New Testament,Philippians,KJV
+1,Philippians1:12 ,PHRASE,the things,G3588,Epistles,New Testament,Philippians,KJV
+1,Philippians1:12 ,PHRASE,[which happened],,Epistles,New Testament,Philippians,KJV
+1,Philippians1:12 ,WORD,unto,G2596,Epistles,New Testament,Philippians,KJV
+1,Philippians1:12 ,WORD,me,G1691,Epistles,New Testament,Philippians,KJV
+1,Philippians1:12 ,PHRASE,have fallen out,G2064,Epistles,New Testament,Philippians,KJV
+1,Philippians1:12 ,WORD,rather,G3123,Epistles,New Testament,Philippians,KJV
+1,Philippians1:12 ,WORD,unto,G1519,Epistles,New Testament,Philippians,KJV
+1,Philippians1:12 ,PHRASE,the furtherance,G4297,Epistles,New Testament,Philippians,KJV
+1,Philippians1:12 ,PHRASE,of the,G3588,Epistles,New Testament,Philippians,KJV
+1,Philippians1:12 ,WORD,gospel;,G2098,Epistles,New Testament,Philippians,KJV
+1,Philippians1:13 ,PHRASE,So that,G5620,Epistles,New Testament,Philippians,KJV
+1,Philippians1:13 ,WORD,my,G3450,Epistles,New Testament,Philippians,KJV
+1,Philippians1:13 ,WORD,bonds,G1199,Epistles,New Testament,Philippians,KJV
+1,Philippians1:13 ,WORD,in,G1722,Epistles,New Testament,Philippians,KJV
+1,Philippians1:13 ,WORD,Christ,G5547,Epistles,New Testament,Philippians,KJV
+1,Philippians1:13 ,WORD,are,G1096,Epistles,New Testament,Philippians,KJV
+1,Philippians1:13 ,WORD,manifest,G5318,Epistles,New Testament,Philippians,KJV
+1,Philippians1:13 ,WORD,in,G1722,Epistles,New Testament,Philippians,KJV
+1,Philippians1:13 ,WORD,all,G3650,Epistles,New Testament,Philippians,KJV
+1,Philippians1:13 ,WORD,the,G3588,Epistles,New Testament,Philippians,KJV
+1,Philippians1:13 ,WORD,"palace,",G4232,Epistles,New Testament,Philippians,KJV
+1,Philippians1:13 ,WORD,and,G2532,Epistles,New Testament,Philippians,KJV
+1,Philippians1:13 ,PHRASE,in all,G3956,Epistles,New Testament,Philippians,KJV
+1,Philippians1:13 ,WORD,other,G3062,Epistles,New Testament,Philippians,KJV
+1,Philippians1:13 ,WORD,[places];,,Epistles,New Testament,Philippians,KJV
+1,Philippians1:14 ,WORD,And,G2532,Epistles,New Testament,Philippians,KJV
+1,Philippians1:14 ,WORD,many,G4119,Epistles,New Testament,Philippians,KJV
+1,Philippians1:14 ,PHRASE,of the,G3588,Epistles,New Testament,Philippians,KJV
+1,Philippians1:14 ,WORD,brethren,G80,Epistles,New Testament,Philippians,KJV
+1,Philippians1:14 ,WORD,in,G1722,Epistles,New Testament,Philippians,KJV
+1,Philippians1:14 ,PHRASE,"the Lord,",G2962,Epistles,New Testament,Philippians,KJV
+1,Philippians1:14 ,PHRASE,waxing confident,G3982,Epistles,New Testament,Philippians,KJV
+1,Philippians1:14 ,PHRASE,by my,G3450,Epistles,New Testament,Philippians,KJV
+1,Philippians1:14 ,WORD,"bonds,",G1199,Epistles,New Testament,Philippians,KJV
+1,Philippians1:14 ,PHRASE,are much more,G4056,Epistles,New Testament,Philippians,KJV
+1,Philippians1:14 ,WORD,bold,G5111,Epistles,New Testament,Philippians,KJV
+1,Philippians1:14 ,PHRASE,to speak,G2980,Epistles,New Testament,Philippians,KJV
+1,Philippians1:14 ,WORD,the,G3588,Epistles,New Testament,Philippians,KJV
+1,Philippians1:14 ,WORD,word,G3056,Epistles,New Testament,Philippians,KJV
+1,Philippians1:14 ,PHRASE,without fear.,G870,Epistles,New Testament,Philippians,KJV
+1,Philippians1:15 ,WORD,Some,G5100,Epistles,New Testament,Philippians,KJV
+1,Philippians1:15 ,WORD,indeed,G3303,Epistles,New Testament,Philippians,KJV
+1,Philippians1:15 ,WORD,preach,G2784,Epistles,New Testament,Philippians,KJV
+1,Philippians1:15 ,WORD,Christ,G5547,Epistles,New Testament,Philippians,KJV
+1,Philippians1:15 ,WORD,even,G2532,Epistles,New Testament,Philippians,KJV
+1,Philippians1:15 ,WORD,of,G1223,Epistles,New Testament,Philippians,KJV
+1,Philippians1:15 ,WORD,envy,G5355,Epistles,New Testament,Philippians,KJV
+1,Philippians1:15 ,WORD,and,G2532,Epistles,New Testament,Philippians,KJV
+1,Philippians1:15 ,WORD,strife;,G2054,Epistles,New Testament,Philippians,KJV
+1,Philippians1:15 ,WORD,and,G1161,Epistles,New Testament,Philippians,KJV
+1,Philippians1:15 ,WORD,some,G5100,Epistles,New Testament,Philippians,KJV
+1,Philippians1:15 ,WORD,also,G2532,Epistles,New Testament,Philippians,KJV
+1,Philippians1:15 ,WORD,of,G1223,Epistles,New Testament,Philippians,KJV
+1,Philippians1:15 ,PHRASE,good will:,G2107,Epistles,New Testament,Philippians,KJV
+1,Philippians1:16 ,WORD,The,G3588,Epistles,New Testament,Philippians,KJV
+1,Philippians1:16 ,WORD,one,G3303,Epistles,New Testament,Philippians,KJV
+1,Philippians1:16 ,WORD,preach,G2605,Epistles,New Testament,Philippians,KJV
+1,Philippians1:16 ,WORD,Christ,G5547,Epistles,New Testament,Philippians,KJV
+1,Philippians1:16 ,WORD,of,G1537,Epistles,New Testament,Philippians,KJV
+1,Philippians1:16 ,WORD,"contention,",G2052,Epistles,New Testament,Philippians,KJV
+1,Philippians1:16 ,WORD,not,G3756,Epistles,New Testament,Philippians,KJV
+1,Philippians1:16 ,WORD,"sincerely,",G55,Epistles,New Testament,Philippians,KJV
+1,Philippians1:16 ,WORD,supposing,G3633,Epistles,New Testament,Philippians,KJV
+1,Philippians1:16 ,PHRASE,to add,G2018,Epistles,New Testament,Philippians,KJV
+1,Philippians1:16 ,WORD,affliction,G2347,Epistles,New Testament,Philippians,KJV
+1,Philippians1:16 ,PHRASE,to my,G3450,Epistles,New Testament,Philippians,KJV
+1,Philippians1:16 ,WORD,bonds:,G1199,Epistles,New Testament,Philippians,KJV
+1,Philippians1:17 ,WORD,But,G1161,Epistles,New Testament,Philippians,KJV
+1,Philippians1:17 ,WORD,the,G3588,Epistles,New Testament,Philippians,KJV
+1,Philippians1:17 ,PHRASE,other of,G1537,Epistles,New Testament,Philippians,KJV
+1,Philippians1:17 ,WORD,"love,",G26,Epistles,New Testament,Philippians,KJV
+1,Philippians1:17 ,WORD,knowing,G1492,Epistles,New Testament,Philippians,KJV
+1,Philippians1:17 ,WORD,that,G3754,Epistles,New Testament,Philippians,KJV
+1,Philippians1:17 ,PHRASE,I am set,G2749,Epistles,New Testament,Philippians,KJV
+1,Philippians1:17 ,WORD,for,G1519,Epistles,New Testament,Philippians,KJV
+1,Philippians1:17 ,PHRASE,the defence,G627,Epistles,New Testament,Philippians,KJV
+1,Philippians1:17 ,PHRASE,of the,G3588,Epistles,New Testament,Philippians,KJV
+1,Philippians1:17 ,WORD,gospel.,G2098,Epistles,New Testament,Philippians,KJV
+1,Philippians1:18 ,WORD,What,G5101,Epistles,New Testament,Philippians,KJV
+1,Philippians1:18 ,WORD,then?,G1063,Epistles,New Testament,Philippians,KJV
+1,Philippians1:18 ,WORD,"notwithstanding,",G4133,Epistles,New Testament,Philippians,KJV
+1,Philippians1:18 ,WORD,every,G3956,Epistles,New Testament,Philippians,KJV
+1,Philippians1:18 ,WORD,"way,",G5158,Epistles,New Testament,Philippians,KJV
+1,Philippians1:18 ,WORD,whether,G1535,Epistles,New Testament,Philippians,KJV
+1,Philippians1:18 ,PHRASE,"in pretence,",G4392,Epistles,New Testament,Philippians,KJV
+1,Philippians1:18 ,WORD,or,G1535,Epistles,New Testament,Philippians,KJV
+1,Philippians1:18 ,PHRASE,"in truth,",G225,Epistles,New Testament,Philippians,KJV
+1,Philippians1:18 ,WORD,Christ,G5547,Epistles,New Testament,Philippians,KJV
+1,Philippians1:18 ,PHRASE,is preached;,G2605,Epistles,New Testament,Philippians,KJV
+1,Philippians1:18 ,WORD,and,G2532,Epistles,New Testament,Philippians,KJV
+1,Philippians1:18 ,WORD,I,G5463,Epistles,New Testament,Philippians,KJV
+1,Philippians1:18 ,WORD,therein,G1722,Epistles,New Testament,Philippians,KJV
+1,Philippians1:18 ,WORD,,G5129,Epistles,New Testament,Philippians,KJV
+1,Philippians1:18 ,PHRASE,"do rejoice,",G5463,Epistles,New Testament,Philippians,KJV
+1,Philippians1:18 ,WORD,"yea,",G235,Epistles,New Testament,Philippians,KJV
+1,Philippians1:18 ,WORD,and,G2532,Epistles,New Testament,Philippians,KJV
+1,Philippians1:18 ,PHRASE,will rejoice.,G5463,Epistles,New Testament,Philippians,KJV
+1,Philippians1:19 ,WORD,For,G1063,Epistles,New Testament,Philippians,KJV
+1,Philippians1:19 ,PHRASE,I know,G1492,Epistles,New Testament,Philippians,KJV
+1,Philippians1:19 ,WORD,that,G3754,Epistles,New Testament,Philippians,KJV
+1,Philippians1:19 ,WORD,this,G5124,Epistles,New Testament,Philippians,KJV
+1,Philippians1:19 ,PHRASE,shall turn,G576,Epistles,New Testament,Philippians,KJV
+1,Philippians1:19 ,WORD,to,G1519,Epistles,New Testament,Philippians,KJV
+1,Philippians1:19 ,WORD,my,G3427,Epistles,New Testament,Philippians,KJV
+1,Philippians1:19 ,WORD,salvation,G4991,Epistles,New Testament,Philippians,KJV
+1,Philippians1:19 ,WORD,through,G1223,Epistles,New Testament,Philippians,KJV
+1,Philippians1:19 ,WORD,your,G5216,Epistles,New Testament,Philippians,KJV
+1,Philippians1:19 ,WORD,"prayer,",G1162,Epistles,New Testament,Philippians,KJV
+1,Philippians1:19 ,WORD,and,G2532,Epistles,New Testament,Philippians,KJV
+1,Philippians1:19 ,PHRASE,the supply,G2024,Epistles,New Testament,Philippians,KJV
+1,Philippians1:19 ,PHRASE,of the,G3588,Epistles,New Testament,Philippians,KJV
+1,Philippians1:19 ,WORD,Spirit,G4151,Epistles,New Testament,Philippians,KJV
+1,Philippians1:19 ,PHRASE,of Jesus,G2424,Epistles,New Testament,Philippians,KJV
+1,Philippians1:19 ,WORD,"Christ,",G5547,Epistles,New Testament,Philippians,KJV
+1,Philippians1:20 ,WORD,According,G2596,Epistles,New Testament,Philippians,KJV
+1,Philippians1:20 ,PHRASE,to my,G3450,Epistles,New Testament,Philippians,KJV
+1,Philippians1:20 ,PHRASE,earnest expectation,G603,Epistles,New Testament,Philippians,KJV
+1,Philippians1:20 ,WORD,and,G2532,Epistles,New Testament,Philippians,KJV
+1,Philippians1:20 ,WORD,[my],,Epistles,New Testament,Philippians,KJV
+1,Philippians1:20 ,WORD,"hope,",G1680,Epistles,New Testament,Philippians,KJV
+1,Philippians1:20 ,WORD,that,G3754,Epistles,New Testament,Philippians,KJV
+1,Philippians1:20 ,WORD,in,G1722,Epistles,New Testament,Philippians,KJV
+1,Philippians1:20 ,WORD,nothing,G3762,Epistles,New Testament,Philippians,KJV
+1,Philippians1:20 ,PHRASE,"I shall be ashamed,",G153,Epistles,New Testament,Philippians,KJV
+1,Philippians1:20 ,WORD,but,G235,Epistles,New Testament,Philippians,KJV
+1,Philippians1:20 ,WORD,[that],,Epistles,New Testament,Philippians,KJV
+1,Philippians1:20 ,WORD,with,G1722,Epistles,New Testament,Philippians,KJV
+1,Philippians1:20 ,WORD,all,G3956,Epistles,New Testament,Philippians,KJV
+1,Philippians1:20 ,WORD,"boldness,",G3954,Epistles,New Testament,Philippians,KJV
+1,Philippians1:20 ,WORD,as,G5613,Epistles,New Testament,Philippians,KJV
+1,Philippians1:20 ,WORD,"always,",G3842,Epistles,New Testament,Philippians,KJV
+1,Philippians1:20 ,WORD,[so],,Epistles,New Testament,Philippians,KJV
+1,Philippians1:20 ,WORD,now,G3568,Epistles,New Testament,Philippians,KJV
+1,Philippians1:20 ,WORD,also,G2532,Epistles,New Testament,Philippians,KJV
+1,Philippians1:20 ,WORD,Christ,G5547,Epistles,New Testament,Philippians,KJV
+1,Philippians1:20 ,PHRASE,shall be magnified,G3170,Epistles,New Testament,Philippians,KJV
+1,Philippians1:20 ,WORD,in,G1722,Epistles,New Testament,Philippians,KJV
+1,Philippians1:20 ,WORD,my,G3450,Epistles,New Testament,Philippians,KJV
+1,Philippians1:20 ,WORD,"body,",G4983,Epistles,New Testament,Philippians,KJV
+1,Philippians1:20 ,WORD,whether,G1535,Epistles,New Testament,Philippians,KJV
+1,Philippians1:20 ,PHRASE,[it be],,Epistles,New Testament,Philippians,KJV
+1,Philippians1:20 ,WORD,by,G1223,Epistles,New Testament,Philippians,KJV
+1,Philippians1:20 ,WORD,"life,",G2222,Epistles,New Testament,Philippians,KJV
+1,Philippians1:20 ,WORD,or,G1535,Epistles,New Testament,Philippians,KJV
+1,Philippians1:20 ,WORD,by,G1223,Epistles,New Testament,Philippians,KJV
+1,Philippians1:20 ,WORD,death.,G2288,Epistles,New Testament,Philippians,KJV
+1,Philippians1:21 ,WORD,For,G1063,Epistles,New Testament,Philippians,KJV
+1,Philippians1:21 ,PHRASE,to me,G1698,Epistles,New Testament,Philippians,KJV
+1,Philippians1:21 ,PHRASE,to live,G2198,Epistles,New Testament,Philippians,KJV
+1,Philippians1:21 ,WORD,[is],,Epistles,New Testament,Philippians,KJV
+1,Philippians1:21 ,WORD,"Christ,",G5547,Epistles,New Testament,Philippians,KJV
+1,Philippians1:21 ,WORD,and,G2532,Epistles,New Testament,Philippians,KJV
+1,Philippians1:21 ,PHRASE,to die,G599,Epistles,New Testament,Philippians,KJV
+1,Philippians1:21 ,WORD,[is],,Epistles,New Testament,Philippians,KJV
+1,Philippians1:21 ,WORD,gain.,G2771,Epistles,New Testament,Philippians,KJV
+1,Philippians1:22 ,WORD,But,G1161,Epistles,New Testament,Philippians,KJV
+1,Philippians1:22 ,WORD,if,G1487,Epistles,New Testament,Philippians,KJV
+1,Philippians1:22 ,PHRASE,I live,G2198,Epistles,New Testament,Philippians,KJV
+1,Philippians1:22 ,WORD,in,G1722,Epistles,New Testament,Philippians,KJV
+1,Philippians1:22 ,PHRASE,"the flesh,",G4561,Epistles,New Testament,Philippians,KJV
+1,Philippians1:22 ,WORD,this,G5124,Epistles,New Testament,Philippians,KJV
+1,Philippians1:22 ,WORD,[is],,Epistles,New Testament,Philippians,KJV
+1,Philippians1:22 ,PHRASE,the fruit,G2590,Epistles,New Testament,Philippians,KJV
+1,Philippians1:22 ,PHRASE,of my labour:,G2041,Epistles,New Testament,Philippians,KJV
+1,Philippians1:22 ,WORD,,G3427,Epistles,New Testament,Philippians,KJV
+1,Philippians1:22 ,WORD,yet,G2532,Epistles,New Testament,Philippians,KJV
+1,Philippians1:22 ,WORD,what,G5101,Epistles,New Testament,Philippians,KJV
+1,Philippians1:22 ,PHRASE,I shall choose,G138,Epistles,New Testament,Philippians,KJV
+1,Philippians1:22 ,PHRASE,I wot,G1107,Epistles,New Testament,Philippians,KJV
+1,Philippians1:22 ,WORD,not.,G3756,Epistles,New Testament,Philippians,KJV
+1,Philippians1:23 ,WORD,For,G1063,Epistles,New Testament,Philippians,KJV
+1,Philippians1:23 ,PHRASE,I am in a strait,G4912,Epistles,New Testament,Philippians,KJV
+1,Philippians1:23 ,WORD,betwixt,G1537,Epistles,New Testament,Philippians,KJV
+1,Philippians1:23 ,WORD,"two,",G1417,Epistles,New Testament,Philippians,KJV
+1,Philippians1:23 ,WORD,having,G2192,Epistles,New Testament,Philippians,KJV
+1,Philippians1:23 ,WORD,a,G3588,Epistles,New Testament,Philippians,KJV
+1,Philippians1:23 ,WORD,desire,G1939,Epistles,New Testament,Philippians,KJV
+1,Philippians1:23 ,WORD,to,G1519,Epistles,New Testament,Philippians,KJV
+1,Philippians1:23 ,WORD,"depart,",G360,Epistles,New Testament,Philippians,KJV
+1,Philippians1:23 ,WORD,and,G2532,Epistles,New Testament,Philippians,KJV
+1,Philippians1:23 ,PHRASE,to be,G1511,Epistles,New Testament,Philippians,KJV
+1,Philippians1:23 ,WORD,with,G4862,Epistles,New Testament,Philippians,KJV
+1,Philippians1:23 ,WORD,Christ;,G5547,Epistles,New Testament,Philippians,KJV
+1,Philippians1:23 ,PHRASE,which is far,G4183,Epistles,New Testament,Philippians,KJV
+1,Philippians1:23 ,WORD,,G3123,Epistles,New Testament,Philippians,KJV
+1,Philippians1:23 ,WORD,better:,G2908,Epistles,New Testament,Philippians,KJV
+1,Philippians1:24 ,WORD,Nevertheless,G1161,Epistles,New Testament,Philippians,KJV
+1,Philippians1:24 ,PHRASE,to abide,G1961,Epistles,New Testament,Philippians,KJV
+1,Philippians1:24 ,WORD,in,G1722,Epistles,New Testament,Philippians,KJV
+1,Philippians1:24 ,WORD,the,G3588,Epistles,New Testament,Philippians,KJV
+1,Philippians1:24 ,WORD,flesh,G4561,Epistles,New Testament,Philippians,KJV
+1,Philippians1:24 ,WORD,[is],,Epistles,New Testament,Philippians,KJV
+1,Philippians1:24 ,PHRASE,more needful,G316,Epistles,New Testament,Philippians,KJV
+1,Philippians1:24 ,WORD,for,G1223,Epistles,New Testament,Philippians,KJV
+1,Philippians1:24 ,WORD,you.,G5209,Epistles,New Testament,Philippians,KJV
+1,Philippians1:25 ,WORD,And,G2532,Epistles,New Testament,Philippians,KJV
+1,Philippians1:25 ,PHRASE,having this,G5124,Epistles,New Testament,Philippians,KJV
+1,Philippians1:25 ,WORD,"confidence,",G3982,Epistles,New Testament,Philippians,KJV
+1,Philippians1:25 ,PHRASE,I know,G1492,Epistles,New Testament,Philippians,KJV
+1,Philippians1:25 ,WORD,that,G3754,Epistles,New Testament,Philippians,KJV
+1,Philippians1:25 ,PHRASE,I shall abide,G3306,Epistles,New Testament,Philippians,KJV
+1,Philippians1:25 ,WORD,and,G2532,Epistles,New Testament,Philippians,KJV
+1,Philippians1:25 ,WORD,continue,G4839,Epistles,New Testament,Philippians,KJV
+1,Philippians1:25 ,PHRASE,with you,G5213,Epistles,New Testament,Philippians,KJV
+1,Philippians1:25 ,WORD,all,G3956,Epistles,New Testament,Philippians,KJV
+1,Philippians1:25 ,WORD,for,G1519,Epistles,New Testament,Philippians,KJV
+1,Philippians1:25 ,WORD,your,G5216,Epistles,New Testament,Philippians,KJV
+1,Philippians1:25 ,WORD,furtherance,G4297,Epistles,New Testament,Philippians,KJV
+1,Philippians1:25 ,WORD,and,G2532,Epistles,New Testament,Philippians,KJV
+1,Philippians1:25 ,WORD,joy,G5479,Epistles,New Testament,Philippians,KJV
+1,Philippians1:25 ,PHRASE,of faith;,G4102,Epistles,New Testament,Philippians,KJV
+1,Philippians1:26 ,WORD,That,G2443,Epistles,New Testament,Philippians,KJV
+1,Philippians1:26 ,WORD,your,G5216,Epistles,New Testament,Philippians,KJV
+1,Philippians1:26 ,WORD,rejoicing,G2745,Epistles,New Testament,Philippians,KJV
+1,Philippians1:26 ,PHRASE,may be more abundant,G4052,Epistles,New Testament,Philippians,KJV
+1,Philippians1:26 ,WORD,in,G1722,Epistles,New Testament,Philippians,KJV
+1,Philippians1:26 ,WORD,Jesus,G2424,Epistles,New Testament,Philippians,KJV
+1,Philippians1:26 ,WORD,Christ,G5547,Epistles,New Testament,Philippians,KJV
+1,Philippians1:26 ,WORD,for,G1722,Epistles,New Testament,Philippians,KJV
+1,Philippians1:26 ,WORD,me,G1698,Epistles,New Testament,Philippians,KJV
+1,Philippians1:26 ,WORD,by,G1223,Epistles,New Testament,Philippians,KJV
+1,Philippians1:26 ,WORD,my,G1699,Epistles,New Testament,Philippians,KJV
+1,Philippians1:26 ,WORD,coming,G3952,Epistles,New Testament,Philippians,KJV
+1,Philippians1:26 ,WORD,to,G4314,Epistles,New Testament,Philippians,KJV
+1,Philippians1:26 ,WORD,you,G5209,Epistles,New Testament,Philippians,KJV
+1,Philippians1:26 ,WORD,again.,G3825,Epistles,New Testament,Philippians,KJV
+1,Philippians1:27 ,WORD,Only,G3440,Epistles,New Testament,Philippians,KJV
+1,Philippians1:27 ,PHRASE,let your conversation be,G4176,Epistles,New Testament,Philippians,KJV
+1,Philippians1:27 ,PHRASE,as it becometh,G516,Epistles,New Testament,Philippians,KJV
+1,Philippians1:27 ,WORD,the,G3588,Epistles,New Testament,Philippians,KJV
+1,Philippians1:27 ,WORD,gospel,G2098,Epistles,New Testament,Philippians,KJV
+1,Philippians1:27 ,PHRASE,of Christ:,G5547,Epistles,New Testament,Philippians,KJV
+1,Philippians1:27 ,WORD,that,G2443,Epistles,New Testament,Philippians,KJV
+1,Philippians1:27 ,WORD,whether,G1535,Epistles,New Testament,Philippians,KJV
+1,Philippians1:27 ,PHRASE,I come,G2064,Epistles,New Testament,Philippians,KJV
+1,Philippians1:27 ,WORD,and,G2532,Epistles,New Testament,Philippians,KJV
+1,Philippians1:27 ,WORD,see,G3708,Epistles,New Testament,Philippians,KJV
+1,Philippians1:27 ,WORD,"you,",G5209,Epistles,New Testament,Philippians,KJV
+1,Philippians1:27 ,WORD,or,G1535,Epistles,New Testament,Philippians,KJV
+1,Philippians1:27 ,PHRASE,"else be absent,",G548,Epistles,New Testament,Philippians,KJV
+1,Philippians1:27 ,PHRASE,I may hear,G191,Epistles,New Testament,Philippians,KJV
+1,Philippians1:27 ,PHRASE,of your,G5216,Epistles,New Testament,Philippians,KJV
+1,Philippians1:27 ,WORD,"affairs,",G4012,Epistles,New Testament,Philippians,KJV
+1,Philippians1:27 ,WORD,that,G3754,Epistles,New Testament,Philippians,KJV
+1,Philippians1:27 ,PHRASE,ye stand fast,G4739,Epistles,New Testament,Philippians,KJV
+1,Philippians1:27 ,WORD,in,G1722,Epistles,New Testament,Philippians,KJV
+1,Philippians1:27 ,WORD,one,G1520,Epistles,New Testament,Philippians,KJV
+1,Philippians1:27 ,WORD,"spirit,",G4151,Epistles,New Testament,Philippians,KJV
+1,Philippians1:27 ,PHRASE,with one,G1520,Epistles,New Testament,Philippians,KJV
+1,Philippians1:27 ,WORD,mind,G5590,Epistles,New Testament,Philippians,KJV
+1,Philippians1:27 ,PHRASE,striving together,G4866,Epistles,New Testament,Philippians,KJV
+1,Philippians1:27 ,PHRASE,for the,G3588,Epistles,New Testament,Philippians,KJV
+1,Philippians1:27 ,WORD,faith,G4102,Epistles,New Testament,Philippians,KJV
+1,Philippians1:27 ,PHRASE,of the,G3588,Epistles,New Testament,Philippians,KJV
+1,Philippians1:27 ,WORD,gospel;,G2098,Epistles,New Testament,Philippians,KJV
+1,Philippians1:28 ,WORD,And,G2532,Epistles,New Testament,Philippians,KJV
+1,Philippians1:28 ,WORD,in,G1722,Epistles,New Testament,Philippians,KJV
+1,Philippians1:28 ,WORD,nothing,G3367,Epistles,New Testament,Philippians,KJV
+1,Philippians1:28 ,WORD,,G3361,Epistles,New Testament,Philippians,KJV
+1,Philippians1:28 ,WORD,terrified,G4426,Epistles,New Testament,Philippians,KJV
+1,Philippians1:28 ,WORD,by,G5259,Epistles,New Testament,Philippians,KJV
+1,Philippians1:28 ,PHRASE,your adversaries:,G480,Epistles,New Testament,Philippians,KJV
+1,Philippians1:28 ,WORD,which,G3748,Epistles,New Testament,Philippians,KJV
+1,Philippians1:28 ,WORD,is,G2076,Epistles,New Testament,Philippians,KJV
+1,Philippians1:28 ,PHRASE,to them,G846,Epistles,New Testament,Philippians,KJV
+1,Philippians1:28 ,WORD,,G3303,Epistles,New Testament,Philippians,KJV
+1,Philippians1:28 ,PHRASE,an evident token,G1732,Epistles,New Testament,Philippians,KJV
+1,Philippians1:28 ,PHRASE,"of perdition,",G684,Epistles,New Testament,Philippians,KJV
+1,Philippians1:28 ,WORD,but,G1161,Epistles,New Testament,Philippians,KJV
+1,Philippians1:28 ,PHRASE,to you,G5213,Epistles,New Testament,Philippians,KJV
+1,Philippians1:28 ,PHRASE,"of salvation,",G4991,Epistles,New Testament,Philippians,KJV
+1,Philippians1:28 ,WORD,and,G2532,Epistles,New Testament,Philippians,KJV
+1,Philippians1:28 ,WORD,that,G5124,Epistles,New Testament,Philippians,KJV
+1,Philippians1:28 ,WORD,of,G575,Epistles,New Testament,Philippians,KJV
+1,Philippians1:28 ,WORD,God.,G2316,Epistles,New Testament,Philippians,KJV
+1,Philippians1:29 ,WORD,For,G3754,Epistles,New Testament,Philippians,KJV
+1,Philippians1:29 ,PHRASE,unto you,G5213,Epistles,New Testament,Philippians,KJV
+1,Philippians1:29 ,PHRASE,it is given,G5483,Epistles,New Testament,Philippians,KJV
+1,Philippians1:29 ,PHRASE,in the,G3588,Epistles,New Testament,Philippians,KJV
+1,Philippians1:29 ,WORD,behalf,G5228,Epistles,New Testament,Philippians,KJV
+1,Philippians1:29 ,PHRASE,"of Christ,",G5547,Epistles,New Testament,Philippians,KJV
+1,Philippians1:29 ,WORD,not,G3756,Epistles,New Testament,Philippians,KJV
+1,Philippians1:29 ,WORD,only,G3440,Epistles,New Testament,Philippians,KJV
+1,Philippians1:29 ,PHRASE,to believe,G4100,Epistles,New Testament,Philippians,KJV
+1,Philippians1:29 ,WORD,on,G1519,Epistles,New Testament,Philippians,KJV
+1,Philippians1:29 ,WORD,"him,",G846,Epistles,New Testament,Philippians,KJV
+1,Philippians1:29 ,WORD,but,G235,Epistles,New Testament,Philippians,KJV
+1,Philippians1:29 ,WORD,also,G2532,Epistles,New Testament,Philippians,KJV
+1,Philippians1:29 ,PHRASE,to suffer,G3958,Epistles,New Testament,Philippians,KJV
+1,Philippians1:29 ,WORD,for,G5228,Epistles,New Testament,Philippians,KJV
+1,Philippians1:29 ,PHRASE,his sake;,G846,Epistles,New Testament,Philippians,KJV
+1,Philippians1:30 ,WORD,Having,G2192,Epistles,New Testament,Philippians,KJV
+1,Philippians1:30 ,WORD,the,G3588,Epistles,New Testament,Philippians,KJV
+1,Philippians1:30 ,WORD,same,G846,Epistles,New Testament,Philippians,KJV
+1,Philippians1:30 ,WORD,conflict,G73,Epistles,New Testament,Philippians,KJV
+1,Philippians1:30 ,WORD,which,G3634,Epistles,New Testament,Philippians,KJV
+1,Philippians1:30 ,PHRASE,ye saw,G3708,Epistles,New Testament,Philippians,KJV
+1,Philippians1:30 ,WORD,in,G1722,Epistles,New Testament,Philippians,KJV
+1,Philippians1:30 ,WORD,"me,",G1698,Epistles,New Testament,Philippians,KJV
+1,Philippians1:30 ,WORD,and,G2532,Epistles,New Testament,Philippians,KJV
+1,Philippians1:30 ,WORD,now,G3568,Epistles,New Testament,Philippians,KJV
+1,Philippians1:30 ,WORD,hear,G191,Epistles,New Testament,Philippians,KJV
+1,Philippians1:30 ,PHRASE,[to be],,Epistles,New Testament,Philippians,KJV
+1,Philippians1:30 ,WORD,in,G1722,Epistles,New Testament,Philippians,KJV
+1,Philippians1:30 ,WORD,me.,G1698,Epistles,New Testament,Philippians,KJV
+2,Philippians2:1 ,WORD,If,G1487,Epistles,New Testament,Philippians,KJV
+2,Philippians2:1 ,PHRASE,[there be],,Epistles,New Testament,Philippians,KJV
+2,Philippians2:1 ,WORD,therefore,G3767,Epistles,New Testament,Philippians,KJV
+2,Philippians2:1 ,WORD,any,G5100,Epistles,New Testament,Philippians,KJV
+2,Philippians2:1 ,WORD,consolation,G3874,Epistles,New Testament,Philippians,KJV
+2,Philippians2:1 ,WORD,in,G1722,Epistles,New Testament,Philippians,KJV
+2,Philippians2:1 ,WORD,"Christ,",G5547,Epistles,New Testament,Philippians,KJV
+2,Philippians2:1 ,WORD,,G1487,Epistles,New Testament,Philippians,KJV
+2,Philippians2:1 ,PHRASE,if any,G5100,Epistles,New Testament,Philippians,KJV
+2,Philippians2:1 ,WORD,comfort,G3890,Epistles,New Testament,Philippians,KJV
+2,Philippians2:1 ,PHRASE,"of love,",G26,Epistles,New Testament,Philippians,KJV
+2,Philippians2:1 ,WORD,,G1487,Epistles,New Testament,Philippians,KJV
+2,Philippians2:1 ,PHRASE,if any,G5100,Epistles,New Testament,Philippians,KJV
+2,Philippians2:1 ,WORD,fellowship,G2842,Epistles,New Testament,Philippians,KJV
+2,Philippians2:1 ,PHRASE,"of the Spirit,",G4151,Epistles,New Testament,Philippians,KJV
+2,Philippians2:1 ,WORD,,G1487,Epistles,New Testament,Philippians,KJV
+2,Philippians2:1 ,PHRASE,if any,G5100,Epistles,New Testament,Philippians,KJV
+2,Philippians2:1 ,WORD,bowels,G4698,Epistles,New Testament,Philippians,KJV
+2,Philippians2:1 ,WORD,and,G2532,Epistles,New Testament,Philippians,KJV
+2,Philippians2:1 ,WORD,"mercies,",G3628,Epistles,New Testament,Philippians,KJV
+2,Philippians2:2 ,PHRASE,Fulfil ye,G4137,Epistles,New Testament,Philippians,KJV
+2,Philippians2:2 ,WORD,my,G3450,Epistles,New Testament,Philippians,KJV
+2,Philippians2:2 ,WORD,"joy,",G5479,Epistles,New Testament,Philippians,KJV
+2,Philippians2:2 ,WORD,that,G2443,Epistles,New Testament,Philippians,KJV
+2,Philippians2:2 ,PHRASE,"ye be likeminded,",G846,Epistles,New Testament,Philippians,KJV
+2,Philippians2:2 ,WORD,,G5426,Epistles,New Testament,Philippians,KJV
+2,Philippians2:2 ,WORD,having,G2192,Epistles,New Testament,Philippians,KJV
+2,Philippians2:2 ,WORD,the,G3588,Epistles,New Testament,Philippians,KJV
+2,Philippians2:2 ,WORD,same,G846,Epistles,New Testament,Philippians,KJV
+2,Philippians2:2 ,WORD,"love,",G26,Epistles,New Testament,Philippians,KJV
+2,Philippians2:2 ,WORD,[being],,Epistles,New Testament,Philippians,KJV
+2,Philippians2:2 ,PHRASE,"of one accord,",G4861,Epistles,New Testament,Philippians,KJV
+2,Philippians2:2 ,PHRASE,of one,G1520,Epistles,New Testament,Philippians,KJV
+2,Philippians2:2 ,WORD,mind.,G5426,Epistles,New Testament,Philippians,KJV
+2,Philippians2:3 ,WORD,[Let],,Epistles,New Testament,Philippians,KJV
+2,Philippians2:3 ,WORD,nothing,G3367,Epistles,New Testament,Philippians,KJV
+2,Philippians2:3 ,PHRASE,[be done],,Epistles,New Testament,Philippians,KJV
+2,Philippians2:3 ,WORD,through,G2596,Epistles,New Testament,Philippians,KJV
+2,Philippians2:3 ,WORD,strife,G2052,Epistles,New Testament,Philippians,KJV
+2,Philippians2:3 ,WORD,or,G2228,Epistles,New Testament,Philippians,KJV
+2,Philippians2:3 ,WORD,vainglory;,G2754,Epistles,New Testament,Philippians,KJV
+2,Philippians2:3 ,WORD,but,G235,Epistles,New Testament,Philippians,KJV
+2,Philippians2:3 ,PHRASE,in lowliness of mind,G5012,Epistles,New Testament,Philippians,KJV
+2,Philippians2:3 ,WORD,let,G2233,Epistles,New Testament,Philippians,KJV
+2,Philippians2:3 ,WORD,each,G240,Epistles,New Testament,Philippians,KJV
+2,Philippians2:3 ,WORD,esteem,G2233,Epistles,New Testament,Philippians,KJV
+2,Philippians2:3 ,WORD,other,G240,Epistles,New Testament,Philippians,KJV
+2,Philippians2:3 ,PHRASE,better than,G5242,Epistles,New Testament,Philippians,KJV
+2,Philippians2:3 ,WORD,themselves.,G1438,Epistles,New Testament,Philippians,KJV
+2,Philippians2:4 ,WORD,Look,G4648,Epistles,New Testament,Philippians,KJV
+2,Philippians2:4 ,WORD,not,G3361,Epistles,New Testament,Philippians,KJV
+2,Philippians2:4 ,PHRASE,every man,G1538,Epistles,New Testament,Philippians,KJV
+2,Philippians2:4 ,PHRASE,"on his own things,",G1438,Epistles,New Testament,Philippians,KJV
+2,Philippians2:4 ,WORD,but,G235,Epistles,New Testament,Philippians,KJV
+2,Philippians2:4 ,PHRASE,every man,G1538,Epistles,New Testament,Philippians,KJV
+2,Philippians2:4 ,WORD,also,G2532,Epistles,New Testament,Philippians,KJV
+2,Philippians2:4 ,PHRASE,on the things,G3588,Epistles,New Testament,Philippians,KJV
+2,Philippians2:4 ,PHRASE,of others.,G2087,Epistles,New Testament,Philippians,KJV
+2,Philippians2:5 ,WORD,Let,G5426,Epistles,New Testament,Philippians,KJV
+2,Philippians2:5 ,WORD,this,G5124,Epistles,New Testament,Philippians,KJV
+2,Philippians2:5 ,PHRASE,mind be,G5426,Epistles,New Testament,Philippians,KJV
+2,Philippians2:5 ,WORD,in,G1722,Epistles,New Testament,Philippians,KJV
+2,Philippians2:5 ,WORD,"you,",G5213,Epistles,New Testament,Philippians,KJV
+2,Philippians2:5 ,WORD,which,G3739,Epistles,New Testament,Philippians,KJV
+2,Philippians2:5 ,PHRASE,was also,G2532,Epistles,New Testament,Philippians,KJV
+2,Philippians2:5 ,WORD,in,G1722,Epistles,New Testament,Philippians,KJV
+2,Philippians2:5 ,WORD,Christ,G5547,Epistles,New Testament,Philippians,KJV
+2,Philippians2:5 ,WORD,Jesus:,G2424,Epistles,New Testament,Philippians,KJV
+2,Philippians2:6 ,WORD,"Who,",G3739,Epistles,New Testament,Philippians,KJV
+2,Philippians2:6 ,WORD,being,G5225,Epistles,New Testament,Philippians,KJV
+2,Philippians2:6 ,WORD,in,G1722,Epistles,New Testament,Philippians,KJV
+2,Philippians2:6 ,PHRASE,the form,G3444,Epistles,New Testament,Philippians,KJV
+2,Philippians2:6 ,PHRASE,"of God,",G2316,Epistles,New Testament,Philippians,KJV
+2,Philippians2:6 ,PHRASE,thought it,G2233,Epistles,New Testament,Philippians,KJV
+2,Philippians2:6 ,WORD,not,G3756,Epistles,New Testament,Philippians,KJV
+2,Philippians2:6 ,WORD,robbery,G725,Epistles,New Testament,Philippians,KJV
+2,Philippians2:6 ,PHRASE,to be,G1511,Epistles,New Testament,Philippians,KJV
+2,Philippians2:6 ,WORD,equal,G2470,Epistles,New Testament,Philippians,KJV
+2,Philippians2:6 ,PHRASE,with God:,G2316,Epistles,New Testament,Philippians,KJV
+2,Philippians2:7 ,WORD,But,G235,Epistles,New Testament,Philippians,KJV
+2,Philippians2:7 ,WORD,made,G2758,Epistles,New Testament,Philippians,KJV
+2,Philippians2:7 ,WORD,himself,G1438,Epistles,New Testament,Philippians,KJV
+2,Philippians2:7 ,PHRASE,"of no reputation,",G2758,Epistles,New Testament,Philippians,KJV
+2,Philippians2:7 ,PHRASE,and took upon him,G2983,Epistles,New Testament,Philippians,KJV
+2,Philippians2:7 ,PHRASE,the form,G3444,Epistles,New Testament,Philippians,KJV
+2,Philippians2:7 ,PHRASE,"of a servant,",G1401,Epistles,New Testament,Philippians,KJV
+2,Philippians2:7 ,PHRASE,and was made,G1096,Epistles,New Testament,Philippians,KJV
+2,Philippians2:7 ,WORD,in,G1722,Epistles,New Testament,Philippians,KJV
+2,Philippians2:7 ,PHRASE,the likeness,G3667,Epistles,New Testament,Philippians,KJV
+2,Philippians2:7 ,PHRASE,of men:,G444,Epistles,New Testament,Philippians,KJV
+2,Philippians2:8 ,WORD,And,G2532,Epistles,New Testament,Philippians,KJV
+2,Philippians2:8 ,PHRASE,being found,G2147,Epistles,New Testament,Philippians,KJV
+2,Philippians2:8 ,PHRASE,in fashion,G4976,Epistles,New Testament,Philippians,KJV
+2,Philippians2:8 ,WORD,as,G5613,Epistles,New Testament,Philippians,KJV
+2,Philippians2:8 ,PHRASE,"a man,",G444,Epistles,New Testament,Philippians,KJV
+2,Philippians2:8 ,PHRASE,he humbled,G5013,Epistles,New Testament,Philippians,KJV
+2,Philippians2:8 ,WORD,"himself,",G1438,Epistles,New Testament,Philippians,KJV
+2,Philippians2:8 ,PHRASE,and became,G1096,Epistles,New Testament,Philippians,KJV
+2,Philippians2:8 ,WORD,obedient,G5255,Epistles,New Testament,Philippians,KJV
+2,Philippians2:8 ,WORD,unto,G3360,Epistles,New Testament,Philippians,KJV
+2,Philippians2:8 ,WORD,"death,",G2288,Epistles,New Testament,Philippians,KJV
+2,Philippians2:8 ,WORD,even,G1161,Epistles,New Testament,Philippians,KJV
+2,Philippians2:8 ,PHRASE,the death,G2288,Epistles,New Testament,Philippians,KJV
+2,Philippians2:8 ,PHRASE,of the cross.,G4716,Epistles,New Testament,Philippians,KJV
+2,Philippians2:9 ,WORD,Wherefore,G1352,Epistles,New Testament,Philippians,KJV
+2,Philippians2:9 ,WORD,God,G2316,Epistles,New Testament,Philippians,KJV
+2,Philippians2:9 ,WORD,also,G2532,Epistles,New Testament,Philippians,KJV
+2,Philippians2:9 ,PHRASE,hath highly exalted,G5251,Epistles,New Testament,Philippians,KJV
+2,Philippians2:9 ,WORD,"him,",G846,Epistles,New Testament,Philippians,KJV
+2,Philippians2:9 ,WORD,and,G2532,Epistles,New Testament,Philippians,KJV
+2,Philippians2:9 ,WORD,given,G5483,Epistles,New Testament,Philippians,KJV
+2,Philippians2:9 ,WORD,him,G846,Epistles,New Testament,Philippians,KJV
+2,Philippians2:9 ,PHRASE,a name,G3686,Epistles,New Testament,Philippians,KJV
+2,Philippians2:9 ,WORD,which,G3588,Epistles,New Testament,Philippians,KJV
+2,Philippians2:9 ,PHRASE,is above,G5228,Epistles,New Testament,Philippians,KJV
+2,Philippians2:9 ,WORD,every,G3956,Epistles,New Testament,Philippians,KJV
+2,Philippians2:9 ,WORD,name:,G3686,Epistles,New Testament,Philippians,KJV
+2,Philippians2:10 ,WORD,That,G2443,Epistles,New Testament,Philippians,KJV
+2,Philippians2:10 ,WORD,at,G1722,Epistles,New Testament,Philippians,KJV
+2,Philippians2:10 ,WORD,the,G3588,Epistles,New Testament,Philippians,KJV
+2,Philippians2:10 ,WORD,name,G3686,Epistles,New Testament,Philippians,KJV
+2,Philippians2:10 ,PHRASE,of Jesus,G2424,Epistles,New Testament,Philippians,KJV
+2,Philippians2:10 ,WORD,every,G3956,Epistles,New Testament,Philippians,KJV
+2,Philippians2:10 ,WORD,knee,G1119,Epistles,New Testament,Philippians,KJV
+2,Philippians2:10 ,PHRASE,"should bow,",G2578,Epistles,New Testament,Philippians,KJV
+2,Philippians2:10 ,PHRASE,"of [things] in heaven,",G2032,Epistles,New Testament,Philippians,KJV
+2,Philippians2:10 ,WORD,and,G2532,Epistles,New Testament,Philippians,KJV
+2,Philippians2:10 ,WORD,[things],,Epistles,New Testament,Philippians,KJV
+2,Philippians2:10 ,PHRASE,"in earth,",G1919,Epistles,New Testament,Philippians,KJV
+2,Philippians2:10 ,WORD,and,G2532,Epistles,New Testament,Philippians,KJV
+2,Philippians2:10 ,WORD,[things],,Epistles,New Testament,Philippians,KJV
+2,Philippians2:10 ,PHRASE,under the earth;,G2709,Epistles,New Testament,Philippians,KJV
+2,Philippians2:11 ,WORD,And,G2532,Epistles,New Testament,Philippians,KJV
+2,Philippians2:11 ,WORD,[that],,Epistles,New Testament,Philippians,KJV
+2,Philippians2:11 ,WORD,every,G3956,Epistles,New Testament,Philippians,KJV
+2,Philippians2:11 ,WORD,tongue,G1100,Epistles,New Testament,Philippians,KJV
+2,Philippians2:11 ,PHRASE,should confess,G1843,Epistles,New Testament,Philippians,KJV
+2,Philippians2:11 ,WORD,that,G3754,Epistles,New Testament,Philippians,KJV
+2,Philippians2:11 ,WORD,Jesus,G2424,Epistles,New Testament,Philippians,KJV
+2,Philippians2:11 ,WORD,Christ,G5547,Epistles,New Testament,Philippians,KJV
+2,Philippians2:11 ,WORD,[is],,Epistles,New Testament,Philippians,KJV
+2,Philippians2:11 ,WORD,"Lord,",G2962,Epistles,New Testament,Philippians,KJV
+2,Philippians2:11 ,WORD,to,G1519,Epistles,New Testament,Philippians,KJV
+2,Philippians2:11 ,PHRASE,the glory,G1391,Epistles,New Testament,Philippians,KJV
+2,Philippians2:11 ,PHRASE,of God,G2316,Epistles,New Testament,Philippians,KJV
+2,Philippians2:11 ,PHRASE,the Father.,G3962,Epistles,New Testament,Philippians,KJV
+2,Philippians2:12 ,WORD,"Wherefore,",G5620,Epistles,New Testament,Philippians,KJV
+2,Philippians2:12 ,WORD,my,G3450,Epistles,New Testament,Philippians,KJV
+2,Philippians2:12 ,WORD,"beloved,",G27,Epistles,New Testament,Philippians,KJV
+2,Philippians2:12 ,WORD,as,G2531,Epistles,New Testament,Philippians,KJV
+2,Philippians2:12 ,PHRASE,ye have,G5219,Epistles,New Testament,Philippians,KJV
+2,Philippians2:12 ,WORD,always,G3842,Epistles,New Testament,Philippians,KJV
+2,Philippians2:12 ,WORD,"obeyed,",G5219,Epistles,New Testament,Philippians,KJV
+2,Philippians2:12 ,WORD,not,G3361,Epistles,New Testament,Philippians,KJV
+2,Philippians2:12 ,WORD,as,G5613,Epistles,New Testament,Philippians,KJV
+2,Philippians2:12 ,WORD,in,G1722,Epistles,New Testament,Philippians,KJV
+2,Philippians2:12 ,WORD,my,G3450,Epistles,New Testament,Philippians,KJV
+2,Philippians2:12 ,WORD,presence,G3952,Epistles,New Testament,Philippians,KJV
+2,Philippians2:12 ,WORD,"only,",G3440,Epistles,New Testament,Philippians,KJV
+2,Philippians2:12 ,WORD,but,G235,Epistles,New Testament,Philippians,KJV
+2,Philippians2:12 ,WORD,now,G3568,Epistles,New Testament,Philippians,KJV
+2,Philippians2:12 ,WORD,much,G4183,Epistles,New Testament,Philippians,KJV
+2,Philippians2:12 ,WORD,more,G3123,Epistles,New Testament,Philippians,KJV
+2,Philippians2:12 ,WORD,in,G1722,Epistles,New Testament,Philippians,KJV
+2,Philippians2:12 ,WORD,my,G3450,Epistles,New Testament,Philippians,KJV
+2,Philippians2:12 ,WORD,"absence,",G666,Epistles,New Testament,Philippians,KJV
+2,Philippians2:12 ,PHRASE,work out,G2716,Epistles,New Testament,Philippians,KJV
+2,Philippians2:12 ,PHRASE,your own,G1438,Epistles,New Testament,Philippians,KJV
+2,Philippians2:12 ,WORD,salvation,G4991,Epistles,New Testament,Philippians,KJV
+2,Philippians2:12 ,WORD,with,G3326,Epistles,New Testament,Philippians,KJV
+2,Philippians2:12 ,WORD,fear,G5401,Epistles,New Testament,Philippians,KJV
+2,Philippians2:12 ,WORD,and,G2532,Epistles,New Testament,Philippians,KJV
+2,Philippians2:12 ,WORD,trembling.,G5156,Epistles,New Testament,Philippians,KJV
+2,Philippians2:13 ,WORD,For,G1063,Epistles,New Testament,Philippians,KJV
+2,Philippians2:13 ,PHRASE,it is,G2076,Epistles,New Testament,Philippians,KJV
+2,Philippians2:13 ,WORD,God,G2316,Epistles,New Testament,Philippians,KJV
+2,Philippians2:13 ,WORD,which,G3588,Epistles,New Testament,Philippians,KJV
+2,Philippians2:13 ,WORD,worketh,G1754,Epistles,New Testament,Philippians,KJV
+2,Philippians2:13 ,WORD,in,G1722,Epistles,New Testament,Philippians,KJV
+2,Philippians2:13 ,WORD,you,G5213,Epistles,New Testament,Philippians,KJV
+2,Philippians2:13 ,WORD,both,G2532,Epistles,New Testament,Philippians,KJV
+2,Philippians2:13 ,PHRASE,to will,G2309,Epistles,New Testament,Philippians,KJV
+2,Philippians2:13 ,WORD,and,G2532,Epistles,New Testament,Philippians,KJV
+2,Philippians2:13 ,PHRASE,to do,G1754,Epistles,New Testament,Philippians,KJV
+2,Philippians2:13 ,WORD,of,G5228,Epistles,New Testament,Philippians,KJV
+2,Philippians2:13 ,WORD,[his],,Epistles,New Testament,Philippians,KJV
+2,Philippians2:13 ,PHRASE,good pleasure.,G2107,Epistles,New Testament,Philippians,KJV
+2,Philippians2:14 ,WORD,Do,G4160,Epistles,New Testament,Philippians,KJV
+2,Philippians2:14 ,PHRASE,all things,G3956,Epistles,New Testament,Philippians,KJV
+2,Philippians2:14 ,WORD,without,G5565,Epistles,New Testament,Philippians,KJV
+2,Philippians2:14 ,WORD,murmurings,G1112,Epistles,New Testament,Philippians,KJV
+2,Philippians2:14 ,WORD,and,G2532,Epistles,New Testament,Philippians,KJV
+2,Philippians2:14 ,WORD,disputings:,G1261,Epistles,New Testament,Philippians,KJV
+2,Philippians2:15 ,WORD,That,G2443,Epistles,New Testament,Philippians,KJV
+2,Philippians2:15 ,PHRASE,ye may be,G1096,Epistles,New Testament,Philippians,KJV
+2,Philippians2:15 ,WORD,blameless,G273,Epistles,New Testament,Philippians,KJV
+2,Philippians2:15 ,WORD,and,G2532,Epistles,New Testament,Philippians,KJV
+2,Philippians2:15 ,WORD,"harmless,",G185,Epistles,New Testament,Philippians,KJV
+2,Philippians2:15 ,PHRASE,the sons,G5043,Epistles,New Testament,Philippians,KJV
+2,Philippians2:15 ,PHRASE,"of God,",G2316,Epistles,New Testament,Philippians,KJV
+2,Philippians2:15 ,PHRASE,"without rebuke,",G298,Epistles,New Testament,Philippians,KJV
+2,Philippians2:15 ,WORD,in,G1722,Epistles,New Testament,Philippians,KJV
+2,Philippians2:15 ,PHRASE,the midst,G3319,Epistles,New Testament,Philippians,KJV
+2,Philippians2:15 ,PHRASE,of a crooked,G4646,Epistles,New Testament,Philippians,KJV
+2,Philippians2:15 ,WORD,and,G2532,Epistles,New Testament,Philippians,KJV
+2,Philippians2:15 ,WORD,perverse,G1294,Epistles,New Testament,Philippians,KJV
+2,Philippians2:15 ,WORD,"nation,",G1074,Epistles,New Testament,Philippians,KJV
+2,Philippians2:15 ,WORD,among,G1722,Epistles,New Testament,Philippians,KJV
+2,Philippians2:15 ,WORD,whom,G3739,Epistles,New Testament,Philippians,KJV
+2,Philippians2:15 ,PHRASE,ye shine,G5316,Epistles,New Testament,Philippians,KJV
+2,Philippians2:15 ,WORD,as,G5613,Epistles,New Testament,Philippians,KJV
+2,Philippians2:15 ,WORD,lights,G5458,Epistles,New Testament,Philippians,KJV
+2,Philippians2:15 ,WORD,in,G1722,Epistles,New Testament,Philippians,KJV
+2,Philippians2:15 ,PHRASE,the world;,G2889,Epistles,New Testament,Philippians,KJV
+2,Philippians2:16 ,PHRASE,Holding forth,G1907,Epistles,New Testament,Philippians,KJV
+2,Philippians2:16 ,PHRASE,the word,G3056,Epistles,New Testament,Philippians,KJV
+2,Philippians2:16 ,PHRASE,of life;,G2222,Epistles,New Testament,Philippians,KJV
+2,Philippians2:16 ,WORD,that,G1519,Epistles,New Testament,Philippians,KJV
+2,Philippians2:16 ,WORD,I,G1698,Epistles,New Testament,Philippians,KJV
+2,Philippians2:16 ,PHRASE,may rejoice,G2745,Epistles,New Testament,Philippians,KJV
+2,Philippians2:16 ,WORD,in,G1519,Epistles,New Testament,Philippians,KJV
+2,Philippians2:16 ,PHRASE,the day,G2250,Epistles,New Testament,Philippians,KJV
+2,Philippians2:16 ,PHRASE,"of Christ,",G5547,Epistles,New Testament,Philippians,KJV
+2,Philippians2:16 ,WORD,that,G3754,Epistles,New Testament,Philippians,KJV
+2,Philippians2:16 ,PHRASE,I have,G5143,Epistles,New Testament,Philippians,KJV
+2,Philippians2:16 ,WORD,not,G3756,Epistles,New Testament,Philippians,KJV
+2,Philippians2:16 ,WORD,run,G5143,Epistles,New Testament,Philippians,KJV
+2,Philippians2:16 ,WORD,in,G1519,Epistles,New Testament,Philippians,KJV
+2,Philippians2:16 ,WORD,"vain,",G2756,Epistles,New Testament,Philippians,KJV
+2,Philippians2:16 ,WORD,neither,G3761,Epistles,New Testament,Philippians,KJV
+2,Philippians2:16 ,WORD,laboured,G2872,Epistles,New Testament,Philippians,KJV
+2,Philippians2:16 ,WORD,in,G1519,Epistles,New Testament,Philippians,KJV
+2,Philippians2:16 ,WORD,vain.,G2756,Epistles,New Testament,Philippians,KJV
+2,Philippians2:17 ,WORD,"Yea,",G235,Epistles,New Testament,Philippians,KJV
+2,Philippians2:17 ,WORD,and,G1487,Epistles,New Testament,Philippians,KJV
+2,Philippians2:17 ,WORD,if,G2532,Epistles,New Testament,Philippians,KJV
+2,Philippians2:17 ,PHRASE,I be offered,G4689,Epistles,New Testament,Philippians,KJV
+2,Philippians2:17 ,WORD,upon,G1909,Epistles,New Testament,Philippians,KJV
+2,Philippians2:17 ,WORD,the,G3588,Epistles,New Testament,Philippians,KJV
+2,Philippians2:17 ,WORD,sacrifice,G2378,Epistles,New Testament,Philippians,KJV
+2,Philippians2:17 ,WORD,and,G2532,Epistles,New Testament,Philippians,KJV
+2,Philippians2:17 ,WORD,service,G3009,Epistles,New Testament,Philippians,KJV
+2,Philippians2:17 ,PHRASE,of your,G5216,Epistles,New Testament,Philippians,KJV
+2,Philippians2:17 ,WORD,"faith,",G4102,Epistles,New Testament,Philippians,KJV
+2,Philippians2:17 ,PHRASE,"I joy,",G5463,Epistles,New Testament,Philippians,KJV
+2,Philippians2:17 ,WORD,and,G2532,Epistles,New Testament,Philippians,KJV
+2,Philippians2:17 ,PHRASE,rejoice with,G4796,Epistles,New Testament,Philippians,KJV
+2,Philippians2:17 ,WORD,you,G5213,Epistles,New Testament,Philippians,KJV
+2,Philippians2:17 ,WORD,all.,G3956,Epistles,New Testament,Philippians,KJV
+2,Philippians2:18 ,WORD,For,G1161,Epistles,New Testament,Philippians,KJV
+2,Philippians2:18 ,WORD,the,G3588,Epistles,New Testament,Philippians,KJV
+2,Philippians2:18 ,PHRASE,same cause,G846,Epistles,New Testament,Philippians,KJV
+2,Philippians2:18 ,WORD,also,G2532,Epistles,New Testament,Philippians,KJV
+2,Philippians2:18 ,WORD,do,G5463,Epistles,New Testament,Philippians,KJV
+2,Philippians2:18 ,WORD,ye,G5210,Epistles,New Testament,Philippians,KJV
+2,Philippians2:18 ,WORD,"joy,",G5463,Epistles,New Testament,Philippians,KJV
+2,Philippians2:18 ,WORD,and,G2532,Epistles,New Testament,Philippians,KJV
+2,Philippians2:18 ,PHRASE,rejoice with,G4796,Epistles,New Testament,Philippians,KJV
+2,Philippians2:18 ,WORD,me.,G3427,Epistles,New Testament,Philippians,KJV
+2,Philippians2:19 ,WORD,But,G1161,Epistles,New Testament,Philippians,KJV
+2,Philippians2:19 ,PHRASE,I trust,G1679,Epistles,New Testament,Philippians,KJV
+2,Philippians2:19 ,WORD,in,G1722,Epistles,New Testament,Philippians,KJV
+2,Philippians2:19 ,PHRASE,the Lord,G2962,Epistles,New Testament,Philippians,KJV
+2,Philippians2:19 ,WORD,Jesus,G2424,Epistles,New Testament,Philippians,KJV
+2,Philippians2:19 ,PHRASE,to send,G3992,Epistles,New Testament,Philippians,KJV
+2,Philippians2:19 ,WORD,Timotheus,G5095,Epistles,New Testament,Philippians,KJV
+2,Philippians2:19 ,WORD,shortly,G5030,Epistles,New Testament,Philippians,KJV
+2,Philippians2:19 ,PHRASE,"unto you,",G5213,Epistles,New Testament,Philippians,KJV
+2,Philippians2:19 ,WORD,that,G2443,Epistles,New Testament,Philippians,KJV
+2,Philippians2:19 ,PHRASE,I also,G2504,Epistles,New Testament,Philippians,KJV
+2,Philippians2:19 ,PHRASE,"may be of good comfort,",G2174,Epistles,New Testament,Philippians,KJV
+2,Philippians2:19 ,PHRASE,when I know,G1097,Epistles,New Testament,Philippians,KJV
+2,Philippians2:19 ,WORD,your,G5216,Epistles,New Testament,Philippians,KJV
+2,Philippians2:19 ,WORD,state.,G4012,Epistles,New Testament,Philippians,KJV
+2,Philippians2:20 ,WORD,For,G1063,Epistles,New Testament,Philippians,KJV
+2,Philippians2:20 ,PHRASE,I have,G2192,Epistles,New Testament,Philippians,KJV
+2,Philippians2:20 ,PHRASE,no man,G3762,Epistles,New Testament,Philippians,KJV
+2,Philippians2:20 ,WORD,"likeminded,",G2473,Epistles,New Testament,Philippians,KJV
+2,Philippians2:20 ,WORD,who,G3748,Epistles,New Testament,Philippians,KJV
+2,Philippians2:20 ,PHRASE,will naturally,G1104,Epistles,New Testament,Philippians,KJV
+2,Philippians2:20 ,WORD,care,G3309,Epistles,New Testament,Philippians,KJV
+2,Philippians2:20 ,PHRASE,for your,G5216,Epistles,New Testament,Philippians,KJV
+2,Philippians2:20 ,WORD,state.,G4012,Epistles,New Testament,Philippians,KJV
+2,Philippians2:21 ,WORD,For,G1063,Epistles,New Testament,Philippians,KJV
+2,Philippians2:21 ,WORD,all,G3956,Epistles,New Testament,Philippians,KJV
+2,Philippians2:21 ,WORD,seek,G2212,Epistles,New Testament,Philippians,KJV
+2,Philippians2:21 ,PHRASE,"their own,",G1438,Epistles,New Testament,Philippians,KJV
+2,Philippians2:21 ,WORD,not,G3756,Epistles,New Testament,Philippians,KJV
+2,Philippians2:21 ,PHRASE,the things which are,G3588,Epistles,New Testament,Philippians,KJV
+2,Philippians2:21 ,WORD,Jesus,G2424,Epistles,New Testament,Philippians,KJV
+2,Philippians2:21 ,WORD,Christ's.,G5547,Epistles,New Testament,Philippians,KJV
+2,Philippians2:22 ,WORD,But,G1161,Epistles,New Testament,Philippians,KJV
+2,Philippians2:22 ,PHRASE,ye know,G1097,Epistles,New Testament,Philippians,KJV
+2,Philippians2:22 ,WORD,the,G3588,Epistles,New Testament,Philippians,KJV
+2,Philippians2:22 ,WORD,proof,G1382,Epistles,New Testament,Philippians,KJV
+2,Philippians2:22 ,PHRASE,"of him,",G846,Epistles,New Testament,Philippians,KJV
+2,Philippians2:22 ,WORD,"that,",G3754,Epistles,New Testament,Philippians,KJV
+2,Philippians2:22 ,WORD,as,G5613,Epistles,New Testament,Philippians,KJV
+2,Philippians2:22 ,PHRASE,a son,G5043,Epistles,New Testament,Philippians,KJV
+2,Philippians2:22 ,PHRASE,"with the father,",G3962,Epistles,New Testament,Philippians,KJV
+2,Philippians2:22 ,PHRASE,he hath served,G1398,Epistles,New Testament,Philippians,KJV
+2,Philippians2:22 ,WORD,with,G4862,Epistles,New Testament,Philippians,KJV
+2,Philippians2:22 ,WORD,me,G1698,Epistles,New Testament,Philippians,KJV
+2,Philippians2:22 ,WORD,in,G1519,Epistles,New Testament,Philippians,KJV
+2,Philippians2:22 ,WORD,the,G3588,Epistles,New Testament,Philippians,KJV
+2,Philippians2:22 ,WORD,gospel.,G2098,Epistles,New Testament,Philippians,KJV
+2,Philippians2:23 ,WORD,Him,G3303,Epistles,New Testament,Philippians,KJV
+2,Philippians2:23 ,WORD,,G5126,Epistles,New Testament,Philippians,KJV
+2,Philippians2:23 ,WORD,therefore,G3767,Epistles,New Testament,Philippians,KJV
+2,Philippians2:23 ,PHRASE,I hope,G1679,Epistles,New Testament,Philippians,KJV
+2,Philippians2:23 ,PHRASE,to send,G3992,Epistles,New Testament,Philippians,KJV
+2,Philippians2:23 ,WORD,"presently,",G1824,Epistles,New Testament,Philippians,KJV
+2,Philippians2:23 ,PHRASE,so soon as,G5613,Epistles,New Testament,Philippians,KJV
+2,Philippians2:23 ,WORD,I,G302,Epistles,New Testament,Philippians,KJV
+2,Philippians2:23 ,PHRASE,shall see,G872,Epistles,New Testament,Philippians,KJV
+2,Philippians2:23 ,WORD,how,G4012,Epistles,New Testament,Philippians,KJV
+2,Philippians2:23 ,PHRASE,it will go with me.,G1691,Epistles,New Testament,Philippians,KJV
+2,Philippians2:24 ,WORD,But,G1161,Epistles,New Testament,Philippians,KJV
+2,Philippians2:24 ,PHRASE,I trust,G3982,Epistles,New Testament,Philippians,KJV
+2,Philippians2:24 ,WORD,in,G1722,Epistles,New Testament,Philippians,KJV
+2,Philippians2:24 ,PHRASE,the Lord,G2962,Epistles,New Testament,Philippians,KJV
+2,Philippians2:24 ,WORD,that,G3754,Epistles,New Testament,Philippians,KJV
+2,Philippians2:24 ,WORD,I,G2064,Epistles,New Testament,Philippians,KJV
+2,Philippians2:24 ,WORD,also,G2532,Epistles,New Testament,Philippians,KJV
+2,Philippians2:24 ,WORD,myself,G846,Epistles,New Testament,Philippians,KJV
+2,Philippians2:24 ,PHRASE,shall come,G2064,Epistles,New Testament,Philippians,KJV
+2,Philippians2:24 ,WORD,shortly.,G5030,Epistles,New Testament,Philippians,KJV
+2,Philippians2:25 ,WORD,Yet,G1161,Epistles,New Testament,Philippians,KJV
+2,Philippians2:25 ,PHRASE,I supposed,G2233,Epistles,New Testament,Philippians,KJV
+2,Philippians2:25 ,PHRASE,it necessary,G316,Epistles,New Testament,Philippians,KJV
+2,Philippians2:25 ,PHRASE,to send,G3992,Epistles,New Testament,Philippians,KJV
+2,Philippians2:25 ,WORD,to,G4314,Epistles,New Testament,Philippians,KJV
+2,Philippians2:25 ,WORD,you,G5209,Epistles,New Testament,Philippians,KJV
+2,Philippians2:25 ,WORD,"Epaphroditus,",G1891,Epistles,New Testament,Philippians,KJV
+2,Philippians2:25 ,WORD,my,G3450,Epistles,New Testament,Philippians,KJV
+2,Philippians2:25 ,WORD,"brother,",G80,Epistles,New Testament,Philippians,KJV
+2,Philippians2:25 ,WORD,and,G2532,Epistles,New Testament,Philippians,KJV
+2,Philippians2:25 ,PHRASE,"companion in labour,",G4904,Epistles,New Testament,Philippians,KJV
+2,Philippians2:25 ,WORD,and,G2532,Epistles,New Testament,Philippians,KJV
+2,Philippians2:25 ,WORD,"fellowsoldier,",G4961,Epistles,New Testament,Philippians,KJV
+2,Philippians2:25 ,WORD,but,G1161,Epistles,New Testament,Philippians,KJV
+2,Philippians2:25 ,WORD,your,G5216,Epistles,New Testament,Philippians,KJV
+2,Philippians2:25 ,WORD,"messenger,",G652,Epistles,New Testament,Philippians,KJV
+2,Philippians2:25 ,WORD,and,G2532,Epistles,New Testament,Philippians,KJV
+2,Philippians2:25 ,PHRASE,he that ministered,G3011,Epistles,New Testament,Philippians,KJV
+2,Philippians2:25 ,PHRASE,to my,G3450,Epistles,New Testament,Philippians,KJV
+2,Philippians2:25 ,WORD,wants.,G5532,Epistles,New Testament,Philippians,KJV
+2,Philippians2:26 ,WORD,For,G1894,Epistles,New Testament,Philippians,KJV
+2,Philippians2:26 ,WORD,he,G2258,Epistles,New Testament,Philippians,KJV
+2,Philippians2:26 ,PHRASE,longed after,G1971,Epistles,New Testament,Philippians,KJV
+2,Philippians2:26 ,WORD,you,G5209,Epistles,New Testament,Philippians,KJV
+2,Philippians2:26 ,WORD,"all,",G3956,Epistles,New Testament,Philippians,KJV
+2,Philippians2:26 ,WORD,and,G2532,Epistles,New Testament,Philippians,KJV
+2,Philippians2:26 ,PHRASE,"was full of heaviness,",G85,Epistles,New Testament,Philippians,KJV
+2,Philippians2:26 ,WORD,because,G1360,Epistles,New Testament,Philippians,KJV
+2,Philippians2:26 ,PHRASE,that ye had heard,G191,Epistles,New Testament,Philippians,KJV
+2,Philippians2:26 ,WORD,that,G3754,Epistles,New Testament,Philippians,KJV
+2,Philippians2:26 ,PHRASE,he had been sick.,G770,Epistles,New Testament,Philippians,KJV
+2,Philippians2:27 ,WORD,For,G1063,Epistles,New Testament,Philippians,KJV
+2,Philippians2:27 ,WORD,indeed,G2532,Epistles,New Testament,Philippians,KJV
+2,Philippians2:27 ,PHRASE,he was sick,G770,Epistles,New Testament,Philippians,KJV
+2,Philippians2:27 ,WORD,nigh,G3897,Epistles,New Testament,Philippians,KJV
+2,Philippians2:27 ,PHRASE,unto death:,G2288,Epistles,New Testament,Philippians,KJV
+2,Philippians2:27 ,WORD,but,G235,Epistles,New Testament,Philippians,KJV
+2,Philippians2:27 ,WORD,God,G2316,Epistles,New Testament,Philippians,KJV
+2,Philippians2:27 ,PHRASE,had mercy,G1653,Epistles,New Testament,Philippians,KJV
+2,Philippians2:27 ,PHRASE,on him;,G846,Epistles,New Testament,Philippians,KJV
+2,Philippians2:27 ,WORD,and,G1161,Epistles,New Testament,Philippians,KJV
+2,Philippians2:27 ,WORD,not,G3756,Epistles,New Testament,Philippians,KJV
+2,Philippians2:27 ,PHRASE,on him,G846,Epistles,New Testament,Philippians,KJV
+2,Philippians2:27 ,WORD,"only,",G3440,Epistles,New Testament,Philippians,KJV
+2,Philippians2:27 ,WORD,but,G235,Epistles,New Testament,Philippians,KJV
+2,Philippians2:27 ,PHRASE,on me,G1691,Epistles,New Testament,Philippians,KJV
+2,Philippians2:27 ,WORD,"also,",G2532,Epistles,New Testament,Philippians,KJV
+2,Philippians2:27 ,WORD,,G2443,Epistles,New Testament,Philippians,KJV
+2,Philippians2:27 ,WORD,lest,G3361,Epistles,New Testament,Philippians,KJV
+2,Philippians2:27 ,PHRASE,I should have,G2192,Epistles,New Testament,Philippians,KJV
+2,Philippians2:27 ,WORD,sorrow,G3077,Epistles,New Testament,Philippians,KJV
+2,Philippians2:27 ,WORD,upon,G1909,Epistles,New Testament,Philippians,KJV
+2,Philippians2:27 ,WORD,sorrow.,G3077,Epistles,New Testament,Philippians,KJV
+2,Philippians2:28 ,PHRASE,I sent,G3992,Epistles,New Testament,Philippians,KJV
+2,Philippians2:28 ,WORD,him,G846,Epistles,New Testament,Philippians,KJV
+2,Philippians2:28 ,WORD,therefore,G3767,Epistles,New Testament,Philippians,KJV
+2,Philippians2:28 ,PHRASE,"the more carefully,",G4708,Epistles,New Testament,Philippians,KJV
+2,Philippians2:28 ,WORD,"that,",G2443,Epistles,New Testament,Philippians,KJV
+2,Philippians2:28 ,PHRASE,when ye see,G3708,Epistles,New Testament,Philippians,KJV
+2,Philippians2:28 ,WORD,him,G846,Epistles,New Testament,Philippians,KJV
+2,Philippians2:28 ,WORD,"again,",G3825,Epistles,New Testament,Philippians,KJV
+2,Philippians2:28 ,PHRASE,"ye may rejoice,",G5463,Epistles,New Testament,Philippians,KJV
+2,Philippians2:28 ,PHRASE,and that I,G2504,Epistles,New Testament,Philippians,KJV
+2,Philippians2:28 ,PHRASE,may be,G5600,Epistles,New Testament,Philippians,KJV
+2,Philippians2:28 ,PHRASE,the less sorrowful.,G253,Epistles,New Testament,Philippians,KJV
+2,Philippians2:29 ,WORD,Receive,G4327,Epistles,New Testament,Philippians,KJV
+2,Philippians2:29 ,WORD,him,G846,Epistles,New Testament,Philippians,KJV
+2,Philippians2:29 ,WORD,therefore,G3767,Epistles,New Testament,Philippians,KJV
+2,Philippians2:29 ,WORD,in,G1722,Epistles,New Testament,Philippians,KJV
+2,Philippians2:29 ,PHRASE,the Lord,G2962,Epistles,New Testament,Philippians,KJV
+2,Philippians2:29 ,WORD,with,G3326,Epistles,New Testament,Philippians,KJV
+2,Philippians2:29 ,WORD,all,G3956,Epistles,New Testament,Philippians,KJV
+2,Philippians2:29 ,WORD,gladness;,G5479,Epistles,New Testament,Philippians,KJV
+2,Philippians2:29 ,WORD,and,G2532,Epistles,New Testament,Philippians,KJV
+2,Philippians2:29 ,WORD,hold,G2192,Epistles,New Testament,Philippians,KJV
+2,Philippians2:29 ,WORD,such,G5108,Epistles,New Testament,Philippians,KJV
+2,Philippians2:29 ,PHRASE,in reputation:,G1784,Epistles,New Testament,Philippians,KJV
+2,Philippians2:30 ,WORD,Because,G3754,Epistles,New Testament,Philippians,KJV
+2,Philippians2:30 ,WORD,for,G1223,Epistles,New Testament,Philippians,KJV
+2,Philippians2:30 ,WORD,the,G3588,Epistles,New Testament,Philippians,KJV
+2,Philippians2:30 ,WORD,work,G2041,Epistles,New Testament,Philippians,KJV
+2,Philippians2:30 ,PHRASE,of Christ,G5547,Epistles,New Testament,Philippians,KJV
+2,Philippians2:30 ,PHRASE,he was nigh,G1448,Epistles,New Testament,Philippians,KJV
+2,Philippians2:30 ,WORD,unto,G3360,Epistles,New Testament,Philippians,KJV
+2,Philippians2:30 ,WORD,"death,",G2288,Epistles,New Testament,Philippians,KJV
+2,Philippians2:30 ,PHRASE,not regarding,G3851,Epistles,New Testament,Philippians,KJV
+2,Philippians2:30 ,PHRASE,"his life,",G5590,Epistles,New Testament,Philippians,KJV
+2,Philippians2:30 ,WORD,to,G2443,Epistles,New Testament,Philippians,KJV
+2,Philippians2:30 ,WORD,supply,G378,Epistles,New Testament,Philippians,KJV
+2,Philippians2:30 ,WORD,your,G5216,Epistles,New Testament,Philippians,KJV
+2,Philippians2:30 ,WORD,lack,G5303,Epistles,New Testament,Philippians,KJV
+2,Philippians2:30 ,PHRASE,of service,G3009,Epistles,New Testament,Philippians,KJV
+2,Philippians2:30 ,WORD,toward,G4314,Epistles,New Testament,Philippians,KJV
+2,Philippians2:30 ,WORD,me.,G3165,Epistles,New Testament,Philippians,KJV
+3,Philippians3:1 ,WORD,"Finally,",G3063,Epistles,New Testament,Philippians,KJV
+3,Philippians3:1 ,WORD,my,G3450,Epistles,New Testament,Philippians,KJV
+3,Philippians3:1 ,WORD,"brethren,",G80,Epistles,New Testament,Philippians,KJV
+3,Philippians3:1 ,WORD,rejoice,G5463,Epistles,New Testament,Philippians,KJV
+3,Philippians3:1 ,WORD,in,G1722,Epistles,New Testament,Philippians,KJV
+3,Philippians3:1 ,PHRASE,the Lord.,G2962,Epistles,New Testament,Philippians,KJV
+3,Philippians3:1 ,PHRASE,To write,G1125,Epistles,New Testament,Philippians,KJV
+3,Philippians3:1 ,WORD,the,G3588,Epistles,New Testament,Philippians,KJV
+3,Philippians3:1 ,PHRASE,same things,G846,Epistles,New Testament,Philippians,KJV
+3,Philippians3:1 ,PHRASE,"to you,",G5213,Epistles,New Testament,Philippians,KJV
+3,Philippians3:1 ,PHRASE,to me,G1698,Epistles,New Testament,Philippians,KJV
+3,Philippians3:1 ,WORD,indeed,G3303,Epistles,New Testament,Philippians,KJV
+3,Philippians3:1 ,WORD,[is],,Epistles,New Testament,Philippians,KJV
+3,Philippians3:1 ,WORD,not,G3756,Epistles,New Testament,Philippians,KJV
+3,Philippians3:1 ,WORD,"grievous,",G3636,Epistles,New Testament,Philippians,KJV
+3,Philippians3:1 ,WORD,but,G1161,Epistles,New Testament,Philippians,KJV
+3,Philippians3:1 ,PHRASE,for you,G5213,Epistles,New Testament,Philippians,KJV
+3,Philippians3:1 ,PHRASE,[it is],,Epistles,New Testament,Philippians,KJV
+3,Philippians3:1 ,WORD,safe.,G804,Epistles,New Testament,Philippians,KJV
+3,Philippians3:2 ,WORD,Beware,G991,Epistles,New Testament,Philippians,KJV
+3,Philippians3:2 ,PHRASE,"of dogs,",G2965,Epistles,New Testament,Philippians,KJV
+3,Philippians3:2 ,WORD,beware,G991,Epistles,New Testament,Philippians,KJV
+3,Philippians3:2 ,PHRASE,of evil,G2556,Epistles,New Testament,Philippians,KJV
+3,Philippians3:2 ,WORD,"workers,",G2040,Epistles,New Testament,Philippians,KJV
+3,Philippians3:2 ,WORD,beware,G991,Epistles,New Testament,Philippians,KJV
+3,Philippians3:2 ,PHRASE,of the,G3588,Epistles,New Testament,Philippians,KJV
+3,Philippians3:2 ,WORD,concision.,G2699,Epistles,New Testament,Philippians,KJV
+3,Philippians3:3 ,WORD,For,G1063,Epistles,New Testament,Philippians,KJV
+3,Philippians3:3 ,WORD,we,G2249,Epistles,New Testament,Philippians,KJV
+3,Philippians3:3 ,WORD,are,G2070,Epistles,New Testament,Philippians,KJV
+3,Philippians3:3 ,WORD,the,G3588,Epistles,New Testament,Philippians,KJV
+3,Philippians3:3 ,WORD,"circumcision,",G4061,Epistles,New Testament,Philippians,KJV
+3,Philippians3:3 ,PHRASE,which worship,G3000,Epistles,New Testament,Philippians,KJV
+3,Philippians3:3 ,WORD,God,G2316,Epistles,New Testament,Philippians,KJV
+3,Philippians3:3 ,PHRASE,in the,G3588,Epistles,New Testament,Philippians,KJV
+3,Philippians3:3 ,WORD,"spirit,",G4151,Epistles,New Testament,Philippians,KJV
+3,Philippians3:3 ,WORD,and,G2532,Epistles,New Testament,Philippians,KJV
+3,Philippians3:3 ,WORD,rejoice,G2744,Epistles,New Testament,Philippians,KJV
+3,Philippians3:3 ,WORD,in,G1722,Epistles,New Testament,Philippians,KJV
+3,Philippians3:3 ,WORD,Christ,G5547,Epistles,New Testament,Philippians,KJV
+3,Philippians3:3 ,WORD,"Jesus,",G2424,Epistles,New Testament,Philippians,KJV
+3,Philippians3:3 ,WORD,and,G2532,Epistles,New Testament,Philippians,KJV
+3,Philippians3:3 ,WORD,have,G3982,Epistles,New Testament,Philippians,KJV
+3,Philippians3:3 ,WORD,no,G3756,Epistles,New Testament,Philippians,KJV
+3,Philippians3:3 ,WORD,confidence,G3982,Epistles,New Testament,Philippians,KJV
+3,Philippians3:3 ,WORD,in,G1722,Epistles,New Testament,Philippians,KJV
+3,Philippians3:3 ,PHRASE,the flesh.,G4561,Epistles,New Testament,Philippians,KJV
+3,Philippians3:4 ,WORD,Though,G2539,Epistles,New Testament,Philippians,KJV
+3,Philippians3:4 ,WORD,I,G1473,Epistles,New Testament,Philippians,KJV
+3,Philippians3:4 ,WORD,might,G2192,Epistles,New Testament,Philippians,KJV
+3,Philippians3:4 ,WORD,also,G2532,Epistles,New Testament,Philippians,KJV
+3,Philippians3:4 ,WORD,have,G2192,Epistles,New Testament,Philippians,KJV
+3,Philippians3:4 ,WORD,confidence,G4006,Epistles,New Testament,Philippians,KJV
+3,Philippians3:4 ,WORD,in,G1722,Epistles,New Testament,Philippians,KJV
+3,Philippians3:4 ,PHRASE,the flesh.,G4561,Epistles,New Testament,Philippians,KJV
+3,Philippians3:4 ,WORD,If,G1487,Epistles,New Testament,Philippians,KJV
+3,Philippians3:4 ,WORD,any,G5100,Epistles,New Testament,Philippians,KJV
+3,Philippians3:4 ,PHRASE,other man,G243,Epistles,New Testament,Philippians,KJV
+3,Philippians3:4 ,WORD,thinketh,G1380,Epistles,New Testament,Philippians,KJV
+3,Philippians3:4 ,PHRASE,that he hath whereof he might trust,G3982,Epistles,New Testament,Philippians,KJV
+3,Philippians3:4 ,WORD,in,G1722,Epistles,New Testament,Philippians,KJV
+3,Philippians3:4 ,PHRASE,"the flesh,",G4561,Epistles,New Testament,Philippians,KJV
+3,Philippians3:4 ,WORD,I,G1473,Epistles,New Testament,Philippians,KJV
+3,Philippians3:4 ,WORD,more:,G3123,Epistles,New Testament,Philippians,KJV
+3,Philippians3:5 ,WORD,Circumcised,G4061,Epistles,New Testament,Philippians,KJV
+3,Philippians3:5 ,PHRASE,the eighth,G3637,Epistles,New Testament,Philippians,KJV
+3,Philippians3:5 ,PHRASE,"day, of",G1537,Epistles,New Testament,Philippians,KJV
+3,Philippians3:5 ,PHRASE,the stock,G1085,Epistles,New Testament,Philippians,KJV
+3,Philippians3:5 ,PHRASE,"of Israel,",G2474,Epistles,New Testament,Philippians,KJV
+3,Philippians3:5 ,WORD,[of],,Epistles,New Testament,Philippians,KJV
+3,Philippians3:5 ,PHRASE,the tribe,G5443,Epistles,New Testament,Philippians,KJV
+3,Philippians3:5 ,PHRASE,"of Benjamin,",G958,Epistles,New Testament,Philippians,KJV
+3,Philippians3:5 ,PHRASE,an Hebrew,G1445,Epistles,New Testament,Philippians,KJV
+3,Philippians3:5 ,WORD,of,G1537,Epistles,New Testament,Philippians,KJV
+3,Philippians3:5 ,PHRASE,the Hebrews;,G1445,Epistles,New Testament,Philippians,KJV
+3,Philippians3:5 ,PHRASE,as touching,G2596,Epistles,New Testament,Philippians,KJV
+3,Philippians3:5 ,PHRASE,"the law,",G3551,Epistles,New Testament,Philippians,KJV
+3,Philippians3:5 ,PHRASE,a Pharisee;,G5330,Epistles,New Testament,Philippians,KJV
+3,Philippians3:6 ,WORD,Concerning,G2596,Epistles,New Testament,Philippians,KJV
+3,Philippians3:6 ,WORD,"zeal,",G2205,Epistles,New Testament,Philippians,KJV
+3,Philippians3:6 ,WORD,persecuting,G1377,Epistles,New Testament,Philippians,KJV
+3,Philippians3:6 ,WORD,the,G3588,Epistles,New Testament,Philippians,KJV
+3,Philippians3:6 ,WORD,church;,G1577,Epistles,New Testament,Philippians,KJV
+3,Philippians3:6 ,WORD,touching,G2596,Epistles,New Testament,Philippians,KJV
+3,Philippians3:6 ,PHRASE,the righteousness,G1343,Epistles,New Testament,Philippians,KJV
+3,Philippians3:6 ,WORD,which,G3588,Epistles,New Testament,Philippians,KJV
+3,Philippians3:6 ,PHRASE,is in,G1722,Epistles,New Testament,Philippians,KJV
+3,Philippians3:6 ,PHRASE,"the law,",G3551,Epistles,New Testament,Philippians,KJV
+3,Philippians3:6 ,WORD,,G1096,Epistles,New Testament,Philippians,KJV
+3,Philippians3:6 ,WORD,blameless.,G273,Epistles,New Testament,Philippians,KJV
+3,Philippians3:7 ,WORD,But,G235,Epistles,New Testament,Philippians,KJV
+3,Philippians3:7 ,PHRASE,what things,G3748,Epistles,New Testament,Philippians,KJV
+3,Philippians3:7 ,WORD,were,G2258,Epistles,New Testament,Philippians,KJV
+3,Philippians3:7 ,WORD,gain,G2771,Epistles,New Testament,Philippians,KJV
+3,Philippians3:7 ,PHRASE,"to me,",G3427,Epistles,New Testament,Philippians,KJV
+3,Philippians3:7 ,WORD,those,G5023,Epistles,New Testament,Philippians,KJV
+3,Philippians3:7 ,PHRASE,I counted,G2233,Epistles,New Testament,Philippians,KJV
+3,Philippians3:7 ,WORD,loss,G2209,Epistles,New Testament,Philippians,KJV
+3,Philippians3:7 ,WORD,for,G1223,Epistles,New Testament,Philippians,KJV
+3,Philippians3:7 ,WORD,Christ.,G5547,Epistles,New Testament,Philippians,KJV
+3,Philippians3:8 ,WORD,Yea,G235,Epistles,New Testament,Philippians,KJV
+3,Philippians3:8 ,WORD,"doubtless,",G3304,Epistles,New Testament,Philippians,KJV
+3,Philippians3:8 ,WORD,and,G2532,Epistles,New Testament,Philippians,KJV
+3,Philippians3:8 ,PHRASE,I count,G2233,Epistles,New Testament,Philippians,KJV
+3,Philippians3:8 ,PHRASE,all things,G3956,Epistles,New Testament,Philippians,KJV
+3,Philippians3:8 ,WORD,[but],,Epistles,New Testament,Philippians,KJV
+3,Philippians3:8 ,WORD,loss,G2209,Epistles,New Testament,Philippians,KJV
+3,Philippians3:8 ,WORD,for,G1511,Epistles,New Testament,Philippians,KJV
+3,Philippians3:8 ,WORD,,G1223,Epistles,New Testament,Philippians,KJV
+3,Philippians3:8 ,WORD,the,G3588,Epistles,New Testament,Philippians,KJV
+3,Philippians3:8 ,WORD,excellency,G5242,Epistles,New Testament,Philippians,KJV
+3,Philippians3:8 ,PHRASE,of the,G3588,Epistles,New Testament,Philippians,KJV
+3,Philippians3:8 ,WORD,knowledge,G1108,Epistles,New Testament,Philippians,KJV
+3,Philippians3:8 ,PHRASE,of Christ,G5547,Epistles,New Testament,Philippians,KJV
+3,Philippians3:8 ,WORD,Jesus,G2424,Epistles,New Testament,Philippians,KJV
+3,Philippians3:8 ,WORD,my,G3450,Epistles,New Testament,Philippians,KJV
+3,Philippians3:8 ,WORD,Lord:,G2962,Epistles,New Testament,Philippians,KJV
+3,Philippians3:8 ,WORD,for,G1223,Epistles,New Testament,Philippians,KJV
+3,Philippians3:8 ,WORD,whom,G3739,Epistles,New Testament,Philippians,KJV
+3,Philippians3:8 ,PHRASE,I have suffered the loss,G2210,Epistles,New Testament,Philippians,KJV
+3,Philippians3:8 ,PHRASE,"of all things,",G3956,Epistles,New Testament,Philippians,KJV
+3,Philippians3:8 ,WORD,and,G2532,Epistles,New Testament,Philippians,KJV
+3,Philippians3:8 ,PHRASE,do count,G2233,Epistles,New Testament,Philippians,KJV
+3,Philippians3:8 ,WORD,them,G1511,Epistles,New Testament,Philippians,KJV
+3,Philippians3:8 ,WORD,[but],,Epistles,New Testament,Philippians,KJV
+3,Philippians3:8 ,WORD,"dung,",G4657,Epistles,New Testament,Philippians,KJV
+3,Philippians3:8 ,WORD,that,G2443,Epistles,New Testament,Philippians,KJV
+3,Philippians3:8 ,PHRASE,I may win,G2770,Epistles,New Testament,Philippians,KJV
+3,Philippians3:8 ,WORD,"Christ,",G5547,Epistles,New Testament,Philippians,KJV
+3,Philippians3:9 ,WORD,And,G2532,Epistles,New Testament,Philippians,KJV
+3,Philippians3:9 ,PHRASE,be found,G2147,Epistles,New Testament,Philippians,KJV
+3,Philippians3:9 ,WORD,in,G1722,Epistles,New Testament,Philippians,KJV
+3,Philippians3:9 ,WORD,"him,",G846,Epistles,New Testament,Philippians,KJV
+3,Philippians3:9 ,WORD,not,G3361,Epistles,New Testament,Philippians,KJV
+3,Philippians3:9 ,WORD,having,G2192,Epistles,New Testament,Philippians,KJV
+3,Philippians3:9 ,PHRASE,mine own,G1699,Epistles,New Testament,Philippians,KJV
+3,Philippians3:9 ,WORD,"righteousness,",G1343,Epistles,New Testament,Philippians,KJV
+3,Philippians3:9 ,WORD,which,G3588,Epistles,New Testament,Philippians,KJV
+3,Philippians3:9 ,PHRASE,is of,G1537,Epistles,New Testament,Philippians,KJV
+3,Philippians3:9 ,PHRASE,"the law,",G3551,Epistles,New Testament,Philippians,KJV
+3,Philippians3:9 ,WORD,but,G235,Epistles,New Testament,Philippians,KJV
+3,Philippians3:9 ,PHRASE,that which,G3588,Epistles,New Testament,Philippians,KJV
+3,Philippians3:9 ,PHRASE,is through,G1223,Epistles,New Testament,Philippians,KJV
+3,Philippians3:9 ,PHRASE,the faith,G4102,Epistles,New Testament,Philippians,KJV
+3,Philippians3:9 ,PHRASE,"of Christ,",G5547,Epistles,New Testament,Philippians,KJV
+3,Philippians3:9 ,PHRASE,the righteousness,G1343,Epistles,New Testament,Philippians,KJV
+3,Philippians3:9 ,WORD,which,G3588,Epistles,New Testament,Philippians,KJV
+3,Philippians3:9 ,PHRASE,is of,G1537,Epistles,New Testament,Philippians,KJV
+3,Philippians3:9 ,WORD,God,G2316,Epistles,New Testament,Philippians,KJV
+3,Philippians3:9 ,WORD,by,G1909,Epistles,New Testament,Philippians,KJV
+3,Philippians3:9 ,WORD,faith:,G4102,Epistles,New Testament,Philippians,KJV
+3,Philippians3:10 ,PHRASE,That I may know,G1097,Epistles,New Testament,Philippians,KJV
+3,Philippians3:10 ,WORD,"him,",G846,Epistles,New Testament,Philippians,KJV
+3,Philippians3:10 ,WORD,and,G2532,Epistles,New Testament,Philippians,KJV
+3,Philippians3:10 ,WORD,the,G3588,Epistles,New Testament,Philippians,KJV
+3,Philippians3:10 ,WORD,power,G1411,Epistles,New Testament,Philippians,KJV
+3,Philippians3:10 ,PHRASE,of his,G846,Epistles,New Testament,Philippians,KJV
+3,Philippians3:10 ,WORD,"resurrection,",G386,Epistles,New Testament,Philippians,KJV
+3,Philippians3:10 ,WORD,and,G2532,Epistles,New Testament,Philippians,KJV
+3,Philippians3:10 ,WORD,the,G3588,Epistles,New Testament,Philippians,KJV
+3,Philippians3:10 ,WORD,fellowship,G2842,Epistles,New Testament,Philippians,KJV
+3,Philippians3:10 ,PHRASE,of his,G846,Epistles,New Testament,Philippians,KJV
+3,Philippians3:10 ,WORD,"sufferings,",G3804,Epistles,New Testament,Philippians,KJV
+3,Philippians3:10 ,PHRASE,being made conformable,G4833,Epistles,New Testament,Philippians,KJV
+3,Philippians3:10 ,PHRASE,unto his,G846,Epistles,New Testament,Philippians,KJV
+3,Philippians3:10 ,WORD,death;,G2288,Epistles,New Testament,Philippians,KJV
+3,Philippians3:11 ,WORD,if,G1487,Epistles,New Testament,Philippians,KJV
+3,Philippians3:11 ,PHRASE,by any means,G4459,Epistles,New Testament,Philippians,KJV
+3,Philippians3:11 ,PHRASE,I might attain,G2658,Epistles,New Testament,Philippians,KJV
+3,Philippians3:11 ,WORD,unto,G1519,Epistles,New Testament,Philippians,KJV
+3,Philippians3:11 ,WORD,the,G3588,Epistles,New Testament,Philippians,KJV
+3,Philippians3:11 ,WORD,resurrection,G1815,Epistles,New Testament,Philippians,KJV
+3,Philippians3:11 ,PHRASE,of the,G3588,Epistles,New Testament,Philippians,KJV
+3,Philippians3:11 ,WORD,dead.,G3498,Epistles,New Testament,Philippians,KJV
+3,Philippians3:12 ,WORD,Not,G3756,Epistles,New Testament,Philippians,KJV
+3,Philippians3:12 ,PHRASE,as though,G3754,Epistles,New Testament,Philippians,KJV
+3,Philippians3:12 ,PHRASE,I had already,G2235,Epistles,New Testament,Philippians,KJV
+3,Philippians3:12 ,WORD,"attained,",G2983,Epistles,New Testament,Philippians,KJV
+3,Philippians3:12 ,WORD,either,G2228,Epistles,New Testament,Philippians,KJV
+3,Philippians3:12 ,PHRASE,were already,G2235,Epistles,New Testament,Philippians,KJV
+3,Philippians3:12 ,WORD,perfect:,G5048,Epistles,New Testament,Philippians,KJV
+3,Philippians3:12 ,WORD,but,G1161,Epistles,New Testament,Philippians,KJV
+3,Philippians3:12 ,PHRASE,"I follow after,",G1377,Epistles,New Testament,Philippians,KJV
+3,Philippians3:12 ,WORD,if,G1487,Epistles,New Testament,Philippians,KJV
+3,Philippians3:12 ,PHRASE,that I may apprehend,G2638,Epistles,New Testament,Philippians,KJV
+3,Philippians3:12 ,PHRASE,that for,G1909,Epistles,New Testament,Philippians,KJV
+3,Philippians3:12 ,WORD,which,G3739,Epistles,New Testament,Philippians,KJV
+3,Philippians3:12 ,WORD,also,G2532,Epistles,New Testament,Philippians,KJV
+3,Philippians3:12 ,PHRASE,I am apprehended,G2638,Epistles,New Testament,Philippians,KJV
+3,Philippians3:12 ,WORD,of,G5259,Epistles,New Testament,Philippians,KJV
+3,Philippians3:12 ,WORD,Christ,G5547,Epistles,New Testament,Philippians,KJV
+3,Philippians3:12 ,WORD,Jesus.,G2424,Epistles,New Testament,Philippians,KJV
+3,Philippians3:13 ,WORD,"Brethren,",G80,Epistles,New Testament,Philippians,KJV
+3,Philippians3:13 ,WORD,I,G1473,Epistles,New Testament,Philippians,KJV
+3,Philippians3:13 ,WORD,count,G3049,Epistles,New Testament,Philippians,KJV
+3,Philippians3:13 ,WORD,not,G3756,Epistles,New Testament,Philippians,KJV
+3,Philippians3:13 ,WORD,myself,G1683,Epistles,New Testament,Philippians,KJV
+3,Philippians3:13 ,PHRASE,to have apprehended:,G2638,Epistles,New Testament,Philippians,KJV
+3,Philippians3:13 ,WORD,but,G1161,Epistles,New Testament,Philippians,KJV
+3,Philippians3:13 ,WORD,[this],,Epistles,New Testament,Philippians,KJV
+3,Philippians3:13 ,PHRASE,one thing,G1520,Epistles,New Testament,Philippians,KJV
+3,Philippians3:13 ,PHRASE,"[I do],",,Epistles,New Testament,Philippians,KJV
+3,Philippians3:13 ,WORD,forgetting,G1950,Epistles,New Testament,Philippians,KJV
+3,Philippians3:13 ,PHRASE,those things,G3588,Epistles,New Testament,Philippians,KJV
+3,Philippians3:13 ,PHRASE,"which are behind,",G3694,Epistles,New Testament,Philippians,KJV
+3,Philippians3:13 ,WORD,and,G1161,Epistles,New Testament,Philippians,KJV
+3,Philippians3:13 ,PHRASE,reaching forth unto,G1901,Epistles,New Testament,Philippians,KJV
+3,Philippians3:13 ,PHRASE,those things,G3588,Epistles,New Testament,Philippians,KJV
+3,Philippians3:13 ,PHRASE,"which are before,",G1715,Epistles,New Testament,Philippians,KJV
+3,Philippians3:14 ,PHRASE,I press,G1377,Epistles,New Testament,Philippians,KJV
+3,Philippians3:14 ,WORD,toward,G2596,Epistles,New Testament,Philippians,KJV
+3,Philippians3:14 ,PHRASE,the mark,G4649,Epistles,New Testament,Philippians,KJV
+3,Philippians3:14 ,WORD,for,G1909,Epistles,New Testament,Philippians,KJV
+3,Philippians3:14 ,WORD,the,G3588,Epistles,New Testament,Philippians,KJV
+3,Philippians3:14 ,WORD,prize,G1017,Epistles,New Testament,Philippians,KJV
+3,Philippians3:14 ,PHRASE,of the,G3588,Epistles,New Testament,Philippians,KJV
+3,Philippians3:14 ,WORD,high,G507,Epistles,New Testament,Philippians,KJV
+3,Philippians3:14 ,WORD,calling,G2821,Epistles,New Testament,Philippians,KJV
+3,Philippians3:14 ,PHRASE,of God,G2316,Epistles,New Testament,Philippians,KJV
+3,Philippians3:14 ,WORD,in,G1722,Epistles,New Testament,Philippians,KJV
+3,Philippians3:14 ,WORD,Christ,G5547,Epistles,New Testament,Philippians,KJV
+3,Philippians3:14 ,WORD,Jesus.,G2424,Epistles,New Testament,Philippians,KJV
+3,Philippians3:15 ,WORD,Let,G5426,Epistles,New Testament,Philippians,KJV
+3,Philippians3:15 ,PHRASE,"us therefore,",G3767,Epistles,New Testament,Philippians,KJV
+3,Philippians3:15 ,PHRASE,as many as,G3745,Epistles,New Testament,Philippians,KJV
+3,Philippians3:15 ,PHRASE,"be perfect,",G5046,Epistles,New Testament,Philippians,KJV
+3,Philippians3:15 ,WORD,be,G5426,Epistles,New Testament,Philippians,KJV
+3,Philippians3:15 ,WORD,thus,G5124,Epistles,New Testament,Philippians,KJV
+3,Philippians3:15 ,WORD,minded:,G5426,Epistles,New Testament,Philippians,KJV
+3,Philippians3:15 ,WORD,and,G2532,Epistles,New Testament,Philippians,KJV
+3,Philippians3:15 ,WORD,if,G1487,Epistles,New Testament,Philippians,KJV
+3,Philippians3:15 ,PHRASE,in any thing,G5100,Epistles,New Testament,Philippians,KJV
+3,Philippians3:15 ,PHRASE,ye be,G5426,Epistles,New Testament,Philippians,KJV
+3,Philippians3:15 ,WORD,otherwise,G2088,Epistles,New Testament,Philippians,KJV
+3,Philippians3:15 ,WORD,"minded,",G5426,Epistles,New Testament,Philippians,KJV
+3,Philippians3:15 ,WORD,God,G2316,Epistles,New Testament,Philippians,KJV
+3,Philippians3:15 ,PHRASE,shall reveal,G601,Epistles,New Testament,Philippians,KJV
+3,Philippians3:15 ,WORD,even,G2532,Epistles,New Testament,Philippians,KJV
+3,Philippians3:15 ,WORD,this,G5124,Epistles,New Testament,Philippians,KJV
+3,Philippians3:15 ,PHRASE,unto you.,G5213,Epistles,New Testament,Philippians,KJV
+3,Philippians3:16 ,WORD,"Nevertheless,",G4133,Epistles,New Testament,Philippians,KJV
+3,Philippians3:16 ,WORD,whereto,G1519,Epistles,New Testament,Philippians,KJV
+3,Philippians3:16 ,WORD,,G3739,Epistles,New Testament,Philippians,KJV
+3,Philippians3:16 ,PHRASE,"we have already attained,",G5348,Epistles,New Testament,Philippians,KJV
+3,Philippians3:16 ,PHRASE,let us walk,G4748,Epistles,New Testament,Philippians,KJV
+3,Philippians3:16 ,PHRASE,by the,G3588,Epistles,New Testament,Philippians,KJV
+3,Philippians3:16 ,WORD,same,G846,Epistles,New Testament,Philippians,KJV
+3,Philippians3:16 ,WORD,"rule,",G2583,Epistles,New Testament,Philippians,KJV
+3,Philippians3:16 ,PHRASE,let us mind,G5426,Epistles,New Testament,Philippians,KJV
+3,Philippians3:16 ,WORD,the,G3588,Epistles,New Testament,Philippians,KJV
+3,Philippians3:16 ,PHRASE,same thing.,G846,Epistles,New Testament,Philippians,KJV
+3,Philippians3:17 ,WORD,"Brethren,",G80,Epistles,New Testament,Philippians,KJV
+3,Philippians3:17 ,WORD,be,G1096,Epistles,New Testament,Philippians,KJV
+3,Philippians3:17 ,PHRASE,followers together,G4831,Epistles,New Testament,Philippians,KJV
+3,Philippians3:17 ,PHRASE,"of me,",G3450,Epistles,New Testament,Philippians,KJV
+3,Philippians3:17 ,WORD,and,G2532,Epistles,New Testament,Philippians,KJV
+3,Philippians3:17 ,WORD,mark,G4648,Epistles,New Testament,Philippians,KJV
+3,Philippians3:17 ,WORD,them,G3588,Epistles,New Testament,Philippians,KJV
+3,Philippians3:17 ,PHRASE,which walk,G4043,Epistles,New Testament,Philippians,KJV
+3,Philippians3:17 ,WORD,so,G3779,Epistles,New Testament,Philippians,KJV
+3,Philippians3:17 ,WORD,as,G2531,Epistles,New Testament,Philippians,KJV
+3,Philippians3:17 ,PHRASE,ye have,G2192,Epistles,New Testament,Philippians,KJV
+3,Philippians3:17 ,WORD,us,G2248,Epistles,New Testament,Philippians,KJV
+3,Philippians3:17 ,PHRASE,for an ensample.,G5179,Epistles,New Testament,Philippians,KJV
+3,Philippians3:18 ,WORD,(For,G1063,Epistles,New Testament,Philippians,KJV
+3,Philippians3:18 ,WORD,many,G4183,Epistles,New Testament,Philippians,KJV
+3,Philippians3:18 ,WORD,"walk,",G4043,Epistles,New Testament,Philippians,KJV
+3,Philippians3:18 ,PHRASE,of whom,G3739,Epistles,New Testament,Philippians,KJV
+3,Philippians3:18 ,PHRASE,I have told,G3004,Epistles,New Testament,Philippians,KJV
+3,Philippians3:18 ,WORD,you,G5213,Epistles,New Testament,Philippians,KJV
+3,Philippians3:18 ,WORD,"often,",G4178,Epistles,New Testament,Philippians,KJV
+3,Philippians3:18 ,WORD,and,G1161,Epistles,New Testament,Philippians,KJV
+3,Philippians3:18 ,WORD,now,G3568,Epistles,New Testament,Philippians,KJV
+3,Philippians3:18 ,WORD,tell,G3004,Epistles,New Testament,Philippians,KJV
+3,Philippians3:18 ,PHRASE,you even,G2532,Epistles,New Testament,Philippians,KJV
+3,Philippians3:18 ,WORD,"weeping,",G2799,Epistles,New Testament,Philippians,KJV
+3,Philippians3:18 ,PHRASE,[that they are],,Epistles,New Testament,Philippians,KJV
+3,Philippians3:18 ,WORD,the,G3588,Epistles,New Testament,Philippians,KJV
+3,Philippians3:18 ,WORD,enemies,G2190,Epistles,New Testament,Philippians,KJV
+3,Philippians3:18 ,PHRASE,of the,G3588,Epistles,New Testament,Philippians,KJV
+3,Philippians3:18 ,WORD,cross,G4716,Epistles,New Testament,Philippians,KJV
+3,Philippians3:18 ,PHRASE,of Christ:,G5547,Epistles,New Testament,Philippians,KJV
+3,Philippians3:19 ,WORD,Whose,G3739,Epistles,New Testament,Philippians,KJV
+3,Philippians3:19 ,WORD,end,G5056,Epistles,New Testament,Philippians,KJV
+3,Philippians3:19 ,WORD,[is],,Epistles,New Testament,Philippians,KJV
+3,Philippians3:19 ,WORD,"destruction,",G684,Epistles,New Testament,Philippians,KJV
+3,Philippians3:19 ,WORD,whose,G3739,Epistles,New Testament,Philippians,KJV
+3,Philippians3:19 ,WORD,God,G2316,Epistles,New Testament,Philippians,KJV
+3,Philippians3:19 ,PHRASE,[is their],,Epistles,New Testament,Philippians,KJV
+3,Philippians3:19 ,WORD,"belly,",G2836,Epistles,New Testament,Philippians,KJV
+3,Philippians3:19 ,WORD,and,G2532,Epistles,New Testament,Philippians,KJV
+3,Philippians3:19 ,WORD,[whose],,Epistles,New Testament,Philippians,KJV
+3,Philippians3:19 ,WORD,glory,G1391,Epistles,New Testament,Philippians,KJV
+3,Philippians3:19 ,WORD,[is],,Epistles,New Testament,Philippians,KJV
+3,Philippians3:19 ,WORD,in,G1722,Epistles,New Testament,Philippians,KJV
+3,Philippians3:19 ,WORD,their,G846,Epistles,New Testament,Philippians,KJV
+3,Philippians3:19 ,WORD,"shame,",G152,Epistles,New Testament,Philippians,KJV
+3,Philippians3:19 ,WORD,who,G3588,Epistles,New Testament,Philippians,KJV
+3,Philippians3:19 ,WORD,mind,G5426,Epistles,New Testament,Philippians,KJV
+3,Philippians3:19 ,PHRASE,earthly things.),G1919,Epistles,New Testament,Philippians,KJV
+3,Philippians3:20 ,WORD,For,G1063,Epistles,New Testament,Philippians,KJV
+3,Philippians3:20 ,WORD,our,G2257,Epistles,New Testament,Philippians,KJV
+3,Philippians3:20 ,WORD,conversation,G4175,Epistles,New Testament,Philippians,KJV
+3,Philippians3:20 ,WORD,is,G5225,Epistles,New Testament,Philippians,KJV
+3,Philippians3:20 ,WORD,in,G1722,Epistles,New Testament,Philippians,KJV
+3,Philippians3:20 ,WORD,heaven;,G3772,Epistles,New Testament,Philippians,KJV
+3,Philippians3:20 ,WORD,from,G1537,Epistles,New Testament,Philippians,KJV
+3,Philippians3:20 ,WORD,whence,G3739,Epistles,New Testament,Philippians,KJV
+3,Philippians3:20 ,WORD,also,G2532,Epistles,New Testament,Philippians,KJV
+3,Philippians3:20 ,PHRASE,we look for,G553,Epistles,New Testament,Philippians,KJV
+3,Philippians3:20 ,PHRASE,"the Saviour,",G4990,Epistles,New Testament,Philippians,KJV
+3,Philippians3:20 ,PHRASE,the Lord,G2962,Epistles,New Testament,Philippians,KJV
+3,Philippians3:20 ,WORD,Jesus,G2424,Epistles,New Testament,Philippians,KJV
+3,Philippians3:20 ,WORD,Christ:,G5547,Epistles,New Testament,Philippians,KJV
+3,Philippians3:21 ,WORD,Who,G3739,Epistles,New Testament,Philippians,KJV
+3,Philippians3:21 ,PHRASE,shall change,G3345,Epistles,New Testament,Philippians,KJV
+3,Philippians3:21 ,WORD,our,G2257,Epistles,New Testament,Philippians,KJV
+3,Philippians3:21 ,WORD,vile,G5014,Epistles,New Testament,Philippians,KJV
+3,Philippians3:21 ,WORD,"body,",G4983,Epistles,New Testament,Philippians,KJV
+3,Philippians3:21 ,WORD,that,G1519,Epistles,New Testament,Philippians,KJV
+3,Philippians3:21 ,WORD,it,G846,Epistles,New Testament,Philippians,KJV
+3,Philippians3:21 ,PHRASE,may be,G1096,Epistles,New Testament,Philippians,KJV
+3,Philippians3:21 ,PHRASE,fashioned like unto,G4832,Epistles,New Testament,Philippians,KJV
+3,Philippians3:21 ,WORD,his,G846,Epistles,New Testament,Philippians,KJV
+3,Philippians3:21 ,WORD,glorious,G1391,Epistles,New Testament,Philippians,KJV
+3,Philippians3:21 ,WORD,"body,",G4983,Epistles,New Testament,Philippians,KJV
+3,Philippians3:21 ,PHRASE,according to,G2596,Epistles,New Testament,Philippians,KJV
+3,Philippians3:21 ,WORD,the,G3588,Epistles,New Testament,Philippians,KJV
+3,Philippians3:21 ,WORD,working,G1753,Epistles,New Testament,Philippians,KJV
+3,Philippians3:21 ,PHRASE,whereby he,G846,Epistles,New Testament,Philippians,KJV
+3,Philippians3:21 ,PHRASE,is able,G1410,Epistles,New Testament,Philippians,KJV
+3,Philippians3:21 ,WORD,even,G2532,Epistles,New Testament,Philippians,KJV
+3,Philippians3:21 ,PHRASE,to subdue,G5293,Epistles,New Testament,Philippians,KJV
+3,Philippians3:21 ,PHRASE,all things,G3956,Epistles,New Testament,Philippians,KJV
+3,Philippians3:21 ,PHRASE,unto himself.,G1438,Epistles,New Testament,Philippians,KJV
+4,Philippians4:1 ,WORD,"Therefore,",G5620,Epistles,New Testament,Philippians,KJV
+4,Philippians4:1 ,WORD,my,G3450,Epistles,New Testament,Philippians,KJV
+4,Philippians4:1 ,WORD,brethren,G80,Epistles,New Testament,Philippians,KJV
+4,Philippians4:1 ,PHRASE,dearly beloved,G27,Epistles,New Testament,Philippians,KJV
+4,Philippians4:1 ,WORD,and,G2532,Epistles,New Testament,Philippians,KJV
+4,Philippians4:1 ,PHRASE,"longed for,",G1973,Epistles,New Testament,Philippians,KJV
+4,Philippians4:1 ,WORD,my,G3450,Epistles,New Testament,Philippians,KJV
+4,Philippians4:1 ,WORD,joy,G5479,Epistles,New Testament,Philippians,KJV
+4,Philippians4:1 ,WORD,and,G2532,Epistles,New Testament,Philippians,KJV
+4,Philippians4:1 ,WORD,"crown,",G4735,Epistles,New Testament,Philippians,KJV
+4,Philippians4:1 ,WORD,so,G3779,Epistles,New Testament,Philippians,KJV
+4,Philippians4:1 ,PHRASE,stand fast,G4739,Epistles,New Testament,Philippians,KJV
+4,Philippians4:1 ,WORD,in,G1722,Epistles,New Testament,Philippians,KJV
+4,Philippians4:1 ,PHRASE,"the Lord,",G2962,Epistles,New Testament,Philippians,KJV
+4,Philippians4:1 ,WORD,[my],,Epistles,New Testament,Philippians,KJV
+4,Philippians4:1 ,PHRASE,dearly beloved.,G27,Epistles,New Testament,Philippians,KJV
+4,Philippians4:2 ,PHRASE,I beseech,G3870,Epistles,New Testament,Philippians,KJV
+4,Philippians4:2 ,WORD,"Euodias,",G2136,Epistles,New Testament,Philippians,KJV
+4,Philippians4:2 ,WORD,and,G2532,Epistles,New Testament,Philippians,KJV
+4,Philippians4:2 ,WORD,beseech,G3870,Epistles,New Testament,Philippians,KJV
+4,Philippians4:2 ,WORD,"Syntyche,",G4941,Epistles,New Testament,Philippians,KJV
+4,Philippians4:2 ,PHRASE,that they be of,G5426,Epistles,New Testament,Philippians,KJV
+4,Philippians4:2 ,WORD,the,G3588,Epistles,New Testament,Philippians,KJV
+4,Philippians4:2 ,WORD,same,G846,Epistles,New Testament,Philippians,KJV
+4,Philippians4:2 ,WORD,mind,G5426,Epistles,New Testament,Philippians,KJV
+4,Philippians4:2 ,WORD,in,G1722,Epistles,New Testament,Philippians,KJV
+4,Philippians4:2 ,PHRASE,the Lord.,G2962,Epistles,New Testament,Philippians,KJV
+4,Philippians4:3 ,WORD,And,G2532,Epistles,New Testament,Philippians,KJV
+4,Philippians4:3 ,PHRASE,I intreat,G2065,Epistles,New Testament,Philippians,KJV
+4,Philippians4:3 ,WORD,thee,G4571,Epistles,New Testament,Philippians,KJV
+4,Philippians4:3 ,WORD,"also,",G2532,Epistles,New Testament,Philippians,KJV
+4,Philippians4:3 ,WORD,true,G1103,Epistles,New Testament,Philippians,KJV
+4,Philippians4:3 ,WORD,"yokefellow,",G4805,Epistles,New Testament,Philippians,KJV
+4,Philippians4:3 ,WORD,help,G4815,Epistles,New Testament,Philippians,KJV
+4,Philippians4:3 ,PHRASE,those women,G846,Epistles,New Testament,Philippians,KJV
+4,Philippians4:3 ,WORD,which,G3748,Epistles,New Testament,Philippians,KJV
+4,Philippians4:3 ,WORD,laboured,G4866,Epistles,New Testament,Philippians,KJV
+4,Philippians4:3 ,PHRASE,with me,G3427,Epistles,New Testament,Philippians,KJV
+4,Philippians4:3 ,WORD,in,G1722,Epistles,New Testament,Philippians,KJV
+4,Philippians4:3 ,WORD,the,G3588,Epistles,New Testament,Philippians,KJV
+4,Philippians4:3 ,WORD,"gospel,",G2098,Epistles,New Testament,Philippians,KJV
+4,Philippians4:3 ,WORD,with,G3326,Epistles,New Testament,Philippians,KJV
+4,Philippians4:3 ,WORD,Clement,G2815,Epistles,New Testament,Philippians,KJV
+4,Philippians4:3 ,WORD,"also,",G2532,Epistles,New Testament,Philippians,KJV
+4,Philippians4:3 ,WORD,and,G2532,Epistles,New Testament,Philippians,KJV
+4,Philippians4:3 ,WORD,[with],,Epistles,New Testament,Philippians,KJV
+4,Philippians4:3 ,WORD,other,G3062,Epistles,New Testament,Philippians,KJV
+4,Philippians4:3 ,WORD,my,G3450,Epistles,New Testament,Philippians,KJV
+4,Philippians4:3 ,WORD,"fellowlabourers,",G4904,Epistles,New Testament,Philippians,KJV
+4,Philippians4:3 ,WORD,whose,G3739,Epistles,New Testament,Philippians,KJV
+4,Philippians4:3 ,WORD,names,G3686,Epistles,New Testament,Philippians,KJV
+4,Philippians4:3 ,WORD,[are],,Epistles,New Testament,Philippians,KJV
+4,Philippians4:3 ,WORD,in,G1722,Epistles,New Testament,Philippians,KJV
+4,Philippians4:3 ,PHRASE,the book,G976,Epistles,New Testament,Philippians,KJV
+4,Philippians4:3 ,PHRASE,of life.,G2222,Epistles,New Testament,Philippians,KJV
+4,Philippians4:4 ,WORD,Rejoice,G5463,Epistles,New Testament,Philippians,KJV
+4,Philippians4:4 ,WORD,in,G1722,Epistles,New Testament,Philippians,KJV
+4,Philippians4:4 ,PHRASE,the Lord,G2962,Epistles,New Testament,Philippians,KJV
+4,Philippians4:4 ,WORD,alway:,G3842,Epistles,New Testament,Philippians,KJV
+4,Philippians4:4 ,WORD,[and],,Epistles,New Testament,Philippians,KJV
+4,Philippians4:4 ,WORD,again,G3825,Epistles,New Testament,Philippians,KJV
+4,Philippians4:4 ,PHRASE,"I say,",G2046,Epistles,New Testament,Philippians,KJV
+4,Philippians4:4 ,WORD,Rejoice.,G5463,Epistles,New Testament,Philippians,KJV
+4,Philippians4:5 ,WORD,Let,G1097,Epistles,New Testament,Philippians,KJV
+4,Philippians4:5 ,WORD,your,G5216,Epistles,New Testament,Philippians,KJV
+4,Philippians4:5 ,WORD,moderation,G1933,Epistles,New Testament,Philippians,KJV
+4,Philippians4:5 ,PHRASE,be known,G1097,Epistles,New Testament,Philippians,KJV
+4,Philippians4:5 ,PHRASE,unto all,G3956,Epistles,New Testament,Philippians,KJV
+4,Philippians4:5 ,WORD,men.,G444,Epistles,New Testament,Philippians,KJV
+4,Philippians4:5 ,WORD,The,G3588,Epistles,New Testament,Philippians,KJV
+4,Philippians4:5 ,WORD,Lord,G2962,Epistles,New Testament,Philippians,KJV
+4,Philippians4:5 ,WORD,[is],,Epistles,New Testament,Philippians,KJV
+4,Philippians4:5 ,PHRASE,at hand.,G1451,Epistles,New Testament,Philippians,KJV
+4,Philippians4:6 ,PHRASE,Be careful,G3309,Epistles,New Testament,Philippians,KJV
+4,Philippians4:6 ,PHRASE,for nothing;,G3367,Epistles,New Testament,Philippians,KJV
+4,Philippians4:6 ,WORD,but,G235,Epistles,New Testament,Philippians,KJV
+4,Philippians4:6 ,WORD,in,G1722,Epistles,New Testament,Philippians,KJV
+4,Philippians4:6 ,PHRASE,every thing,G3956,Epistles,New Testament,Philippians,KJV
+4,Philippians4:6 ,PHRASE,by prayer,G4335,Epistles,New Testament,Philippians,KJV
+4,Philippians4:6 ,WORD,and,G2532,Epistles,New Testament,Philippians,KJV
+4,Philippians4:6 ,WORD,supplication,G1162,Epistles,New Testament,Philippians,KJV
+4,Philippians4:6 ,WORD,with,G3326,Epistles,New Testament,Philippians,KJV
+4,Philippians4:6 ,WORD,thanksgiving,G2169,Epistles,New Testament,Philippians,KJV
+4,Philippians4:6 ,WORD,let,G1107,Epistles,New Testament,Philippians,KJV
+4,Philippians4:6 ,WORD,your,G5216,Epistles,New Testament,Philippians,KJV
+4,Philippians4:6 ,WORD,requests,G155,Epistles,New Testament,Philippians,KJV
+4,Philippians4:6 ,PHRASE,be made known,G1107,Epistles,New Testament,Philippians,KJV
+4,Philippians4:6 ,WORD,unto,G4314,Epistles,New Testament,Philippians,KJV
+4,Philippians4:6 ,WORD,God.,G2316,Epistles,New Testament,Philippians,KJV
+4,Philippians4:7 ,WORD,And,G2532,Epistles,New Testament,Philippians,KJV
+4,Philippians4:7 ,WORD,the,G3588,Epistles,New Testament,Philippians,KJV
+4,Philippians4:7 ,WORD,peace,G1515,Epistles,New Testament,Philippians,KJV
+4,Philippians4:7 ,WORD,,G3588,Epistles,New Testament,Philippians,KJV
+4,Philippians4:7 ,PHRASE,"of God,",G2316,Epistles,New Testament,Philippians,KJV
+4,Philippians4:7 ,WORD,which,G3588,Epistles,New Testament,Philippians,KJV
+4,Philippians4:7 ,WORD,passeth,G5242,Epistles,New Testament,Philippians,KJV
+4,Philippians4:7 ,WORD,all,G3956,Epistles,New Testament,Philippians,KJV
+4,Philippians4:7 ,WORD,"understanding,",G3563,Epistles,New Testament,Philippians,KJV
+4,Philippians4:7 ,PHRASE,shall keep,G5432,Epistles,New Testament,Philippians,KJV
+4,Philippians4:7 ,WORD,your,G5216,Epistles,New Testament,Philippians,KJV
+4,Philippians4:7 ,WORD,,G3588,Epistles,New Testament,Philippians,KJV
+4,Philippians4:7 ,WORD,hearts,G2588,Epistles,New Testament,Philippians,KJV
+4,Philippians4:7 ,WORD,and,G2532,Epistles,New Testament,Philippians,KJV
+4,Philippians4:7 ,WORD,,G3588,Epistles,New Testament,Philippians,KJV
+4,Philippians4:7 ,WORD,minds,G3540,Epistles,New Testament,Philippians,KJV
+4,Philippians4:7 ,WORD,,G5216,Epistles,New Testament,Philippians,KJV
+4,Philippians4:7 ,WORD,through,G1722,Epistles,New Testament,Philippians,KJV
+4,Philippians4:7 ,WORD,Christ,G5547,Epistles,New Testament,Philippians,KJV
+4,Philippians4:7 ,WORD,Jesus.,G2424,Epistles,New Testament,Philippians,KJV
+4,Philippians4:8 ,WORD,"Finally,",G3063,Epistles,New Testament,Philippians,KJV
+4,Philippians4:8 ,WORD,"brethren,",G80,Epistles,New Testament,Philippians,KJV
+4,Philippians4:8 ,PHRASE,whatsoever things,G3745,Epistles,New Testament,Philippians,KJV
+4,Philippians4:8 ,WORD,are,G2076,Epistles,New Testament,Philippians,KJV
+4,Philippians4:8 ,WORD,"true,",G227,Epistles,New Testament,Philippians,KJV
+4,Philippians4:8 ,PHRASE,whatsoever things,G3745,Epistles,New Testament,Philippians,KJV
+4,Philippians4:8 ,WORD,[are],,Epistles,New Testament,Philippians,KJV
+4,Philippians4:8 ,WORD,"honest,",G4586,Epistles,New Testament,Philippians,KJV
+4,Philippians4:8 ,PHRASE,whatsoever things,G3745,Epistles,New Testament,Philippians,KJV
+4,Philippians4:8 ,WORD,[are],,Epistles,New Testament,Philippians,KJV
+4,Philippians4:8 ,WORD,"just,",G1342,Epistles,New Testament,Philippians,KJV
+4,Philippians4:8 ,PHRASE,whatsoever things,G3745,Epistles,New Testament,Philippians,KJV
+4,Philippians4:8 ,WORD,[are],,Epistles,New Testament,Philippians,KJV
+4,Philippians4:8 ,WORD,"pure,",G53,Epistles,New Testament,Philippians,KJV
+4,Philippians4:8 ,PHRASE,whatsoever things,G3745,Epistles,New Testament,Philippians,KJV
+4,Philippians4:8 ,WORD,[are],,Epistles,New Testament,Philippians,KJV
+4,Philippians4:8 ,WORD,"lovely,",G4375,Epistles,New Testament,Philippians,KJV
+4,Philippians4:8 ,PHRASE,whatsoever things,G3745,Epistles,New Testament,Philippians,KJV
+4,Philippians4:8 ,WORD,[are],,Epistles,New Testament,Philippians,KJV
+4,Philippians4:8 ,PHRASE,of good report;,G2163,Epistles,New Testament,Philippians,KJV
+4,Philippians4:8 ,WORD,if,G1487,Epistles,New Testament,Philippians,KJV
+4,Philippians4:8 ,PHRASE,[there be],,Epistles,New Testament,Philippians,KJV
+4,Philippians4:8 ,WORD,any,G5100,Epistles,New Testament,Philippians,KJV
+4,Philippians4:8 ,WORD,"virtue,",G703,Epistles,New Testament,Philippians,KJV
+4,Philippians4:8 ,WORD,and,G2532,Epistles,New Testament,Philippians,KJV
+4,Philippians4:8 ,WORD,if,G1487,Epistles,New Testament,Philippians,KJV
+4,Philippians4:8 ,PHRASE,[there be],,Epistles,New Testament,Philippians,KJV
+4,Philippians4:8 ,WORD,any,G5100,Epistles,New Testament,Philippians,KJV
+4,Philippians4:8 ,WORD,"praise,",G1868,Epistles,New Testament,Philippians,KJV
+4,Philippians4:8 ,WORD,think,G3049,Epistles,New Testament,Philippians,KJV
+4,Philippians4:8 ,PHRASE,on these things.,G5023,Epistles,New Testament,Philippians,KJV
+4,Philippians4:9 ,PHRASE,"Those things,",G5023,Epistles,New Testament,Philippians,KJV
+4,Philippians4:9 ,WORD,which,G3739,Epistles,New Testament,Philippians,KJV
+4,Philippians4:9 ,PHRASE,ye have,G3129,Epistles,New Testament,Philippians,KJV
+4,Philippians4:9 ,WORD,both,G2532,Epistles,New Testament,Philippians,KJV
+4,Philippians4:9 ,WORD,"learned,",G3129,Epistles,New Testament,Philippians,KJV
+4,Philippians4:9 ,WORD,and,G2532,Epistles,New Testament,Philippians,KJV
+4,Philippians4:9 ,WORD,"received,",G3880,Epistles,New Testament,Philippians,KJV
+4,Philippians4:9 ,WORD,and,G2532,Epistles,New Testament,Philippians,KJV
+4,Philippians4:9 ,WORD,"heard,",G191,Epistles,New Testament,Philippians,KJV
+4,Philippians4:9 ,WORD,and,G2532,Epistles,New Testament,Philippians,KJV
+4,Philippians4:9 ,WORD,seen,G1492,Epistles,New Testament,Philippians,KJV
+4,Philippians4:9 ,WORD,in,G1722,Epistles,New Testament,Philippians,KJV
+4,Philippians4:9 ,WORD,"me,",G1698,Epistles,New Testament,Philippians,KJV
+4,Philippians4:9 ,WORD,do:,G4238,Epistles,New Testament,Philippians,KJV
+4,Philippians4:9 ,WORD,and,G2532,Epistles,New Testament,Philippians,KJV
+4,Philippians4:9 ,WORD,the,G3588,Epistles,New Testament,Philippians,KJV
+4,Philippians4:9 ,WORD,God,G2316,Epistles,New Testament,Philippians,KJV
+4,Philippians4:9 ,PHRASE,of peace,G1515,Epistles,New Testament,Philippians,KJV
+4,Philippians4:9 ,PHRASE,shall be,G2071,Epistles,New Testament,Philippians,KJV
+4,Philippians4:9 ,WORD,with,G3326,Epistles,New Testament,Philippians,KJV
+4,Philippians4:9 ,WORD,you.,G5216,Epistles,New Testament,Philippians,KJV
+4,Philippians4:10 ,WORD,But,G1161,Epistles,New Testament,Philippians,KJV
+4,Philippians4:10 ,PHRASE,I rejoiced,G5463,Epistles,New Testament,Philippians,KJV
+4,Philippians4:10 ,WORD,in,G1722,Epistles,New Testament,Philippians,KJV
+4,Philippians4:10 ,PHRASE,the Lord,G2962,Epistles,New Testament,Philippians,KJV
+4,Philippians4:10 ,WORD,"greatly,",G3171,Epistles,New Testament,Philippians,KJV
+4,Philippians4:10 ,WORD,that,G3754,Epistles,New Testament,Philippians,KJV
+4,Philippians4:10 ,WORD,now,G2235,Epistles,New Testament,Philippians,KJV
+4,Philippians4:10 ,PHRASE,at the last,G4218,Epistles,New Testament,Philippians,KJV
+4,Philippians4:10 ,PHRASE,your care,G5426,Epistles,New Testament,Philippians,KJV
+4,Philippians4:10 ,WORD,of,G5228,Epistles,New Testament,Philippians,KJV
+4,Philippians4:10 ,WORD,me,G1700,Epistles,New Testament,Philippians,KJV
+4,Philippians4:10 ,PHRASE,hath flourished again;,G330,Epistles,New Testament,Philippians,KJV
+4,Philippians4:10 ,WORD,wherein,G1909,Epistles,New Testament,Philippians,KJV
+4,Philippians4:10 ,PHRASE,ye were,G5426,Epistles,New Testament,Philippians,KJV
+4,Philippians4:10 ,WORD,also,G2532,Epistles,New Testament,Philippians,KJV
+4,Philippians4:10 ,WORD,"careful,",G5426,Epistles,New Testament,Philippians,KJV
+4,Philippians4:10 ,WORD,but,G1161,Epistles,New Testament,Philippians,KJV
+4,Philippians4:10 ,PHRASE,ye lacked opportunity.,G170,Epistles,New Testament,Philippians,KJV
+4,Philippians4:11 ,WORD,Not,G3756,Epistles,New Testament,Philippians,KJV
+4,Philippians4:11 ,PHRASE,that I speak,G3004,Epistles,New Testament,Philippians,KJV
+4,Philippians4:11 ,PHRASE,in respect,G3754,Epistles,New Testament,Philippians,KJV
+4,Philippians4:11 ,WORD,,G2596,Epistles,New Testament,Philippians,KJV
+4,Philippians4:11 ,PHRASE,of want:,G5304,Epistles,New Testament,Philippians,KJV
+4,Philippians4:11 ,WORD,for,G1063,Epistles,New Testament,Philippians,KJV
+4,Philippians4:11 ,WORD,I,G1473,Epistles,New Testament,Philippians,KJV
+4,Philippians4:11 ,PHRASE,"have learned,",G3129,Epistles,New Testament,Philippians,KJV
+4,Philippians4:11 ,WORD,in,G1722,Epistles,New Testament,Philippians,KJV
+4,Philippians4:11 ,PHRASE,whatsoever state,G3739,Epistles,New Testament,Philippians,KJV
+4,Philippians4:11 ,PHRASE,"I am,",G1510,Epistles,New Testament,Philippians,KJV
+4,Philippians4:11 ,WORD,[therewith],,Epistles,New Testament,Philippians,KJV
+4,Philippians4:11 ,PHRASE,to be,G1511,Epistles,New Testament,Philippians,KJV
+4,Philippians4:11 ,WORD,content.,G842,Epistles,New Testament,Philippians,KJV
+4,Philippians4:12 ,PHRASE,I know,G1492,Epistles,New Testament,Philippians,KJV
+4,Philippians4:12 ,PHRASE,"both how to be abased,",G5013,Epistles,New Testament,Philippians,KJV
+4,Philippians4:12 ,WORD,and,G2532,Epistles,New Testament,Philippians,KJV
+4,Philippians4:12 ,PHRASE,I know,G1492,Epistles,New Testament,Philippians,KJV
+4,Philippians4:12 ,PHRASE,how to abound:,G4052,Epistles,New Testament,Philippians,KJV
+4,Philippians4:12 ,PHRASE,every where,G1722,Epistles,New Testament,Philippians,KJV
+4,Philippians4:12 ,WORD,,G3956,Epistles,New Testament,Philippians,KJV
+4,Philippians4:12 ,WORD,and,G2532,Epistles,New Testament,Philippians,KJV
+4,Philippians4:12 ,WORD,in,G1722,Epistles,New Testament,Philippians,KJV
+4,Philippians4:12 ,PHRASE,all things,G3956,Epistles,New Testament,Philippians,KJV
+4,Philippians4:12 ,PHRASE,I am instructed,G3453,Epistles,New Testament,Philippians,KJV
+4,Philippians4:12 ,WORD,both,G2532,Epistles,New Testament,Philippians,KJV
+4,Philippians4:12 ,PHRASE,to be full,G5526,Epistles,New Testament,Philippians,KJV
+4,Philippians4:12 ,WORD,and,G2532,Epistles,New Testament,Philippians,KJV
+4,Philippians4:12 ,PHRASE,"to be hungry,",G3983,Epistles,New Testament,Philippians,KJV
+4,Philippians4:12 ,WORD,both,G2532,Epistles,New Testament,Philippians,KJV
+4,Philippians4:12 ,PHRASE,to abound,G4052,Epistles,New Testament,Philippians,KJV
+4,Philippians4:12 ,WORD,and,G2532,Epistles,New Testament,Philippians,KJV
+4,Philippians4:12 ,PHRASE,to suffer need.,G5302,Epistles,New Testament,Philippians,KJV
+4,Philippians4:13 ,PHRASE,I can do,G2480,Epistles,New Testament,Philippians,KJV
+4,Philippians4:13 ,PHRASE,all things,G3956,Epistles,New Testament,Philippians,KJV
+4,Philippians4:13 ,WORD,through,G1722,Epistles,New Testament,Philippians,KJV
+4,Philippians4:13 ,WORD,Christ,G5547,Epistles,New Testament,Philippians,KJV
+4,Philippians4:13 ,WORD,which,G3588,Epistles,New Testament,Philippians,KJV
+4,Philippians4:13 ,WORD,strengtheneth,G1743,Epistles,New Testament,Philippians,KJV
+4,Philippians4:13 ,WORD,me.,G3165,Epistles,New Testament,Philippians,KJV
+4,Philippians4:14 ,WORD,Notwithstanding,G4133,Epistles,New Testament,Philippians,KJV
+4,Philippians4:14 ,PHRASE,ye have well,G2573,Epistles,New Testament,Philippians,KJV
+4,Philippians4:14 ,WORD,"done,",G4160,Epistles,New Testament,Philippians,KJV
+4,Philippians4:14 ,PHRASE,that ye did communicate with,G4790,Epistles,New Testament,Philippians,KJV
+4,Philippians4:14 ,WORD,my,G3450,Epistles,New Testament,Philippians,KJV
+4,Philippians4:14 ,WORD,affliction.,G2347,Epistles,New Testament,Philippians,KJV
+4,Philippians4:15 ,WORD,Now,G1161,Epistles,New Testament,Philippians,KJV
+4,Philippians4:15 ,WORD,ye,G5210,Epistles,New Testament,Philippians,KJV
+4,Philippians4:15 ,WORD,Philippians,G5374,Epistles,New Testament,Philippians,KJV
+4,Philippians4:15 ,WORD,know,G1492,Epistles,New Testament,Philippians,KJV
+4,Philippians4:15 ,WORD,"also,",G2532,Epistles,New Testament,Philippians,KJV
+4,Philippians4:15 ,WORD,that,G3754,Epistles,New Testament,Philippians,KJV
+4,Philippians4:15 ,WORD,in,G1722,Epistles,New Testament,Philippians,KJV
+4,Philippians4:15 ,PHRASE,the beginning,G746,Epistles,New Testament,Philippians,KJV
+4,Philippians4:15 ,PHRASE,of the,G3588,Epistles,New Testament,Philippians,KJV
+4,Philippians4:15 ,WORD,"gospel,",G2098,Epistles,New Testament,Philippians,KJV
+4,Philippians4:15 ,WORD,when,G3753,Epistles,New Testament,Philippians,KJV
+4,Philippians4:15 ,PHRASE,I departed,G1831,Epistles,New Testament,Philippians,KJV
+4,Philippians4:15 ,WORD,from,G575,Epistles,New Testament,Philippians,KJV
+4,Philippians4:15 ,WORD,"Macedonia,",G3109,Epistles,New Testament,Philippians,KJV
+4,Philippians4:15 ,WORD,no,G3762,Epistles,New Testament,Philippians,KJV
+4,Philippians4:15 ,WORD,church,G1577,Epistles,New Testament,Philippians,KJV
+4,Philippians4:15 ,PHRASE,communicated with,G2841,Epistles,New Testament,Philippians,KJV
+4,Philippians4:15 ,WORD,me,G3427,Epistles,New Testament,Philippians,KJV
+4,Philippians4:15 ,WORD,as,G1519,Epistles,New Testament,Philippians,KJV
+4,Philippians4:15 ,WORD,concerning,G3056,Epistles,New Testament,Philippians,KJV
+4,Philippians4:15 ,WORD,giving,G1394,Epistles,New Testament,Philippians,KJV
+4,Philippians4:15 ,WORD,and,G2532,Epistles,New Testament,Philippians,KJV
+4,Philippians4:15 ,WORD,"receiving,",G3028,Epistles,New Testament,Philippians,KJV
+4,Philippians4:15 ,WORD,,G1487,Epistles,New Testament,Philippians,KJV
+4,Philippians4:15 ,WORD,but,G3361,Epistles,New Testament,Philippians,KJV
+4,Philippians4:15 ,WORD,ye,G5210,Epistles,New Testament,Philippians,KJV
+4,Philippians4:15 ,WORD,only.,G3441,Epistles,New Testament,Philippians,KJV
+4,Philippians4:16 ,WORD,For,G3754,Epistles,New Testament,Philippians,KJV
+4,Philippians4:16 ,WORD,even,G2532,Epistles,New Testament,Philippians,KJV
+4,Philippians4:16 ,WORD,in,G1722,Epistles,New Testament,Philippians,KJV
+4,Philippians4:16 ,WORD,Thessalonica,G2332,Epistles,New Testament,Philippians,KJV
+4,Philippians4:16 ,PHRASE,ye sent,G3992,Epistles,New Testament,Philippians,KJV
+4,Philippians4:16 ,WORD,once,G530,Epistles,New Testament,Philippians,KJV
+4,Philippians4:16 ,WORD,and,G2532,Epistles,New Testament,Philippians,KJV
+4,Philippians4:16 ,WORD,again,G1364,Epistles,New Testament,Philippians,KJV
+4,Philippians4:16 ,WORD,unto,G1519,Epistles,New Testament,Philippians,KJV
+4,Philippians4:16 ,WORD,my,G3427,Epistles,New Testament,Philippians,KJV
+4,Philippians4:16 ,WORD,necessity.,G5532,Epistles,New Testament,Philippians,KJV
+4,Philippians4:17 ,WORD,Not,G3756,Epistles,New Testament,Philippians,KJV
+4,Philippians4:17 ,WORD,because,G3754,Epistles,New Testament,Philippians,KJV
+4,Philippians4:17 ,PHRASE,I desire,G1934,Epistles,New Testament,Philippians,KJV
+4,Philippians4:17 ,WORD,a,G3588,Epistles,New Testament,Philippians,KJV
+4,Philippians4:17 ,WORD,gift:,G1390,Epistles,New Testament,Philippians,KJV
+4,Philippians4:17 ,WORD,but,G235,Epistles,New Testament,Philippians,KJV
+4,Philippians4:17 ,PHRASE,I desire,G1934,Epistles,New Testament,Philippians,KJV
+4,Philippians4:17 ,WORD,fruit,G2590,Epistles,New Testament,Philippians,KJV
+4,Philippians4:17 ,PHRASE,that may abound,G4121,Epistles,New Testament,Philippians,KJV
+4,Philippians4:17 ,WORD,to,G1519,Epistles,New Testament,Philippians,KJV
+4,Philippians4:17 ,WORD,your,G5216,Epistles,New Testament,Philippians,KJV
+4,Philippians4:17 ,WORD,account.,G3056,Epistles,New Testament,Philippians,KJV
+4,Philippians4:18 ,WORD,But,G1161,Epistles,New Testament,Philippians,KJV
+4,Philippians4:18 ,PHRASE,I have,G568,Epistles,New Testament,Philippians,KJV
+4,Philippians4:18 ,WORD,"all,",G3956,Epistles,New Testament,Philippians,KJV
+4,Philippians4:18 ,WORD,and,G2532,Epistles,New Testament,Philippians,KJV
+4,Philippians4:18 ,WORD,abound:,G4052,Epistles,New Testament,Philippians,KJV
+4,Philippians4:18 ,PHRASE,"I am full,",G4137,Epistles,New Testament,Philippians,KJV
+4,Philippians4:18 ,PHRASE,having received,G1209,Epistles,New Testament,Philippians,KJV
+4,Philippians4:18 ,WORD,of,G3844,Epistles,New Testament,Philippians,KJV
+4,Philippians4:18 ,WORD,Epaphroditus,G1891,Epistles,New Testament,Philippians,KJV
+4,Philippians4:18 ,PHRASE,the things,G3588,Epistles,New Testament,Philippians,KJV
+4,Philippians4:18 ,PHRASE,[which were sent],,Epistles,New Testament,Philippians,KJV
+4,Philippians4:18 ,WORD,from,G3844,Epistles,New Testament,Philippians,KJV
+4,Philippians4:18 ,WORD,"you,",G5216,Epistles,New Testament,Philippians,KJV
+4,Philippians4:18 ,PHRASE,an odour,G3744,Epistles,New Testament,Philippians,KJV
+4,Philippians4:18 ,PHRASE,"of a sweet smell,",G2175,Epistles,New Testament,Philippians,KJV
+4,Philippians4:18 ,PHRASE,a sacrifice,G2378,Epistles,New Testament,Philippians,KJV
+4,Philippians4:18 ,WORD,"acceptable,",G1184,Epistles,New Testament,Philippians,KJV
+4,Philippians4:18 ,WORD,wellpleasing,G2101,Epistles,New Testament,Philippians,KJV
+4,Philippians4:18 ,PHRASE,to God.,G2316,Epistles,New Testament,Philippians,KJV
+4,Philippians4:19 ,WORD,But,G1161,Epistles,New Testament,Philippians,KJV
+4,Philippians4:19 ,WORD,my,G3450,Epistles,New Testament,Philippians,KJV
+4,Philippians4:19 ,WORD,God,G2316,Epistles,New Testament,Philippians,KJV
+4,Philippians4:19 ,PHRASE,shall supply,G4137,Epistles,New Testament,Philippians,KJV
+4,Philippians4:19 ,WORD,all,G3956,Epistles,New Testament,Philippians,KJV
+4,Philippians4:19 ,WORD,your,G5216,Epistles,New Testament,Philippians,KJV
+4,Philippians4:19 ,WORD,need,G5532,Epistles,New Testament,Philippians,KJV
+4,Philippians4:19 ,PHRASE,according to,G2596,Epistles,New Testament,Philippians,KJV
+4,Philippians4:19 ,WORD,his,G846,Epistles,New Testament,Philippians,KJV
+4,Philippians4:19 ,WORD,riches,G4149,Epistles,New Testament,Philippians,KJV
+4,Philippians4:19 ,WORD,in,G1722,Epistles,New Testament,Philippians,KJV
+4,Philippians4:19 ,WORD,glory,G1391,Epistles,New Testament,Philippians,KJV
+4,Philippians4:19 ,WORD,by,G1722,Epistles,New Testament,Philippians,KJV
+4,Philippians4:19 ,WORD,Christ,G5547,Epistles,New Testament,Philippians,KJV
+4,Philippians4:19 ,WORD,Jesus.,G2424,Epistles,New Testament,Philippians,KJV
+4,Philippians4:20 ,WORD,Now,G1161,Epistles,New Testament,Philippians,KJV
+4,Philippians4:20 ,PHRASE,unto God,G2316,Epistles,New Testament,Philippians,KJV
+4,Philippians4:20 ,WORD,and,G2532,Epistles,New Testament,Philippians,KJV
+4,Philippians4:20 ,WORD,our,G2257,Epistles,New Testament,Philippians,KJV
+4,Philippians4:20 ,WORD,Father,G3962,Epistles,New Testament,Philippians,KJV
+4,Philippians4:20 ,WORD,[be],,Epistles,New Testament,Philippians,KJV
+4,Philippians4:20 ,WORD,glory,G1391,Epistles,New Testament,Philippians,KJV
+4,Philippians4:20 ,WORD,for,G1519,Epistles,New Testament,Philippians,KJV
+4,Philippians4:20 ,WORD,ever,G165,Epistles,New Testament,Philippians,KJV
+4,Philippians4:20 ,PHRASE,and ever.,G165,Epistles,New Testament,Philippians,KJV
+4,Philippians4:20 ,WORD,Amen.,G281,Epistles,New Testament,Philippians,KJV
+4,Philippians4:21 ,WORD,Salute,G782,Epistles,New Testament,Philippians,KJV
+4,Philippians4:21 ,WORD,every,G3956,Epistles,New Testament,Philippians,KJV
+4,Philippians4:21 ,WORD,saint,G40,Epistles,New Testament,Philippians,KJV
+4,Philippians4:21 ,WORD,in,G1722,Epistles,New Testament,Philippians,KJV
+4,Philippians4:21 ,WORD,Christ,G5547,Epistles,New Testament,Philippians,KJV
+4,Philippians4:21 ,WORD,Jesus.,G2424,Epistles,New Testament,Philippians,KJV
+4,Philippians4:21 ,PHRASE,The brethren,G80,Epistles,New Testament,Philippians,KJV
+4,Philippians4:21 ,WORD,which,G3588,Epistles,New Testament,Philippians,KJV
+4,Philippians4:21 ,PHRASE,are with,G4862,Epistles,New Testament,Philippians,KJV
+4,Philippians4:21 ,WORD,me,G1698,Epistles,New Testament,Philippians,KJV
+4,Philippians4:21 ,WORD,greet,G782,Epistles,New Testament,Philippians,KJV
+4,Philippians4:21 ,WORD,you.,G5209,Epistles,New Testament,Philippians,KJV
+4,Philippians4:22 ,WORD,All,G3956,Epistles,New Testament,Philippians,KJV
+4,Philippians4:22 ,WORD,the,G3588,Epistles,New Testament,Philippians,KJV
+4,Philippians4:22 ,WORD,saints,G40,Epistles,New Testament,Philippians,KJV
+4,Philippians4:22 ,WORD,salute,G782,Epistles,New Testament,Philippians,KJV
+4,Philippians4:22 ,WORD,"you,",G5209,Epistles,New Testament,Philippians,KJV
+4,Philippians4:22 ,WORD,chiefly,G3122,Epistles,New Testament,Philippians,KJV
+4,Philippians4:22 ,PHRASE,they that are of,G1537,Epistles,New Testament,Philippians,KJV
+4,Philippians4:22 ,WORD,Caesar's,G2541,Epistles,New Testament,Philippians,KJV
+4,Philippians4:22 ,WORD,household.,G3614,Epistles,New Testament,Philippians,KJV
+4,Philippians4:23 ,WORD,The,G3588,Epistles,New Testament,Philippians,KJV
+4,Philippians4:23 ,WORD,grace,G5485,Epistles,New Testament,Philippians,KJV
+4,Philippians4:23 ,PHRASE,of our,G2257,Epistles,New Testament,Philippians,KJV
+4,Philippians4:23 ,WORD,Lord,G2962,Epistles,New Testament,Philippians,KJV
+4,Philippians4:23 ,WORD,Jesus,G2424,Epistles,New Testament,Philippians,KJV
+4,Philippians4:23 ,WORD,Christ,G5547,Epistles,New Testament,Philippians,KJV
+4,Philippians4:23 ,WORD,[be],,Epistles,New Testament,Philippians,KJV
+4,Philippians4:23 ,WORD,with,G3326,Epistles,New Testament,Philippians,KJV
+4,Philippians4:23 ,WORD,you,G5216,Epistles,New Testament,Philippians,KJV
+4,Philippians4:23 ,WORD,all.,G3956,Epistles,New Testament,Philippians,KJV
+4,Philippians4:23 ,WORD,Amen.,G281,Epistles,New Testament,Philippians,KJV
+4,Philippians4:23 ,WORD,To,G4314,Epistles,New Testament,Philippians,KJV
+4,Philippians4:23 ,WORD,[the],,Epistles,New Testament,Philippians,KJV
+4,Philippians4:23 ,WORD,Philippians,G5374,Epistles,New Testament,Philippians,KJV
+4,Philippians4:23 ,WORD,written,G1125,Epistles,New Testament,Philippians,KJV
+4,Philippians4:23 ,WORD,from,G575,Epistles,New Testament,Philippians,KJV
+4,Philippians4:23 ,WORD,"Rome,",G4516,Epistles,New Testament,Philippians,KJV
+4,Philippians4:23 ,WORD,by,G1223,Epistles,New Testament,Philippians,KJV
+4,Philippians4:23 ,WORD,Epaphroditus.,G1891,Epistles,New Testament,Philippians,KJV

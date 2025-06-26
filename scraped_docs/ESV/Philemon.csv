@@ -1,0 +1,315 @@
+bible_chapter,bible_verse,verse_part_type,verse_part,hebrew_id,lit_type,testament_type,bible_book,version
+1,Philemon1:1 ,WORD,Paul,G3972,Epistles,New Testament,Philemon,ESV
+1,Philemon1:1 ,PHRASE,a prisoner,G1198,Epistles,New Testament,Philemon,ESV
+1,Philemon1:1 ,PHRASE,of Christ,G5547,Epistles,New Testament,Philemon,ESV
+1,Philemon1:1 ,WORD,Jesus,G2424,Epistles,New Testament,Philemon,ESV
+1,Philemon1:1 ,WORD,and,G2532,Epistles,New Testament,Philemon,ESV
+1,Philemon1:1 ,WORD,Timothy,G5095,Epistles,New Testament,Philemon,ESV
+1,Philemon1:1 ,PHRASE,our brother,G80,Epistles,New Testament,Philemon,ESV
+1,Philemon1:1 ,PHRASE,To Philemon,G5371,Epistles,New Testament,Philemon,ESV
+1,Philemon1:1 ,WORD,our,G1473,Epistles,New Testament,Philemon,ESV
+1,Philemon1:1 ,WORD,beloved,G27,Epistles,New Testament,Philemon,ESV
+1,Philemon1:1 ,WORD,brother,G4904,Epistles,New Testament,Philemon,ESV
+1,Philemon1:1 ,WORD,and,G2532,Epistles,New Testament,Philemon,ESV
+1,Philemon1:1 ,PHRASE,fellow worker,G4904,Epistles,New Testament,Philemon,ESV
+1,Philemon1:2 ,WORD,and,G2532,Epistles,New Testament,Philemon,ESV
+1,Philemon1:2 ,PHRASE,to Apphia,G682,Epistles,New Testament,Philemon,ESV
+1,Philemon1:2 ,PHRASE,our sister,G79,Epistles,New Testament,Philemon,ESV
+1,Philemon1:2 ,WORD,and,G2532,Epistles,New Testament,Philemon,ESV
+1,Philemon1:2 ,PHRASE,to Archippus,G751,Epistles,New Testament,Philemon,ESV
+1,Philemon1:2 ,WORD,our,G1473,Epistles,New Testament,Philemon,ESV
+1,Philemon1:2 ,PHRASE,fellow soldier,G4961,Epistles,New Testament,Philemon,ESV
+1,Philemon1:2 ,WORD,and,G2532,Epistles,New Testament,Philemon,ESV
+1,Philemon1:2 ,PHRASE,to the church,G1577,Epistles,New Testament,Philemon,ESV
+1,Philemon1:2 ,WORD,in,G2596,Epistles,New Testament,Philemon,ESV
+1,Philemon1:2 ,WORD,your,G4771,Epistles,New Testament,Philemon,ESV
+1,Philemon1:2 ,WORD,house,G3624,Epistles,New Testament,Philemon,ESV
+1,Philemon1:3 ,WORD,Grace,G5485,Epistles,New Testament,Philemon,ESV
+1,Philemon1:3 ,PHRASE,to you,G4771,Epistles,New Testament,Philemon,ESV
+1,Philemon1:3 ,WORD,and,G2532,Epistles,New Testament,Philemon,ESV
+1,Philemon1:3 ,WORD,peace,G1515,Epistles,New Testament,Philemon,ESV
+1,Philemon1:3 ,WORD,from,G575,Epistles,New Testament,Philemon,ESV
+1,Philemon1:3 ,WORD,God,G2316,Epistles,New Testament,Philemon,ESV
+1,Philemon1:3 ,WORD,our,G1473,Epistles,New Testament,Philemon,ESV
+1,Philemon1:3 ,WORD,Father,G3962,Epistles,New Testament,Philemon,ESV
+1,Philemon1:3 ,WORD,and,G2532,Epistles,New Testament,Philemon,ESV
+1,Philemon1:3 ,PHRASE,the Lord,G2962,Epistles,New Testament,Philemon,ESV
+1,Philemon1:3 ,WORD,Jesus,G2424,Epistles,New Testament,Philemon,ESV
+1,Philemon1:3 ,WORD,Christ,G5547,Epistles,New Testament,Philemon,ESV
+1,Philemon1:4 ,PHRASE,I thank,G2168,Epistles,New Testament,Philemon,ESV
+1,Philemon1:4 ,WORD,my,G1473,Epistles,New Testament,Philemon,ESV
+1,Philemon1:4 ,WORD,God,G2316,Epistles,New Testament,Philemon,ESV
+1,Philemon1:4 ,WORD,always,G3842,Epistles,New Testament,Philemon,ESV
+1,Philemon1:4 ,WORD,making,G4160,Epistles,New Testament,Philemon,ESV
+1,Philemon1:4 ,WORD,mention,G3417,Epistles,New Testament,Philemon,ESV
+1,Philemon1:4 ,PHRASE,of you,G4771,Epistles,New Testament,Philemon,ESV
+1,Philemon1:4 ,WORD,in,G1909,Epistles,New Testament,Philemon,ESV
+1,Philemon1:4 ,WORD,my,G1473,Epistles,New Testament,Philemon,ESV
+1,Philemon1:4 ,WORD,prayers,G4335,Epistles,New Testament,Philemon,ESV
+1,Philemon1:5 ,PHRASE,because I hear,G191,Epistles,New Testament,Philemon,ESV
+1,Philemon1:5 ,PHRASE,of your,G4771,Epistles,New Testament,Philemon,ESV
+1,Philemon1:5 ,WORD,love,G26,Epistles,New Testament,Philemon,ESV
+1,Philemon1:5 ,WORD,and,G2532,Epistles,New Testament,Philemon,ESV
+1,Philemon1:5 ,PHRASE,of the,G3588,Epistles,New Testament,Philemon,ESV
+1,Philemon1:5 ,WORD,faith,G4102,Epistles,New Testament,Philemon,ESV
+1,Philemon1:5 ,WORD,which,G3739,Epistles,New Testament,Philemon,ESV
+1,Philemon1:5 ,PHRASE,you have,G2192,Epistles,New Testament,Philemon,ESV
+1,Philemon1:5 ,WORD,toward,G4314,Epistles,New Testament,Philemon,ESV
+1,Philemon1:5 ,WORD,the,G3588,Epistles,New Testament,Philemon,ESV
+1,Philemon1:5 ,WORD,Lord,G2962,Epistles,New Testament,Philemon,ESV
+1,Philemon1:5 ,WORD,Jesus,G2424,Epistles,New Testament,Philemon,ESV
+1,Philemon1:5 ,WORD,and,G2532,Epistles,New Testament,Philemon,ESV
+1,Philemon1:5 ,WORD,toward,G1519,Epistles,New Testament,Philemon,ESV
+1,Philemon1:5 ,WORD,all,G3956,Epistles,New Testament,Philemon,ESV
+1,Philemon1:5 ,WORD,the,G3588,Epistles,New Testament,Philemon,ESV
+1,Philemon1:5 ,WORD,saints,G40,Epistles,New Testament,Philemon,ESV
+1,Philemon1:6 ,PHRASE,and I pray that,G3704,Epistles,New Testament,Philemon,ESV
+1,Philemon1:6 ,WORD,the,G3588,Epistles,New Testament,Philemon,ESV
+1,Philemon1:6 ,WORD,fellowship,G2842,Epistles,New Testament,Philemon,ESV
+1,Philemon1:6 ,PHRASE,of your,G4771,Epistles,New Testament,Philemon,ESV
+1,Philemon1:6 ,WORD,faith,G4102,Epistles,New Testament,Philemon,ESV
+1,Philemon1:6 ,PHRASE,may become,G1096,Epistles,New Testament,Philemon,ESV
+1,Philemon1:6 ,WORD,effective,G1756,Epistles,New Testament,Philemon,ESV
+1,Philemon1:6 ,WORD,through,G1722,Epistles,New Testament,Philemon,ESV
+1,Philemon1:6 ,PHRASE,the knowledge,G1922,Epistles,New Testament,Philemon,ESV
+1,Philemon1:6 ,PHRASE,of every,G3956,Epistles,New Testament,Philemon,ESV
+1,Philemon1:6 ,PHRASE,good thing,G18,Epistles,New Testament,Philemon,ESV
+1,Philemon1:6 ,PHRASE,which is,G3588,Epistles,New Testament,Philemon,ESV
+1,Philemon1:6 ,WORD,in,G1722,Epistles,New Testament,Philemon,ESV
+1,Philemon1:6 ,WORD,you,G1473,Epistles,New Testament,Philemon,ESV
+1,Philemon1:6 ,WORD,for,G1519,Epistles,New Testament,Philemon,ESV
+1,Philemon1:6 ,PHRASE,Christ's sake,G5547,Epistles,New Testament,Philemon,ESV
+1,Philemon1:7 ,WORD,For,G1063,Epistles,New Testament,Philemon,ESV
+1,Philemon1:7 ,PHRASE,I have come to have,G2192,Epistles,New Testament,Philemon,ESV
+1,Philemon1:7 ,WORD,much,G4183,Epistles,New Testament,Philemon,ESV
+1,Philemon1:7 ,WORD,joy,G5479,Epistles,New Testament,Philemon,ESV
+1,Philemon1:7 ,WORD,and,G2532,Epistles,New Testament,Philemon,ESV
+1,Philemon1:7 ,WORD,comfort,G3874,Epistles,New Testament,Philemon,ESV
+1,Philemon1:7 ,WORD,in,G1909,Epistles,New Testament,Philemon,ESV
+1,Philemon1:7 ,WORD,your,G4771,Epistles,New Testament,Philemon,ESV
+1,Philemon1:7 ,WORD,love,G26,Epistles,New Testament,Philemon,ESV
+1,Philemon1:7 ,WORD,because,G3754,Epistles,New Testament,Philemon,ESV
+1,Philemon1:7 ,WORD,the,G3588,Epistles,New Testament,Philemon,ESV
+1,Philemon1:7 ,WORD,hearts,G4698,Epistles,New Testament,Philemon,ESV
+1,Philemon1:7 ,PHRASE,of the,G3588,Epistles,New Testament,Philemon,ESV
+1,Philemon1:7 ,WORD,saints,G40,Epistles,New Testament,Philemon,ESV
+1,Philemon1:7 ,PHRASE,have been refreshed,G373,Epistles,New Testament,Philemon,ESV
+1,Philemon1:7 ,WORD,through,G1223,Epistles,New Testament,Philemon,ESV
+1,Philemon1:7 ,WORD,you,G4771,Epistles,New Testament,Philemon,ESV
+1,Philemon1:7 ,WORD,brother,G80,Epistles,New Testament,Philemon,ESV
+1,Philemon1:8 ,WORD,Therefore,G1352,Epistles,New Testament,Philemon,ESV
+1,Philemon1:8 ,PHRASE,though I have,G2192,Epistles,New Testament,Philemon,ESV
+1,Philemon1:8 ,WORD,enough,G4183,Epistles,New Testament,Philemon,ESV
+1,Philemon1:8 ,WORD,confidence,G3954,Epistles,New Testament,Philemon,ESV
+1,Philemon1:8 ,WORD,in,G1722,Epistles,New Testament,Philemon,ESV
+1,Philemon1:8 ,WORD,Christ,G5547,Epistles,New Testament,Philemon,ESV
+1,Philemon1:8 ,PHRASE,to order,G2004,Epistles,New Testament,Philemon,ESV
+1,Philemon1:8 ,WORD,you,G4771,Epistles,New Testament,Philemon,ESV
+1,Philemon1:8 ,PHRASE,to do what,G3588,Epistles,New Testament,Philemon,ESV
+1,Philemon1:8 ,PHRASE,is proper,G433,Epistles,New Testament,Philemon,ESV
+1,Philemon1:9 ,PHRASE,yet for,G1223,Epistles,New Testament,Philemon,ESV
+1,Philemon1:9 ,WORD,love's,G26,Epistles,New Testament,Philemon,ESV
+1,Philemon1:9 ,WORD,sake,G1223,Epistles,New Testament,Philemon,ESV
+1,Philemon1:9 ,PHRASE,I rather,G3123,Epistles,New Testament,Philemon,ESV
+1,Philemon1:9 ,PHRASE,appeal to you,G3870,Epistles,New Testament,Philemon,ESV
+1,Philemon1:9 ,PHRASE,since I am,G1510,Epistles,New Testament,Philemon,ESV
+1,Philemon1:9 ,PHRASE,such a person,G5108,Epistles,New Testament,Philemon,ESV
+1,Philemon1:9 ,WORD,as,G5613,Epistles,New Testament,Philemon,ESV
+1,Philemon1:9 ,WORD,Paul,G3972,Epistles,New Testament,Philemon,ESV
+1,Philemon1:9 ,PHRASE,the aged,G4246,Epistles,New Testament,Philemon,ESV
+1,Philemon1:9 ,WORD,and,G1161,Epistles,New Testament,Philemon,ESV
+1,Philemon1:9 ,WORD,now,G3570,Epistles,New Testament,Philemon,ESV
+1,Philemon1:9 ,WORD,also,G2532,Epistles,New Testament,Philemon,ESV
+1,Philemon1:9 ,PHRASE,a prisoner,G1198,Epistles,New Testament,Philemon,ESV
+1,Philemon1:9 ,PHRASE,of Christ,G5547,Epistles,New Testament,Philemon,ESV
+1,Philemon1:9 ,WORD,Jesus,G2424,Epistles,New Testament,Philemon,ESV
+1,Philemon1:10 ,PHRASE,I appeal,G3870,Epistles,New Testament,Philemon,ESV
+1,Philemon1:10 ,PHRASE,to you,G4771,Epistles,New Testament,Philemon,ESV
+1,Philemon1:10 ,WORD,for,G4012,Epistles,New Testament,Philemon,ESV
+1,Philemon1:10 ,WORD,my,G1699,Epistles,New Testament,Philemon,ESV
+1,Philemon1:10 ,WORD,child,G5043,Epistles,New Testament,Philemon,ESV
+1,Philemon1:10 ,WORD,Onesimus,G3682,Epistles,New Testament,Philemon,ESV
+1,Philemon1:10 ,WORD,whom,G3739,Epistles,New Testament,Philemon,ESV
+1,Philemon1:10 ,PHRASE,I have begotten,G1080,Epistles,New Testament,Philemon,ESV
+1,Philemon1:10 ,WORD,in,G1722,Epistles,New Testament,Philemon,ESV
+1,Philemon1:10 ,PHRASE,my imprisonment,G1199,Epistles,New Testament,Philemon,ESV
+1,Philemon1:11 ,WORD,who,G3588,Epistles,New Testament,Philemon,ESV
+1,Philemon1:11 ,WORD,formerly,G4218,Epistles,New Testament,Philemon,ESV
+1,Philemon1:11 ,PHRASE,was useless,G890,Epistles,New Testament,Philemon,ESV
+1,Philemon1:11 ,PHRASE,to you,G4771,Epistles,New Testament,Philemon,ESV
+1,Philemon1:11 ,WORD,but,G1161,Epistles,New Testament,Philemon,ESV
+1,Philemon1:11 ,WORD,now,G3570,Epistles,New Testament,Philemon,ESV
+1,Philemon1:11 ,PHRASE,is useful,G2173,Epistles,New Testament,Philemon,ESV
+1,Philemon1:11 ,WORD,both,G2532,Epistles,New Testament,Philemon,ESV
+1,Philemon1:11 ,PHRASE,to you,G4771,Epistles,New Testament,Philemon,ESV
+1,Philemon1:11 ,WORD,and,G2532,Epistles,New Testament,Philemon,ESV
+1,Philemon1:11 ,PHRASE,to me,G1473,Epistles,New Testament,Philemon,ESV
+1,Philemon1:12 ,PHRASE,I have sent,G375,Epistles,New Testament,Philemon,ESV
+1,Philemon1:12 ,WORD,him,G3739,Epistles,New Testament,Philemon,ESV
+1,Philemon1:12 ,WORD,back,G375,Epistles,New Testament,Philemon,ESV
+1,Philemon1:12 ,PHRASE,to you,G4771,Epistles,New Testament,Philemon,ESV
+1,Philemon1:12 ,PHRASE,in person,G846,Epistles,New Testament,Philemon,ESV
+1,Philemon1:12 ,WORD,that,G3778,Epistles,New Testament,Philemon,ESV
+1,Philemon1:12 ,PHRASE,is sending,G1510,Epistles,New Testament,Philemon,ESV
+1,Philemon1:12 ,WORD,my,G1699,Epistles,New Testament,Philemon,ESV
+1,Philemon1:12 ,PHRASE,very heart,G4698,Epistles,New Testament,Philemon,ESV
+1,Philemon1:13 ,WORD,whom,G3739,Epistles,New Testament,Philemon,ESV
+1,Philemon1:13 ,WORD,I,G1473,Epistles,New Testament,Philemon,ESV
+1,Philemon1:13 ,WORD,wished,G1014,Epistles,New Testament,Philemon,ESV
+1,Philemon1:13 ,PHRASE,to keep,G2722,Epistles,New Testament,Philemon,ESV
+1,Philemon1:13 ,WORD,with,G4314,Epistles,New Testament,Philemon,ESV
+1,Philemon1:13 ,WORD,me,G1683,Epistles,New Testament,Philemon,ESV
+1,Philemon1:13 ,PHRASE,so that,G2443,Epistles,New Testament,Philemon,ESV
+1,Philemon1:13 ,PHRASE,on your,G4771,Epistles,New Testament,Philemon,ESV
+1,Philemon1:13 ,WORD,behalf,G5228,Epistles,New Testament,Philemon,ESV
+1,Philemon1:13 ,PHRASE,he might minister,G1247,Epistles,New Testament,Philemon,ESV
+1,Philemon1:13 ,PHRASE,to me,G1473,Epistles,New Testament,Philemon,ESV
+1,Philemon1:13 ,WORD,in,G1722,Epistles,New Testament,Philemon,ESV
+1,Philemon1:13 ,PHRASE,my imprisonment,G1199,Epistles,New Testament,Philemon,ESV
+1,Philemon1:13 ,PHRASE,for the,G3588,Epistles,New Testament,Philemon,ESV
+1,Philemon1:13 ,WORD,gospel,G2098,Epistles,New Testament,Philemon,ESV
+1,Philemon1:14 ,WORD,but,G1161,Epistles,New Testament,Philemon,ESV
+1,Philemon1:14 ,WORD,without,G5565,Epistles,New Testament,Philemon,ESV
+1,Philemon1:14 ,WORD,your,G4674,Epistles,New Testament,Philemon,ESV
+1,Philemon1:14 ,WORD,consent,G1106,Epistles,New Testament,Philemon,ESV
+1,Philemon1:14 ,PHRASE,I did not want,G2309,Epistles,New Testament,Philemon,ESV
+1,Philemon1:14 ,PHRASE,to do,G4160,Epistles,New Testament,Philemon,ESV
+1,Philemon1:14 ,WORD,anything,G3762,Epistles,New Testament,Philemon,ESV
+1,Philemon1:14 ,PHRASE,so that,G2443,Epistles,New Testament,Philemon,ESV
+1,Philemon1:14 ,WORD,your,G4771,Epistles,New Testament,Philemon,ESV
+1,Philemon1:14 ,WORD,goodness,G18,Epistles,New Testament,Philemon,ESV
+1,Philemon1:14 ,PHRASE,would not,G3361,Epistles,New Testament,Philemon,ESV
+1,Philemon1:14 ,WORD,be,G1510,Epistles,New Testament,Philemon,ESV
+1,Philemon1:14 ,WORD,in,G5613,Epistles,New Testament,Philemon,ESV
+1,Philemon1:14 ,WORD,effect,G2596,Epistles,New Testament,Philemon,ESV
+1,Philemon1:14 ,PHRASE,by compulsion,G318,Epistles,New Testament,Philemon,ESV
+1,Philemon1:14 ,WORD,but,G235,Epistles,New Testament,Philemon,ESV
+1,Philemon1:14 ,WORD,of,G2596,Epistles,New Testament,Philemon,ESV
+1,Philemon1:14 ,PHRASE,your own free will,G1595,Epistles,New Testament,Philemon,ESV
+1,Philemon1:15 ,WORD,For,G1063,Epistles,New Testament,Philemon,ESV
+1,Philemon1:15 ,WORD,perhaps,G5029,Epistles,New Testament,Philemon,ESV
+1,Philemon1:15 ,PHRASE,he was for,G1223,Epistles,New Testament,Philemon,ESV
+1,Philemon1:15 ,PHRASE,this reason,G3778,Epistles,New Testament,Philemon,ESV
+1,Philemon1:15 ,PHRASE,separated from you,G5563,Epistles,New Testament,Philemon,ESV
+1,Philemon1:15 ,WORD,for,G4314,Epistles,New Testament,Philemon,ESV
+1,Philemon1:15 ,PHRASE,a while,G5610,Epistles,New Testament,Philemon,ESV
+1,Philemon1:15 ,WORD,that,G2443,Epistles,New Testament,Philemon,ESV
+1,Philemon1:15 ,PHRASE,you would have,G568,Epistles,New Testament,Philemon,ESV
+1,Philemon1:15 ,PHRASE,him back,G846,Epistles,New Testament,Philemon,ESV
+1,Philemon1:15 ,WORD,forever,G166,Epistles,New Testament,Philemon,ESV
+1,Philemon1:16 ,PHRASE,no longer,G3765,Epistles,New Testament,Philemon,ESV
+1,Philemon1:16 ,WORD,as,G5613,Epistles,New Testament,Philemon,ESV
+1,Philemon1:16 ,PHRASE,a slave,G1401,Epistles,New Testament,Philemon,ESV
+1,Philemon1:16 ,WORD,but,G235,Epistles,New Testament,Philemon,ESV
+1,Philemon1:16 ,PHRASE,more than,G5228,Epistles,New Testament,Philemon,ESV
+1,Philemon1:16 ,PHRASE,a slave,G1401,Epistles,New Testament,Philemon,ESV
+1,Philemon1:16 ,PHRASE,a beloved,G27,Epistles,New Testament,Philemon,ESV
+1,Philemon1:16 ,WORD,brother,G80,Epistles,New Testament,Philemon,ESV
+1,Philemon1:16 ,WORD,especially,G3122,Epistles,New Testament,Philemon,ESV
+1,Philemon1:16 ,PHRASE,to me,G1473,Epistles,New Testament,Philemon,ESV
+1,Philemon1:16 ,WORD,but,G1161,Epistles,New Testament,Philemon,ESV
+1,Philemon1:16 ,PHRASE,how much,G4214,Epistles,New Testament,Philemon,ESV
+1,Philemon1:16 ,WORD,more,G3123,Epistles,New Testament,Philemon,ESV
+1,Philemon1:16 ,PHRASE,to you,G4771,Epistles,New Testament,Philemon,ESV
+1,Philemon1:16 ,WORD,both,G2532,Epistles,New Testament,Philemon,ESV
+1,Philemon1:16 ,WORD,in,G1722,Epistles,New Testament,Philemon,ESV
+1,Philemon1:16 ,PHRASE,the flesh,G4561,Epistles,New Testament,Philemon,ESV
+1,Philemon1:16 ,WORD,and,G2532,Epistles,New Testament,Philemon,ESV
+1,Philemon1:16 ,WORD,in,G1722,Epistles,New Testament,Philemon,ESV
+1,Philemon1:16 ,PHRASE,the Lord,G2962,Epistles,New Testament,Philemon,ESV
+1,Philemon1:17 ,WORD,If,G1487,Epistles,New Testament,Philemon,ESV
+1,Philemon1:17 ,WORD,then,G3767,Epistles,New Testament,Philemon,ESV
+1,Philemon1:17 ,PHRASE,you regard,G2192,Epistles,New Testament,Philemon,ESV
+1,Philemon1:17 ,WORD,me,G1473,Epistles,New Testament,Philemon,ESV
+1,Philemon1:17 ,PHRASE,a partner,G2844,Epistles,New Testament,Philemon,ESV
+1,Philemon1:17 ,WORD,accept,G4355,Epistles,New Testament,Philemon,ESV
+1,Philemon1:17 ,WORD,him,G846,Epistles,New Testament,Philemon,ESV
+1,Philemon1:17 ,WORD,as,G5613,Epistles,New Testament,Philemon,ESV
+1,Philemon1:17 ,PHRASE,you would me,G1473,Epistles,New Testament,Philemon,ESV
+1,Philemon1:18 ,WORD,But,G1161,Epistles,New Testament,Philemon,ESV
+1,Philemon1:18 ,WORD,if,G1487,Epistles,New Testament,Philemon,ESV
+1,Philemon1:18 ,PHRASE,he has wronged,G91,Epistles,New Testament,Philemon,ESV
+1,Philemon1:18 ,WORD,you,G4771,Epistles,New Testament,Philemon,ESV
+1,Philemon1:18 ,PHRASE,in any way,G5100,Epistles,New Testament,Philemon,ESV
+1,Philemon1:18 ,WORD,or,G2228,Epistles,New Testament,Philemon,ESV
+1,Philemon1:18 ,PHRASE,owes you anything,G3784,Epistles,New Testament,Philemon,ESV
+1,Philemon1:18 ,WORD,charge,G1677,Epistles,New Testament,Philemon,ESV
+1,Philemon1:18 ,WORD,that,G3778,Epistles,New Testament,Philemon,ESV
+1,Philemon1:18 ,PHRASE,to my account,G1473,Epistles,New Testament,Philemon,ESV
+1,Philemon1:19 ,WORD,I,G1473,Epistles,New Testament,Philemon,ESV
+1,Philemon1:19 ,WORD,Paul,G3972,Epistles,New Testament,Philemon,ESV
+1,Philemon1:19 ,PHRASE,am writing,G1125,Epistles,New Testament,Philemon,ESV
+1,Philemon1:19 ,PHRASE,this with my own,G1699,Epistles,New Testament,Philemon,ESV
+1,Philemon1:19 ,WORD,hand,G5495,Epistles,New Testament,Philemon,ESV
+1,Philemon1:19 ,WORD,I,G1473,Epistles,New Testament,Philemon,ESV
+1,Philemon1:19 ,PHRASE,will repay it,G661,Epistles,New Testament,Philemon,ESV
+1,Philemon1:19 ,WORD,(not,G3361,Epistles,New Testament,Philemon,ESV
+1,Philemon1:19 ,PHRASE,to mention,G3004,Epistles,New Testament,Philemon,ESV
+1,Philemon1:19 ,PHRASE,to you,G4771,Epistles,New Testament,Philemon,ESV
+1,Philemon1:19 ,WORD,that,G3754,Epistles,New Testament,Philemon,ESV
+1,Philemon1:19 ,PHRASE,you owe,G4359,Epistles,New Testament,Philemon,ESV
+1,Philemon1:19 ,PHRASE,to me,G1473,Epistles,New Testament,Philemon,ESV
+1,Philemon1:19 ,WORD,even,G2532,Epistles,New Testament,Philemon,ESV
+1,Philemon1:19 ,PHRASE,your own self,G4572,Epistles,New Testament,Philemon,ESV
+1,Philemon1:19 ,PHRASE,as well),G4359,Epistles,New Testament,Philemon,ESV
+1,Philemon1:20 ,WORD,Yes,G3483,Epistles,New Testament,Philemon,ESV
+1,Philemon1:20 ,WORD,brother,G80,Epistles,New Testament,Philemon,ESV
+1,Philemon1:20 ,WORD,let,G3685,Epistles,New Testament,Philemon,ESV
+1,Philemon1:20 ,WORD,me,G1473,Epistles,New Testament,Philemon,ESV
+1,Philemon1:20 ,WORD,benefit,G3685,Epistles,New Testament,Philemon,ESV
+1,Philemon1:20 ,PHRASE,from you,G4771,Epistles,New Testament,Philemon,ESV
+1,Philemon1:20 ,WORD,in,G1722,Epistles,New Testament,Philemon,ESV
+1,Philemon1:20 ,PHRASE,the Lord,G2962,Epistles,New Testament,Philemon,ESV
+1,Philemon1:20 ,WORD,refresh,G373,Epistles,New Testament,Philemon,ESV
+1,Philemon1:20 ,WORD,my,G1473,Epistles,New Testament,Philemon,ESV
+1,Philemon1:20 ,WORD,heart,G4698,Epistles,New Testament,Philemon,ESV
+1,Philemon1:20 ,WORD,in,G1722,Epistles,New Testament,Philemon,ESV
+1,Philemon1:20 ,WORD,Christ,G5547,Epistles,New Testament,Philemon,ESV
+1,Philemon1:21 ,PHRASE,Having confidence,G3982,Epistles,New Testament,Philemon,ESV
+1,Philemon1:21 ,PHRASE,in your,G4771,Epistles,New Testament,Philemon,ESV
+1,Philemon1:21 ,WORD,obedience,G5218,Epistles,New Testament,Philemon,ESV
+1,Philemon1:21 ,PHRASE,I write,G1125,Epistles,New Testament,Philemon,ESV
+1,Philemon1:21 ,PHRASE,to you,G4771,Epistles,New Testament,Philemon,ESV
+1,Philemon1:21 ,PHRASE,since I know,G1492,Epistles,New Testament,Philemon,ESV
+1,Philemon1:21 ,WORD,that,G3754,Epistles,New Testament,Philemon,ESV
+1,Philemon1:21 ,PHRASE,you will do,G4160,Epistles,New Testament,Philemon,ESV
+1,Philemon1:21 ,WORD,even,G2532,Epistles,New Testament,Philemon,ESV
+1,Philemon1:21 ,PHRASE,more than,G5228,Epistles,New Testament,Philemon,ESV
+1,Philemon1:21 ,WORD,what,G3739,Epistles,New Testament,Philemon,ESV
+1,Philemon1:21 ,PHRASE,I say,G3004,Epistles,New Testament,Philemon,ESV
+1,Philemon1:22 ,PHRASE,At the same time,G260,Epistles,New Testament,Philemon,ESV
+1,Philemon1:22 ,WORD,also,G2532,Epistles,New Testament,Philemon,ESV
+1,Philemon1:22 ,WORD,prepare,G2090,Epistles,New Testament,Philemon,ESV
+1,Philemon1:22 ,WORD,me,G1473,Epistles,New Testament,Philemon,ESV
+1,Philemon1:22 ,PHRASE,a lodging,G3578,Epistles,New Testament,Philemon,ESV
+1,Philemon1:22 ,WORD,for,G1063,Epistles,New Testament,Philemon,ESV
+1,Philemon1:22 ,PHRASE,I hope,G1679,Epistles,New Testament,Philemon,ESV
+1,Philemon1:22 ,WORD,that,G3754,Epistles,New Testament,Philemon,ESV
+1,Philemon1:22 ,WORD,through,G1223,Epistles,New Testament,Philemon,ESV
+1,Philemon1:22 ,WORD,your,G4771,Epistles,New Testament,Philemon,ESV
+1,Philemon1:22 ,WORD,prayers,G4335,Epistles,New Testament,Philemon,ESV
+1,Philemon1:22 ,PHRASE,I will be given,G5483,Epistles,New Testament,Philemon,ESV
+1,Philemon1:22 ,PHRASE,to you,G4771,Epistles,New Testament,Philemon,ESV
+1,Philemon1:23 ,WORD,Epaphras,G1889,Epistles,New Testament,Philemon,ESV
+1,Philemon1:23 ,WORD,my,G1473,Epistles,New Testament,Philemon,ESV
+1,Philemon1:23 ,PHRASE,fellow prisoner,G4869,Epistles,New Testament,Philemon,ESV
+1,Philemon1:23 ,WORD,in,G1722,Epistles,New Testament,Philemon,ESV
+1,Philemon1:23 ,WORD,Christ,G5547,Epistles,New Testament,Philemon,ESV
+1,Philemon1:23 ,WORD,Jesus,G2424,Epistles,New Testament,Philemon,ESV
+1,Philemon1:23 ,WORD,greets,G782,Epistles,New Testament,Philemon,ESV
+1,Philemon1:23 ,WORD,you,G4771,Epistles,New Testament,Philemon,ESV
+1,Philemon1:24 ,PHRASE,as do Mark,G3138,Epistles,New Testament,Philemon,ESV
+1,Philemon1:24 ,WORD,Aristarchus,G708,Epistles,New Testament,Philemon,ESV
+1,Philemon1:24 ,WORD,Demas,G1214,Epistles,New Testament,Philemon,ESV
+1,Philemon1:24 ,WORD,Luke,G3065,Epistles,New Testament,Philemon,ESV
+1,Philemon1:24 ,WORD,my,G1473,Epistles,New Testament,Philemon,ESV
+1,Philemon1:24 ,PHRASE,fellow workers,G4904,Epistles,New Testament,Philemon,ESV
+1,Philemon1:25 ,WORD,The,G3588,Epistles,New Testament,Philemon,ESV
+1,Philemon1:25 ,WORD,grace,G5485,Epistles,New Testament,Philemon,ESV
+1,Philemon1:25 ,PHRASE,of the,G3588,Epistles,New Testament,Philemon,ESV
+1,Philemon1:25 ,WORD,Lord,G2962,Epistles,New Testament,Philemon,ESV
+1,Philemon1:25 ,WORD,Jesus,G2424,Epistles,New Testament,Philemon,ESV
+1,Philemon1:25 ,WORD,Christ,G5547,Epistles,New Testament,Philemon,ESV
+1,Philemon1:25 ,PHRASE,be with,G3326,Epistles,New Testament,Philemon,ESV
+1,Philemon1:25 ,WORD,your,G4771,Epistles,New Testament,Philemon,ESV
+1,Philemon1:25 ,WORD,spirit,G4151,Epistles,New Testament,Philemon,ESV

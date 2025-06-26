@@ -1,0 +1,622 @@
+bible_chapter,bible_verse,verse_part_type,verse_part,hebrew_id,lit_type,testament_type,bible_book,version
+1,Titus1:1 ,WORD,Paul,G3972,Epistles,New Testament,Titus,ASV
+1,Titus1:1 ,PHRASE,a bond-servant,G1401,Epistles,New Testament,Titus,ASV
+1,Titus1:1 ,PHRASE,of God,G2316,Epistles,New Testament,Titus,ASV
+1,Titus1:1 ,WORD,and,G1161,Epistles,New Testament,Titus,ASV
+1,Titus1:1 ,PHRASE,an apostle,G652,Epistles,New Testament,Titus,ASV
+1,Titus1:1 ,PHRASE,of Jesus,G2424,Epistles,New Testament,Titus,ASV
+1,Titus1:1 ,WORD,Christ,G5547,Epistles,New Testament,Titus,ASV
+1,Titus1:1 ,WORD,for,G2596,Epistles,New Testament,Titus,ASV
+1,Titus1:1 ,PHRASE,the faith,G4102,Epistles,New Testament,Titus,ASV
+1,Titus1:1 ,PHRASE,of those chosen,G1588,Epistles,New Testament,Titus,ASV
+1,Titus1:1 ,PHRASE,of God,G2316,Epistles,New Testament,Titus,ASV
+1,Titus1:1 ,WORD,and,G2532,Epistles,New Testament,Titus,ASV
+1,Titus1:1 ,PHRASE,the knowledge,G1922,Epistles,New Testament,Titus,ASV
+1,Titus1:1 ,PHRASE,of the truth,G225,Epistles,New Testament,Titus,ASV
+1,Titus1:1 ,PHRASE,which is,G3588,Epistles,New Testament,Titus,ASV
+1,Titus1:1 ,PHRASE,according to,G2596,Epistles,New Testament,Titus,ASV
+1,Titus1:1 ,WORD,godliness,G2150,Epistles,New Testament,Titus,ASV
+1,Titus1:2 ,WORD,in,G1909,Epistles,New Testament,Titus,ASV
+1,Titus1:2 ,PHRASE,the hope,G1680,Epistles,New Testament,Titus,ASV
+1,Titus1:2 ,PHRASE,of eternal,G166,Epistles,New Testament,Titus,ASV
+1,Titus1:2 ,WORD,life,G2222,Epistles,New Testament,Titus,ASV
+1,Titus1:2 ,WORD,which,G3739,Epistles,New Testament,Titus,ASV
+1,Titus1:2 ,WORD,God,G2316,Epistles,New Testament,Titus,ASV
+1,Titus1:2 ,WORD,who,G3588,Epistles,New Testament,Titus,ASV
+1,Titus1:2 ,PHRASE,cannot lie,G893,Epistles,New Testament,Titus,ASV
+1,Titus1:2 ,WORD,promised,G1861,Epistles,New Testament,Titus,ASV
+1,Titus1:2 ,PHRASE,long ages,G5550,Epistles,New Testament,Titus,ASV
+1,Titus1:2 ,WORD,,G166,Epistles,New Testament,Titus,ASV
+1,Titus1:2 ,WORD,ago,G4253,Epistles,New Testament,Titus,ASV
+1,Titus1:3 ,WORD,but,G1161,Epistles,New Testament,Titus,ASV
+1,Titus1:3 ,PHRASE,at the proper,G2398,Epistles,New Testament,Titus,ASV
+1,Titus1:3 ,WORD,time,G2540,Epistles,New Testament,Titus,ASV
+1,Titus1:3 ,WORD,manifested,G5319,Epistles,New Testament,Titus,ASV
+1,Titus1:3 ,PHRASE,even His,G846,Epistles,New Testament,Titus,ASV
+1,Titus1:3 ,WORD,word,G3056,Epistles,New Testament,Titus,ASV
+1,Titus1:3 ,WORD,in,G1722,Epistles,New Testament,Titus,ASV
+1,Titus1:3 ,PHRASE,the proclamation,G2782,Epistles,New Testament,Titus,ASV
+1,Titus1:3 ,PHRASE,with which,G3739,Epistles,New Testament,Titus,ASV
+1,Titus1:3 ,WORD,I,G1473,Epistles,New Testament,Titus,ASV
+1,Titus1:3 ,PHRASE,was entrusted,G4100,Epistles,New Testament,Titus,ASV
+1,Titus1:3 ,PHRASE,according to,G2596,Epistles,New Testament,Titus,ASV
+1,Titus1:3 ,PHRASE,the commandment,G2003,Epistles,New Testament,Titus,ASV
+1,Titus1:3 ,PHRASE,of God,G2316,Epistles,New Testament,Titus,ASV
+1,Titus1:3 ,WORD,our,G1473,Epistles,New Testament,Titus,ASV
+1,Titus1:3 ,WORD,Savior,G4990,Epistles,New Testament,Titus,ASV
+1,Titus1:4 ,PHRASE,To Titus,G5103,Epistles,New Testament,Titus,ASV
+1,Titus1:4 ,PHRASE,my true,G1103,Epistles,New Testament,Titus,ASV
+1,Titus1:4 ,WORD,child,G5043,Epistles,New Testament,Titus,ASV
+1,Titus1:4 ,WORD,in,G2596,Epistles,New Testament,Titus,ASV
+1,Titus1:4 ,PHRASE,a common,G2839,Epistles,New Testament,Titus,ASV
+1,Titus1:4 ,WORD,faith,G4102,Epistles,New Testament,Titus,ASV
+1,Titus1:4 ,WORD,Grace,G5485,Epistles,New Testament,Titus,ASV
+1,Titus1:4 ,WORD,and,G2532,Epistles,New Testament,Titus,ASV
+1,Titus1:4 ,WORD,peace,G1515,Epistles,New Testament,Titus,ASV
+1,Titus1:4 ,WORD,from,G575,Epistles,New Testament,Titus,ASV
+1,Titus1:4 ,WORD,God,G2316,Epistles,New Testament,Titus,ASV
+1,Titus1:4 ,PHRASE,the Father,G3962,Epistles,New Testament,Titus,ASV
+1,Titus1:4 ,WORD,and,G2532,Epistles,New Testament,Titus,ASV
+1,Titus1:4 ,WORD,Christ,G5547,Epistles,New Testament,Titus,ASV
+1,Titus1:4 ,WORD,Jesus,G2424,Epistles,New Testament,Titus,ASV
+1,Titus1:4 ,WORD,our,G1473,Epistles,New Testament,Titus,ASV
+1,Titus1:4 ,WORD,Savior,G4990,Epistles,New Testament,Titus,ASV
+1,Titus1:5 ,PHRASE,For this,G3778,Epistles,New Testament,Titus,ASV
+1,Titus1:5 ,WORD,reason,G5484,Epistles,New Testament,Titus,ASV
+1,Titus1:5 ,PHRASE,I left,G620,Epistles,New Testament,Titus,ASV
+1,Titus1:5 ,WORD,you,G4771,Epistles,New Testament,Titus,ASV
+1,Titus1:5 ,WORD,in,G1722,Epistles,New Testament,Titus,ASV
+1,Titus1:5 ,WORD,Crete,G2914,Epistles,New Testament,Titus,ASV
+1,Titus1:5 ,WORD,that,G2443,Epistles,New Testament,Titus,ASV
+1,Titus1:5 ,PHRASE,you would set in order,G1930,Epistles,New Testament,Titus,ASV
+1,Titus1:5 ,WORD,what,G3588,Epistles,New Testament,Titus,ASV
+1,Titus1:5 ,WORD,remains,G3007,Epistles,New Testament,Titus,ASV
+1,Titus1:5 ,WORD,and,G2532,Epistles,New Testament,Titus,ASV
+1,Titus1:5 ,WORD,appoint,G2525,Epistles,New Testament,Titus,ASV
+1,Titus1:5 ,WORD,elders,G4245,Epistles,New Testament,Titus,ASV
+1,Titus1:5 ,PHRASE,in every,G2596,Epistles,New Testament,Titus,ASV
+1,Titus1:5 ,WORD,city,G4172,Epistles,New Testament,Titus,ASV
+1,Titus1:5 ,WORD,as,G5613,Epistles,New Testament,Titus,ASV
+1,Titus1:5 ,WORD,I,G1473,Epistles,New Testament,Titus,ASV
+1,Titus1:5 ,WORD,directed,G1299,Epistles,New Testament,Titus,ASV
+1,Titus1:5 ,WORD,you,G4771,Epistles,New Testament,Titus,ASV
+1,Titus1:6 ,PHRASE,"namely, if",G1487,Epistles,New Testament,Titus,ASV
+1,Titus1:6 ,PHRASE,any man,G5101,Epistles,New Testament,Titus,ASV
+1,Titus1:6 ,WORD,is,G1510,Epistles,New Testament,Titus,ASV
+1,Titus1:6 ,PHRASE,above reproach,G410,Epistles,New Testament,Titus,ASV
+1,Titus1:6 ,PHRASE,the husband,G435,Epistles,New Testament,Titus,ASV
+1,Titus1:6 ,PHRASE,of one,G1520,Epistles,New Testament,Titus,ASV
+1,Titus1:6 ,WORD,wife,G1135,Epistles,New Testament,Titus,ASV
+1,Titus1:6 ,WORD,having,G2192,Epistles,New Testament,Titus,ASV
+1,Titus1:6 ,WORD,children,G5043,Epistles,New Testament,Titus,ASV
+1,Titus1:6 ,PHRASE,who believe,G4103,Epistles,New Testament,Titus,ASV
+1,Titus1:6 ,WORD,not,G3361,Epistles,New Testament,Titus,ASV
+1,Titus1:6 ,WORD,accused,G2724,Epistles,New Testament,Titus,ASV
+1,Titus1:6 ,PHRASE,of dissipation,G810,Epistles,New Testament,Titus,ASV
+1,Titus1:6 ,WORD,or,G2228,Epistles,New Testament,Titus,ASV
+1,Titus1:6 ,WORD,rebellion,G506,Epistles,New Testament,Titus,ASV
+1,Titus1:7 ,WORD,For,G1063,Epistles,New Testament,Titus,ASV
+1,Titus1:7 ,WORD,the,G3588,Epistles,New Testament,Titus,ASV
+1,Titus1:7 ,WORD,overseer,G1985,Epistles,New Testament,Titus,ASV
+1,Titus1:7 ,WORD,must,G1163,Epistles,New Testament,Titus,ASV
+1,Titus1:7 ,WORD,be,G1510,Epistles,New Testament,Titus,ASV
+1,Titus1:7 ,PHRASE,above reproach,G410,Epistles,New Testament,Titus,ASV
+1,Titus1:7 ,WORD,as,G5613,Epistles,New Testament,Titus,ASV
+1,Titus1:7 ,WORD,God's,G2316,Epistles,New Testament,Titus,ASV
+1,Titus1:7 ,WORD,steward,G3623,Epistles,New Testament,Titus,ASV
+1,Titus1:7 ,WORD,not,G3361,Epistles,New Testament,Titus,ASV
+1,Titus1:7 ,WORD,self-willed,G829,Epistles,New Testament,Titus,ASV
+1,Titus1:7 ,WORD,not,G3361,Epistles,New Testament,Titus,ASV
+1,Titus1:7 ,WORD,quick-tempered,G3711,Epistles,New Testament,Titus,ASV
+1,Titus1:7 ,WORD,not,G3361,Epistles,New Testament,Titus,ASV
+1,Titus1:7 ,PHRASE,addicted to wine,G3943,Epistles,New Testament,Titus,ASV
+1,Titus1:7 ,WORD,not,G3361,Epistles,New Testament,Titus,ASV
+1,Titus1:7 ,WORD,pugnacious,G4131,Epistles,New Testament,Titus,ASV
+1,Titus1:7 ,WORD,not,G3361,Epistles,New Testament,Titus,ASV
+1,Titus1:7 ,PHRASE,fond of sordid gain,G146,Epistles,New Testament,Titus,ASV
+1,Titus1:8 ,WORD,but,G235,Epistles,New Testament,Titus,ASV
+1,Titus1:8 ,WORD,hospitable,G5382,Epistles,New Testament,Titus,ASV
+1,Titus1:8 ,PHRASE,loving what is good,G5358,Epistles,New Testament,Titus,ASV
+1,Titus1:8 ,WORD,sensible,G4998,Epistles,New Testament,Titus,ASV
+1,Titus1:8 ,WORD,just,G1342,Epistles,New Testament,Titus,ASV
+1,Titus1:8 ,WORD,devout,G3741,Epistles,New Testament,Titus,ASV
+1,Titus1:8 ,WORD,self-controlled,G1468,Epistles,New Testament,Titus,ASV
+1,Titus1:9 ,PHRASE,holding fast,G472,Epistles,New Testament,Titus,ASV
+1,Titus1:9 ,PHRASE,the faithful,G4103,Epistles,New Testament,Titus,ASV
+1,Titus1:9 ,WORD,word,G3056,Epistles,New Testament,Titus,ASV
+1,Titus1:9 ,WORD,which,G3588,Epistles,New Testament,Titus,ASV
+1,Titus1:9 ,PHRASE,is in accordance with,G2596,Epistles,New Testament,Titus,ASV
+1,Titus1:9 ,WORD,the,G3588,Epistles,New Testament,Titus,ASV
+1,Titus1:9 ,WORD,teaching,G1322,Epistles,New Testament,Titus,ASV
+1,Titus1:9 ,PHRASE,so that,G2443,Epistles,New Testament,Titus,ASV
+1,Titus1:9 ,PHRASE,he will be,G1510,Epistles,New Testament,Titus,ASV
+1,Titus1:9 ,WORD,able,G1415,Epistles,New Testament,Titus,ASV
+1,Titus1:9 ,WORD,both,G2532,Epistles,New Testament,Titus,ASV
+1,Titus1:9 ,PHRASE,to exhort,G3870,Epistles,New Testament,Titus,ASV
+1,Titus1:9 ,WORD,in,G1722,Epistles,New Testament,Titus,ASV
+1,Titus1:9 ,WORD,sound,G5198,Epistles,New Testament,Titus,ASV
+1,Titus1:9 ,WORD,doctrine,G1319,Epistles,New Testament,Titus,ASV
+1,Titus1:9 ,WORD,and,G2532,Epistles,New Testament,Titus,ASV
+1,Titus1:9 ,PHRASE,to refute,G1651,Epistles,New Testament,Titus,ASV
+1,Titus1:9 ,PHRASE,those who,G3588,Epistles,New Testament,Titus,ASV
+1,Titus1:9 ,WORD,contradict,G483,Epistles,New Testament,Titus,ASV
+1,Titus1:10 ,WORD,For,G1063,Epistles,New Testament,Titus,ASV
+1,Titus1:10 ,PHRASE,there are,G1510,Epistles,New Testament,Titus,ASV
+1,Titus1:10 ,WORD,many,G4183,Epistles,New Testament,Titus,ASV
+1,Titus1:10 ,PHRASE,rebellious men,G506,Epistles,New Testament,Titus,ASV
+1,Titus1:10 ,PHRASE,empty talkers,G3151,Epistles,New Testament,Titus,ASV
+1,Titus1:10 ,WORD,and,G2532,Epistles,New Testament,Titus,ASV
+1,Titus1:10 ,WORD,deceivers,G5423,Epistles,New Testament,Titus,ASV
+1,Titus1:10 ,WORD,especially,G3122,Epistles,New Testament,Titus,ASV
+1,Titus1:10 ,WORD,those,G3588,Epistles,New Testament,Titus,ASV
+1,Titus1:10 ,WORD,of,G1537,Epistles,New Testament,Titus,ASV
+1,Titus1:10 ,WORD,the,G3588,Epistles,New Testament,Titus,ASV
+1,Titus1:10 ,WORD,circumcision,G4061,Epistles,New Testament,Titus,ASV
+1,Titus1:11 ,WORD,who,G3739,Epistles,New Testament,Titus,ASV
+1,Titus1:11 ,WORD,must,G1163,Epistles,New Testament,Titus,ASV
+1,Titus1:11 ,PHRASE,be silenced,G1993,Epistles,New Testament,Titus,ASV
+1,Titus1:11 ,WORD,because,G3748,Epistles,New Testament,Titus,ASV
+1,Titus1:11 ,PHRASE,they are upsetting,G396,Epistles,New Testament,Titus,ASV
+1,Titus1:11 ,WORD,whole,G3650,Epistles,New Testament,Titus,ASV
+1,Titus1:11 ,WORD,families,G3624,Epistles,New Testament,Titus,ASV
+1,Titus1:11 ,WORD,teaching,G1321,Epistles,New Testament,Titus,ASV
+1,Titus1:11 ,WORD,things,G3739,Epistles,New Testament,Titus,ASV
+1,Titus1:11 ,PHRASE,they should,G1163,Epistles,New Testament,Titus,ASV
+1,Titus1:11 ,PHRASE,not teach,G3361,Epistles,New Testament,Titus,ASV
+1,Titus1:11 ,PHRASE,for the sake,G5484,Epistles,New Testament,Titus,ASV
+1,Titus1:11 ,PHRASE,of sordid,G150,Epistles,New Testament,Titus,ASV
+1,Titus1:11 ,WORD,gain,G2771,Epistles,New Testament,Titus,ASV
+1,Titus1:12 ,WORD,One,G5100,Epistles,New Testament,Titus,ASV
+1,Titus1:12 ,PHRASE,of themselves,G846,Epistles,New Testament,Titus,ASV
+1,Titus1:12 ,PHRASE,a prophet,G4396,Epistles,New Testament,Titus,ASV
+1,Titus1:12 ,WORD,of,G1537,Epistles,New Testament,Titus,ASV
+1,Titus1:12 ,WORD,their,G846,Epistles,New Testament,Titus,ASV
+1,Titus1:12 ,WORD,own,G2398,Epistles,New Testament,Titus,ASV
+1,Titus1:12 ,WORD,said,G3004,Epistles,New Testament,Titus,ASV
+1,Titus1:12 ,WORD,Cretans,G2912,Epistles,New Testament,Titus,ASV
+1,Titus1:12 ,PHRASE,are always,G104,Epistles,New Testament,Titus,ASV
+1,Titus1:12 ,WORD,liars,G5583,Epistles,New Testament,Titus,ASV
+1,Titus1:12 ,WORD,evil,G2556,Epistles,New Testament,Titus,ASV
+1,Titus1:12 ,WORD,beasts,G2342,Epistles,New Testament,Titus,ASV
+1,Titus1:12 ,WORD,lazy,G692,Epistles,New Testament,Titus,ASV
+1,Titus1:12 ,WORD,gluttons,G1064,Epistles,New Testament,Titus,ASV
+1,Titus1:13 ,WORD,This,G3778,Epistles,New Testament,Titus,ASV
+1,Titus1:13 ,WORD,testimony,G3141,Epistles,New Testament,Titus,ASV
+1,Titus1:13 ,WORD,is,G1510,Epistles,New Testament,Titus,ASV
+1,Titus1:13 ,WORD,true,G227,Epistles,New Testament,Titus,ASV
+1,Titus1:13 ,WORD,For,G1223,Epistles,New Testament,Titus,ASV
+1,Titus1:13 ,WORD,this,G3739,Epistles,New Testament,Titus,ASV
+1,Titus1:13 ,WORD,reason,G156,Epistles,New Testament,Titus,ASV
+1,Titus1:13 ,WORD,reprove,G1651,Epistles,New Testament,Titus,ASV
+1,Titus1:13 ,WORD,them,G846,Epistles,New Testament,Titus,ASV
+1,Titus1:13 ,WORD,severely,G664,Epistles,New Testament,Titus,ASV
+1,Titus1:13 ,PHRASE,so that,G2443,Epistles,New Testament,Titus,ASV
+1,Titus1:13 ,PHRASE,they may be sound,G5198,Epistles,New Testament,Titus,ASV
+1,Titus1:13 ,WORD,in,G1722,Epistles,New Testament,Titus,ASV
+1,Titus1:13 ,WORD,the,G3588,Epistles,New Testament,Titus,ASV
+1,Titus1:13 ,WORD,faith,G4102,Epistles,New Testament,Titus,ASV
+1,Titus1:14 ,WORD,not,G3361,Epistles,New Testament,Titus,ASV
+1,Titus1:14 ,PHRASE,paying attention,G4337,Epistles,New Testament,Titus,ASV
+1,Titus1:14 ,PHRASE,to Jewish,G2451,Epistles,New Testament,Titus,ASV
+1,Titus1:14 ,WORD,myths,G3454,Epistles,New Testament,Titus,ASV
+1,Titus1:14 ,WORD,and,G2532,Epistles,New Testament,Titus,ASV
+1,Titus1:14 ,WORD,commandments,G1785,Epistles,New Testament,Titus,ASV
+1,Titus1:14 ,PHRASE,of men,G444,Epistles,New Testament,Titus,ASV
+1,Titus1:14 ,PHRASE,who turn away,G654,Epistles,New Testament,Titus,ASV
+1,Titus1:14 ,PHRASE,from the,G3588,Epistles,New Testament,Titus,ASV
+1,Titus1:14 ,WORD,truth,G225,Epistles,New Testament,Titus,ASV
+1,Titus1:15 ,PHRASE,To the,G3588,Epistles,New Testament,Titus,ASV
+1,Titus1:15 ,WORD,pure,G2513,Epistles,New Testament,Titus,ASV
+1,Titus1:15 ,PHRASE,all things,G3956,Epistles,New Testament,Titus,ASV
+1,Titus1:15 ,PHRASE,are pure,G2513,Epistles,New Testament,Titus,ASV
+1,Titus1:15 ,WORD,but,G1161,Epistles,New Testament,Titus,ASV
+1,Titus1:15 ,PHRASE,to those who,G3588,Epistles,New Testament,Titus,ASV
+1,Titus1:15 ,PHRASE,are defiled,G3392,Epistles,New Testament,Titus,ASV
+1,Titus1:15 ,WORD,and,G2532,Epistles,New Testament,Titus,ASV
+1,Titus1:15 ,WORD,unbelieving,G571,Epistles,New Testament,Titus,ASV
+1,Titus1:15 ,WORD,nothing,G3762,Epistles,New Testament,Titus,ASV
+1,Titus1:15 ,PHRASE,is pure,G2513,Epistles,New Testament,Titus,ASV
+1,Titus1:15 ,WORD,but,G235,Epistles,New Testament,Titus,ASV
+1,Titus1:15 ,WORD,both,G2532,Epistles,New Testament,Titus,ASV
+1,Titus1:15 ,WORD,their,G846,Epistles,New Testament,Titus,ASV
+1,Titus1:15 ,WORD,mind,G3563,Epistles,New Testament,Titus,ASV
+1,Titus1:15 ,WORD,and,G2532,Epistles,New Testament,Titus,ASV
+1,Titus1:15 ,PHRASE,their conscience,G4893,Epistles,New Testament,Titus,ASV
+1,Titus1:15 ,PHRASE,are defiled,G3392,Epistles,New Testament,Titus,ASV
+1,Titus1:16 ,PHRASE,They profess,G3670,Epistles,New Testament,Titus,ASV
+1,Titus1:16 ,PHRASE,to know,G1492,Epistles,New Testament,Titus,ASV
+1,Titus1:16 ,WORD,God,G2316,Epistles,New Testament,Titus,ASV
+1,Titus1:16 ,WORD,but,G1161,Epistles,New Testament,Titus,ASV
+1,Titus1:16 ,PHRASE,by their deeds,G2041,Epistles,New Testament,Titus,ASV
+1,Titus1:16 ,PHRASE,they deny Him,G720,Epistles,New Testament,Titus,ASV
+1,Titus1:16 ,WORD,being,G1510,Epistles,New Testament,Titus,ASV
+1,Titus1:16 ,WORD,detestable,G947,Epistles,New Testament,Titus,ASV
+1,Titus1:16 ,WORD,and,G2532,Epistles,New Testament,Titus,ASV
+1,Titus1:16 ,WORD,disobedient,G545,Epistles,New Testament,Titus,ASV
+1,Titus1:16 ,WORD,and,G2532,Epistles,New Testament,Titus,ASV
+1,Titus1:16 ,WORD,worthless,G96,Epistles,New Testament,Titus,ASV
+1,Titus1:16 ,WORD,for,G4314,Epistles,New Testament,Titus,ASV
+1,Titus1:16 ,WORD,any,G3956,Epistles,New Testament,Titus,ASV
+1,Titus1:16 ,WORD,good,G18,Epistles,New Testament,Titus,ASV
+1,Titus1:16 ,WORD,deed,G2041,Epistles,New Testament,Titus,ASV
+2,Titus2:1 ,WORD,But,G1161,Epistles,New Testament,Titus,ASV
+2,Titus2:1 ,PHRASE,as for you,G4771,Epistles,New Testament,Titus,ASV
+2,Titus2:1 ,WORD,speak,G2980,Epistles,New Testament,Titus,ASV
+2,Titus2:1 ,PHRASE,the things which,G3739,Epistles,New Testament,Titus,ASV
+2,Titus2:1 ,PHRASE,are fitting,G4241,Epistles,New Testament,Titus,ASV
+2,Titus2:1 ,PHRASE,for sound,G5198,Epistles,New Testament,Titus,ASV
+2,Titus2:1 ,WORD,doctrine,G1319,Epistles,New Testament,Titus,ASV
+2,Titus2:2 ,PHRASE,Older men,G4246,Epistles,New Testament,Titus,ASV
+2,Titus2:2 ,PHRASE,are to be,G1510,Epistles,New Testament,Titus,ASV
+2,Titus2:2 ,WORD,temperate,G3524,Epistles,New Testament,Titus,ASV
+2,Titus2:2 ,WORD,dignified,G4586,Epistles,New Testament,Titus,ASV
+2,Titus2:2 ,WORD,sensible,G4998,Epistles,New Testament,Titus,ASV
+2,Titus2:2 ,WORD,sound,G5198,Epistles,New Testament,Titus,ASV
+2,Titus2:2 ,PHRASE,in faith,G4102,Epistles,New Testament,Titus,ASV
+2,Titus2:2 ,PHRASE,in love,G26,Epistles,New Testament,Titus,ASV
+2,Titus2:2 ,PHRASE,in perseverance,G5281,Epistles,New Testament,Titus,ASV
+2,Titus2:3 ,PHRASE,Older women,G4247,Epistles,New Testament,Titus,ASV
+2,Titus2:3 ,WORD,likewise,G5615,Epistles,New Testament,Titus,ASV
+2,Titus2:3 ,PHRASE,are to be reverent,G2412,Epistles,New Testament,Titus,ASV
+2,Titus2:3 ,WORD,in,G1722,Epistles,New Testament,Titus,ASV
+2,Titus2:3 ,PHRASE,their behavior,G2688,Epistles,New Testament,Titus,ASV
+2,Titus2:3 ,WORD,not,G3361,Epistles,New Testament,Titus,ASV
+2,Titus2:3 ,PHRASE,malicious gossips,G1228,Epistles,New Testament,Titus,ASV
+2,Titus2:3 ,WORD,nor,G3361,Epistles,New Testament,Titus,ASV
+2,Titus2:3 ,WORD,enslaved,G1402,Epistles,New Testament,Titus,ASV
+2,Titus2:3 ,PHRASE,to much,G4183,Epistles,New Testament,Titus,ASV
+2,Titus2:3 ,WORD,wine,G3631,Epistles,New Testament,Titus,ASV
+2,Titus2:3 ,PHRASE,teaching what is good,G2567,Epistles,New Testament,Titus,ASV
+2,Titus2:4 ,PHRASE,so that,G2443,Epistles,New Testament,Titus,ASV
+2,Titus2:4 ,PHRASE,they may,G1510,Epistles,New Testament,Titus,ASV
+2,Titus2:4 ,WORD,encourage,G4994,Epistles,New Testament,Titus,ASV
+2,Titus2:4 ,WORD,the,G3588,Epistles,New Testament,Titus,ASV
+2,Titus2:4 ,PHRASE,young women,G3501,Epistles,New Testament,Titus,ASV
+2,Titus2:4 ,PHRASE,to love their husbands,G5362,Epistles,New Testament,Titus,ASV
+2,Titus2:4 ,PHRASE,to love their children,G5388,Epistles,New Testament,Titus,ASV
+2,Titus2:5 ,PHRASE,to be sensible,G4998,Epistles,New Testament,Titus,ASV
+2,Titus2:5 ,WORD,pure,G53,Epistles,New Testament,Titus,ASV
+2,Titus2:5 ,PHRASE,workers at home,G3626,Epistles,New Testament,Titus,ASV
+2,Titus2:5 ,WORD,kind,G18,Epistles,New Testament,Titus,ASV
+2,Titus2:5 ,PHRASE,being subject,G5293,Epistles,New Testament,Titus,ASV
+2,Titus2:5 ,PHRASE,to their own,G2398,Epistles,New Testament,Titus,ASV
+2,Titus2:5 ,WORD,husbands,G435,Epistles,New Testament,Titus,ASV
+2,Titus2:5 ,PHRASE,so that,G2443,Epistles,New Testament,Titus,ASV
+2,Titus2:5 ,WORD,the,G3588,Epistles,New Testament,Titus,ASV
+2,Titus2:5 ,WORD,word,G3056,Epistles,New Testament,Titus,ASV
+2,Titus2:5 ,PHRASE,of God,G2316,Epistles,New Testament,Titus,ASV
+2,Titus2:5 ,PHRASE,will not,G3361,Epistles,New Testament,Titus,ASV
+2,Titus2:5 ,PHRASE,be dishonored,G987,Epistles,New Testament,Titus,ASV
+2,Titus2:6 ,WORD,Likewise,G5615,Epistles,New Testament,Titus,ASV
+2,Titus2:6 ,WORD,urge,G3870,Epistles,New Testament,Titus,ASV
+2,Titus2:6 ,WORD,the,G3588,Epistles,New Testament,Titus,ASV
+2,Titus2:6 ,PHRASE,young men,G3501,Epistles,New Testament,Titus,ASV
+2,Titus2:6 ,PHRASE,to be sensible,G4993,Epistles,New Testament,Titus,ASV
+2,Titus2:7 ,WORD,in,G4012,Epistles,New Testament,Titus,ASV
+2,Titus2:7 ,PHRASE,all things,G3956,Epistles,New Testament,Titus,ASV
+2,Titus2:7 ,WORD,show,G3930,Epistles,New Testament,Titus,ASV
+2,Titus2:7 ,WORD,yourself,G4572,Epistles,New Testament,Titus,ASV
+2,Titus2:7 ,PHRASE,to be an example,G5179,Epistles,New Testament,Titus,ASV
+2,Titus2:7 ,PHRASE,of good,G2570,Epistles,New Testament,Titus,ASV
+2,Titus2:7 ,WORD,deeds,G2041,Epistles,New Testament,Titus,ASV
+2,Titus2:7 ,PHRASE,with purity,G90,Epistles,New Testament,Titus,ASV
+2,Titus2:7 ,WORD,in,G1722,Epistles,New Testament,Titus,ASV
+2,Titus2:7 ,WORD,doctrine,G1319,Epistles,New Testament,Titus,ASV
+2,Titus2:7 ,WORD,dignified,G4587,Epistles,New Testament,Titus,ASV
+2,Titus2:8 ,WORD,sound,G5199,Epistles,New Testament,Titus,ASV
+2,Titus2:8 ,PHRASE,in speech,G3056,Epistles,New Testament,Titus,ASV
+2,Titus2:8 ,PHRASE,which is beyond reproach,G176,Epistles,New Testament,Titus,ASV
+2,Titus2:8 ,PHRASE,so that,G2443,Epistles,New Testament,Titus,ASV
+2,Titus2:8 ,PHRASE,the opponent,G1727,Epistles,New Testament,Titus,ASV
+2,Titus2:8 ,PHRASE,will be put to shame,G1788,Epistles,New Testament,Titus,ASV
+2,Titus2:8 ,WORD,having,G2192,Epistles,New Testament,Titus,ASV
+2,Titus2:8 ,WORD,nothing,G3367,Epistles,New Testament,Titus,ASV
+2,Titus2:8 ,WORD,bad,G5337,Epistles,New Testament,Titus,ASV
+2,Titus2:8 ,PHRASE,to say,G3004,Epistles,New Testament,Titus,ASV
+2,Titus2:8 ,WORD,about,G4012,Epistles,New Testament,Titus,ASV
+2,Titus2:8 ,WORD,us,G1473,Epistles,New Testament,Titus,ASV
+2,Titus2:9 ,PHRASE,Urge bondslaves,G1401,Epistles,New Testament,Titus,ASV
+2,Titus2:9 ,PHRASE,to be subject,G5293,Epistles,New Testament,Titus,ASV
+2,Titus2:9 ,PHRASE,to their own,G2398,Epistles,New Testament,Titus,ASV
+2,Titus2:9 ,WORD,masters,G1203,Epistles,New Testament,Titus,ASV
+2,Titus2:9 ,WORD,in,G1722,Epistles,New Testament,Titus,ASV
+2,Titus2:9 ,WORD,everything,G3956,Epistles,New Testament,Titus,ASV
+2,Titus2:9 ,PHRASE,to be,G1510,Epistles,New Testament,Titus,ASV
+2,Titus2:9 ,WORD,well-pleasing,G2101,Epistles,New Testament,Titus,ASV
+2,Titus2:9 ,WORD,not,G3361,Epistles,New Testament,Titus,ASV
+2,Titus2:9 ,WORD,argumentative,G483,Epistles,New Testament,Titus,ASV
+2,Titus2:10 ,WORD,not,G3361,Epistles,New Testament,Titus,ASV
+2,Titus2:10 ,WORD,pilfering,G3557,Epistles,New Testament,Titus,ASV
+2,Titus2:10 ,WORD,but,G235,Epistles,New Testament,Titus,ASV
+2,Titus2:10 ,WORD,showing,G1731,Epistles,New Testament,Titus,ASV
+2,Titus2:10 ,WORD,all,G3956,Epistles,New Testament,Titus,ASV
+2,Titus2:10 ,WORD,good,G18,Epistles,New Testament,Titus,ASV
+2,Titus2:10 ,WORD,faith,G4102,Epistles,New Testament,Titus,ASV
+2,Titus2:10 ,PHRASE,so that,G2443,Epistles,New Testament,Titus,ASV
+2,Titus2:10 ,PHRASE,they will adorn,G2885,Epistles,New Testament,Titus,ASV
+2,Titus2:10 ,WORD,the,G3588,Epistles,New Testament,Titus,ASV
+2,Titus2:10 ,WORD,doctrine,G1319,Epistles,New Testament,Titus,ASV
+2,Titus2:10 ,PHRASE,of God,G2316,Epistles,New Testament,Titus,ASV
+2,Titus2:10 ,WORD,our,G1473,Epistles,New Testament,Titus,ASV
+2,Titus2:10 ,WORD,Savior,G4990,Epistles,New Testament,Titus,ASV
+2,Titus2:10 ,WORD,in,G1722,Epistles,New Testament,Titus,ASV
+2,Titus2:10 ,PHRASE,every respect,G3956,Epistles,New Testament,Titus,ASV
+2,Titus2:11 ,WORD,For,G1063,Epistles,New Testament,Titus,ASV
+2,Titus2:11 ,WORD,the,G3588,Epistles,New Testament,Titus,ASV
+2,Titus2:11 ,WORD,grace,G5485,Epistles,New Testament,Titus,ASV
+2,Titus2:11 ,PHRASE,of God,G2316,Epistles,New Testament,Titus,ASV
+2,Titus2:11 ,PHRASE,has appeared,G2014,Epistles,New Testament,Titus,ASV
+2,Titus2:11 ,PHRASE,bringing salvation,G4992,Epistles,New Testament,Titus,ASV
+2,Titus2:11 ,PHRASE,to all,G3956,Epistles,New Testament,Titus,ASV
+2,Titus2:11 ,WORD,men,G444,Epistles,New Testament,Titus,ASV
+2,Titus2:12 ,WORD,instructing,G3811,Epistles,New Testament,Titus,ASV
+2,Titus2:12 ,WORD,us,G1473,Epistles,New Testament,Titus,ASV
+2,Titus2:12 ,WORD,to,G2443,Epistles,New Testament,Titus,ASV
+2,Titus2:12 ,WORD,deny,G720,Epistles,New Testament,Titus,ASV
+2,Titus2:12 ,WORD,ungodliness,G763,Epistles,New Testament,Titus,ASV
+2,Titus2:12 ,WORD,and,G2532,Epistles,New Testament,Titus,ASV
+2,Titus2:12 ,WORD,worldly,G2886,Epistles,New Testament,Titus,ASV
+2,Titus2:12 ,WORD,desires,G1939,Epistles,New Testament,Titus,ASV
+2,Titus2:12 ,PHRASE,and to live,G2198,Epistles,New Testament,Titus,ASV
+2,Titus2:12 ,WORD,sensibly,G4996,Epistles,New Testament,Titus,ASV
+2,Titus2:12 ,WORD,righteously,G1346,Epistles,New Testament,Titus,ASV
+2,Titus2:12 ,WORD,and,G2532,Epistles,New Testament,Titus,ASV
+2,Titus2:12 ,WORD,godly,G2153,Epistles,New Testament,Titus,ASV
+2,Titus2:12 ,WORD,in,G1722,Epistles,New Testament,Titus,ASV
+2,Titus2:12 ,WORD,the,G3588,Epistles,New Testament,Titus,ASV
+2,Titus2:12 ,WORD,present,G3568,Epistles,New Testament,Titus,ASV
+2,Titus2:12 ,WORD,age,G165,Epistles,New Testament,Titus,ASV
+2,Titus2:13 ,WORD,looking,G4327,Epistles,New Testament,Titus,ASV
+2,Titus2:13 ,PHRASE,for the,G3588,Epistles,New Testament,Titus,ASV
+2,Titus2:13 ,WORD,blessed,G3107,Epistles,New Testament,Titus,ASV
+2,Titus2:13 ,WORD,hope,G1680,Epistles,New Testament,Titus,ASV
+2,Titus2:13 ,WORD,and,G2532,Epistles,New Testament,Titus,ASV
+2,Titus2:13 ,PHRASE,the appearing,G2015,Epistles,New Testament,Titus,ASV
+2,Titus2:13 ,PHRASE,of the,G3588,Epistles,New Testament,Titus,ASV
+2,Titus2:13 ,WORD,glory,G1391,Epistles,New Testament,Titus,ASV
+2,Titus2:13 ,PHRASE,of our,G1473,Epistles,New Testament,Titus,ASV
+2,Titus2:13 ,WORD,great,G3173,Epistles,New Testament,Titus,ASV
+2,Titus2:13 ,WORD,God,G2316,Epistles,New Testament,Titus,ASV
+2,Titus2:13 ,WORD,and,G2532,Epistles,New Testament,Titus,ASV
+2,Titus2:13 ,WORD,Savior,G4990,Epistles,New Testament,Titus,ASV
+2,Titus2:13 ,WORD,Christ,G5547,Epistles,New Testament,Titus,ASV
+2,Titus2:13 ,WORD,Jesus,G2424,Epistles,New Testament,Titus,ASV
+2,Titus2:14 ,WORD,who,G3739,Epistles,New Testament,Titus,ASV
+2,Titus2:14 ,WORD,gave,G1325,Epistles,New Testament,Titus,ASV
+2,Titus2:14 ,WORD,Himself,G1438,Epistles,New Testament,Titus,ASV
+2,Titus2:14 ,WORD,for,G5228,Epistles,New Testament,Titus,ASV
+2,Titus2:14 ,WORD,us,G1473,Epistles,New Testament,Titus,ASV
+2,Titus2:14 ,WORD,to,G2443,Epistles,New Testament,Titus,ASV
+2,Titus2:14 ,WORD,redeem,G3084,Epistles,New Testament,Titus,ASV
+2,Titus2:14 ,WORD,us,G1473,Epistles,New Testament,Titus,ASV
+2,Titus2:14 ,WORD,from,G575,Epistles,New Testament,Titus,ASV
+2,Titus2:14 ,WORD,every,G3956,Epistles,New Testament,Titus,ASV
+2,Titus2:14 ,PHRASE,lawless deed,G458,Epistles,New Testament,Titus,ASV
+2,Titus2:14 ,WORD,and,G2532,Epistles,New Testament,Titus,ASV
+2,Titus2:14 ,PHRASE,to purify,G2511,Epistles,New Testament,Titus,ASV
+2,Titus2:14 ,PHRASE,for Himself,G1438,Epistles,New Testament,Titus,ASV
+2,Titus2:14 ,PHRASE,a people,G2992,Epistles,New Testament,Titus,ASV
+2,Titus2:14 ,PHRASE,for His own possession,G4041,Epistles,New Testament,Titus,ASV
+2,Titus2:14 ,WORD,zealous,G2207,Epistles,New Testament,Titus,ASV
+2,Titus2:14 ,PHRASE,for good,G2570,Epistles,New Testament,Titus,ASV
+2,Titus2:14 ,WORD,deeds,G2041,Epistles,New Testament,Titus,ASV
+2,Titus2:15 ,PHRASE,These things,G3778,Epistles,New Testament,Titus,ASV
+2,Titus2:15 ,WORD,speak,G2980,Epistles,New Testament,Titus,ASV
+2,Titus2:15 ,WORD,and,G2532,Epistles,New Testament,Titus,ASV
+2,Titus2:15 ,WORD,exhort,G3870,Epistles,New Testament,Titus,ASV
+2,Titus2:15 ,WORD,and,G2532,Epistles,New Testament,Titus,ASV
+2,Titus2:15 ,WORD,reprove,G1651,Epistles,New Testament,Titus,ASV
+2,Titus2:15 ,WORD,with,G3326,Epistles,New Testament,Titus,ASV
+2,Titus2:15 ,WORD,all,G3956,Epistles,New Testament,Titus,ASV
+2,Titus2:15 ,WORD,authority,G2003,Epistles,New Testament,Titus,ASV
+2,Titus2:15 ,PHRASE,Let no one,G3367,Epistles,New Testament,Titus,ASV
+2,Titus2:15 ,WORD,disregard,G4065,Epistles,New Testament,Titus,ASV
+2,Titus2:15 ,WORD,you,G4771,Epistles,New Testament,Titus,ASV
+3,Titus3:1 ,WORD,Remind,G5279,Epistles,New Testament,Titus,ASV
+3,Titus3:1 ,WORD,them,G846,Epistles,New Testament,Titus,ASV
+3,Titus3:1 ,PHRASE,to be subject,G5293,Epistles,New Testament,Titus,ASV
+3,Titus3:1 ,PHRASE,to rulers,G746,Epistles,New Testament,Titus,ASV
+3,Titus3:1 ,PHRASE,to authorities,G1849,Epistles,New Testament,Titus,ASV
+3,Titus3:1 ,PHRASE,to be obedient,G3980,Epistles,New Testament,Titus,ASV
+3,Titus3:1 ,PHRASE,to be,G1510,Epistles,New Testament,Titus,ASV
+3,Titus3:1 ,WORD,ready,G2092,Epistles,New Testament,Titus,ASV
+3,Titus3:1 ,WORD,for,G4314,Epistles,New Testament,Titus,ASV
+3,Titus3:1 ,WORD,every,G3956,Epistles,New Testament,Titus,ASV
+3,Titus3:1 ,WORD,good,G18,Epistles,New Testament,Titus,ASV
+3,Titus3:1 ,WORD,deed,G2041,Epistles,New Testament,Titus,ASV
+3,Titus3:2 ,PHRASE,to malign,G987,Epistles,New Testament,Titus,ASV
+3,Titus3:2 ,PHRASE,no one,G3367,Epistles,New Testament,Titus,ASV
+3,Titus3:2 ,PHRASE,to be,G1510,Epistles,New Testament,Titus,ASV
+3,Titus3:2 ,WORD,peaceable,G269,Epistles,New Testament,Titus,ASV
+3,Titus3:2 ,WORD,gentle,G1933,Epistles,New Testament,Titus,ASV
+3,Titus3:2 ,WORD,showing,G1731,Epistles,New Testament,Titus,ASV
+3,Titus3:2 ,WORD,every,G3956,Epistles,New Testament,Titus,ASV
+3,Titus3:2 ,WORD,consideration,G4240,Epistles,New Testament,Titus,ASV
+3,Titus3:2 ,WORD,for,G4314,Epistles,New Testament,Titus,ASV
+3,Titus3:2 ,WORD,all,G3956,Epistles,New Testament,Titus,ASV
+3,Titus3:2 ,WORD,men,G444,Epistles,New Testament,Titus,ASV
+3,Titus3:3 ,WORD,For,G1063,Epistles,New Testament,Titus,ASV
+3,Titus3:3 ,PHRASE,we also,G2532,Epistles,New Testament,Titus,ASV
+3,Titus3:3 ,WORD,once,G4218,Epistles,New Testament,Titus,ASV
+3,Titus3:3 ,WORD,were,G1510,Epistles,New Testament,Titus,ASV
+3,Titus3:3 ,WORD,foolish,G453,Epistles,New Testament,Titus,ASV
+3,Titus3:3 ,WORD,ourselves,G1473,Epistles,New Testament,Titus,ASV
+3,Titus3:3 ,WORD,disobedient,G545,Epistles,New Testament,Titus,ASV
+3,Titus3:3 ,WORD,deceived,G4105,Epistles,New Testament,Titus,ASV
+3,Titus3:3 ,WORD,enslaved,G1398,Epistles,New Testament,Titus,ASV
+3,Titus3:3 ,PHRASE,to various,G4164,Epistles,New Testament,Titus,ASV
+3,Titus3:3 ,WORD,lusts,G1939,Epistles,New Testament,Titus,ASV
+3,Titus3:3 ,WORD,and,G2532,Epistles,New Testament,Titus,ASV
+3,Titus3:3 ,WORD,pleasures,G2237,Epistles,New Testament,Titus,ASV
+3,Titus3:3 ,PHRASE,spending our life,G1236,Epistles,New Testament,Titus,ASV
+3,Titus3:3 ,WORD,in,G1722,Epistles,New Testament,Titus,ASV
+3,Titus3:3 ,WORD,malice,G2549,Epistles,New Testament,Titus,ASV
+3,Titus3:3 ,WORD,and,G2532,Epistles,New Testament,Titus,ASV
+3,Titus3:3 ,WORD,envy,G5355,Epistles,New Testament,Titus,ASV
+3,Titus3:3 ,WORD,hateful,G4767,Epistles,New Testament,Titus,ASV
+3,Titus3:3 ,WORD,hating,G3404,Epistles,New Testament,Titus,ASV
+3,Titus3:3 ,PHRASE,one another,G240,Epistles,New Testament,Titus,ASV
+3,Titus3:4 ,WORD,But,G1161,Epistles,New Testament,Titus,ASV
+3,Titus3:4 ,WORD,when,G3753,Epistles,New Testament,Titus,ASV
+3,Titus3:4 ,WORD,the,G3588,Epistles,New Testament,Titus,ASV
+3,Titus3:4 ,WORD,kindness,G5544,Epistles,New Testament,Titus,ASV
+3,Titus3:4 ,PHRASE,of God,G2316,Epistles,New Testament,Titus,ASV
+3,Titus3:4 ,WORD,our,G1473,Epistles,New Testament,Titus,ASV
+3,Titus3:4 ,WORD,Savior,G4990,Epistles,New Testament,Titus,ASV
+3,Titus3:4 ,WORD,and,G2532,Epistles,New Testament,Titus,ASV
+3,Titus3:4 ,PHRASE,His love for mankind,G5363,Epistles,New Testament,Titus,ASV
+3,Titus3:4 ,WORD,appeared,G2014,Epistles,New Testament,Titus,ASV
+3,Titus3:5 ,PHRASE,He saved,G4982,Epistles,New Testament,Titus,ASV
+3,Titus3:5 ,WORD,us,G1473,Epistles,New Testament,Titus,ASV
+3,Titus3:5 ,WORD,not,G3756,Epistles,New Testament,Titus,ASV
+3,Titus3:5 ,PHRASE,on the basis,G1537,Epistles,New Testament,Titus,ASV
+3,Titus3:5 ,PHRASE,of deeds,G2041,Epistles,New Testament,Titus,ASV
+3,Titus3:5 ,WORD,which,G3739,Epistles,New Testament,Titus,ASV
+3,Titus3:5 ,WORD,we,G1473,Epistles,New Testament,Titus,ASV
+3,Titus3:5 ,PHRASE,have done,G4160,Epistles,New Testament,Titus,ASV
+3,Titus3:5 ,WORD,in,G1722,Epistles,New Testament,Titus,ASV
+3,Titus3:5 ,WORD,righteousness,G1343,Epistles,New Testament,Titus,ASV
+3,Titus3:5 ,WORD,but,G235,Epistles,New Testament,Titus,ASV
+3,Titus3:5 ,PHRASE,according to,G2596,Epistles,New Testament,Titus,ASV
+3,Titus3:5 ,WORD,His,G846,Epistles,New Testament,Titus,ASV
+3,Titus3:5 ,WORD,mercy,G1656,Epistles,New Testament,Titus,ASV
+3,Titus3:5 ,WORD,by,G1223,Epistles,New Testament,Titus,ASV
+3,Titus3:5 ,PHRASE,the washing,G3067,Epistles,New Testament,Titus,ASV
+3,Titus3:5 ,PHRASE,of regeneration,G3824,Epistles,New Testament,Titus,ASV
+3,Titus3:5 ,WORD,and,G2532,Epistles,New Testament,Titus,ASV
+3,Titus3:5 ,WORD,renewing,G342,Epistles,New Testament,Titus,ASV
+3,Titus3:5 ,PHRASE,by the Holy,G40,Epistles,New Testament,Titus,ASV
+3,Titus3:5 ,WORD,Spirit,G4151,Epistles,New Testament,Titus,ASV
+3,Titus3:6 ,WORD,whom,G3739,Epistles,New Testament,Titus,ASV
+3,Titus3:6 ,PHRASE,He poured out,G1632,Epistles,New Testament,Titus,ASV
+3,Titus3:6 ,WORD,upon,G1909,Epistles,New Testament,Titus,ASV
+3,Titus3:6 ,WORD,us,G1473,Epistles,New Testament,Titus,ASV
+3,Titus3:6 ,WORD,richly,G4146,Epistles,New Testament,Titus,ASV
+3,Titus3:6 ,WORD,through,G1223,Epistles,New Testament,Titus,ASV
+3,Titus3:6 ,WORD,Jesus,G2424,Epistles,New Testament,Titus,ASV
+3,Titus3:6 ,WORD,Christ,G5547,Epistles,New Testament,Titus,ASV
+3,Titus3:6 ,WORD,our,G1473,Epistles,New Testament,Titus,ASV
+3,Titus3:6 ,WORD,Savior,G4990,Epistles,New Testament,Titus,ASV
+3,Titus3:7 ,PHRASE,so that,G2443,Epistles,New Testament,Titus,ASV
+3,Titus3:7 ,PHRASE,being justified,G1344,Epistles,New Testament,Titus,ASV
+3,Titus3:7 ,PHRASE,by His,G1565,Epistles,New Testament,Titus,ASV
+3,Titus3:7 ,WORD,grace,G5485,Epistles,New Testament,Titus,ASV
+3,Titus3:7 ,PHRASE,we would be made,G1096,Epistles,New Testament,Titus,ASV
+3,Titus3:7 ,WORD,heirs,G2818,Epistles,New Testament,Titus,ASV
+3,Titus3:7 ,PHRASE,according to,G2596,Epistles,New Testament,Titus,ASV
+3,Titus3:7 ,PHRASE,the hope,G1680,Epistles,New Testament,Titus,ASV
+3,Titus3:7 ,PHRASE,of eternal,G166,Epistles,New Testament,Titus,ASV
+3,Titus3:7 ,WORD,life,G2222,Epistles,New Testament,Titus,ASV
+3,Titus3:8 ,WORD,This,G3588,Epistles,New Testament,Titus,ASV
+3,Titus3:8 ,PHRASE,is a trustworthy,G4103,Epistles,New Testament,Titus,ASV
+3,Titus3:8 ,WORD,statement,G3056,Epistles,New Testament,Titus,ASV
+3,Titus3:8 ,WORD,and,G2532,Epistles,New Testament,Titus,ASV
+3,Titus3:8 ,WORD,concerning,G4012,Epistles,New Testament,Titus,ASV
+3,Titus3:8 ,PHRASE,these things,G3778,Epistles,New Testament,Titus,ASV
+3,Titus3:8 ,PHRASE,I want,G1014,Epistles,New Testament,Titus,ASV
+3,Titus3:8 ,WORD,you,G4771,Epistles,New Testament,Titus,ASV
+3,Titus3:8 ,PHRASE,to speak confidently,G1226,Epistles,New Testament,Titus,ASV
+3,Titus3:8 ,PHRASE,so that,G2443,Epistles,New Testament,Titus,ASV
+3,Titus3:8 ,PHRASE,those who,G3588,Epistles,New Testament,Titus,ASV
+3,Titus3:8 ,PHRASE,have believed,G4100,Epistles,New Testament,Titus,ASV
+3,Titus3:8 ,WORD,God,G2316,Epistles,New Testament,Titus,ASV
+3,Titus3:8 ,PHRASE,will be careful,G5431,Epistles,New Testament,Titus,ASV
+3,Titus3:8 ,PHRASE,to engage,G4291,Epistles,New Testament,Titus,ASV
+3,Titus3:8 ,PHRASE,in good,G2570,Epistles,New Testament,Titus,ASV
+3,Titus3:8 ,WORD,deeds,G2041,Epistles,New Testament,Titus,ASV
+3,Titus3:8 ,PHRASE,These things,G3778,Epistles,New Testament,Titus,ASV
+3,Titus3:8 ,WORD,are,G1510,Epistles,New Testament,Titus,ASV
+3,Titus3:8 ,WORD,good,G2570,Epistles,New Testament,Titus,ASV
+3,Titus3:8 ,WORD,and,G2532,Epistles,New Testament,Titus,ASV
+3,Titus3:8 ,WORD,profitable,G5624,Epistles,New Testament,Titus,ASV
+3,Titus3:8 ,PHRASE,for men,G444,Epistles,New Testament,Titus,ASV
+3,Titus3:9 ,WORD,But,G1161,Epistles,New Testament,Titus,ASV
+3,Titus3:9 ,WORD,avoid,G4026,Epistles,New Testament,Titus,ASV
+3,Titus3:9 ,WORD,foolish,G3474,Epistles,New Testament,Titus,ASV
+3,Titus3:9 ,WORD,controversies,G2214,Epistles,New Testament,Titus,ASV
+3,Titus3:9 ,WORD,and,G2532,Epistles,New Testament,Titus,ASV
+3,Titus3:9 ,WORD,genealogies,G1076,Epistles,New Testament,Titus,ASV
+3,Titus3:9 ,WORD,and,G2532,Epistles,New Testament,Titus,ASV
+3,Titus3:9 ,WORD,strife,G2054,Epistles,New Testament,Titus,ASV
+3,Titus3:9 ,WORD,and,G2532,Epistles,New Testament,Titus,ASV
+3,Titus3:9 ,WORD,disputes,G3163,Epistles,New Testament,Titus,ASV
+3,Titus3:9 ,PHRASE,about the Law,G3544,Epistles,New Testament,Titus,ASV
+3,Titus3:9 ,WORD,for,G1063,Epistles,New Testament,Titus,ASV
+3,Titus3:9 ,PHRASE,they are,G1510,Epistles,New Testament,Titus,ASV
+3,Titus3:9 ,WORD,unprofitable,G512,Epistles,New Testament,Titus,ASV
+3,Titus3:9 ,WORD,and,G2532,Epistles,New Testament,Titus,ASV
+3,Titus3:9 ,WORD,worthless,G3152,Epistles,New Testament,Titus,ASV
+3,Titus3:10 ,WORD,Reject,G3868,Epistles,New Testament,Titus,ASV
+3,Titus3:10 ,PHRASE,a factious,G141,Epistles,New Testament,Titus,ASV
+3,Titus3:10 ,WORD,man,G444,Epistles,New Testament,Titus,ASV
+3,Titus3:10 ,WORD,after,G3326,Epistles,New Testament,Titus,ASV
+3,Titus3:10 ,PHRASE,a first,G1520,Epistles,New Testament,Titus,ASV
+3,Titus3:10 ,WORD,and,G2532,Epistles,New Testament,Titus,ASV
+3,Titus3:10 ,WORD,second,G1208,Epistles,New Testament,Titus,ASV
+3,Titus3:10 ,WORD,warning,G3559,Epistles,New Testament,Titus,ASV
+3,Titus3:11 ,WORD,knowing,G1492,Epistles,New Testament,Titus,ASV
+3,Titus3:11 ,WORD,that,G3754,Epistles,New Testament,Titus,ASV
+3,Titus3:11 ,PHRASE,such a man,G5108,Epistles,New Testament,Titus,ASV
+3,Titus3:11 ,PHRASE,is perverted,G1612,Epistles,New Testament,Titus,ASV
+3,Titus3:11 ,WORD,and,G2532,Epistles,New Testament,Titus,ASV
+3,Titus3:11 ,PHRASE,is sinning,G264,Epistles,New Testament,Titus,ASV
+3,Titus3:11 ,WORD,being,G1510,Epistles,New Testament,Titus,ASV
+3,Titus3:11 ,WORD,self-condemned,G843,Epistles,New Testament,Titus,ASV
+3,Titus3:12 ,WORD,When,G3752,Epistles,New Testament,Titus,ASV
+3,Titus3:12 ,PHRASE,I send,G3992,Epistles,New Testament,Titus,ASV
+3,Titus3:12 ,WORD,Artemas,G734,Epistles,New Testament,Titus,ASV
+3,Titus3:12 ,WORD,or,G2228,Epistles,New Testament,Titus,ASV
+3,Titus3:12 ,WORD,Tychicus,G5190,Epistles,New Testament,Titus,ASV
+3,Titus3:12 ,WORD,to,G4314,Epistles,New Testament,Titus,ASV
+3,Titus3:12 ,WORD,you,G4771,Epistles,New Testament,Titus,ASV
+3,Titus3:12 ,PHRASE,make every effort,G4704,Epistles,New Testament,Titus,ASV
+3,Titus3:12 ,PHRASE,to come,G2064,Epistles,New Testament,Titus,ASV
+3,Titus3:12 ,WORD,to,G4314,Epistles,New Testament,Titus,ASV
+3,Titus3:12 ,WORD,me,G1473,Epistles,New Testament,Titus,ASV
+3,Titus3:12 ,WORD,at,G1519,Epistles,New Testament,Titus,ASV
+3,Titus3:12 ,WORD,Nicopolis,G3533,Epistles,New Testament,Titus,ASV
+3,Titus3:12 ,WORD,for,G1063,Epistles,New Testament,Titus,ASV
+3,Titus3:12 ,PHRASE,I have decided,G2919,Epistles,New Testament,Titus,ASV
+3,Titus3:12 ,PHRASE,to spend the winter,G3914,Epistles,New Testament,Titus,ASV
+3,Titus3:12 ,WORD,there,G1563,Epistles,New Testament,Titus,ASV
+3,Titus3:13 ,WORD,Diligently,G4709,Epistles,New Testament,Titus,ASV
+3,Titus3:13 ,WORD,help,G4311,Epistles,New Testament,Titus,ASV
+3,Titus3:13 ,WORD,Zenas,G2211,Epistles,New Testament,Titus,ASV
+3,Titus3:13 ,WORD,the,G3588,Epistles,New Testament,Titus,ASV
+3,Titus3:13 ,WORD,lawyer,G3544,Epistles,New Testament,Titus,ASV
+3,Titus3:13 ,WORD,and,G2532,Epistles,New Testament,Titus,ASV
+3,Titus3:13 ,WORD,Apollos,G625,Epistles,New Testament,Titus,ASV
+3,Titus3:13 ,PHRASE,on their way,G4311,Epistles,New Testament,Titus,ASV
+3,Titus3:13 ,PHRASE,so that,G2443,Epistles,New Testament,Titus,ASV
+3,Titus3:13 ,WORD,nothing,G3367,Epistles,New Testament,Titus,ASV
+3,Titus3:13 ,PHRASE,is lacking,G3007,Epistles,New Testament,Titus,ASV
+3,Titus3:13 ,PHRASE,for them,G846,Epistles,New Testament,Titus,ASV
+3,Titus3:14 ,PHRASE,Our people,G2251,Epistles,New Testament,Titus,ASV
+3,Titus3:14 ,PHRASE,must also,G2532,Epistles,New Testament,Titus,ASV
+3,Titus3:14 ,WORD,learn,G3129,Epistles,New Testament,Titus,ASV
+3,Titus3:14 ,PHRASE,to engage,G4291,Epistles,New Testament,Titus,ASV
+3,Titus3:14 ,PHRASE,in good,G2570,Epistles,New Testament,Titus,ASV
+3,Titus3:14 ,WORD,deeds,G2041,Epistles,New Testament,Titus,ASV
+3,Titus3:14 ,WORD,to,G1519,Epistles,New Testament,Titus,ASV
+3,Titus3:14 ,PHRASE,meet pressing,G316,Epistles,New Testament,Titus,ASV
+3,Titus3:14 ,WORD,needs,G5532,Epistles,New Testament,Titus,ASV
+3,Titus3:14 ,PHRASE,so that,G2443,Epistles,New Testament,Titus,ASV
+3,Titus3:14 ,PHRASE,they will not,G3361,Epistles,New Testament,Titus,ASV
+3,Titus3:14 ,WORD,be,G1510,Epistles,New Testament,Titus,ASV
+3,Titus3:14 ,WORD,unfruitful,G175,Epistles,New Testament,Titus,ASV
+3,Titus3:15 ,WORD,All,G3956,Epistles,New Testament,Titus,ASV
+3,Titus3:15 ,WORD,who,G3588,Epistles,New Testament,Titus,ASV
+3,Titus3:15 ,PHRASE,are with,G3326,Epistles,New Testament,Titus,ASV
+3,Titus3:15 ,WORD,me,G1473,Epistles,New Testament,Titus,ASV
+3,Titus3:15 ,WORD,greet,G782,Epistles,New Testament,Titus,ASV
+3,Titus3:15 ,WORD,you,G4771,Epistles,New Testament,Titus,ASV
+3,Titus3:15 ,WORD,Greet,G782,Epistles,New Testament,Titus,ASV
+3,Titus3:15 ,PHRASE,those who,G3588,Epistles,New Testament,Titus,ASV
+3,Titus3:15 ,WORD,love,G5368,Epistles,New Testament,Titus,ASV
+3,Titus3:15 ,WORD,us,G1473,Epistles,New Testament,Titus,ASV
+3,Titus3:15 ,WORD,in,G1722,Epistles,New Testament,Titus,ASV
+3,Titus3:15 ,PHRASE,the faith,G4102,Epistles,New Testament,Titus,ASV
+3,Titus3:15 ,WORD,Grace,G5485,Epistles,New Testament,Titus,ASV
+3,Titus3:15 ,PHRASE,be with,G3326,Epistles,New Testament,Titus,ASV
+3,Titus3:15 ,WORD,you,G4771,Epistles,New Testament,Titus,ASV
+3,Titus3:15 ,WORD,all,G3956,Epistles,New Testament,Titus,ASV

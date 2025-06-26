@@ -1,0 +1,219 @@
+bible_chapter,bible_verse,verse_part_type,verse_part,hebrew_id,lit_type,testament_type,bible_book,version
+1,3 John1:1 ,WORD,The,G3588,Epistles,New Testament,3 John,KJV
+1,3 John1:1 ,WORD,elder,G4245,Epistles,New Testament,3 John,KJV
+1,3 John1:1 ,PHRASE,unto the,G3588,Epistles,New Testament,3 John,KJV
+1,3 John1:1 ,WORD,wellbeloved,G27,Epistles,New Testament,3 John,KJV
+1,3 John1:1 ,WORD,"Gaius,",G1050,Epistles,New Testament,3 John,KJV
+1,3 John1:1 ,WORD,whom,G3739,Epistles,New Testament,3 John,KJV
+1,3 John1:1 ,WORD,I,G1473,Epistles,New Testament,3 John,KJV
+1,3 John1:1 ,WORD,love,G25,Epistles,New Testament,3 John,KJV
+1,3 John1:1 ,WORD,in,G1722,Epistles,New Testament,3 John,KJV
+1,3 John1:1 ,PHRASE,the truth.,G225,Epistles,New Testament,3 John,KJV
+1,3 John1:2 ,WORD,"Beloved,",G27,Epistles,New Testament,3 John,KJV
+1,3 John1:2 ,PHRASE,I wish,G2172,Epistles,New Testament,3 John,KJV
+1,3 John1:2 ,WORD,above,G4012,Epistles,New Testament,3 John,KJV
+1,3 John1:2 ,PHRASE,all things,G3956,Epistles,New Testament,3 John,KJV
+1,3 John1:2 ,PHRASE,that thou,G4571,Epistles,New Testament,3 John,KJV
+1,3 John1:2 ,PHRASE,mayest prosper,G2137,Epistles,New Testament,3 John,KJV
+1,3 John1:2 ,WORD,and,G2532,Epistles,New Testament,3 John,KJV
+1,3 John1:2 ,PHRASE,"be in health,",G5198,Epistles,New Testament,3 John,KJV
+1,3 John1:2 ,PHRASE,even as,G2531,Epistles,New Testament,3 John,KJV
+1,3 John1:2 ,WORD,thy,G4675,Epistles,New Testament,3 John,KJV
+1,3 John1:2 ,WORD,soul,G5590,Epistles,New Testament,3 John,KJV
+1,3 John1:2 ,WORD,prospereth.,G2137,Epistles,New Testament,3 John,KJV
+1,3 John1:3 ,WORD,For,G1063,Epistles,New Testament,3 John,KJV
+1,3 John1:3 ,PHRASE,I rejoiced,G5463,Epistles,New Testament,3 John,KJV
+1,3 John1:3 ,WORD,"greatly,",G3029,Epistles,New Testament,3 John,KJV
+1,3 John1:3 ,PHRASE,when the brethren,G80,Epistles,New Testament,3 John,KJV
+1,3 John1:3 ,WORD,came,G2064,Epistles,New Testament,3 John,KJV
+1,3 John1:3 ,WORD,and,G2532,Epistles,New Testament,3 John,KJV
+1,3 John1:3 ,WORD,testified,G3140,Epistles,New Testament,3 John,KJV
+1,3 John1:3 ,PHRASE,of the,G3588,Epistles,New Testament,3 John,KJV
+1,3 John1:3 ,WORD,truth,G225,Epistles,New Testament,3 John,KJV
+1,3 John1:3 ,PHRASE,"that is in thee,",G4675,Epistles,New Testament,3 John,KJV
+1,3 John1:3 ,PHRASE,even as,G2531,Epistles,New Testament,3 John,KJV
+1,3 John1:3 ,WORD,thou,G4771,Epistles,New Testament,3 John,KJV
+1,3 John1:3 ,WORD,walkest,G4043,Epistles,New Testament,3 John,KJV
+1,3 John1:3 ,WORD,in,G1722,Epistles,New Testament,3 John,KJV
+1,3 John1:3 ,PHRASE,the truth.,G225,Epistles,New Testament,3 John,KJV
+1,3 John1:4 ,PHRASE,I have,G2192,Epistles,New Testament,3 John,KJV
+1,3 John1:4 ,WORD,no,G3756,Epistles,New Testament,3 John,KJV
+1,3 John1:4 ,WORD,greater,G3186,Epistles,New Testament,3 John,KJV
+1,3 John1:4 ,WORD,,G5130,Epistles,New Testament,3 John,KJV
+1,3 John1:4 ,WORD,joy,G5479,Epistles,New Testament,3 John,KJV
+1,3 John1:4 ,PHRASE,than to,G2443,Epistles,New Testament,3 John,KJV
+1,3 John1:4 ,WORD,hear,G191,Epistles,New Testament,3 John,KJV
+1,3 John1:4 ,PHRASE,that my,G1699,Epistles,New Testament,3 John,KJV
+1,3 John1:4 ,WORD,children,G5043,Epistles,New Testament,3 John,KJV
+1,3 John1:4 ,WORD,walk,G4043,Epistles,New Testament,3 John,KJV
+1,3 John1:4 ,WORD,in,G1722,Epistles,New Testament,3 John,KJV
+1,3 John1:4 ,WORD,truth.,G225,Epistles,New Testament,3 John,KJV
+1,3 John1:5 ,WORD,"Beloved,",G27,Epistles,New Testament,3 John,KJV
+1,3 John1:5 ,PHRASE,thou doest,G4160,Epistles,New Testament,3 John,KJV
+1,3 John1:5 ,WORD,faithfully,G4103,Epistles,New Testament,3 John,KJV
+1,3 John1:5 ,WORD,whatsoever,G3739,Epistles,New Testament,3 John,KJV
+1,3 John1:5 ,WORD,,G1437,Epistles,New Testament,3 John,KJV
+1,3 John1:5 ,PHRASE,thou doest,G2038,Epistles,New Testament,3 John,KJV
+1,3 John1:5 ,WORD,to,G1519,Epistles,New Testament,3 John,KJV
+1,3 John1:5 ,WORD,the,G3588,Epistles,New Testament,3 John,KJV
+1,3 John1:5 ,WORD,"brethren,",G80,Epistles,New Testament,3 John,KJV
+1,3 John1:5 ,WORD,and,G2532,Epistles,New Testament,3 John,KJV
+1,3 John1:5 ,WORD,to,G1519,Epistles,New Testament,3 John,KJV
+1,3 John1:5 ,WORD,strangers;,G3581,Epistles,New Testament,3 John,KJV
+1,3 John1:6 ,WORD,Which,G3739,Epistles,New Testament,3 John,KJV
+1,3 John1:6 ,PHRASE,have borne witness,G3140,Epistles,New Testament,3 John,KJV
+1,3 John1:6 ,PHRASE,of thy,G4675,Epistles,New Testament,3 John,KJV
+1,3 John1:6 ,WORD,charity,G26,Epistles,New Testament,3 John,KJV
+1,3 John1:6 ,WORD,before,G1799,Epistles,New Testament,3 John,KJV
+1,3 John1:6 ,PHRASE,the church:,G1577,Epistles,New Testament,3 John,KJV
+1,3 John1:6 ,WORD,whom,G3739,Epistles,New Testament,3 John,KJV
+1,3 John1:6 ,PHRASE,if thou bring forward on their journey,G4311,Epistles,New Testament,3 John,KJV
+1,3 John1:6 ,WORD,after,G516,Epistles,New Testament,3 John,KJV
+1,3 John1:6 ,WORD,a,G3588,Epistles,New Testament,3 John,KJV
+1,3 John1:6 ,WORD,godly,G2316,Epistles,New Testament,3 John,KJV
+1,3 John1:6 ,WORD,"sort,",G516,Epistles,New Testament,3 John,KJV
+1,3 John1:6 ,PHRASE,thou shalt do,G4160,Epistles,New Testament,3 John,KJV
+1,3 John1:6 ,WORD,well:,G2573,Epistles,New Testament,3 John,KJV
+1,3 John1:7 ,PHRASE,Because that,G1063,Epistles,New Testament,3 John,KJV
+1,3 John1:7 ,WORD,for,G5228,Epistles,New Testament,3 John,KJV
+1,3 John1:7 ,PHRASE,his name's,G3686,Epistles,New Testament,3 John,KJV
+1,3 John1:7 ,WORD,sake,G5228,Epistles,New Testament,3 John,KJV
+1,3 John1:7 ,PHRASE,"they went forth,",G1831,Epistles,New Testament,3 John,KJV
+1,3 John1:7 ,WORD,taking,G2983,Epistles,New Testament,3 John,KJV
+1,3 John1:7 ,WORD,nothing,G3367,Epistles,New Testament,3 John,KJV
+1,3 John1:7 ,WORD,of,G575,Epistles,New Testament,3 John,KJV
+1,3 John1:7 ,WORD,the,G3588,Epistles,New Testament,3 John,KJV
+1,3 John1:7 ,WORD,Gentiles.,G1484,Epistles,New Testament,3 John,KJV
+1,3 John1:8 ,WORD,We,G2249,Epistles,New Testament,3 John,KJV
+1,3 John1:8 ,WORD,therefore,G3767,Epistles,New Testament,3 John,KJV
+1,3 John1:8 ,WORD,ought,G3784,Epistles,New Testament,3 John,KJV
+1,3 John1:8 ,PHRASE,to receive,G618,Epistles,New Testament,3 John,KJV
+1,3 John1:8 ,WORD,"such,",G5108,Epistles,New Testament,3 John,KJV
+1,3 John1:8 ,WORD,that,G2443,Epistles,New Testament,3 John,KJV
+1,3 John1:8 ,PHRASE,we might be,G1096,Epistles,New Testament,3 John,KJV
+1,3 John1:8 ,WORD,fellowhelpers,G4904,Epistles,New Testament,3 John,KJV
+1,3 John1:8 ,PHRASE,to the,G3588,Epistles,New Testament,3 John,KJV
+1,3 John1:8 ,WORD,truth.,G225,Epistles,New Testament,3 John,KJV
+1,3 John1:9 ,PHRASE,I wrote,G1125,Epistles,New Testament,3 John,KJV
+1,3 John1:9 ,PHRASE,unto the,G3588,Epistles,New Testament,3 John,KJV
+1,3 John1:9 ,WORD,church:,G1577,Epistles,New Testament,3 John,KJV
+1,3 John1:9 ,WORD,but,G235,Epistles,New Testament,3 John,KJV
+1,3 John1:9 ,WORD,"Diotrephes,",G1361,Epistles,New Testament,3 John,KJV
+1,3 John1:9 ,WORD,who,G3588,Epistles,New Testament,3 John,KJV
+1,3 John1:9 ,PHRASE,loveth to have the preeminence,G5383,Epistles,New Testament,3 John,KJV
+1,3 John1:9 ,PHRASE,"among them,",G846,Epistles,New Testament,3 John,KJV
+1,3 John1:9 ,WORD,receiveth,G1926,Epistles,New Testament,3 John,KJV
+1,3 John1:9 ,WORD,us,G2248,Epistles,New Testament,3 John,KJV
+1,3 John1:9 ,WORD,not.,G3756,Epistles,New Testament,3 John,KJV
+1,3 John1:10 ,WORD,"Wherefore,",G1223,Epistles,New Testament,3 John,KJV
+1,3 John1:10 ,WORD,,G5124,Epistles,New Testament,3 John,KJV
+1,3 John1:10 ,WORD,if,G1437,Epistles,New Testament,3 John,KJV
+1,3 John1:10 ,PHRASE,"I come,",G2064,Epistles,New Testament,3 John,KJV
+1,3 John1:10 ,PHRASE,I will remember,G5279,Epistles,New Testament,3 John,KJV
+1,3 John1:10 ,WORD,his,G846,Epistles,New Testament,3 John,KJV
+1,3 John1:10 ,WORD,deeds,G2041,Epistles,New Testament,3 John,KJV
+1,3 John1:10 ,WORD,which,G3739,Epistles,New Testament,3 John,KJV
+1,3 John1:10 ,PHRASE,"he doeth,",G4160,Epistles,New Testament,3 John,KJV
+1,3 John1:10 ,PHRASE,prating against,G5396,Epistles,New Testament,3 John,KJV
+1,3 John1:10 ,WORD,us,G2248,Epistles,New Testament,3 John,KJV
+1,3 John1:10 ,WORD,with,G3056,Epistles,New Testament,3 John,KJV
+1,3 John1:10 ,PHRASE,malicious words:,G4190,Epistles,New Testament,3 John,KJV
+1,3 John1:10 ,WORD,and,G2532,Epistles,New Testament,3 John,KJV
+1,3 John1:10 ,WORD,not,G3361,Epistles,New Testament,3 John,KJV
+1,3 John1:10 ,WORD,content,G714,Epistles,New Testament,3 John,KJV
+1,3 John1:10 ,WORD,"therewith,",G1909,Epistles,New Testament,3 John,KJV
+1,3 John1:10 ,WORD,,G5125,Epistles,New Testament,3 John,KJV
+1,3 John1:10 ,WORD,neither,G3777,Epistles,New Testament,3 John,KJV
+1,3 John1:10 ,WORD,doth,G1926,Epistles,New Testament,3 John,KJV
+1,3 John1:10 ,PHRASE,he himself,G846,Epistles,New Testament,3 John,KJV
+1,3 John1:10 ,WORD,receive,G1926,Epistles,New Testament,3 John,KJV
+1,3 John1:10 ,WORD,the,G3588,Epistles,New Testament,3 John,KJV
+1,3 John1:10 ,WORD,"brethren,",G80,Epistles,New Testament,3 John,KJV
+1,3 John1:10 ,WORD,and,G2532,Epistles,New Testament,3 John,KJV
+1,3 John1:10 ,WORD,forbiddeth,G2967,Epistles,New Testament,3 John,KJV
+1,3 John1:10 ,PHRASE,them that,G3588,Epistles,New Testament,3 John,KJV
+1,3 John1:10 ,WORD,"would,",G1014,Epistles,New Testament,3 John,KJV
+1,3 John1:10 ,WORD,and,G2532,Epistles,New Testament,3 John,KJV
+1,3 John1:10 ,WORD,casteth,G1544,Epistles,New Testament,3 John,KJV
+1,3 John1:10 ,WORD,[them],,Epistles,New Testament,3 John,KJV
+1,3 John1:10 ,PHRASE,out of,G1537,Epistles,New Testament,3 John,KJV
+1,3 John1:10 ,WORD,the,G3588,Epistles,New Testament,3 John,KJV
+1,3 John1:10 ,WORD,church.,G1577,Epistles,New Testament,3 John,KJV
+1,3 John1:11 ,WORD,"Beloved,",G27,Epistles,New Testament,3 John,KJV
+1,3 John1:11 ,WORD,follow,G3401,Epistles,New Testament,3 John,KJV
+1,3 John1:11 ,WORD,not,G3361,Epistles,New Testament,3 John,KJV
+1,3 John1:11 ,PHRASE,that which,G3588,Epistles,New Testament,3 John,KJV
+1,3 John1:11 ,PHRASE,"is evil,",G2556,Epistles,New Testament,3 John,KJV
+1,3 John1:11 ,WORD,but,G235,Epistles,New Testament,3 John,KJV
+1,3 John1:11 ,PHRASE,that which,G3588,Epistles,New Testament,3 John,KJV
+1,3 John1:11 ,PHRASE,is good.,G18,Epistles,New Testament,3 John,KJV
+1,3 John1:11 ,PHRASE,He that,G3588,Epistles,New Testament,3 John,KJV
+1,3 John1:11 ,PHRASE,doeth good,G15,Epistles,New Testament,3 John,KJV
+1,3 John1:11 ,WORD,is,G2076,Epistles,New Testament,3 John,KJV
+1,3 John1:11 ,WORD,of,G1537,Epistles,New Testament,3 John,KJV
+1,3 John1:11 ,WORD,God:,G2316,Epistles,New Testament,3 John,KJV
+1,3 John1:11 ,WORD,but,G1161,Epistles,New Testament,3 John,KJV
+1,3 John1:11 ,PHRASE,he that,G3588,Epistles,New Testament,3 John,KJV
+1,3 John1:11 ,PHRASE,doeth evil,G2554,Epistles,New Testament,3 John,KJV
+1,3 John1:11 ,WORD,hath,G3708,Epistles,New Testament,3 John,KJV
+1,3 John1:11 ,WORD,not,G3756,Epistles,New Testament,3 John,KJV
+1,3 John1:11 ,WORD,seen,G3708,Epistles,New Testament,3 John,KJV
+1,3 John1:11 ,WORD,God.,G2316,Epistles,New Testament,3 John,KJV
+1,3 John1:12 ,WORD,Demetrius,G1216,Epistles,New Testament,3 John,KJV
+1,3 John1:12 ,PHRASE,hath good report,G3140,Epistles,New Testament,3 John,KJV
+1,3 John1:12 ,WORD,of,G5259,Epistles,New Testament,3 John,KJV
+1,3 John1:12 ,WORD,all,G3956,Epistles,New Testament,3 John,KJV
+1,3 John1:12 ,WORD,"[men],",,Epistles,New Testament,3 John,KJV
+1,3 John1:12 ,WORD,and,G2532,Epistles,New Testament,3 John,KJV
+1,3 John1:12 ,WORD,of,G5259,Epistles,New Testament,3 John,KJV
+1,3 John1:12 ,WORD,the,G3588,Epistles,New Testament,3 John,KJV
+1,3 John1:12 ,WORD,truth,G225,Epistles,New Testament,3 John,KJV
+1,3 John1:12 ,WORD,itself:,G846,Epistles,New Testament,3 John,KJV
+1,3 John1:12 ,WORD,"yea,",G1161,Epistles,New Testament,3 John,KJV
+1,3 John1:12 ,WORD,and,G2532,Epistles,New Testament,3 John,KJV
+1,3 John1:12 ,WORD,we,G2249,Epistles,New Testament,3 John,KJV
+1,3 John1:12 ,WORD,[also],,Epistles,New Testament,3 John,KJV
+1,3 John1:12 ,PHRASE,bear record;,G3140,Epistles,New Testament,3 John,KJV
+1,3 John1:12 ,WORD,and,G2532,Epistles,New Testament,3 John,KJV
+1,3 John1:12 ,PHRASE,ye know,G1492,Epistles,New Testament,3 John,KJV
+1,3 John1:12 ,WORD,that,G3754,Epistles,New Testament,3 John,KJV
+1,3 John1:12 ,WORD,our,G2257,Epistles,New Testament,3 John,KJV
+1,3 John1:12 ,WORD,record,G3141,Epistles,New Testament,3 John,KJV
+1,3 John1:12 ,WORD,is,G2076,Epistles,New Testament,3 John,KJV
+1,3 John1:12 ,WORD,true.,G227,Epistles,New Testament,3 John,KJV
+1,3 John1:13 ,PHRASE,I had,G2192,Epistles,New Testament,3 John,KJV
+1,3 John1:13 ,PHRASE,many things,G4183,Epistles,New Testament,3 John,KJV
+1,3 John1:13 ,PHRASE,"to write,",G1125,Epistles,New Testament,3 John,KJV
+1,3 John1:13 ,WORD,but,G235,Epistles,New Testament,3 John,KJV
+1,3 John1:13 ,PHRASE,I will,G2309,Epistles,New Testament,3 John,KJV
+1,3 John1:13 ,WORD,not,G3756,Epistles,New Testament,3 John,KJV
+1,3 John1:13 ,WORD,with,G1223,Epistles,New Testament,3 John,KJV
+1,3 John1:13 ,WORD,ink,G3188,Epistles,New Testament,3 John,KJV
+1,3 John1:13 ,WORD,and,G2532,Epistles,New Testament,3 John,KJV
+1,3 John1:13 ,WORD,pen,G2563,Epistles,New Testament,3 John,KJV
+1,3 John1:13 ,WORD,write,G1125,Epistles,New Testament,3 John,KJV
+1,3 John1:13 ,PHRASE,unto thee:,G4671,Epistles,New Testament,3 John,KJV
+1,3 John1:14 ,WORD,But,G1161,Epistles,New Testament,3 John,KJV
+1,3 John1:14 ,PHRASE,I trust,G1679,Epistles,New Testament,3 John,KJV
+1,3 John1:14 ,PHRASE,I shall,G3708,Epistles,New Testament,3 John,KJV
+1,3 John1:14 ,WORD,shortly,G2112,Epistles,New Testament,3 John,KJV
+1,3 John1:14 ,WORD,see,G3708,Epistles,New Testament,3 John,KJV
+1,3 John1:14 ,WORD,"thee,",G4571,Epistles,New Testament,3 John,KJV
+1,3 John1:14 ,WORD,and,G2532,Epistles,New Testament,3 John,KJV
+1,3 John1:14 ,PHRASE,we shall speak,G2980,Epistles,New Testament,3 John,KJV
+1,3 John1:14 ,WORD,face,G4750,Epistles,New Testament,3 John,KJV
+1,3 John1:14 ,WORD,to,G4314,Epistles,New Testament,3 John,KJV
+1,3 John1:14 ,WORD,face.,G4750,Epistles,New Testament,3 John,KJV
+1,3 John1:14 ,WORD,Peace,G1515,Epistles,New Testament,3 John,KJV
+1,3 John1:14 ,WORD,[be],,Epistles,New Testament,3 John,KJV
+1,3 John1:14 ,PHRASE,to thee.,G4671,Epistles,New Testament,3 John,KJV
+1,3 John1:14 ,WORD,[Our],,Epistles,New Testament,3 John,KJV
+1,3 John1:14 ,WORD,friends,G5384,Epistles,New Testament,3 John,KJV
+1,3 John1:14 ,WORD,salute,G782,Epistles,New Testament,3 John,KJV
+1,3 John1:14 ,WORD,thee.,G4571,Epistles,New Testament,3 John,KJV
+1,3 John1:14 ,WORD,Greet,G782,Epistles,New Testament,3 John,KJV
+1,3 John1:14 ,WORD,the,G3588,Epistles,New Testament,3 John,KJV
+1,3 John1:14 ,WORD,friends,G5384,Epistles,New Testament,3 John,KJV
+1,3 John1:14 ,WORD,by,G2596,Epistles,New Testament,3 John,KJV
+1,3 John1:14 ,WORD,name.,G3686,Epistles,New Testament,3 John,KJV
+1,3 JohnThe,WORD,,,Epistles,New Testament,3 John,KJV

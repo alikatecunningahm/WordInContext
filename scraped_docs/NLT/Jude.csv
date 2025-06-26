@@ -1,0 +1,426 @@
+bible_chapter,bible_verse,verse_part_type,verse_part,hebrew_id,lit_type,testament_type,bible_book,version
+1,Jude1:1 ,WORD,Jude,G2455,Epistles,New Testament,Jude,NLT
+1,Jude1:1 ,PHRASE,a bond-servant,G1401,Epistles,New Testament,Jude,NLT
+1,Jude1:1 ,PHRASE,of Jesus,G2424,Epistles,New Testament,Jude,NLT
+1,Jude1:1 ,WORD,Christ,G5547,Epistles,New Testament,Jude,NLT
+1,Jude1:1 ,WORD,and,G1161,Epistles,New Testament,Jude,NLT
+1,Jude1:1 ,WORD,brother,G80,Epistles,New Testament,Jude,NLT
+1,Jude1:1 ,PHRASE,of James,G2385,Epistles,New Testament,Jude,NLT
+1,Jude1:1 ,PHRASE,To those,G3588,Epistles,New Testament,Jude,NLT
+1,Jude1:1 ,PHRASE,who are the called,G2822,Epistles,New Testament,Jude,NLT
+1,Jude1:1 ,WORD,beloved,G25,Epistles,New Testament,Jude,NLT
+1,Jude1:1 ,WORD,in,G1722,Epistles,New Testament,Jude,NLT
+1,Jude1:1 ,WORD,God,G2316,Epistles,New Testament,Jude,NLT
+1,Jude1:1 ,PHRASE,the Father,G3962,Epistles,New Testament,Jude,NLT
+1,Jude1:1 ,WORD,and,G2532,Epistles,New Testament,Jude,NLT
+1,Jude1:1 ,WORD,kept,G5083,Epistles,New Testament,Jude,NLT
+1,Jude1:1 ,PHRASE,for Jesus,G2424,Epistles,New Testament,Jude,NLT
+1,Jude1:1 ,WORD,Christ,G5547,Epistles,New Testament,Jude,NLT
+1,Jude1:2 ,PHRASE,May mercy,G1656,Epistles,New Testament,Jude,NLT
+1,Jude1:2 ,WORD,and,G2532,Epistles,New Testament,Jude,NLT
+1,Jude1:2 ,WORD,peace,G1515,Epistles,New Testament,Jude,NLT
+1,Jude1:2 ,WORD,and,G2532,Epistles,New Testament,Jude,NLT
+1,Jude1:2 ,WORD,love,G26,Epistles,New Testament,Jude,NLT
+1,Jude1:2 ,PHRASE,be multiplied,G4129,Epistles,New Testament,Jude,NLT
+1,Jude1:2 ,PHRASE,to you,G4771,Epistles,New Testament,Jude,NLT
+1,Jude1:3 ,WORD,Beloved,G27,Epistles,New Testament,Jude,NLT
+1,Jude1:3 ,PHRASE,while I was making,G4160,Epistles,New Testament,Jude,NLT
+1,Jude1:3 ,WORD,every,G3956,Epistles,New Testament,Jude,NLT
+1,Jude1:3 ,WORD,effort,G4710,Epistles,New Testament,Jude,NLT
+1,Jude1:3 ,PHRASE,to write,G1125,Epistles,New Testament,Jude,NLT
+1,Jude1:3 ,WORD,you,G4771,Epistles,New Testament,Jude,NLT
+1,Jude1:3 ,WORD,about,G4012,Epistles,New Testament,Jude,NLT
+1,Jude1:3 ,WORD,our,G1473,Epistles,New Testament,Jude,NLT
+1,Jude1:3 ,WORD,common,G2839,Epistles,New Testament,Jude,NLT
+1,Jude1:3 ,WORD,salvation,G4991,Epistles,New Testament,Jude,NLT
+1,Jude1:3 ,PHRASE,I felt,G2192,Epistles,New Testament,Jude,NLT
+1,Jude1:3 ,PHRASE,the necessity,G318,Epistles,New Testament,Jude,NLT
+1,Jude1:3 ,PHRASE,to write,G1125,Epistles,New Testament,Jude,NLT
+1,Jude1:3 ,PHRASE,to you,G4771,Epistles,New Testament,Jude,NLT
+1,Jude1:3 ,WORD,appealing,G3870,Epistles,New Testament,Jude,NLT
+1,Jude1:3 ,PHRASE,that you contend earnestly,G1864,Epistles,New Testament,Jude,NLT
+1,Jude1:3 ,PHRASE,for the faith,G4102,Epistles,New Testament,Jude,NLT
+1,Jude1:3 ,WORD,which,G3588,Epistles,New Testament,Jude,NLT
+1,Jude1:3 ,PHRASE,was once for all,G530,Epistles,New Testament,Jude,NLT
+1,Jude1:3 ,PHRASE,handed down,G3860,Epistles,New Testament,Jude,NLT
+1,Jude1:3 ,PHRASE,to the,G3588,Epistles,New Testament,Jude,NLT
+1,Jude1:3 ,WORD,saints,G40,Epistles,New Testament,Jude,NLT
+1,Jude1:4 ,WORD,For,G1063,Epistles,New Testament,Jude,NLT
+1,Jude1:4 ,WORD,certain,G5100,Epistles,New Testament,Jude,NLT
+1,Jude1:4 ,WORD,persons,G444,Epistles,New Testament,Jude,NLT
+1,Jude1:4 ,PHRASE,have crept in unnoticed,G3921,Epistles,New Testament,Jude,NLT
+1,Jude1:4 ,WORD,those,G3588,Epistles,New Testament,Jude,NLT
+1,Jude1:4 ,PHRASE,who were long,G3819,Epistles,New Testament,Jude,NLT
+1,Jude1:4 ,PHRASE,beforehand marked out,G4270,Epistles,New Testament,Jude,NLT
+1,Jude1:4 ,WORD,for,G1519,Epistles,New Testament,Jude,NLT
+1,Jude1:4 ,WORD,this,G3778,Epistles,New Testament,Jude,NLT
+1,Jude1:4 ,WORD,condemnation,G2917,Epistles,New Testament,Jude,NLT
+1,Jude1:4 ,PHRASE,ungodly persons,G765,Epistles,New Testament,Jude,NLT
+1,Jude1:4 ,PHRASE,who turn,G3346,Epistles,New Testament,Jude,NLT
+1,Jude1:4 ,WORD,the,G3588,Epistles,New Testament,Jude,NLT
+1,Jude1:4 ,WORD,grace,G5485,Epistles,New Testament,Jude,NLT
+1,Jude1:4 ,PHRASE,of our,G1473,Epistles,New Testament,Jude,NLT
+1,Jude1:4 ,WORD,God,G2316,Epistles,New Testament,Jude,NLT
+1,Jude1:4 ,WORD,into,G1519,Epistles,New Testament,Jude,NLT
+1,Jude1:4 ,WORD,licentiousness,G766,Epistles,New Testament,Jude,NLT
+1,Jude1:4 ,WORD,and,G2532,Epistles,New Testament,Jude,NLT
+1,Jude1:4 ,WORD,deny,G720,Epistles,New Testament,Jude,NLT
+1,Jude1:4 ,WORD,our,G1473,Epistles,New Testament,Jude,NLT
+1,Jude1:4 ,WORD,only,G3441,Epistles,New Testament,Jude,NLT
+1,Jude1:4 ,WORD,Master,G1203,Epistles,New Testament,Jude,NLT
+1,Jude1:4 ,WORD,and,G2532,Epistles,New Testament,Jude,NLT
+1,Jude1:4 ,WORD,Lord,G2962,Epistles,New Testament,Jude,NLT
+1,Jude1:4 ,WORD,Jesus,G2424,Epistles,New Testament,Jude,NLT
+1,Jude1:4 ,WORD,Christ,G5547,Epistles,New Testament,Jude,NLT
+1,Jude1:5 ,WORD,Now,G1161,Epistles,New Testament,Jude,NLT
+1,Jude1:5 ,PHRASE,I desire,G1014,Epistles,New Testament,Jude,NLT
+1,Jude1:5 ,PHRASE,to remind,G5279,Epistles,New Testament,Jude,NLT
+1,Jude1:5 ,WORD,you,G4771,Epistles,New Testament,Jude,NLT
+1,Jude1:5 ,PHRASE,though you know,G3708,Epistles,New Testament,Jude,NLT
+1,Jude1:5 ,WORD,,G4771,Epistles,New Testament,Jude,NLT
+1,Jude1:5 ,PHRASE,all things,G3956,Epistles,New Testament,Jude,NLT
+1,Jude1:5 ,PHRASE,once for all,G530,Epistles,New Testament,Jude,NLT
+1,Jude1:5 ,WORD,that,G3754,Epistles,New Testament,Jude,NLT
+1,Jude1:5 ,WORD,the,G3588,Epistles,New Testament,Jude,NLT
+1,Jude1:5 ,WORD,Lord,G2962,Epistles,New Testament,Jude,NLT
+1,Jude1:5 ,PHRASE,after saving,G4982,Epistles,New Testament,Jude,NLT
+1,Jude1:5 ,PHRASE,a people,G2992,Epistles,New Testament,Jude,NLT
+1,Jude1:5 ,PHRASE,out of,G1537,Epistles,New Testament,Jude,NLT
+1,Jude1:5 ,PHRASE,the land,G1093,Epistles,New Testament,Jude,NLT
+1,Jude1:5 ,PHRASE,of Egypt,G125,Epistles,New Testament,Jude,NLT
+1,Jude1:5 ,WORD,subsequently,G1208,Epistles,New Testament,Jude,NLT
+1,Jude1:5 ,WORD,destroyed,G622,Epistles,New Testament,Jude,NLT
+1,Jude1:5 ,PHRASE,those who,G3588,Epistles,New Testament,Jude,NLT
+1,Jude1:5 ,PHRASE,did not,G3361,Epistles,New Testament,Jude,NLT
+1,Jude1:5 ,WORD,believe,G4100,Epistles,New Testament,Jude,NLT
+1,Jude1:6 ,WORD,And,G5037,Epistles,New Testament,Jude,NLT
+1,Jude1:6 ,WORD,angels,G32,Epistles,New Testament,Jude,NLT
+1,Jude1:6 ,WORD,who,G3588,Epistles,New Testament,Jude,NLT
+1,Jude1:6 ,PHRASE,did not,G3361,Epistles,New Testament,Jude,NLT
+1,Jude1:6 ,WORD,keep,G5083,Epistles,New Testament,Jude,NLT
+1,Jude1:6 ,PHRASE,their own,G1438,Epistles,New Testament,Jude,NLT
+1,Jude1:6 ,WORD,domain,G746,Epistles,New Testament,Jude,NLT
+1,Jude1:6 ,WORD,but,G235,Epistles,New Testament,Jude,NLT
+1,Jude1:6 ,WORD,abandoned,G620,Epistles,New Testament,Jude,NLT
+1,Jude1:6 ,PHRASE,their proper,G2398,Epistles,New Testament,Jude,NLT
+1,Jude1:6 ,WORD,abode,G3613,Epistles,New Testament,Jude,NLT
+1,Jude1:6 ,PHRASE,He has kept,G5083,Epistles,New Testament,Jude,NLT
+1,Jude1:6 ,PHRASE,in eternal,G126,Epistles,New Testament,Jude,NLT
+1,Jude1:6 ,WORD,bonds,G1199,Epistles,New Testament,Jude,NLT
+1,Jude1:6 ,WORD,under,G5259,Epistles,New Testament,Jude,NLT
+1,Jude1:6 ,WORD,darkness,G2217,Epistles,New Testament,Jude,NLT
+1,Jude1:6 ,WORD,for,G1519,Epistles,New Testament,Jude,NLT
+1,Jude1:6 ,PHRASE,the judgment,G2920,Epistles,New Testament,Jude,NLT
+1,Jude1:6 ,PHRASE,of the great,G3173,Epistles,New Testament,Jude,NLT
+1,Jude1:6 ,WORD,day,G2250,Epistles,New Testament,Jude,NLT
+1,Jude1:7 ,PHRASE,just as,G5613,Epistles,New Testament,Jude,NLT
+1,Jude1:7 ,WORD,Sodom,G4670,Epistles,New Testament,Jude,NLT
+1,Jude1:7 ,WORD,and,G2532,Epistles,New Testament,Jude,NLT
+1,Jude1:7 ,WORD,Gomorrah,G1116,Epistles,New Testament,Jude,NLT
+1,Jude1:7 ,WORD,and,G2532,Epistles,New Testament,Jude,NLT
+1,Jude1:7 ,PHRASE,the cities,G4172,Epistles,New Testament,Jude,NLT
+1,Jude1:7 ,WORD,around,G4012,Epistles,New Testament,Jude,NLT
+1,Jude1:7 ,WORD,them,G846,Epistles,New Testament,Jude,NLT
+1,Jude1:7 ,PHRASE,since they in the same,G3664,Epistles,New Testament,Jude,NLT
+1,Jude1:7 ,WORD,way,G5158,Epistles,New Testament,Jude,NLT
+1,Jude1:7 ,PHRASE,as these,G3778,Epistles,New Testament,Jude,NLT
+1,Jude1:7 ,PHRASE,indulged in gross immorality,G1608,Epistles,New Testament,Jude,NLT
+1,Jude1:7 ,WORD,and,G2532,Epistles,New Testament,Jude,NLT
+1,Jude1:7 ,WORD,went,G565,Epistles,New Testament,Jude,NLT
+1,Jude1:7 ,WORD,after,G3694,Epistles,New Testament,Jude,NLT
+1,Jude1:7 ,WORD,strange,G2087,Epistles,New Testament,Jude,NLT
+1,Jude1:7 ,WORD,flesh,G4561,Epistles,New Testament,Jude,NLT
+1,Jude1:7 ,PHRASE,are exhibited,G4295,Epistles,New Testament,Jude,NLT
+1,Jude1:7 ,PHRASE,as an example,G1164,Epistles,New Testament,Jude,NLT
+1,Jude1:7 ,PHRASE,in undergoing,G5254,Epistles,New Testament,Jude,NLT
+1,Jude1:7 ,PHRASE,the punishment,G1349,Epistles,New Testament,Jude,NLT
+1,Jude1:7 ,PHRASE,of eternal,G166,Epistles,New Testament,Jude,NLT
+1,Jude1:7 ,WORD,fire,G4442,Epistles,New Testament,Jude,NLT
+1,Jude1:8 ,WORD,Yet,G3305,Epistles,New Testament,Jude,NLT
+1,Jude1:8 ,PHRASE,in the same way,G3668,Epistles,New Testament,Jude,NLT
+1,Jude1:8 ,PHRASE,these men,G3778,Epistles,New Testament,Jude,NLT
+1,Jude1:8 ,WORD,also,G2532,Epistles,New Testament,Jude,NLT
+1,Jude1:8 ,PHRASE,by dreaming,G1797,Epistles,New Testament,Jude,NLT
+1,Jude1:8 ,WORD,defile,G3392,Epistles,New Testament,Jude,NLT
+1,Jude1:8 ,PHRASE,the flesh,G4561,Epistles,New Testament,Jude,NLT
+1,Jude1:8 ,WORD,and,G1161,Epistles,New Testament,Jude,NLT
+1,Jude1:8 ,WORD,reject,G114,Epistles,New Testament,Jude,NLT
+1,Jude1:8 ,WORD,authority,G2963,Epistles,New Testament,Jude,NLT
+1,Jude1:8 ,WORD,and,G1161,Epistles,New Testament,Jude,NLT
+1,Jude1:8 ,WORD,revile,G987,Epistles,New Testament,Jude,NLT
+1,Jude1:8 ,PHRASE,angelic majesties,G1391,Epistles,New Testament,Jude,NLT
+1,Jude1:9 ,WORD,But,G1161,Epistles,New Testament,Jude,NLT
+1,Jude1:9 ,WORD,Michael,G3413,Epistles,New Testament,Jude,NLT
+1,Jude1:9 ,WORD,the,G3588,Epistles,New Testament,Jude,NLT
+1,Jude1:9 ,WORD,archangel,G743,Epistles,New Testament,Jude,NLT
+1,Jude1:9 ,WORD,when,G3753,Epistles,New Testament,Jude,NLT
+1,Jude1:9 ,PHRASE,he disputed,G1252,Epistles,New Testament,Jude,NLT
+1,Jude1:9 ,PHRASE,with the,G3588,Epistles,New Testament,Jude,NLT
+1,Jude1:9 ,WORD,devil,G1228,Epistles,New Testament,Jude,NLT
+1,Jude1:9 ,PHRASE,and argued,G1256,Epistles,New Testament,Jude,NLT
+1,Jude1:9 ,WORD,about,G4012,Epistles,New Testament,Jude,NLT
+1,Jude1:9 ,PHRASE,the body,G4983,Epistles,New Testament,Jude,NLT
+1,Jude1:9 ,PHRASE,of Moses,G3475,Epistles,New Testament,Jude,NLT
+1,Jude1:9 ,PHRASE,did not,G3756,Epistles,New Testament,Jude,NLT
+1,Jude1:9 ,WORD,dare,G5111,Epistles,New Testament,Jude,NLT
+1,Jude1:9 ,PHRASE,pronounce against,G2018,Epistles,New Testament,Jude,NLT
+1,Jude1:9 ,PHRASE,him a railing,G988,Epistles,New Testament,Jude,NLT
+1,Jude1:9 ,WORD,judgment,G2920,Epistles,New Testament,Jude,NLT
+1,Jude1:9 ,WORD,but,G235,Epistles,New Testament,Jude,NLT
+1,Jude1:9 ,WORD,said,G3004,Epistles,New Testament,Jude,NLT
+1,Jude1:9 ,PHRASE,The Lord,G2962,Epistles,New Testament,Jude,NLT
+1,Jude1:9 ,WORD,rebuke,G2008,Epistles,New Testament,Jude,NLT
+1,Jude1:9 ,WORD,you,G4771,Epistles,New Testament,Jude,NLT
+1,Jude1:10 ,WORD,But,G1161,Epistles,New Testament,Jude,NLT
+1,Jude1:10 ,PHRASE,these men,G3778,Epistles,New Testament,Jude,NLT
+1,Jude1:10 ,WORD,revile,G987,Epistles,New Testament,Jude,NLT
+1,Jude1:10 ,PHRASE,the things which,G3745,Epistles,New Testament,Jude,NLT
+1,Jude1:10 ,PHRASE,they do,G1492,Epistles,New Testament,Jude,NLT
+1,Jude1:10 ,WORD,not,G3756,Epistles,New Testament,Jude,NLT
+1,Jude1:10 ,WORD,understand,G1492,Epistles,New Testament,Jude,NLT
+1,Jude1:10 ,WORD,and,G1161,Epistles,New Testament,Jude,NLT
+1,Jude1:10 ,PHRASE,the things which,G3745,Epistles,New Testament,Jude,NLT
+1,Jude1:10 ,PHRASE,they know,G1987,Epistles,New Testament,Jude,NLT
+1,Jude1:10 ,PHRASE,by instinct,G5447,Epistles,New Testament,Jude,NLT
+1,Jude1:10 ,WORD,like,G5613,Epistles,New Testament,Jude,NLT
+1,Jude1:10 ,WORD,unreasoning,G249,Epistles,New Testament,Jude,NLT
+1,Jude1:10 ,WORD,animals,G2226,Epistles,New Testament,Jude,NLT
+1,Jude1:10 ,WORD,by,G1722,Epistles,New Testament,Jude,NLT
+1,Jude1:10 ,PHRASE,these things,G3778,Epistles,New Testament,Jude,NLT
+1,Jude1:10 ,PHRASE,they are destroyed,G5351,Epistles,New Testament,Jude,NLT
+1,Jude1:11 ,WORD,Woe,G3759,Epistles,New Testament,Jude,NLT
+1,Jude1:11 ,PHRASE,to them,G846,Epistles,New Testament,Jude,NLT
+1,Jude1:11 ,WORD,For,G3754,Epistles,New Testament,Jude,NLT
+1,Jude1:11 ,PHRASE,they have gone,G4198,Epistles,New Testament,Jude,NLT
+1,Jude1:11 ,WORD,the,G3588,Epistles,New Testament,Jude,NLT
+1,Jude1:11 ,WORD,way,G3598,Epistles,New Testament,Jude,NLT
+1,Jude1:11 ,PHRASE,of Cain,G2535,Epistles,New Testament,Jude,NLT
+1,Jude1:11 ,WORD,and,G2532,Epistles,New Testament,Jude,NLT
+1,Jude1:11 ,PHRASE,for pay,G3408,Epistles,New Testament,Jude,NLT
+1,Jude1:11 ,PHRASE,they have rushed headlong into,G1632,Epistles,New Testament,Jude,NLT
+1,Jude1:11 ,WORD,the,G3588,Epistles,New Testament,Jude,NLT
+1,Jude1:11 ,WORD,error,G4106,Epistles,New Testament,Jude,NLT
+1,Jude1:11 ,PHRASE,of Balaam,G903,Epistles,New Testament,Jude,NLT
+1,Jude1:11 ,WORD,and,G2532,Epistles,New Testament,Jude,NLT
+1,Jude1:11 ,WORD,perished,G622,Epistles,New Testament,Jude,NLT
+1,Jude1:11 ,PHRASE,in the,G3588,Epistles,New Testament,Jude,NLT
+1,Jude1:11 ,WORD,rebellion,G485,Epistles,New Testament,Jude,NLT
+1,Jude1:11 ,PHRASE,of Korah,G2879,Epistles,New Testament,Jude,NLT
+1,Jude1:12 ,WORD,These,G3778,Epistles,New Testament,Jude,NLT
+1,Jude1:12 ,WORD,are,G1510,Epistles,New Testament,Jude,NLT
+1,Jude1:12 ,PHRASE,the men,G3588,Epistles,New Testament,Jude,NLT
+1,Jude1:12 ,PHRASE,who are hidden reefs,G4694,Epistles,New Testament,Jude,NLT
+1,Jude1:12 ,WORD,in,G1722,Epistles,New Testament,Jude,NLT
+1,Jude1:12 ,WORD,your,G4771,Epistles,New Testament,Jude,NLT
+1,Jude1:12 ,PHRASE,love feasts,G26,Epistles,New Testament,Jude,NLT
+1,Jude1:12 ,PHRASE,when they feast,G4910,Epistles,New Testament,Jude,NLT
+1,Jude1:12 ,PHRASE,with you without fear,G870,Epistles,New Testament,Jude,NLT
+1,Jude1:12 ,WORD,caring,G4165,Epistles,New Testament,Jude,NLT
+1,Jude1:12 ,PHRASE,for themselves,G1438,Epistles,New Testament,Jude,NLT
+1,Jude1:12 ,WORD,clouds,G3507,Epistles,New Testament,Jude,NLT
+1,Jude1:12 ,PHRASE,without water,G504,Epistles,New Testament,Jude,NLT
+1,Jude1:12 ,PHRASE,carried along,G3911,Epistles,New Testament,Jude,NLT
+1,Jude1:12 ,WORD,by,G5259,Epistles,New Testament,Jude,NLT
+1,Jude1:12 ,WORD,winds,G417,Epistles,New Testament,Jude,NLT
+1,Jude1:12 ,WORD,autumn,G5352,Epistles,New Testament,Jude,NLT
+1,Jude1:12 ,WORD,trees,G1186,Epistles,New Testament,Jude,NLT
+1,Jude1:12 ,PHRASE,without fruit,G175,Epistles,New Testament,Jude,NLT
+1,Jude1:12 ,WORD,doubly,G1364,Epistles,New Testament,Jude,NLT
+1,Jude1:12 ,WORD,dead,G599,Epistles,New Testament,Jude,NLT
+1,Jude1:12 ,WORD,uprooted,G1610,Epistles,New Testament,Jude,NLT
+1,Jude1:13 ,WORD,wild,G66,Epistles,New Testament,Jude,NLT
+1,Jude1:13 ,WORD,waves,G2949,Epistles,New Testament,Jude,NLT
+1,Jude1:13 ,PHRASE,of the sea,G2281,Epistles,New Testament,Jude,NLT
+1,Jude1:13 ,PHRASE,casting up,G1890,Epistles,New Testament,Jude,NLT
+1,Jude1:13 ,PHRASE,their own,G1438,Epistles,New Testament,Jude,NLT
+1,Jude1:13 ,WORD,shame,G152,Epistles,New Testament,Jude,NLT
+1,Jude1:13 ,PHRASE,like foam,G1890,Epistles,New Testament,Jude,NLT
+1,Jude1:13 ,WORD,wandering,G4107,Epistles,New Testament,Jude,NLT
+1,Jude1:13 ,WORD,stars,G792,Epistles,New Testament,Jude,NLT
+1,Jude1:13 ,PHRASE,for whom,G3739,Epistles,New Testament,Jude,NLT
+1,Jude1:13 ,WORD,the,G3588,Epistles,New Testament,Jude,NLT
+1,Jude1:13 ,WORD,black,G2217,Epistles,New Testament,Jude,NLT
+1,Jude1:13 ,WORD,darkness,G4655,Epistles,New Testament,Jude,NLT
+1,Jude1:13 ,PHRASE,has been reserved,G5083,Epistles,New Testament,Jude,NLT
+1,Jude1:13 ,WORD,forever,G1519,Epistles,New Testament,Jude,NLT
+1,Jude1:13 ,WORD,,G165,Epistles,New Testament,Jude,NLT
+1,Jude1:14 ,PHRASE,It was,G1161,Epistles,New Testament,Jude,NLT
+1,Jude1:14 ,WORD,also,G2532,Epistles,New Testament,Jude,NLT
+1,Jude1:14 ,PHRASE,about these men,G3778,Epistles,New Testament,Jude,NLT
+1,Jude1:14 ,PHRASE,that Enoch,G1802,Epistles,New Testament,Jude,NLT
+1,Jude1:14 ,PHRASE,in the seventh generation,G1442,Epistles,New Testament,Jude,NLT
+1,Jude1:14 ,WORD,from,G575,Epistles,New Testament,Jude,NLT
+1,Jude1:14 ,WORD,Adam,G76,Epistles,New Testament,Jude,NLT
+1,Jude1:14 ,WORD,prophesied,G4395,Epistles,New Testament,Jude,NLT
+1,Jude1:14 ,WORD,saying,G3004,Epistles,New Testament,Jude,NLT
+1,Jude1:14 ,WORD,Behold,G2400,Epistles,New Testament,Jude,NLT
+1,Jude1:14 ,PHRASE,the Lord,G2962,Epistles,New Testament,Jude,NLT
+1,Jude1:14 ,WORD,came,G2064,Epistles,New Testament,Jude,NLT
+1,Jude1:14 ,WORD,with,G1722,Epistles,New Testament,Jude,NLT
+1,Jude1:14 ,PHRASE,many thousands,G3461,Epistles,New Testament,Jude,NLT
+1,Jude1:14 ,PHRASE,of His,G846,Epistles,New Testament,Jude,NLT
+1,Jude1:14 ,PHRASE,holy ones,G40,Epistles,New Testament,Jude,NLT
+1,Jude1:15 ,PHRASE,to execute,G4160,Epistles,New Testament,Jude,NLT
+1,Jude1:15 ,WORD,judgment,G2920,Epistles,New Testament,Jude,NLT
+1,Jude1:15 ,WORD,upon,G2596,Epistles,New Testament,Jude,NLT
+1,Jude1:15 ,WORD,all,G3956,Epistles,New Testament,Jude,NLT
+1,Jude1:15 ,WORD,and,G2532,Epistles,New Testament,Jude,NLT
+1,Jude1:15 ,PHRASE,to convict,G1651,Epistles,New Testament,Jude,NLT
+1,Jude1:15 ,WORD,all,G3956,Epistles,New Testament,Jude,NLT
+1,Jude1:15 ,WORD,the,G3588,Epistles,New Testament,Jude,NLT
+1,Jude1:15 ,WORD,ungodly,G765,Epistles,New Testament,Jude,NLT
+1,Jude1:15 ,WORD,of,G4012,Epistles,New Testament,Jude,NLT
+1,Jude1:15 ,WORD,all,G3956,Epistles,New Testament,Jude,NLT
+1,Jude1:15 ,WORD,their,G846,Epistles,New Testament,Jude,NLT
+1,Jude1:15 ,WORD,ungodly,G763,Epistles,New Testament,Jude,NLT
+1,Jude1:15 ,WORD,deeds,G2041,Epistles,New Testament,Jude,NLT
+1,Jude1:15 ,WORD,which,G3739,Epistles,New Testament,Jude,NLT
+1,Jude1:15 ,PHRASE,they have done in an ungodly way,G764,Epistles,New Testament,Jude,NLT
+1,Jude1:15 ,WORD,and,G2532,Epistles,New Testament,Jude,NLT
+1,Jude1:15 ,WORD,of,G4012,Epistles,New Testament,Jude,NLT
+1,Jude1:15 ,WORD,all,G3956,Epistles,New Testament,Jude,NLT
+1,Jude1:15 ,WORD,the,G3588,Epistles,New Testament,Jude,NLT
+1,Jude1:15 ,PHRASE,harsh things,G4642,Epistles,New Testament,Jude,NLT
+1,Jude1:15 ,WORD,which,G3739,Epistles,New Testament,Jude,NLT
+1,Jude1:15 ,WORD,ungodly,G765,Epistles,New Testament,Jude,NLT
+1,Jude1:15 ,WORD,sinners,G268,Epistles,New Testament,Jude,NLT
+1,Jude1:15 ,PHRASE,have spoken,G2980,Epistles,New Testament,Jude,NLT
+1,Jude1:15 ,WORD,against,G2596,Epistles,New Testament,Jude,NLT
+1,Jude1:15 ,WORD,Him,G846,Epistles,New Testament,Jude,NLT
+1,Jude1:16 ,WORD,These,G3778,Epistles,New Testament,Jude,NLT
+1,Jude1:16 ,WORD,are,G1510,Epistles,New Testament,Jude,NLT
+1,Jude1:16 ,WORD,grumblers,G1113,Epistles,New Testament,Jude,NLT
+1,Jude1:16 ,PHRASE,finding fault,G3202,Epistles,New Testament,Jude,NLT
+1,Jude1:16 ,WORD,following,G4198,Epistles,New Testament,Jude,NLT
+1,Jude1:16 ,WORD,after,G2596,Epistles,New Testament,Jude,NLT
+1,Jude1:16 ,PHRASE,their own,G1438,Epistles,New Testament,Jude,NLT
+1,Jude1:16 ,WORD,lusts,G1939,Epistles,New Testament,Jude,NLT
+1,Jude1:16 ,WORD,they,G4750,Epistles,New Testament,Jude,NLT
+1,Jude1:16 ,WORD,,G846,Epistles,New Testament,Jude,NLT
+1,Jude1:16 ,WORD,speak,G2980,Epistles,New Testament,Jude,NLT
+1,Jude1:16 ,WORD,arrogantly,G5246,Epistles,New Testament,Jude,NLT
+1,Jude1:16 ,WORD,flattering,G2296,Epistles,New Testament,Jude,NLT
+1,Jude1:16 ,WORD,people,G4383,Epistles,New Testament,Jude,NLT
+1,Jude1:16 ,PHRASE,for the sake,G5484,Epistles,New Testament,Jude,NLT
+1,Jude1:16 ,PHRASE,of gaining an advantage,G5622,Epistles,New Testament,Jude,NLT
+1,Jude1:17 ,WORD,But,G1161,Epistles,New Testament,Jude,NLT
+1,Jude1:17 ,WORD,you,G4771,Epistles,New Testament,Jude,NLT
+1,Jude1:17 ,WORD,beloved,G27,Epistles,New Testament,Jude,NLT
+1,Jude1:17 ,PHRASE,ought to remember,G3403,Epistles,New Testament,Jude,NLT
+1,Jude1:17 ,WORD,the,G3588,Epistles,New Testament,Jude,NLT
+1,Jude1:17 ,WORD,words,G4487,Epistles,New Testament,Jude,NLT
+1,Jude1:17 ,WORD,that,G3588,Epistles,New Testament,Jude,NLT
+1,Jude1:17 ,PHRASE,were spoken beforehand,G4277,Epistles,New Testament,Jude,NLT
+1,Jude1:17 ,WORD,by,G5259,Epistles,New Testament,Jude,NLT
+1,Jude1:17 ,WORD,the,G3588,Epistles,New Testament,Jude,NLT
+1,Jude1:17 ,WORD,apostles,G652,Epistles,New Testament,Jude,NLT
+1,Jude1:17 ,PHRASE,of our,G1473,Epistles,New Testament,Jude,NLT
+1,Jude1:17 ,WORD,Lord,G2962,Epistles,New Testament,Jude,NLT
+1,Jude1:17 ,WORD,Jesus,G2424,Epistles,New Testament,Jude,NLT
+1,Jude1:17 ,WORD,Christ,G5547,Epistles,New Testament,Jude,NLT
+1,Jude1:18 ,WORD,that,G3754,Epistles,New Testament,Jude,NLT
+1,Jude1:18 ,PHRASE,they were saying,G3004,Epistles,New Testament,Jude,NLT
+1,Jude1:18 ,PHRASE,to you,G4771,Epistles,New Testament,Jude,NLT
+1,Jude1:18 ,WORD,In,G1909,Epistles,New Testament,Jude,NLT
+1,Jude1:18 ,PHRASE,the last,G2078,Epistles,New Testament,Jude,NLT
+1,Jude1:18 ,WORD,time,G5550,Epistles,New Testament,Jude,NLT
+1,Jude1:18 ,PHRASE,there will be,G1510,Epistles,New Testament,Jude,NLT
+1,Jude1:18 ,WORD,mockers,G1703,Epistles,New Testament,Jude,NLT
+1,Jude1:18 ,WORD,following,G4198,Epistles,New Testament,Jude,NLT
+1,Jude1:18 ,WORD,after,G2596,Epistles,New Testament,Jude,NLT
+1,Jude1:18 ,PHRASE,their own,G1438,Epistles,New Testament,Jude,NLT
+1,Jude1:18 ,WORD,ungodly,G763,Epistles,New Testament,Jude,NLT
+1,Jude1:18 ,WORD,lusts,G1939,Epistles,New Testament,Jude,NLT
+1,Jude1:19 ,WORD,These,G3778,Epistles,New Testament,Jude,NLT
+1,Jude1:19 ,WORD,are,G1510,Epistles,New Testament,Jude,NLT
+1,Jude1:19 ,WORD,the,G3588,Epistles,New Testament,Jude,NLT
+1,Jude1:19 ,PHRASE,ones who cause divisions,G592,Epistles,New Testament,Jude,NLT
+1,Jude1:19 ,WORD,worldly-minded,G5591,Epistles,New Testament,Jude,NLT
+1,Jude1:19 ,WORD,devoid,G3361,Epistles,New Testament,Jude,NLT
+1,Jude1:19 ,WORD,,G2192,Epistles,New Testament,Jude,NLT
+1,Jude1:19 ,PHRASE,of the Spirit,G4151,Epistles,New Testament,Jude,NLT
+1,Jude1:20 ,WORD,But,G1161,Epistles,New Testament,Jude,NLT
+1,Jude1:20 ,WORD,you,G4771,Epistles,New Testament,Jude,NLT
+1,Jude1:20 ,WORD,beloved,G27,Epistles,New Testament,Jude,NLT
+1,Jude1:20 ,WORD,building,G2026,Epistles,New Testament,Jude,NLT
+1,Jude1:20 ,WORD,yourselves,G1438,Epistles,New Testament,Jude,NLT
+1,Jude1:20 ,PHRASE,up on your,G4771,Epistles,New Testament,Jude,NLT
+1,Jude1:20 ,PHRASE,most holy,G40,Epistles,New Testament,Jude,NLT
+1,Jude1:20 ,WORD,faith,G4102,Epistles,New Testament,Jude,NLT
+1,Jude1:20 ,WORD,praying,G4336,Epistles,New Testament,Jude,NLT
+1,Jude1:20 ,WORD,in,G1722,Epistles,New Testament,Jude,NLT
+1,Jude1:20 ,PHRASE,the Holy,G40,Epistles,New Testament,Jude,NLT
+1,Jude1:20 ,WORD,Spirit,G4151,Epistles,New Testament,Jude,NLT
+1,Jude1:21 ,WORD,keep,G5083,Epistles,New Testament,Jude,NLT
+1,Jude1:21 ,WORD,yourselves,G1438,Epistles,New Testament,Jude,NLT
+1,Jude1:21 ,WORD,in,G1722,Epistles,New Testament,Jude,NLT
+1,Jude1:21 ,PHRASE,the love,G26,Epistles,New Testament,Jude,NLT
+1,Jude1:21 ,PHRASE,of God,G2316,Epistles,New Testament,Jude,NLT
+1,Jude1:21 ,PHRASE,waiting anxiously,G4327,Epistles,New Testament,Jude,NLT
+1,Jude1:21 ,PHRASE,for the,G3588,Epistles,New Testament,Jude,NLT
+1,Jude1:21 ,WORD,mercy,G1656,Epistles,New Testament,Jude,NLT
+1,Jude1:21 ,PHRASE,of our,G1473,Epistles,New Testament,Jude,NLT
+1,Jude1:21 ,WORD,Lord,G2962,Epistles,New Testament,Jude,NLT
+1,Jude1:21 ,WORD,Jesus,G2424,Epistles,New Testament,Jude,NLT
+1,Jude1:21 ,WORD,Christ,G5547,Epistles,New Testament,Jude,NLT
+1,Jude1:21 ,WORD,to,G1519,Epistles,New Testament,Jude,NLT
+1,Jude1:21 ,WORD,eternal,G166,Epistles,New Testament,Jude,NLT
+1,Jude1:21 ,WORD,life,G2222,Epistles,New Testament,Jude,NLT
+1,Jude1:22 ,WORD,And,G2532,Epistles,New Testament,Jude,NLT
+1,Jude1:22 ,PHRASE,have mercy,G1653,Epistles,New Testament,Jude,NLT
+1,Jude1:22 ,PHRASE,"on some, who",G3739,Epistles,New Testament,Jude,NLT
+1,Jude1:22 ,PHRASE,are doubting,G1252,Epistles,New Testament,Jude,NLT
+1,Jude1:23 ,WORD,save,G4982,Epistles,New Testament,Jude,NLT
+1,Jude1:23 ,WORD,others,G3739,Epistles,New Testament,Jude,NLT
+1,Jude1:23 ,PHRASE,snatching them,G726,Epistles,New Testament,Jude,NLT
+1,Jude1:23 ,PHRASE,out of,G1537,Epistles,New Testament,Jude,NLT
+1,Jude1:23 ,PHRASE,the fire,G4442,Epistles,New Testament,Jude,NLT
+1,Jude1:23 ,WORD,and,G1161,Epistles,New Testament,Jude,NLT
+1,Jude1:23 ,PHRASE,on some,G3739,Epistles,New Testament,Jude,NLT
+1,Jude1:23 ,PHRASE,have mercy,G1653,Epistles,New Testament,Jude,NLT
+1,Jude1:23 ,WORD,with,G1722,Epistles,New Testament,Jude,NLT
+1,Jude1:23 ,WORD,fear,G5401,Epistles,New Testament,Jude,NLT
+1,Jude1:23 ,WORD,hating,G3404,Epistles,New Testament,Jude,NLT
+1,Jude1:23 ,WORD,even,G2532,Epistles,New Testament,Jude,NLT
+1,Jude1:23 ,PHRASE,the garment,G5509,Epistles,New Testament,Jude,NLT
+1,Jude1:23 ,WORD,polluted,G4695,Epistles,New Testament,Jude,NLT
+1,Jude1:23 ,WORD,by,G575,Epistles,New Testament,Jude,NLT
+1,Jude1:23 ,WORD,the,G3588,Epistles,New Testament,Jude,NLT
+1,Jude1:23 ,WORD,flesh,G4561,Epistles,New Testament,Jude,NLT
+1,Jude1:24 ,WORD,Now,G1161,Epistles,New Testament,Jude,NLT
+1,Jude1:24 ,PHRASE,to Him who,G3588,Epistles,New Testament,Jude,NLT
+1,Jude1:24 ,PHRASE,is able,G1410,Epistles,New Testament,Jude,NLT
+1,Jude1:24 ,PHRASE,to keep,G5442,Epistles,New Testament,Jude,NLT
+1,Jude1:24 ,WORD,you,G4771,Epistles,New Testament,Jude,NLT
+1,Jude1:24 ,PHRASE,from stumbling,G679,Epistles,New Testament,Jude,NLT
+1,Jude1:24 ,WORD,and,G2532,Epistles,New Testament,Jude,NLT
+1,Jude1:24 ,PHRASE,to make you stand,G2476,Epistles,New Testament,Jude,NLT
+1,Jude1:24 ,PHRASE,in the presence,G2714,Epistles,New Testament,Jude,NLT
+1,Jude1:24 ,PHRASE,of His,G846,Epistles,New Testament,Jude,NLT
+1,Jude1:24 ,WORD,glory,G1391,Epistles,New Testament,Jude,NLT
+1,Jude1:24 ,WORD,blameless,G299,Epistles,New Testament,Jude,NLT
+1,Jude1:24 ,WORD,with,G1722,Epistles,New Testament,Jude,NLT
+1,Jude1:24 ,PHRASE,great joy,G20,Epistles,New Testament,Jude,NLT
+1,Jude1:25 ,PHRASE,to the only,G3441,Epistles,New Testament,Jude,NLT
+1,Jude1:25 ,WORD,God,G2316,Epistles,New Testament,Jude,NLT
+1,Jude1:25 ,WORD,our,G1473,Epistles,New Testament,Jude,NLT
+1,Jude1:25 ,WORD,Savior,G4990,Epistles,New Testament,Jude,NLT
+1,Jude1:25 ,WORD,through,G1223,Epistles,New Testament,Jude,NLT
+1,Jude1:25 ,WORD,Jesus,G2424,Epistles,New Testament,Jude,NLT
+1,Jude1:25 ,WORD,Christ,G5547,Epistles,New Testament,Jude,NLT
+1,Jude1:25 ,WORD,our,G1473,Epistles,New Testament,Jude,NLT
+1,Jude1:25 ,WORD,Lord,G2962,Epistles,New Testament,Jude,NLT
+1,Jude1:25 ,PHRASE,be glory,G1391,Epistles,New Testament,Jude,NLT
+1,Jude1:25 ,WORD,majesty,G3172,Epistles,New Testament,Jude,NLT
+1,Jude1:25 ,WORD,dominion,G2904,Epistles,New Testament,Jude,NLT
+1,Jude1:25 ,WORD,and,G2532,Epistles,New Testament,Jude,NLT
+1,Jude1:25 ,WORD,authority,G1849,Epistles,New Testament,Jude,NLT
+1,Jude1:25 ,WORD,before,G4253,Epistles,New Testament,Jude,NLT
+1,Jude1:25 ,WORD,all,G3956,Epistles,New Testament,Jude,NLT
+1,Jude1:25 ,WORD,time,G165,Epistles,New Testament,Jude,NLT
+1,Jude1:25 ,WORD,and,G2532,Epistles,New Testament,Jude,NLT
+1,Jude1:25 ,WORD,now,G3568,Epistles,New Testament,Jude,NLT
+1,Jude1:25 ,WORD,and,G2532,Epistles,New Testament,Jude,NLT
+1,Jude1:25 ,WORD,forever,G3956,Epistles,New Testament,Jude,NLT
+1,Jude1:25 ,WORD,,G165,Epistles,New Testament,Jude,NLT
+1,Jude1:25 ,WORD,Amen,G281,Epistles,New Testament,Jude,NLT

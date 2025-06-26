@@ -1,0 +1,921 @@
+bible_chapter,bible_verse,verse_part_type,verse_part,hebrew_id,lit_type,testament_type,bible_book,version
+1,Joel1:1,PHRASE,The word,H1697,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:1,PHRASE,of the LORD,H3068,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:1,PHRASE,that came,H1961,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:1,PHRASE,to Joel,H3100,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:1,PHRASE,the son,H1121,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:1,PHRASE,of Pethuel,H6602,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:2,WORD,Hear,H8085,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:2,WORD,this,H2088,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:2,PHRASE,O elders,H2205,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:2,PHRASE,And listen,H238,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:2,WORD,all,H3605,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:2,WORD,inhabitants,H3427,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:2,PHRASE,of the land,H776,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:2,PHRASE,Has anything like this,H2088,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:2,WORD,happened,H1961,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:2,PHRASE,in your days,H3117,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:2,WORD,Or,H518,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:2,PHRASE,in your fathers,H1,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:2,WORD,days,H3117,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:3,WORD,Tell,H5608,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:3,PHRASE,your sons,H1121,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:3,PHRASE,"about it, And let your sons",H1121,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:3,PHRASE,tell their sons,H1121,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:3,PHRASE,And their sons,H1121,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:3,PHRASE,the next,H312,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:3,WORD,generation,H1755,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:4,WORD,What,H3499,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:4,PHRASE,the gnawing,H1501,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:4,WORD,locust,H1501,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:4,PHRASE,has left,H3499,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:4,PHRASE,the swarming,H697,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:4,WORD,locust,H697,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:4,PHRASE,has eaten,H398,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:4,PHRASE,And what,H3499,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:4,PHRASE,the swarming,H697,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:4,WORD,locust,H697,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:4,PHRASE,has left,H3499,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:4,PHRASE,the creeping,H3218,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:4,WORD,locust,H3218,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:4,PHRASE,has eaten,H398,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:4,PHRASE,And what,H3499,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:4,PHRASE,the creeping,H3218,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:4,WORD,locust,H3218,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:4,PHRASE,has left,H3499,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:4,PHRASE,the stripping,H2625,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:4,WORD,locust,H2625,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:4,PHRASE,has eaten,H398,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:5,WORD,Awake,H6974,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:5,WORD,drunkards,H7910,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:5,PHRASE,and weep,H1058,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:5,PHRASE,And wail,H3213,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:5,WORD,all,H3605,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:5,PHRASE,you wine,H3196,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:5,WORD,drinkers,H8354,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:5,PHRASE,On account,H5921,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:5,PHRASE,of the sweet,H6071,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:5,WORD,wine,H6071,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:5,PHRASE,That is cut,H3772,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:5,WORD,off,H3772,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:5,PHRASE,from your mouth,H6310,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:6,PHRASE,For a nation,H1471,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:6,PHRASE,has invaded,H5927,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:6,PHRASE,my land,H776,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:6,WORD,Mighty,H6099,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:6,PHRASE,and without,H369,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:6,WORD,number,H4557,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:6,PHRASE,Its teeth,H8127,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:6,PHRASE,are the teeth,H8127,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:6,PHRASE,of a lion,H738,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:6,PHRASE,And it has the fangs,H4973,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:6,PHRASE,of a lioness,H3833,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:7,PHRASE,It has made,H7760,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:7,PHRASE,my vine,H1612,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:7,PHRASE,a waste,H8047,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:7,PHRASE,And my fig,H8384,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:7,WORD,tree,H8384,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:7,WORD,splinters,H7111,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:7,PHRASE,It has stripped,H2834,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:7,PHRASE,them bare,H2834,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:7,PHRASE,and cast,H7993,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:7,PHRASE,them away,H7993,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:7,PHRASE,Their branches,H8299,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:7,PHRASE,have become,H3835,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:7,WORD,white,H3835,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:8,WORD,Wail,H421,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:8,PHRASE,like a virgin,H1330,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:8,WORD,girded,H2296,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:8,PHRASE,with sackcloth,H8242,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:8,PHRASE,For the bridegroom,H1167,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:8,PHRASE,of her youth,H5271,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:9,PHRASE,The grain offering,H4503,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:9,PHRASE,and the drink,H5262,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:9,WORD,offering,H5262,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:9,PHRASE,are cut,H3772,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:9,WORD,off,H3772,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:9,PHRASE,From the house,H1004,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:9,PHRASE,of the LORD,H3068,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:9,PHRASE,The priests,H3548,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:9,WORD,mourn,H56,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:9,PHRASE,The ministers,H8334,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:9,PHRASE,of the LORD,H3068,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:10,PHRASE,The field,H7704,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:10,PHRASE,is ruined,H7703,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:10,PHRASE,The land,H127,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:10,WORD,mourns,H56,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:10,PHRASE,For the grain,H1715,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:10,PHRASE,is ruined,H7703,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:10,PHRASE,The new,H8492,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:10,WORD,wine,H8492,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:10,WORD,dries,H3001,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:10,PHRASE,"up, Fresh",H3323,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:10,WORD,oil,H3323,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:10,WORD,fails,H535,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:11,PHRASE,Be ashamed,H954,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:11,PHRASE,O farmers,H406,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:11,WORD,Wail,H3213,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:11,PHRASE,O vinedressers,H3755,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:11,PHRASE,For the wheat,H2406,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:11,PHRASE,and the barley,H8184,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:11,WORD,Because,H3588,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:11,PHRASE,the harvest,H7105,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:11,PHRASE,of the field,H7704,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:11,PHRASE,is destroyed,H6,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:12,PHRASE,The vine,H1612,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:12,WORD,dries,H3001,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:12,PHRASE,up And the fig,H8384,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:12,WORD,tree,H8384,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:12,WORD,fails,H535,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:12,PHRASE,The pomegranate,H7416,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:12,PHRASE,the palm,H8558,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:12,WORD,also,H1571,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:12,PHRASE,and the apple,H8598,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:12,WORD,tree,H8598,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:12,WORD,All,H3605,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:12,PHRASE,the trees,H6086,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:12,PHRASE,of the field,H7704,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:12,WORD,dry,H3001,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:12,PHRASE,up. Indeed,H3588,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:12,WORD,rejoicing,H8342,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:12,WORD,dries,H3001,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:12,PHRASE,up From the sons,H1121,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:12,PHRASE,of men,H120,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:13,WORD,Gird,H2296,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:13,WORD,yourselves,H2296,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:13,PHRASE,with sackcloth And lament,H5594,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:13,PHRASE,O priests,H3548,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:13,WORD,Wail,H3213,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:13,PHRASE,O ministers,H8334,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:13,PHRASE,of the altar,H4196,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:13,WORD,Come,H935,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:13,WORD,spend,H3885,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:13,PHRASE,the night,H3885,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:13,PHRASE,in sackcloth,H8242,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:13,PHRASE,O ministers,H8334,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:13,PHRASE,of my God,H430,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:13,PHRASE,For the grain offering,H4503,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:13,PHRASE,and the drink,H5262,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:13,WORD,offering,H5262,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:13,PHRASE,Are withheld,H4513,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:13,PHRASE,from the house,H1004,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:13,PHRASE,of your God,H430,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:14,WORD,Consecrate,H6942,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:14,PHRASE,a fast,H6685,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:14,WORD,Proclaim,H7121,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:14,PHRASE,a solemn,H6116,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:14,WORD,assembly,H6116,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:14,WORD,Gather,H622,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:14,PHRASE,the elders,H2205,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:14,PHRASE,And all,H3605,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:14,PHRASE,the inhabitants,H3427,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:14,PHRASE,of the land,H776,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:14,PHRASE,To the house,H1004,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:14,PHRASE,of the LORD,H3068,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:14,PHRASE,your God,H430,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:14,PHRASE,And cry,H2199,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:14,PHRASE,out to the LORD,H3068,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:15,WORD,Alas,H162,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:15,PHRASE,for the day,H3117,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:15,PHRASE,For the day,H3117,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:15,PHRASE,of the LORD,H3068,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:15,PHRASE,is near,H7138,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:15,PHRASE,And it will come,H935,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:15,PHRASE,as destruction,H7701,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:15,PHRASE,from the Almighty,H7706,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:16,PHRASE,Has not food,H400,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:16,PHRASE,been cut,H3772,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:16,WORD,off,H3772,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:16,WORD,before,H5048,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:16,PHRASE,our eyes,H5869,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:16,WORD,Gladness,H8057,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:16,PHRASE,and joy,H1524,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:16,PHRASE,from the house,H1004,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:16,PHRASE,of our God,H430,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:17,PHRASE,The seeds,H6507,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:17,WORD,shrivel,H5685,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:17,WORD,under,H8478,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:17,PHRASE,their clods,H4053,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:17,PHRASE,The storehouses,H214,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:17,PHRASE,are desolate,H8074,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:17,PHRASE,The barns,H4460,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:17,PHRASE,are torn,H2040,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:17,WORD,down,H2040,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:17,PHRASE,For the grain,H1715,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:17,PHRASE,is dried,H3001,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:17,WORD,up,,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:18,WORD,How,H4100,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:18,PHRASE,the beasts,H929,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:18,WORD,groan,H584,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:18,PHRASE,The herds,H5739,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:18,PHRASE,of cattle,H1241,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:18,WORD,wander,H943,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:18,WORD,aimlessly,H943,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:18,WORD,Because,H3588,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:18,WORD,there,H369,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:18,PHRASE,is no,H369,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:18,WORD,pasture,H4829,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:18,PHRASE,for them; Even,H1571,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:18,PHRASE,the flocks,H5739,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:18,PHRASE,of sheep,H6629,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:18,WORD,suffer,H816,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:19,PHRASE,"To You, O LORD",H3068,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:19,PHRASE,I cry,H7121,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:19,PHRASE,For fire,H784,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:19,PHRASE,has devoured,H398,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:19,PHRASE,the pastures,H4999,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:19,PHRASE,of the wilderness,H4057,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:19,PHRASE,And the flame,H3852,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:19,PHRASE,has burned,H3857,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:19,PHRASE,up all,H3605,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:19,PHRASE,the trees,H6086,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:19,PHRASE,of the field,H7704,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:20,WORD,Even,H1571,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:20,PHRASE,the beasts,H929,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:20,PHRASE,of the field,H7704,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:20,WORD,pant,H6165,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:20,PHRASE,for You; For the water,H4325,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:20,WORD,brooks,H650,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:20,PHRASE,are dried,H3001,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:20,PHRASE,up And fire,H784,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:20,PHRASE,has devoured,H398,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:20,PHRASE,the pastures,H4999,Minor Prophets,Old Testament,Joel,ASV
+1,Joel1:20,PHRASE,of the wilderness,H4057,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:1,WORD,Blow,H8628,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:1,PHRASE,a trumpet,H7782,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:1,PHRASE,in Zion,H6726,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:1,PHRASE,And sound,H7321,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:1,PHRASE,an alarm,H7321,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:1,PHRASE,on My holy,H6944,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:1,WORD,mountain,H2022,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:1,PHRASE,Let all,H3605,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:1,PHRASE,the inhabitants,H3427,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:1,PHRASE,of the land,H776,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:1,WORD,tremble,H7264,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:1,PHRASE,For the day,H3117,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:1,PHRASE,of the LORD,H3068,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:1,PHRASE,is coming,H935,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:1,WORD,Surely,H3588,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:1,PHRASE,it is near,H7138,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:2,PHRASE,A day,H3117,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:2,PHRASE,of darkness,H2822,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:2,PHRASE,and gloom,H653,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:2,PHRASE,A day,H3117,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:2,PHRASE,of clouds,H6051,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:2,PHRASE,and thick,H6205,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:2,WORD,darkness,H6205,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:2,PHRASE,As the dawn,H7837,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:2,PHRASE,is spread,H6566,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:2,WORD,over,H5921,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:2,PHRASE,the mountains,H2022,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:2,PHRASE,So there is a great,H7227,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:2,PHRASE,and mighty,H6099,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:2,WORD,people,H5971,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:2,PHRASE,There has never,H3808,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:2,WORD,,H4480,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:2,WORD,,H5769,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:2,WORD,been,H1961,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:2,PHRASE,anything like,H3644,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:2,PHRASE,"it, Nor",H3808,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:2,PHRASE,will there be again,H3254,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:2,WORD,after,H310,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:2,PHRASE,it To the years,H8141,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:2,PHRASE,of many,H1755,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:2,WORD,generations,H1755,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:3,PHRASE,A fire,H784,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:3,WORD,consumes,H398,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:3,WORD,before,H6440,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:3,PHRASE,them And behind,H310,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:3,PHRASE,them a flame,H3852,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:3,WORD,burns,H3857,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:3,PHRASE,The land,H776,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:3,PHRASE,is like the garden,H1588,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:3,PHRASE,of Eden,H5731,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:3,WORD,before,H6440,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:3,PHRASE,them But a desolate,H8077,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:3,WORD,wilderness,H4057,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:3,WORD,behind,H310,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:3,PHRASE,"them, And nothing",H3808,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:3,PHRASE,at all,H1571,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:3,WORD,escapes,H6413,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:3,WORD,them,,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:4,PHRASE,Their appearance,H4758,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:4,PHRASE,is like the appearance,H4758,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:4,PHRASE,of horses,H5483,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:4,PHRASE,And like war horses,H6571,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:4,WORD,so,H3651,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:4,PHRASE,they run,H7323,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:5,PHRASE,With a noise,H6963,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:5,PHRASE,as of chariots,H4818,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:5,PHRASE,They leap,H7540,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:5,PHRASE,on the tops,H7218,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:5,PHRASE,of the mountains,H2022,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:5,PHRASE,Like the crackling,H6963,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:5,PHRASE,of a flame,H3851,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:5,PHRASE,of fire,H784,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:5,WORD,consuming,H398,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:5,PHRASE,the stubble,H7179,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:5,PHRASE,Like a mighty,H6099,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:5,WORD,people,H5971,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:5,WORD,arranged,H6186,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:5,PHRASE,for battle,H4421,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:6,WORD,Before,H4480,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:6,WORD,,H6440,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:6,PHRASE,them the people,H5971,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:6,PHRASE,are in anguish,H2342,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:6,WORD,All,H3605,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:6,WORD,faces,H6440,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:6,WORD,turn,H6908,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:6,WORD,pale,H6289,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:7,PHRASE,They run,H7323,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:7,PHRASE,like mighty,H1368,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:7,WORD,men,H1368,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:7,PHRASE,They climb,H5927,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:7,PHRASE,the wall,H2346,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:7,PHRASE,like soldiers,H582,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:7,WORD,,H4421,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:7,PHRASE,And they each,H376,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:7,WORD,march,H1980,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:7,PHRASE,in line,H1870,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:7,WORD,Nor,H3808,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:7,PHRASE,do they deviate,H5670,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:7,PHRASE,from their paths,H734,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:8,PHRASE,They do not crowd,H1766,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:8,WORD,each,H376,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:8,WORD,other,H251,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:8,PHRASE,They march,H1980,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:8,WORD,everyone,H1397,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:8,PHRASE,in his path,H4546,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:8,PHRASE,When they burst,H5307,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:8,WORD,through,H1157,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:8,PHRASE,the defenses,H7973,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:8,PHRASE,They do not break,H1214,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:8,WORD,ranks,H1214,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:9,PHRASE,They rush,H8264,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:9,PHRASE,on the city,H5892,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:9,PHRASE,They run,H7323,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:9,PHRASE,on the wall,H2346,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:9,PHRASE,They climb,H5927,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:9,PHRASE,into the houses,H1004,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:9,PHRASE,They enter,H935,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:9,WORD,through,H1157,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:9,PHRASE,the windows,H2474,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:9,PHRASE,like a thief,H1590,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:10,WORD,Before,H6440,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:10,PHRASE,them the earth,H776,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:10,WORD,quakes,H7264,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:10,PHRASE,The heavens,H8064,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:10,WORD,tremble,H7493,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:10,PHRASE,The sun,H8121,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:10,PHRASE,and the moon,H3394,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:10,WORD,grow,H6937,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:10,WORD,dark,H6937,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:10,PHRASE,And the stars,H3556,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:10,WORD,lose,H622,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:10,PHRASE,their brightness,H5051,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:11,PHRASE,The LORD,H3068,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:11,WORD,utters,H5414,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:11,PHRASE,His voice,H6963,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:11,WORD,before,H6440,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:11,PHRASE,His army,H2428,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:11,WORD,Surely,H3588,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:11,PHRASE,His camp,H4264,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:11,PHRASE,is very,H3966,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:11,WORD,great,H7227,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:11,PHRASE,For strong,H6099,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:11,PHRASE,is he who carries,H6213,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:11,PHRASE,out His word,H1697,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:11,PHRASE,The day,H3117,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:11,PHRASE,of the LORD,H3068,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:11,PHRASE,is indeed,H3588,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:11,WORD,great,H1419,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:11,PHRASE,and very,H3966,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:11,WORD,awesome,H3372,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:11,PHRASE,And who can endure,H3557,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:11,WORD,it,,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:12,PHRASE,Yet even,H1571,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:12,WORD,now,H6258,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:12,WORD,declares,H5002,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:12,PHRASE,the LORD,H3068,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:12,WORD,Return,H7725,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:12,PHRASE,to Me with all,H3605,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:12,PHRASE,your heart,H3824,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:12,PHRASE,And with fasting,H6685,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:12,WORD,weeping,H1065,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:12,PHRASE,and mourning,H4553,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:13,PHRASE,And rend,H7167,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:13,PHRASE,your heart,H3824,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:13,PHRASE,and not your garments,H899,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:13,PHRASE,Now return,H7725,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:13,PHRASE,to the LORD,H3068,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:13,PHRASE,your God,H430,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:13,PHRASE,For He is gracious,H2587,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:13,PHRASE,and compassionate,H7349,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:13,WORD,Slow,H750,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:13,PHRASE,to anger,H639,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:13,WORD,abounding,H7227,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:13,PHRASE,in lovingkindness,H2617,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:13,PHRASE,And relenting,H5162,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:13,PHRASE,of evil,H7451,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:14,WORD,Who,H4310,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:14,WORD,knows,H3045,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:14,PHRASE,whether He will not turn,H7725,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:14,PHRASE,and relent,H5162,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:14,PHRASE,And leave,H7604,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:14,PHRASE,a blessing,H1293,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:14,WORD,behind,H310,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:14,PHRASE,"Him, Even a grain offering",H4503,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:14,PHRASE,and a drink,H5262,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:14,WORD,offering,H5262,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:14,PHRASE,For the LORD,H3068,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:14,PHRASE,your God,H430,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:15,WORD,Blow,H8628,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:15,PHRASE,a trumpet,H7782,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:15,PHRASE,in Zion,H6726,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:15,WORD,Consecrate,H6942,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:15,PHRASE,a fast,H6685,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:15,WORD,proclaim,H7121,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:15,PHRASE,a solemn,H6116,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:15,WORD,assembly,H6116,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:16,WORD,Gather,H622,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:16,PHRASE,the people,H5971,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:16,WORD,sanctify,H6942,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:16,PHRASE,the congregation,H6951,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:16,WORD,Assemble,H6908,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:16,PHRASE,the elders,H2205,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:16,WORD,Gather,H622,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:16,PHRASE,the children,H5768,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:16,PHRASE,and the nursing,H3243,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:16,WORD,,H7699,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:16,WORD,infants,H3243,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:16,WORD,,H7699,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:16,PHRASE,Let the bridegroom,H2860,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:16,WORD,come,H3318,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:16,PHRASE,out of his room,H2315,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:16,PHRASE,And the bride,H3618,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:16,PHRASE,out of her bridal chamber,H2646,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:17,PHRASE,Let the priests,H3548,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:17,PHRASE,the LORD'S,H3068,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:17,WORD,ministers,H8334,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:17,WORD,Weep,H1058,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:17,WORD,between,H996,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:17,PHRASE,the porch,H197,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:17,PHRASE,and the altar,H4196,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:17,PHRASE,And let them say,H559,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:17,WORD,Spare,H2347,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:17,PHRASE,Your people,H5971,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:17,PHRASE,O LORD,H3068,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:17,PHRASE,And do not make,H5414,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:17,PHRASE,Your inheritance,H5159,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:17,PHRASE,a reproach,H2781,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:17,PHRASE,A byword,H4912,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:17,PHRASE,among the nations,H1471,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:17,WORD,Why,H4100,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:17,PHRASE,should they among the peoples,H5971,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:17,WORD,say,H559,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:17,WORD,Where,H346,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:17,PHRASE,is their God,H430,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:18,PHRASE,Then the LORD,H3068,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:18,PHRASE,will be zealous,H7065,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:18,PHRASE,for His land,H776,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:18,PHRASE,And will have,H2550,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:18,WORD,pity,H2550,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:18,PHRASE,on His people,H5971,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:19,PHRASE,The LORD,H3068,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:19,PHRASE,will answer,H6030,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:19,PHRASE,and say,H559,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:19,PHRASE,to His people,H5971,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:19,WORD,Behold,H2009,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:19,PHRASE,I am going to send,H7971,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:19,PHRASE,you grain,H1715,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:19,WORD,new,H8492,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:19,WORD,wine,H8492,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:19,PHRASE,and oil,H3323,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:19,PHRASE,And you will be satisfied,H7646,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:19,PHRASE,in full with them; And I will never,H3808,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:19,WORD,again,H5750,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:19,WORD,make,H5414,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:19,PHRASE,you a reproach,H2781,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:19,PHRASE,among the nations,H1471,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:20,PHRASE,But I will remove,H7368,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:20,PHRASE,the northern,H6830,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:20,PHRASE,army far,H7368,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:20,PHRASE,"from you, And I will drive",H5080,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:20,PHRASE,it into a parched,H6723,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:20,PHRASE,and desolate,H8077,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:20,WORD,land,H776,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:20,PHRASE,And its vanguard,H6440,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:20,PHRASE,into the eastern,H6931,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:20,WORD,sea,H3220,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:20,PHRASE,And its rear,H5490,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:20,PHRASE,guard into the western,H314,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:20,WORD,sea,H3220,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:20,PHRASE,And its stench,H889,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:20,PHRASE,will arise,H5927,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:20,PHRASE,and its foul,H6709,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:20,WORD,smell,H6709,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:20,PHRASE,will come,H5927,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:20,PHRASE,"up, For it has done",H6213,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:20,WORD,great,H1431,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:20,WORD,things,H1431,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:21,PHRASE,Do not fear,H3372,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:21,PHRASE,O land,H127,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:21,WORD,rejoice,H1523,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:21,PHRASE,and be glad,H8055,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:21,PHRASE,For the LORD,H3068,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:21,PHRASE,has done,H6213,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:21,WORD,great,H1431,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:21,WORD,things,H1431,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:22,PHRASE,Do not fear,H3372,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:22,WORD,beasts,H929,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:22,PHRASE,of the field,H7704,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:22,PHRASE,For the pastures,H4999,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:22,PHRASE,of the wilderness,H4057,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:22,PHRASE,have turned,H1876,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:22,WORD,green,H1876,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:22,PHRASE,For the tree,H6086,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:22,PHRASE,has borne,H5375,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:22,PHRASE,its fruit,H6529,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:22,PHRASE,The fig,H8384,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:22,WORD,tree,H8384,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:22,PHRASE,and the vine,H1612,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:22,PHRASE,have yielded,H5414,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:22,PHRASE,in full,H2428,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:23,PHRASE,So rejoice,H1523,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:23,PHRASE,O sons,H1121,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:23,PHRASE,of Zion,H6726,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:23,PHRASE,And be glad,H8055,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:23,PHRASE,in the LORD,H3068,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:23,PHRASE,your God,H430,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:23,PHRASE,For He has given,H5414,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:23,PHRASE,you the early,H4175,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:23,WORD,rain,H4175,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:23,PHRASE,for your vindication,H6666,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:23,PHRASE,And He has poured,H3381,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:23,WORD,down,H3381,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:23,PHRASE,for you the rain,H1653,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:23,PHRASE,The early,H4175,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:23,PHRASE,and latter,H4456,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:23,WORD,rain,H4456,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:23,PHRASE,as before,H7223,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:24,PHRASE,The threshing,H1637,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:24,WORD,floors,H1637,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:24,PHRASE,will be full,H4390,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:24,PHRASE,of grain,H1250,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:24,PHRASE,And the vats,H3342,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:24,PHRASE,will overflow,H7783,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:24,PHRASE,with the new,H8492,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:24,WORD,wine,H8492,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:24,PHRASE,and oil,H3323,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:25,PHRASE,Then I will make,H7999,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:25,PHRASE,up to you for the years,H8141,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:25,PHRASE,That the swarming,H697,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:25,WORD,locust,H697,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:25,PHRASE,has eaten,H398,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:25,PHRASE,The creeping,H3218,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:25,WORD,locust,H3218,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:25,PHRASE,the stripping,H2625,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:25,WORD,locust,H2625,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:25,PHRASE,and the gnawing,H1501,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:25,WORD,locust,H1501,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:25,PHRASE,My great,H1419,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:25,WORD,army,H2428,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:25,WORD,which,H834,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:25,PHRASE,I sent,H7971,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:25,PHRASE,among you,,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:26,PHRASE,You will have plenty,H398,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:26,PHRASE,to eat,H398,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:26,PHRASE,and be satisfied,H7646,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:26,PHRASE,And praise,H1984,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:26,PHRASE,the name,H8034,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:26,PHRASE,of the LORD,H3068,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:26,PHRASE,your God,H430,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:26,WORD,Who,H834,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:26,PHRASE,has dealt,H6213,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:26,WORD,wondrously,H6381,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:26,PHRASE,with you; Then My people,H5971,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:26,PHRASE,will never,H3808,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:26,WORD,,H5769,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:26,PHRASE,be put,H954,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:26,PHRASE,to shame,H954,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:27,PHRASE,Thus you will know,H3045,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:27,PHRASE,that I am in the midst,H7130,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:27,PHRASE,of Israel,H3478,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:27,PHRASE,And that I am the LORD,H3068,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:27,PHRASE,your God,H430,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:27,PHRASE,And there,H369,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:27,PHRASE,is no,H369,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:27,WORD,other,H5750,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:27,PHRASE,And My people,H5971,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:27,PHRASE,will never,H3808,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:27,WORD,,H5769,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:27,PHRASE,be put,H954,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:27,PHRASE,to shame,H954,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:28,PHRASE,It will come,H1961,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:28,PHRASE,about after,H310,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:28,WORD,this,H3651,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:28,PHRASE,That I will pour,H8210,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:28,PHRASE,out My Spirit,H7307,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:28,PHRASE,on all,H3605,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:28,WORD,mankind,H1320,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:28,PHRASE,And your sons,H1121,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:28,PHRASE,and daughters,H1323,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:28,PHRASE,will prophesy,H5012,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:28,PHRASE,Your old,H2205,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:28,WORD,men,H2205,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:28,PHRASE,will dream,H2492,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:28,WORD,dreams,H2472,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:28,PHRASE,Your young,H970,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:28,WORD,men,H970,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:28,PHRASE,will see,H7200,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:28,WORD,visions,H2384,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:29,WORD,Even,H1571,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:29,PHRASE,on the male,H5650,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:29,PHRASE,and female,H8198,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:29,WORD,servants,H5650,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:29,WORD,,H8198,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:29,PHRASE,I will pour,H8210,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:29,PHRASE,out My Spirit,H7307,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:29,PHRASE,in those,H1992,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:29,WORD,days,H3117,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:30,PHRASE,I will display,H5414,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:30,WORD,wonders,H4159,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:30,PHRASE,in the sky,H8064,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:30,PHRASE,and on the earth,H776,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:30,WORD,Blood,H1818,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:30,WORD,fire,H784,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:30,PHRASE,and columns,H8490,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:30,PHRASE,of smoke,H6227,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:31,PHRASE,The sun,H8121,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:31,PHRASE,will be turned,H2015,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:31,PHRASE,into darkness,H2822,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:31,PHRASE,And the moon,H3394,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:31,PHRASE,into blood,H1818,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:31,WORD,Before,H6440,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:31,PHRASE,the great,H1419,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:31,PHRASE,and awesome,H3372,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:31,WORD,day,H3117,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:31,PHRASE,of the LORD,H3068,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:31,WORD,comes,H935,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:32,PHRASE,And it will come,H1961,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:32,PHRASE,about that whoever,H3605,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:32,WORD,,H834,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:32,WORD,calls,H7121,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:32,PHRASE,on the name,H8034,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:32,PHRASE,of the LORD,H3068,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:32,PHRASE,Will be delivered,H4422,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:32,PHRASE,For on Mount,H2022,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:32,WORD,Zion,H6726,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:32,PHRASE,and in Jerusalem,H3389,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:32,PHRASE,There will be those who escape,H6413,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:32,PHRASE,As the LORD,H3068,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:32,PHRASE,has said,H559,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:32,PHRASE,Even among the survivors,H8300,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:32,WORD,whom,H834,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:32,PHRASE,the LORD,H3068,Minor Prophets,Old Testament,Joel,ASV
+2,Joel2:32,WORD,calls,H7121,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:1,PHRASE,For behold,H2009,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:1,PHRASE,in those,H1992,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:1,WORD,days,H3117,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:1,PHRASE,and at that time,H6256,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:1,WORD,When,H834,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:1,PHRASE,I restore,H7725,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:1,PHRASE,the fortunes,H7622,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:1,PHRASE,of Judah,H3063,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:1,PHRASE,and Jerusalem,H3389,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:2,PHRASE,I will gather,H6908,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:2,WORD,all,H3605,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:2,PHRASE,the nations,H1471,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:2,PHRASE,And bring,H3381,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:2,PHRASE,them down,H3381,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:2,PHRASE,to the valley,H6010,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:2,PHRASE,of Jehoshaphat,H3092,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:2,PHRASE,Then I will enter,H8199,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:2,PHRASE,into judgment,H8199,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:2,PHRASE,with them there,H8033,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:2,PHRASE,On behalf,H5921,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:2,PHRASE,of My people,H5971,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:2,PHRASE,and My inheritance,H5159,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:2,WORD,Israel,H3478,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:2,WORD,Whom,H834,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:2,PHRASE,they have scattered,H6340,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:2,PHRASE,among the nations,H1471,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:2,PHRASE,And they have divided,H2505,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:2,PHRASE,up My land,H776,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:3,PHRASE,They have also cast,H3032,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:3,WORD,lots,H1486,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:3,PHRASE,for My people,H5971,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:3,WORD,Traded,H5414,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:3,PHRASE,a boy,H3206,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:3,PHRASE,for a harlot,H2181,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:3,PHRASE,And sold,H4376,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:3,PHRASE,a girl,H3207,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:3,PHRASE,for wine,H3196,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:3,PHRASE,that they may drink,H8354,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:4,WORD,Moreover,H1571,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:4,WORD,what,H4100,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:4,PHRASE,"are you to Me, O Tyre",H6865,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:4,WORD,Sidon,H6721,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:4,PHRASE,and all,H3605,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:4,PHRASE,the regions,H1552,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:4,PHRASE,of Philistia,H6429,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:4,PHRASE,Are you rendering,H7999,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:4,PHRASE,Me a recompense,H1576,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:4,PHRASE,But if,H518,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:4,PHRASE,you do recompense,H1580,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:4,PHRASE,"Me, swiftly",H7031,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:4,PHRASE,and speedily,H4120,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:4,PHRASE,I will return,H7725,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:4,PHRASE,your recompense,H1576,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:4,PHRASE,on your head,H7218,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:5,WORD,Since,H834,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:5,PHRASE,you have taken,H3947,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:5,PHRASE,My silver,H3701,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:5,PHRASE,and My gold,H2091,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:5,WORD,brought,H935,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:5,PHRASE,My precious,H4261,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:5,WORD,treasures,H4261,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:5,PHRASE,to your temples,H1964,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:6,PHRASE,and sold,H4376,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:6,PHRASE,the sons,H1121,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:6,PHRASE,of Judah,H3063,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:6,PHRASE,and Jerusalem,H3389,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:6,PHRASE,to the Greeks,H3125,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:6,PHRASE,in order,H4616,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:6,PHRASE,to remove,H7368,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:6,PHRASE,them far,H7368,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:6,PHRASE,from their territory,H1366,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:7,WORD,behold,H2009,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:7,PHRASE,I am going to arouse,H5782,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:7,PHRASE,them from the place,H4725,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:7,WORD,where,H834,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:7,WORD,,H8033,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:7,PHRASE,you have sold,H4376,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:7,PHRASE,"them, and return",H7725,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:7,PHRASE,your recompense,H1576,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:7,PHRASE,on your head,H7218,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:8,PHRASE,Also I will sell,H4376,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:8,PHRASE,your sons,H1121,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:8,PHRASE,and your daughters,H1323,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:8,PHRASE,into the hand,H3027,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:8,PHRASE,of the sons,H1121,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:8,PHRASE,of Judah,H3063,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:8,PHRASE,and they will sell,H4376,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:8,PHRASE,them to the Sabeans,H7615,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:8,PHRASE,to a distant,H7350,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:8,WORD,nation,H1471,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:8,PHRASE,for the LORD,H3068,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:8,PHRASE,has spoken,H1696,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:9,WORD,Proclaim,H7121,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:9,WORD,this,H2088,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:9,PHRASE,among the nations,H1471,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:9,WORD,Prepare,H6942,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:9,PHRASE,a war,H4421,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:9,WORD,rouse,H5782,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:9,PHRASE,the mighty,H1368,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:9,WORD,men,H1368,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:9,PHRASE,Let all,H3605,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:9,PHRASE,the soldiers,H582,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:9,WORD,,H4421,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:9,WORD,draw,H5066,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:9,WORD,near,H5066,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:9,PHRASE,let them come,H5927,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:9,WORD,up,,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:10,WORD,Beat,H3807,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:10,PHRASE,your plowshares,H855,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:10,PHRASE,into swords,H2719,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:10,PHRASE,And your pruning,H4211,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:10,WORD,hooks,H4211,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:10,PHRASE,into spears,H7420,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:10,PHRASE,Let the weak,H2523,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:10,WORD,say,H559,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:10,PHRASE,I am a mighty,H1368,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:10,WORD,man,H1368,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:11,WORD,Hasten,H5789,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:11,PHRASE,and come,H935,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:11,WORD,all,H3605,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:11,PHRASE,you surrounding,H5439,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:11,WORD,nations,H1471,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:11,PHRASE,And gather,H6908,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:11,PHRASE,yourselves there,H8033,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:11,WORD,Bring,H5181,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:11,WORD,down,H5181,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:11,PHRASE,O LORD,H3068,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:11,PHRASE,Your mighty,H1368,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:11,WORD,ones,H1368,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:12,PHRASE,Let the nations,H1471,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:12,PHRASE,be aroused,H5782,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:12,PHRASE,And come,H5927,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:12,PHRASE,up to the valley,H6010,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:12,PHRASE,of Jehoshaphat,H3092,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:12,PHRASE,For there,H8033,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:12,PHRASE,I will sit,H3427,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:12,PHRASE,to judge,H8199,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:12,WORD,All,H3605,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:12,PHRASE,the surrounding,H5439,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:12,WORD,nations,H1471,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:13,WORD,Put,H7971,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:13,PHRASE,in the sickle,H4038,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:13,PHRASE,for the harvest,H7105,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:13,PHRASE,is ripe,H1310,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:13,WORD,Come,H935,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:13,WORD,tread,H3381,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:13,PHRASE,for the wine,H1660,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:13,WORD,press,H1660,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:13,PHRASE,is full,H4390,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:13,PHRASE,The vats,H3342,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:13,WORD,overflow,H7783,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:13,PHRASE,for their wickedness,H7451,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:13,PHRASE,is great,H7227,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:14,WORD,Multitudes,H1995,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:14,WORD,multitudes,H1995,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:14,PHRASE,in the valley,H6010,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:14,PHRASE,of decision,H2742,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:14,PHRASE,For the day,H3117,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:14,PHRASE,of the LORD,H3068,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:14,PHRASE,is near,H7138,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:14,PHRASE,in the valley,H6010,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:14,PHRASE,of decision,H2742,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:15,PHRASE,The sun,H8121,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:15,PHRASE,and moon,H3394,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:15,WORD,grow,H6937,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:15,WORD,dark,H6937,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:15,PHRASE,And the stars,H3556,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:15,WORD,lose,H622,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:15,PHRASE,their brightness,H5051,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:16,PHRASE,The LORD,H3068,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:16,WORD,roars,H7580,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:16,PHRASE,from Zion,H6726,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:16,PHRASE,And utters,H5414,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:16,PHRASE,His voice,H6963,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:16,PHRASE,from Jerusalem,H3389,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:16,PHRASE,And the heavens,H8064,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:16,PHRASE,and the earth,H776,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:16,WORD,tremble,H7493,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:16,PHRASE,But the LORD,H3068,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:16,PHRASE,is a refuge,H4268,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:16,PHRASE,for His people,H5971,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:16,PHRASE,And a stronghold,H4581,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:16,PHRASE,to the sons,H1121,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:16,PHRASE,of Israel,H3478,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:17,PHRASE,Then you will know,H3045,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:17,PHRASE,that I am the LORD,H3068,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:17,PHRASE,your God,H430,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:17,WORD,Dwelling,H7931,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:17,PHRASE,in Zion,H6726,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:17,PHRASE,My holy,H6944,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:17,WORD,mountain,H2022,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:17,PHRASE,So Jerusalem,H3389,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:17,PHRASE,will be holy,H6944,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:17,PHRASE,And strangers,H2114,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:17,PHRASE,will pass,H5674,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:17,PHRASE,through it no,H3808,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:17,WORD,more,H5750,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:18,PHRASE,And in that day,H3117,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:18,PHRASE,The mountains,H2022,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:18,PHRASE,will drip,H5197,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:18,PHRASE,with sweet,H6071,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:18,WORD,wine,H6071,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:18,PHRASE,And the hills,H1389,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:18,PHRASE,will flow,H1980,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:18,PHRASE,with milk,H2461,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:18,PHRASE,And all,H3605,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:18,PHRASE,the brooks,H650,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:18,PHRASE,of Judah,H3063,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:18,PHRASE,will flow,H1980,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:18,PHRASE,with water,H4325,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:18,PHRASE,And a spring,H4599,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:18,PHRASE,will go,H3318,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:18,PHRASE,out from the house,H1004,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:18,PHRASE,of the LORD,H3068,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:18,PHRASE,To water,H8248,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:18,PHRASE,the valley,H5158,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:18,PHRASE,of Shittim,H7851,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:19,WORD,Egypt,H4714,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:19,PHRASE,will become,H1961,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:19,PHRASE,a waste,H8077,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:19,PHRASE,And Edom,H123,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:19,PHRASE,will become,H1961,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:19,PHRASE,a desolate,H8077,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:19,WORD,wilderness,H4057,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:19,WORD,Because,H4480,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:19,PHRASE,of the violence,H2555,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:19,PHRASE,done to the sons,H1121,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:19,PHRASE,of Judah,H3063,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:19,PHRASE,In whose,H834,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:19,WORD,land,H776,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:19,PHRASE,they have shed,H8210,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:19,WORD,innocent,H5355,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:19,WORD,blood,H1818,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:20,PHRASE,But Judah,H3063,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:20,PHRASE,will be inhabited,H3427,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:20,WORD,forever,H5769,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:20,PHRASE,And Jerusalem,H3389,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:20,PHRASE,for all,H1755,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:20,WORD,generations,H1755,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:21,PHRASE,And I will avenge,H5352,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:21,PHRASE,their blood,H1818,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:21,PHRASE,which I have not avenged,H5352,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:21,PHRASE,For the LORD,H3068,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:21,WORD,dwells,H7931,Minor Prophets,Old Testament,Joel,ASV
+3,Joel3:21,PHRASE,in Zion,H6726,Minor Prophets,Old Testament,Joel,ASV

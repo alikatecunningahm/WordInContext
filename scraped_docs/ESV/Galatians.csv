@@ -1,0 +1,2119 @@
+bible_chapter,bible_verse,verse_part_type,verse_part,hebrew_id,lit_type,testament_type,bible_book,version
+1,Galatians1:1 ,WORD,Paul,G3972,Epistles,New Testament,Galatians,ESV
+1,Galatians1:1 ,PHRASE,an apostle,G652,Epistles,New Testament,Galatians,ESV
+1,Galatians1:1 ,WORD,(not,G3756,Epistles,New Testament,Galatians,ESV
+1,Galatians1:1 ,PHRASE,sent from,G575,Epistles,New Testament,Galatians,ESV
+1,Galatians1:1 ,WORD,men,G444,Epistles,New Testament,Galatians,ESV
+1,Galatians1:1 ,WORD,nor,G3761,Epistles,New Testament,Galatians,ESV
+1,Galatians1:1 ,PHRASE,through the agency,G1223,Epistles,New Testament,Galatians,ESV
+1,Galatians1:1 ,PHRASE,of man,G444,Epistles,New Testament,Galatians,ESV
+1,Galatians1:1 ,WORD,but,G235,Epistles,New Testament,Galatians,ESV
+1,Galatians1:1 ,WORD,through,G1223,Epistles,New Testament,Galatians,ESV
+1,Galatians1:1 ,WORD,Jesus,G2424,Epistles,New Testament,Galatians,ESV
+1,Galatians1:1 ,WORD,Christ,G5547,Epistles,New Testament,Galatians,ESV
+1,Galatians1:1 ,WORD,and,G2532,Epistles,New Testament,Galatians,ESV
+1,Galatians1:1 ,WORD,God,G2316,Epistles,New Testament,Galatians,ESV
+1,Galatians1:1 ,PHRASE,the Father,G3962,Epistles,New Testament,Galatians,ESV
+1,Galatians1:1 ,WORD,who,G3588,Epistles,New Testament,Galatians,ESV
+1,Galatians1:1 ,WORD,raised,G1453,Epistles,New Testament,Galatians,ESV
+1,Galatians1:1 ,WORD,Him,G846,Epistles,New Testament,Galatians,ESV
+1,Galatians1:1 ,WORD,from,G1537,Epistles,New Testament,Galatians,ESV
+1,Galatians1:1 ,PHRASE,the dead),G3498,Epistles,New Testament,Galatians,ESV
+1,Galatians1:2 ,WORD,and,G2532,Epistles,New Testament,Galatians,ESV
+1,Galatians1:2 ,WORD,all,G3956,Epistles,New Testament,Galatians,ESV
+1,Galatians1:2 ,PHRASE,the brethren,G80,Epistles,New Testament,Galatians,ESV
+1,Galatians1:2 ,WORD,who,G3588,Epistles,New Testament,Galatians,ESV
+1,Galatians1:2 ,PHRASE,are with,G4862,Epistles,New Testament,Galatians,ESV
+1,Galatians1:2 ,WORD,me,G1473,Epistles,New Testament,Galatians,ESV
+1,Galatians1:2 ,PHRASE,To the,G3588,Epistles,New Testament,Galatians,ESV
+1,Galatians1:2 ,WORD,churches,G1577,Epistles,New Testament,Galatians,ESV
+1,Galatians1:2 ,PHRASE,of Galatia,G1053,Epistles,New Testament,Galatians,ESV
+1,Galatians1:3 ,WORD,Grace,G5485,Epistles,New Testament,Galatians,ESV
+1,Galatians1:3 ,PHRASE,to you,G4771,Epistles,New Testament,Galatians,ESV
+1,Galatians1:3 ,WORD,and,G2532,Epistles,New Testament,Galatians,ESV
+1,Galatians1:3 ,WORD,peace,G1515,Epistles,New Testament,Galatians,ESV
+1,Galatians1:3 ,WORD,from,G575,Epistles,New Testament,Galatians,ESV
+1,Galatians1:3 ,WORD,God,G2316,Epistles,New Testament,Galatians,ESV
+1,Galatians1:3 ,WORD,our,G1473,Epistles,New Testament,Galatians,ESV
+1,Galatians1:3 ,WORD,Father,G3962,Epistles,New Testament,Galatians,ESV
+1,Galatians1:3 ,WORD,and,G2532,Epistles,New Testament,Galatians,ESV
+1,Galatians1:3 ,PHRASE,the Lord,G2962,Epistles,New Testament,Galatians,ESV
+1,Galatians1:3 ,WORD,Jesus,G2424,Epistles,New Testament,Galatians,ESV
+1,Galatians1:3 ,WORD,Christ,G5547,Epistles,New Testament,Galatians,ESV
+1,Galatians1:4 ,WORD,who,G3588,Epistles,New Testament,Galatians,ESV
+1,Galatians1:4 ,WORD,gave,G1325,Epistles,New Testament,Galatians,ESV
+1,Galatians1:4 ,WORD,Himself,G1438,Epistles,New Testament,Galatians,ESV
+1,Galatians1:4 ,WORD,for,G5228,Epistles,New Testament,Galatians,ESV
+1,Galatians1:4 ,WORD,our,G1473,Epistles,New Testament,Galatians,ESV
+1,Galatians1:4 ,WORD,sins,G266,Epistles,New Testament,Galatians,ESV
+1,Galatians1:4 ,PHRASE,so that,G3704,Epistles,New Testament,Galatians,ESV
+1,Galatians1:4 ,PHRASE,He might rescue,G1807,Epistles,New Testament,Galatians,ESV
+1,Galatians1:4 ,WORD,us,G1473,Epistles,New Testament,Galatians,ESV
+1,Galatians1:4 ,WORD,from,G1537,Epistles,New Testament,Galatians,ESV
+1,Galatians1:4 ,PHRASE,this present,G1764,Epistles,New Testament,Galatians,ESV
+1,Galatians1:4 ,WORD,evil,G4190,Epistles,New Testament,Galatians,ESV
+1,Galatians1:4 ,WORD,age,G165,Epistles,New Testament,Galatians,ESV
+1,Galatians1:4 ,PHRASE,according to,G2596,Epistles,New Testament,Galatians,ESV
+1,Galatians1:4 ,WORD,the,G3588,Epistles,New Testament,Galatians,ESV
+1,Galatians1:4 ,WORD,will,G2307,Epistles,New Testament,Galatians,ESV
+1,Galatians1:4 ,PHRASE,of our,G1473,Epistles,New Testament,Galatians,ESV
+1,Galatians1:4 ,WORD,God,G2316,Epistles,New Testament,Galatians,ESV
+1,Galatians1:4 ,WORD,and,G2532,Epistles,New Testament,Galatians,ESV
+1,Galatians1:4 ,WORD,Father,G3962,Epistles,New Testament,Galatians,ESV
+1,Galatians1:5 ,PHRASE,to whom,G3739,Epistles,New Testament,Galatians,ESV
+1,Galatians1:5 ,PHRASE,be the,G3588,Epistles,New Testament,Galatians,ESV
+1,Galatians1:5 ,WORD,glory,G1391,Epistles,New Testament,Galatians,ESV
+1,Galatians1:5 ,WORD,forevermore,G165,Epistles,New Testament,Galatians,ESV
+1,Galatians1:5 ,WORD,,G1519,Epistles,New Testament,Galatians,ESV
+1,Galatians1:5 ,WORD,,G165,Epistles,New Testament,Galatians,ESV
+1,Galatians1:5 ,WORD,Amen,G281,Epistles,New Testament,Galatians,ESV
+1,Galatians1:6 ,PHRASE,I am amazed,G2296,Epistles,New Testament,Galatians,ESV
+1,Galatians1:6 ,WORD,that,G3754,Epistles,New Testament,Galatians,ESV
+1,Galatians1:6 ,PHRASE,you are so,G3779,Epistles,New Testament,Galatians,ESV
+1,Galatians1:6 ,WORD,quickly,G5030,Epistles,New Testament,Galatians,ESV
+1,Galatians1:6 ,WORD,deserting,G3346,Epistles,New Testament,Galatians,ESV
+1,Galatians1:6 ,WORD,,G575,Epistles,New Testament,Galatians,ESV
+1,Galatians1:6 ,PHRASE,Him who,G3588,Epistles,New Testament,Galatians,ESV
+1,Galatians1:6 ,WORD,called,G2564,Epistles,New Testament,Galatians,ESV
+1,Galatians1:6 ,WORD,you,G4771,Epistles,New Testament,Galatians,ESV
+1,Galatians1:6 ,WORD,by,G1722,Epistles,New Testament,Galatians,ESV
+1,Galatians1:6 ,PHRASE,the grace,G5485,Epistles,New Testament,Galatians,ESV
+1,Galatians1:6 ,PHRASE,of Christ,G5547,Epistles,New Testament,Galatians,ESV
+1,Galatians1:6 ,WORD,for,G1519,Epistles,New Testament,Galatians,ESV
+1,Galatians1:6 ,PHRASE,a different,G2087,Epistles,New Testament,Galatians,ESV
+1,Galatians1:6 ,WORD,gospel,G2098,Epistles,New Testament,Galatians,ESV
+1,Galatians1:7 ,WORD,which,G3739,Epistles,New Testament,Galatians,ESV
+1,Galatians1:7 ,WORD,is,G1510,Epistles,New Testament,Galatians,ESV
+1,Galatians1:7 ,PHRASE,really not,G3756,Epistles,New Testament,Galatians,ESV
+1,Galatians1:7 ,WORD,another,G243,Epistles,New Testament,Galatians,ESV
+1,Galatians1:7 ,WORD,only,G1487,Epistles,New Testament,Galatians,ESV
+1,Galatians1:7 ,WORD,,G3361,Epistles,New Testament,Galatians,ESV
+1,Galatians1:7 ,PHRASE,there are,G1510,Epistles,New Testament,Galatians,ESV
+1,Galatians1:7 ,WORD,some,G5100,Epistles,New Testament,Galatians,ESV
+1,Galatians1:7 ,WORD,who,G3588,Epistles,New Testament,Galatians,ESV
+1,Galatians1:7 ,PHRASE,are disturbing,G5015,Epistles,New Testament,Galatians,ESV
+1,Galatians1:7 ,WORD,you,G4771,Epistles,New Testament,Galatians,ESV
+1,Galatians1:7 ,WORD,and,G2532,Epistles,New Testament,Galatians,ESV
+1,Galatians1:7 ,WORD,want,G2309,Epistles,New Testament,Galatians,ESV
+1,Galatians1:7 ,PHRASE,to distort,G3344,Epistles,New Testament,Galatians,ESV
+1,Galatians1:7 ,WORD,the,G3588,Epistles,New Testament,Galatians,ESV
+1,Galatians1:7 ,WORD,gospel,G2098,Epistles,New Testament,Galatians,ESV
+1,Galatians1:7 ,PHRASE,of Christ,G5547,Epistles,New Testament,Galatians,ESV
+1,Galatians1:8 ,WORD,But,G235,Epistles,New Testament,Galatians,ESV
+1,Galatians1:8 ,WORD,even,G2532,Epistles,New Testament,Galatians,ESV
+1,Galatians1:8 ,WORD,if,G1437,Epistles,New Testament,Galatians,ESV
+1,Galatians1:8 ,WORD,we,G1473,Epistles,New Testament,Galatians,ESV
+1,Galatians1:8 ,WORD,or,G2228,Epistles,New Testament,Galatians,ESV
+1,Galatians1:8 ,PHRASE,an angel,G32,Epistles,New Testament,Galatians,ESV
+1,Galatians1:8 ,WORD,from,G1537,Epistles,New Testament,Galatians,ESV
+1,Galatians1:8 ,WORD,heaven,G3772,Epistles,New Testament,Galatians,ESV
+1,Galatians1:8 ,PHRASE,should preach,G2097,Epistles,New Testament,Galatians,ESV
+1,Galatians1:8 ,PHRASE,to you,G4771,Epistles,New Testament,Galatians,ESV
+1,Galatians1:8 ,PHRASE,a gospel,G2097,Epistles,New Testament,Galatians,ESV
+1,Galatians1:8 ,WORD,contrary,G3844,Epistles,New Testament,Galatians,ESV
+1,Galatians1:8 ,PHRASE,to what,G3739,Epistles,New Testament,Galatians,ESV
+1,Galatians1:8 ,PHRASE,we have preached,G2097,Epistles,New Testament,Galatians,ESV
+1,Galatians1:8 ,PHRASE,to you,G4771,Epistles,New Testament,Galatians,ESV
+1,Galatians1:8 ,PHRASE,he is to be,G1510,Epistles,New Testament,Galatians,ESV
+1,Galatians1:8 ,WORD,accursed,G331,Epistles,New Testament,Galatians,ESV
+1,Galatians1:9 ,WORD,As,G5613,Epistles,New Testament,Galatians,ESV
+1,Galatians1:9 ,PHRASE,we have said before,G4277,Epistles,New Testament,Galatians,ESV
+1,Galatians1:9 ,WORD,so,G2532,Epistles,New Testament,Galatians,ESV
+1,Galatians1:9 ,PHRASE,I say,G3004,Epistles,New Testament,Galatians,ESV
+1,Galatians1:9 ,WORD,again,G3825,Epistles,New Testament,Galatians,ESV
+1,Galatians1:9 ,WORD,now,G737,Epistles,New Testament,Galatians,ESV
+1,Galatians1:9 ,WORD,if,G1487,Epistles,New Testament,Galatians,ESV
+1,Galatians1:9 ,PHRASE,any man,G5100,Epistles,New Testament,Galatians,ESV
+1,Galatians1:9 ,PHRASE,is preaching,G2097,Epistles,New Testament,Galatians,ESV
+1,Galatians1:9 ,PHRASE,to you,G4771,Epistles,New Testament,Galatians,ESV
+1,Galatians1:9 ,PHRASE,a gospel,G2097,Epistles,New Testament,Galatians,ESV
+1,Galatians1:9 ,WORD,contrary,G3844,Epistles,New Testament,Galatians,ESV
+1,Galatians1:9 ,PHRASE,to what,G3739,Epistles,New Testament,Galatians,ESV
+1,Galatians1:9 ,PHRASE,you received,G3880,Epistles,New Testament,Galatians,ESV
+1,Galatians1:9 ,PHRASE,he is to be,G1510,Epistles,New Testament,Galatians,ESV
+1,Galatians1:9 ,WORD,accursed,G331,Epistles,New Testament,Galatians,ESV
+1,Galatians1:10 ,WORD,For,G1063,Epistles,New Testament,Galatians,ESV
+1,Galatians1:10 ,PHRASE,am I now,G737,Epistles,New Testament,Galatians,ESV
+1,Galatians1:10 ,PHRASE,seeking the favor,G3982,Epistles,New Testament,Galatians,ESV
+1,Galatians1:10 ,PHRASE,of men,G444,Epistles,New Testament,Galatians,ESV
+1,Galatians1:10 ,WORD,or,G2228,Epistles,New Testament,Galatians,ESV
+1,Galatians1:10 ,PHRASE,of God,G2316,Epistles,New Testament,Galatians,ESV
+1,Galatians1:10 ,WORD,Or,G2228,Epistles,New Testament,Galatians,ESV
+1,Galatians1:10 ,PHRASE,am I striving,G2212,Epistles,New Testament,Galatians,ESV
+1,Galatians1:10 ,PHRASE,to please,G700,Epistles,New Testament,Galatians,ESV
+1,Galatians1:10 ,WORD,men,G444,Epistles,New Testament,Galatians,ESV
+1,Galatians1:10 ,WORD,If,G1487,Epistles,New Testament,Galatians,ESV
+1,Galatians1:10 ,PHRASE,I were still,G2089,Epistles,New Testament,Galatians,ESV
+1,Galatians1:10 ,PHRASE,trying to please,G700,Epistles,New Testament,Galatians,ESV
+1,Galatians1:10 ,WORD,men,G444,Epistles,New Testament,Galatians,ESV
+1,Galatians1:10 ,PHRASE,I would,G1510,Epistles,New Testament,Galatians,ESV
+1,Galatians1:10 ,WORD,not,G3756,Epistles,New Testament,Galatians,ESV
+1,Galatians1:10 ,PHRASE,be a bond-servant,G1401,Epistles,New Testament,Galatians,ESV
+1,Galatians1:10 ,PHRASE,of Christ,G5547,Epistles,New Testament,Galatians,ESV
+1,Galatians1:11 ,WORD,For,G1063,Epistles,New Testament,Galatians,ESV
+1,Galatians1:11 ,PHRASE,I would have,G1107,Epistles,New Testament,Galatians,ESV
+1,Galatians1:11 ,WORD,you,G4771,Epistles,New Testament,Galatians,ESV
+1,Galatians1:11 ,WORD,know,G1107,Epistles,New Testament,Galatians,ESV
+1,Galatians1:11 ,WORD,brethren,G80,Epistles,New Testament,Galatians,ESV
+1,Galatians1:11 ,PHRASE,that the,G3588,Epistles,New Testament,Galatians,ESV
+1,Galatians1:11 ,WORD,gospel,G2098,Epistles,New Testament,Galatians,ESV
+1,Galatians1:11 ,WORD,which,G3588,Epistles,New Testament,Galatians,ESV
+1,Galatians1:11 ,PHRASE,was preached,G2097,Epistles,New Testament,Galatians,ESV
+1,Galatians1:11 ,WORD,by,G5259,Epistles,New Testament,Galatians,ESV
+1,Galatians1:11 ,WORD,me,G1473,Epistles,New Testament,Galatians,ESV
+1,Galatians1:11 ,WORD,is,G1510,Epistles,New Testament,Galatians,ESV
+1,Galatians1:11 ,WORD,not,G3756,Epistles,New Testament,Galatians,ESV
+1,Galatians1:11 ,PHRASE,according to,G2596,Epistles,New Testament,Galatians,ESV
+1,Galatians1:11 ,WORD,man,G444,Epistles,New Testament,Galatians,ESV
+1,Galatians1:12 ,WORD,For,G1063,Epistles,New Testament,Galatians,ESV
+1,Galatians1:12 ,WORD,I,G1473,Epistles,New Testament,Galatians,ESV
+1,Galatians1:12 ,WORD,neither,G3761,Epistles,New Testament,Galatians,ESV
+1,Galatians1:12 ,WORD,received,G3880,Epistles,New Testament,Galatians,ESV
+1,Galatians1:12 ,WORD,it,G846,Epistles,New Testament,Galatians,ESV
+1,Galatians1:12 ,WORD,from,G3844,Epistles,New Testament,Galatians,ESV
+1,Galatians1:12 ,WORD,man,G444,Epistles,New Testament,Galatians,ESV
+1,Galatians1:12 ,WORD,nor,G3777,Epistles,New Testament,Galatians,ESV
+1,Galatians1:12 ,PHRASE,was I taught it,G1321,Epistles,New Testament,Galatians,ESV
+1,Galatians1:12 ,WORD,but,G235,Epistles,New Testament,Galatians,ESV
+1,Galatians1:12 ,PHRASE,I received it through,G1223,Epistles,New Testament,Galatians,ESV
+1,Galatians1:12 ,PHRASE,a revelation,G602,Epistles,New Testament,Galatians,ESV
+1,Galatians1:12 ,PHRASE,of Jesus,G2424,Epistles,New Testament,Galatians,ESV
+1,Galatians1:12 ,WORD,Christ,G5547,Epistles,New Testament,Galatians,ESV
+1,Galatians1:13 ,WORD,For,G1063,Epistles,New Testament,Galatians,ESV
+1,Galatians1:13 ,PHRASE,you have heard,G191,Epistles,New Testament,Galatians,ESV
+1,Galatians1:13 ,PHRASE,of my,G1699,Epistles,New Testament,Galatians,ESV
+1,Galatians1:13 ,WORD,former,G4218,Epistles,New Testament,Galatians,ESV
+1,Galatians1:13 ,PHRASE,manner of life,G391,Epistles,New Testament,Galatians,ESV
+1,Galatians1:13 ,WORD,in,G1722,Epistles,New Testament,Galatians,ESV
+1,Galatians1:13 ,WORD,Judaism,G2454,Epistles,New Testament,Galatians,ESV
+1,Galatians1:13 ,WORD,how,G3754,Epistles,New Testament,Galatians,ESV
+1,Galatians1:13 ,PHRASE,I used to persecute,G1377,Epistles,New Testament,Galatians,ESV
+1,Galatians1:13 ,WORD,the,G3588,Epistles,New Testament,Galatians,ESV
+1,Galatians1:13 ,WORD,church,G1577,Epistles,New Testament,Galatians,ESV
+1,Galatians1:13 ,PHRASE,of God,G2316,Epistles,New Testament,Galatians,ESV
+1,Galatians1:13 ,PHRASE,beyond measure,G2596,Epistles,New Testament,Galatians,ESV
+1,Galatians1:13 ,WORD,,G5236,Epistles,New Testament,Galatians,ESV
+1,Galatians1:13 ,WORD,and,G2532,Epistles,New Testament,Galatians,ESV
+1,Galatians1:13 ,PHRASE,tried to destroy,G4199,Epistles,New Testament,Galatians,ESV
+1,Galatians1:13 ,WORD,it,G846,Epistles,New Testament,Galatians,ESV
+1,Galatians1:14 ,WORD,and,G2532,Epistles,New Testament,Galatians,ESV
+1,Galatians1:14 ,PHRASE,I was advancing,G4298,Epistles,New Testament,Galatians,ESV
+1,Galatians1:14 ,WORD,in,G1722,Epistles,New Testament,Galatians,ESV
+1,Galatians1:14 ,WORD,Judaism,G2454,Epistles,New Testament,Galatians,ESV
+1,Galatians1:14 ,WORD,beyond,G5228,Epistles,New Testament,Galatians,ESV
+1,Galatians1:14 ,WORD,many,G4183,Epistles,New Testament,Galatians,ESV
+1,Galatians1:14 ,PHRASE,of my contemporaries,G4915,Epistles,New Testament,Galatians,ESV
+1,Galatians1:14 ,WORD,among,G1722,Epistles,New Testament,Galatians,ESV
+1,Galatians1:14 ,WORD,my,G1473,Epistles,New Testament,Galatians,ESV
+1,Galatians1:14 ,WORD,countrymen,G1085,Epistles,New Testament,Galatians,ESV
+1,Galatians1:14 ,WORD,being,G5225,Epistles,New Testament,Galatians,ESV
+1,Galatians1:14 ,PHRASE,more extremely,G4056,Epistles,New Testament,Galatians,ESV
+1,Galatians1:14 ,WORD,zealous,G2207,Epistles,New Testament,Galatians,ESV
+1,Galatians1:14 ,PHRASE,for my,G1473,Epistles,New Testament,Galatians,ESV
+1,Galatians1:14 ,WORD,ancestral,G3967,Epistles,New Testament,Galatians,ESV
+1,Galatians1:14 ,WORD,traditions,G3862,Epistles,New Testament,Galatians,ESV
+1,Galatians1:15 ,WORD,But,G1161,Epistles,New Testament,Galatians,ESV
+1,Galatians1:15 ,WORD,when,G3753,Epistles,New Testament,Galatians,ESV
+1,Galatians1:15 ,WORD,God,G2316,Epistles,New Testament,Galatians,ESV
+1,Galatians1:15 ,PHRASE,who had set,G873,Epistles,New Testament,Galatians,ESV
+1,Galatians1:15 ,WORD,me,G1473,Epistles,New Testament,Galatians,ESV
+1,Galatians1:15 ,WORD,apart,G873,Epistles,New Testament,Galatians,ESV
+1,Galatians1:15 ,PHRASE,even from,G1537,Epistles,New Testament,Galatians,ESV
+1,Galatians1:15 ,WORD,my,G1473,Epistles,New Testament,Galatians,ESV
+1,Galatians1:15 ,WORD,mother's,G3384,Epistles,New Testament,Galatians,ESV
+1,Galatians1:15 ,WORD,womb,G2836,Epistles,New Testament,Galatians,ESV
+1,Galatians1:15 ,WORD,and,G2532,Epistles,New Testament,Galatians,ESV
+1,Galatians1:15 ,PHRASE,called me,G2564,Epistles,New Testament,Galatians,ESV
+1,Galatians1:15 ,WORD,through,G1223,Epistles,New Testament,Galatians,ESV
+1,Galatians1:15 ,WORD,His,G846,Epistles,New Testament,Galatians,ESV
+1,Galatians1:15 ,WORD,grace,G5485,Epistles,New Testament,Galatians,ESV
+1,Galatians1:15 ,PHRASE,was pleased,G2106,Epistles,New Testament,Galatians,ESV
+1,Galatians1:16 ,PHRASE,to reveal,G601,Epistles,New Testament,Galatians,ESV
+1,Galatians1:16 ,WORD,His,G846,Epistles,New Testament,Galatians,ESV
+1,Galatians1:16 ,WORD,Son,G5207,Epistles,New Testament,Galatians,ESV
+1,Galatians1:16 ,WORD,in,G1722,Epistles,New Testament,Galatians,ESV
+1,Galatians1:16 ,WORD,me,G1473,Epistles,New Testament,Galatians,ESV
+1,Galatians1:16 ,PHRASE,so that,G2443,Epistles,New Testament,Galatians,ESV
+1,Galatians1:16 ,PHRASE,I might preach,G2097,Epistles,New Testament,Galatians,ESV
+1,Galatians1:16 ,WORD,Him,G846,Epistles,New Testament,Galatians,ESV
+1,Galatians1:16 ,WORD,among,G1722,Epistles,New Testament,Galatians,ESV
+1,Galatians1:16 ,WORD,the,G3588,Epistles,New Testament,Galatians,ESV
+1,Galatians1:16 ,WORD,Gentiles,G1484,Epistles,New Testament,Galatians,ESV
+1,Galatians1:16 ,PHRASE,I did not,G3756,Epistles,New Testament,Galatians,ESV
+1,Galatians1:16 ,WORD,immediately,G2112,Epistles,New Testament,Galatians,ESV
+1,Galatians1:16 ,WORD,consult,G4323,Epistles,New Testament,Galatians,ESV
+1,Galatians1:16 ,PHRASE,with flesh,G4561,Epistles,New Testament,Galatians,ESV
+1,Galatians1:16 ,WORD,and,G2532,Epistles,New Testament,Galatians,ESV
+1,Galatians1:16 ,WORD,blood,G129,Epistles,New Testament,Galatians,ESV
+1,Galatians1:17 ,WORD,nor,G3761,Epistles,New Testament,Galatians,ESV
+1,Galatians1:17 ,PHRASE,did I go up,G424,Epistles,New Testament,Galatians,ESV
+1,Galatians1:17 ,WORD,to,G1519,Epistles,New Testament,Galatians,ESV
+1,Galatians1:17 ,WORD,Jerusalem,G2414,Epistles,New Testament,Galatians,ESV
+1,Galatians1:17 ,WORD,to,G4314,Epistles,New Testament,Galatians,ESV
+1,Galatians1:17 ,WORD,those,G3588,Epistles,New Testament,Galatians,ESV
+1,Galatians1:17 ,PHRASE,who were apostles,G652,Epistles,New Testament,Galatians,ESV
+1,Galatians1:17 ,WORD,before,G4253,Epistles,New Testament,Galatians,ESV
+1,Galatians1:17 ,WORD,me,G1473,Epistles,New Testament,Galatians,ESV
+1,Galatians1:17 ,WORD,but,G235,Epistles,New Testament,Galatians,ESV
+1,Galatians1:17 ,PHRASE,I went away,G565,Epistles,New Testament,Galatians,ESV
+1,Galatians1:17 ,WORD,to,G1519,Epistles,New Testament,Galatians,ESV
+1,Galatians1:17 ,WORD,Arabia,G688,Epistles,New Testament,Galatians,ESV
+1,Galatians1:17 ,WORD,and,G2532,Epistles,New Testament,Galatians,ESV
+1,Galatians1:17 ,WORD,returned,G5290,Epistles,New Testament,Galatians,ESV
+1,Galatians1:17 ,PHRASE,once more,G3825,Epistles,New Testament,Galatians,ESV
+1,Galatians1:17 ,WORD,to,G1519,Epistles,New Testament,Galatians,ESV
+1,Galatians1:17 ,WORD,Damascus,G1154,Epistles,New Testament,Galatians,ESV
+1,Galatians1:18 ,WORD,Then,G1899,Epistles,New Testament,Galatians,ESV
+1,Galatians1:18 ,WORD,three,G5140,Epistles,New Testament,Galatians,ESV
+1,Galatians1:18 ,WORD,years,G2094,Epistles,New Testament,Galatians,ESV
+1,Galatians1:18 ,WORD,later,G3326,Epistles,New Testament,Galatians,ESV
+1,Galatians1:18 ,PHRASE,I went,G424,Epistles,New Testament,Galatians,ESV
+1,Galatians1:18 ,PHRASE,up to,G1519,Epistles,New Testament,Galatians,ESV
+1,Galatians1:18 ,WORD,Jerusalem,G2414,Epistles,New Testament,Galatians,ESV
+1,Galatians1:18 ,PHRASE,to become acquainted with,G2477,Epistles,New Testament,Galatians,ESV
+1,Galatians1:18 ,WORD,Cephas,G2786,Epistles,New Testament,Galatians,ESV
+1,Galatians1:18 ,WORD,and,G2532,Epistles,New Testament,Galatians,ESV
+1,Galatians1:18 ,WORD,stayed,G1961,Epistles,New Testament,Galatians,ESV
+1,Galatians1:18 ,WORD,with,G4314,Epistles,New Testament,Galatians,ESV
+1,Galatians1:18 ,WORD,him,G846,Epistles,New Testament,Galatians,ESV
+1,Galatians1:18 ,WORD,fifteen,G1178,Epistles,New Testament,Galatians,ESV
+1,Galatians1:18 ,WORD,days,G2250,Epistles,New Testament,Galatians,ESV
+1,Galatians1:19 ,WORD,But,G1161,Epistles,New Testament,Galatians,ESV
+1,Galatians1:19 ,PHRASE,I did not,G3756,Epistles,New Testament,Galatians,ESV
+1,Galatians1:19 ,WORD,see,G3708,Epistles,New Testament,Galatians,ESV
+1,Galatians1:19 ,PHRASE,any other,G2087,Epistles,New Testament,Galatians,ESV
+1,Galatians1:19 ,PHRASE,of the,G3588,Epistles,New Testament,Galatians,ESV
+1,Galatians1:19 ,WORD,apostles,G652,Epistles,New Testament,Galatians,ESV
+1,Galatians1:19 ,WORD,,G1487,Epistles,New Testament,Galatians,ESV
+1,Galatians1:19 ,WORD,except,G3361,Epistles,New Testament,Galatians,ESV
+1,Galatians1:19 ,WORD,James,G2385,Epistles,New Testament,Galatians,ESV
+1,Galatians1:19 ,WORD,the,G3588,Epistles,New Testament,Galatians,ESV
+1,Galatians1:19 ,WORD,Lord's,G2962,Epistles,New Testament,Galatians,ESV
+1,Galatians1:19 ,WORD,brother,G80,Epistles,New Testament,Galatians,ESV
+1,Galatians1:20 ,WORD,(Now,G1161,Epistles,New Testament,Galatians,ESV
+1,Galatians1:20 ,PHRASE,in what,G3739,Epistles,New Testament,Galatians,ESV
+1,Galatians1:20 ,PHRASE,I am writing,G1125,Epistles,New Testament,Galatians,ESV
+1,Galatians1:20 ,PHRASE,to you,G4771,Epistles,New Testament,Galatians,ESV
+1,Galatians1:20 ,PHRASE,I assure you,G2400,Epistles,New Testament,Galatians,ESV
+1,Galatians1:20 ,WORD,before,G1799,Epistles,New Testament,Galatians,ESV
+1,Galatians1:20 ,WORD,God,G2316,Epistles,New Testament,Galatians,ESV
+1,Galatians1:20 ,WORD,that,G3754,Epistles,New Testament,Galatians,ESV
+1,Galatians1:20 ,PHRASE,I am not,G3756,Epistles,New Testament,Galatians,ESV
+1,Galatians1:20 ,WORD,lying.),G5574,Epistles,New Testament,Galatians,ESV
+1,Galatians1:21 ,WORD,Then,G1899,Epistles,New Testament,Galatians,ESV
+1,Galatians1:21 ,PHRASE,I went,G2064,Epistles,New Testament,Galatians,ESV
+1,Galatians1:21 ,WORD,into,G1519,Epistles,New Testament,Galatians,ESV
+1,Galatians1:21 ,WORD,the,G3588,Epistles,New Testament,Galatians,ESV
+1,Galatians1:21 ,WORD,regions,G2824,Epistles,New Testament,Galatians,ESV
+1,Galatians1:21 ,PHRASE,of Syria,G4947,Epistles,New Testament,Galatians,ESV
+1,Galatians1:21 ,WORD,and,G2532,Epistles,New Testament,Galatians,ESV
+1,Galatians1:21 ,WORD,Cilicia,G2791,Epistles,New Testament,Galatians,ESV
+1,Galatians1:22 ,PHRASE,I was,G1510,Epistles,New Testament,Galatians,ESV
+1,Galatians1:22 ,PHRASE,still unknown,G50,Epistles,New Testament,Galatians,ESV
+1,Galatians1:22 ,PHRASE,by sight,G4383,Epistles,New Testament,Galatians,ESV
+1,Galatians1:22 ,PHRASE,to the,G3588,Epistles,New Testament,Galatians,ESV
+1,Galatians1:22 ,WORD,churches,G1577,Epistles,New Testament,Galatians,ESV
+1,Galatians1:22 ,PHRASE,of Judea,G2449,Epistles,New Testament,Galatians,ESV
+1,Galatians1:22 ,PHRASE,which were,G3588,Epistles,New Testament,Galatians,ESV
+1,Galatians1:22 ,WORD,in,G1722,Epistles,New Testament,Galatians,ESV
+1,Galatians1:22 ,WORD,Christ,G5547,Epistles,New Testament,Galatians,ESV
+1,Galatians1:23 ,WORD,but,G1161,Epistles,New Testament,Galatians,ESV
+1,Galatians1:23 ,WORD,only,G3440,Epistles,New Testament,Galatians,ESV
+1,Galatians1:23 ,PHRASE,they kept hearing,G191,Epistles,New Testament,Galatians,ESV
+1,Galatians1:23 ,PHRASE,He who once,G4218,Epistles,New Testament,Galatians,ESV
+1,Galatians1:23 ,WORD,persecuted,G1377,Epistles,New Testament,Galatians,ESV
+1,Galatians1:23 ,WORD,us,G1473,Epistles,New Testament,Galatians,ESV
+1,Galatians1:23 ,WORD,is,G1510,Epistles,New Testament,Galatians,ESV
+1,Galatians1:23 ,WORD,now,G3568,Epistles,New Testament,Galatians,ESV
+1,Galatians1:23 ,WORD,preaching,G2097,Epistles,New Testament,Galatians,ESV
+1,Galatians1:23 ,WORD,the,G3588,Epistles,New Testament,Galatians,ESV
+1,Galatians1:23 ,WORD,faith,G4102,Epistles,New Testament,Galatians,ESV
+1,Galatians1:23 ,WORD,which,G3739,Epistles,New Testament,Galatians,ESV
+1,Galatians1:23 ,PHRASE,he once,G4218,Epistles,New Testament,Galatians,ESV
+1,Galatians1:23 ,PHRASE,tried to destroy,G4199,Epistles,New Testament,Galatians,ESV
+1,Galatians1:24 ,WORD,And,G2532,Epistles,New Testament,Galatians,ESV
+1,Galatians1:24 ,PHRASE,they were glorifying,G1392,Epistles,New Testament,Galatians,ESV
+1,Galatians1:24 ,WORD,God,G2316,Epistles,New Testament,Galatians,ESV
+1,Galatians1:24 ,WORD,because,G1722,Epistles,New Testament,Galatians,ESV
+1,Galatians1:24 ,PHRASE,of me,G1473,Epistles,New Testament,Galatians,ESV
+2,Galatians2:1 ,WORD,Then,G1899,Epistles,New Testament,Galatians,ESV
+2,Galatians2:1 ,WORD,after,G1223,Epistles,New Testament,Galatians,ESV
+2,Galatians2:1 ,PHRASE,an interval of fourteen,G1180,Epistles,New Testament,Galatians,ESV
+2,Galatians2:1 ,WORD,years,G2094,Epistles,New Testament,Galatians,ESV
+2,Galatians2:1 ,PHRASE,I went up,G305,Epistles,New Testament,Galatians,ESV
+2,Galatians2:1 ,WORD,again,G3825,Epistles,New Testament,Galatians,ESV
+2,Galatians2:1 ,WORD,to,G1519,Epistles,New Testament,Galatians,ESV
+2,Galatians2:1 ,WORD,Jerusalem,G2414,Epistles,New Testament,Galatians,ESV
+2,Galatians2:1 ,WORD,with,G3326,Epistles,New Testament,Galatians,ESV
+2,Galatians2:1 ,WORD,Barnabas,G921,Epistles,New Testament,Galatians,ESV
+2,Galatians2:1 ,WORD,taking,G4838,Epistles,New Testament,Galatians,ESV
+2,Galatians2:1 ,WORD,Titus,G5103,Epistles,New Testament,Galatians,ESV
+2,Galatians2:1 ,WORD,along,G4838,Epistles,New Testament,Galatians,ESV
+2,Galatians2:1 ,WORD,also,G2532,Epistles,New Testament,Galatians,ESV
+2,Galatians2:2 ,PHRASE,It was because of,G2596,Epistles,New Testament,Galatians,ESV
+2,Galatians2:2 ,PHRASE,a revelation,G602,Epistles,New Testament,Galatians,ESV
+2,Galatians2:2 ,PHRASE,that I went up,G305,Epistles,New Testament,Galatians,ESV
+2,Galatians2:2 ,WORD,and,G2532,Epistles,New Testament,Galatians,ESV
+2,Galatians2:2 ,PHRASE,I submitted,G394,Epistles,New Testament,Galatians,ESV
+2,Galatians2:2 ,PHRASE,to them,G846,Epistles,New Testament,Galatians,ESV
+2,Galatians2:2 ,WORD,the,G3588,Epistles,New Testament,Galatians,ESV
+2,Galatians2:2 ,WORD,gospel,G2098,Epistles,New Testament,Galatians,ESV
+2,Galatians2:2 ,WORD,which,G3739,Epistles,New Testament,Galatians,ESV
+2,Galatians2:2 ,PHRASE,I preach,G2784,Epistles,New Testament,Galatians,ESV
+2,Galatians2:2 ,WORD,among,G1722,Epistles,New Testament,Galatians,ESV
+2,Galatians2:2 ,WORD,the,G3588,Epistles,New Testament,Galatians,ESV
+2,Galatians2:2 ,WORD,Gentiles,G1484,Epistles,New Testament,Galatians,ESV
+2,Galatians2:2 ,WORD,but,G1161,Epistles,New Testament,Galatians,ESV
+2,Galatians2:2 ,PHRASE,I did so in private,G2596,Epistles,New Testament,Galatians,ESV
+2,Galatians2:2 ,WORD,,G2398,Epistles,New Testament,Galatians,ESV
+2,Galatians2:2 ,PHRASE,to those who,G3588,Epistles,New Testament,Galatians,ESV
+2,Galatians2:2 ,PHRASE,were of reputation,G1380,Epistles,New Testament,Galatians,ESV
+2,Galatians2:2 ,WORD,,G3361,Epistles,New Testament,Galatians,ESV
+2,Galatians2:2 ,PHRASE,for fear that,G4458,Epistles,New Testament,Galatians,ESV
+2,Galatians2:2 ,PHRASE,I might be running,G5143,Epistles,New Testament,Galatians,ESV
+2,Galatians2:2 ,WORD,or,G2228,Epistles,New Testament,Galatians,ESV
+2,Galatians2:2 ,PHRASE,had run,G5143,Epistles,New Testament,Galatians,ESV
+2,Galatians2:2 ,WORD,in,G1519,Epistles,New Testament,Galatians,ESV
+2,Galatians2:2 ,WORD,vain,G2756,Epistles,New Testament,Galatians,ESV
+2,Galatians2:3 ,WORD,But,G235,Epistles,New Testament,Galatians,ESV
+2,Galatians2:3 ,PHRASE,not even,G3761,Epistles,New Testament,Galatians,ESV
+2,Galatians2:3 ,WORD,Titus,G5103,Epistles,New Testament,Galatians,ESV
+2,Galatians2:3 ,WORD,who,G3588,Epistles,New Testament,Galatians,ESV
+2,Galatians2:3 ,PHRASE,was with,G4862,Epistles,New Testament,Galatians,ESV
+2,Galatians2:3 ,WORD,me,G1473,Epistles,New Testament,Galatians,ESV
+2,Galatians2:3 ,PHRASE,though he was,G1510,Epistles,New Testament,Galatians,ESV
+2,Galatians2:3 ,PHRASE,a Greek,G1672,Epistles,New Testament,Galatians,ESV
+2,Galatians2:3 ,PHRASE,was compelled,G315,Epistles,New Testament,Galatians,ESV
+2,Galatians2:3 ,PHRASE,to be circumcised,G4059,Epistles,New Testament,Galatians,ESV
+2,Galatians2:4 ,WORD,But,G1161,Epistles,New Testament,Galatians,ESV
+2,Galatians2:4 ,PHRASE,it was because of,G1223,Epistles,New Testament,Galatians,ESV
+2,Galatians2:4 ,PHRASE,the false brethren,G5569,Epistles,New Testament,Galatians,ESV
+2,Galatians2:4 ,PHRASE,secretly brought in,G3920,Epistles,New Testament,Galatians,ESV
+2,Galatians2:4 ,WORD,who,G3588,Epistles,New Testament,Galatians,ESV
+2,Galatians2:4 ,PHRASE,had sneaked in,G3922,Epistles,New Testament,Galatians,ESV
+2,Galatians2:4 ,PHRASE,to spy out,G2684,Epistles,New Testament,Galatians,ESV
+2,Galatians2:4 ,WORD,our,G1473,Epistles,New Testament,Galatians,ESV
+2,Galatians2:4 ,WORD,liberty,G1657,Epistles,New Testament,Galatians,ESV
+2,Galatians2:4 ,WORD,which,G3739,Epistles,New Testament,Galatians,ESV
+2,Galatians2:4 ,PHRASE,we have,G2192,Epistles,New Testament,Galatians,ESV
+2,Galatians2:4 ,WORD,in,G1722,Epistles,New Testament,Galatians,ESV
+2,Galatians2:4 ,WORD,Christ,G5547,Epistles,New Testament,Galatians,ESV
+2,Galatians2:4 ,WORD,Jesus,G2424,Epistles,New Testament,Galatians,ESV
+2,Galatians2:4 ,PHRASE,in order to,G2443,Epistles,New Testament,Galatians,ESV
+2,Galatians2:4 ,WORD,bring,G2615,Epistles,New Testament,Galatians,ESV
+2,Galatians2:4 ,WORD,us,G1473,Epistles,New Testament,Galatians,ESV
+2,Galatians2:4 ,PHRASE,into bondage,G2615,Epistles,New Testament,Galatians,ESV
+2,Galatians2:5 ,PHRASE,But we did not,G3761,Epistles,New Testament,Galatians,ESV
+2,Galatians2:5 ,WORD,yield,G1502,Epistles,New Testament,Galatians,ESV
+2,Galatians2:5 ,PHRASE,in subjection,G5292,Epistles,New Testament,Galatians,ESV
+2,Galatians2:5 ,PHRASE,to them,G3739,Epistles,New Testament,Galatians,ESV
+2,Galatians2:5 ,WORD,for,G4314,Epistles,New Testament,Galatians,ESV
+2,Galatians2:5 ,WORD,even,G3761,Epistles,New Testament,Galatians,ESV
+2,Galatians2:5 ,PHRASE,an hour,G5610,Epistles,New Testament,Galatians,ESV
+2,Galatians2:5 ,PHRASE,so that,G2443,Epistles,New Testament,Galatians,ESV
+2,Galatians2:5 ,WORD,the,G3588,Epistles,New Testament,Galatians,ESV
+2,Galatians2:5 ,WORD,truth,G225,Epistles,New Testament,Galatians,ESV
+2,Galatians2:5 ,PHRASE,of the,G3588,Epistles,New Testament,Galatians,ESV
+2,Galatians2:5 ,WORD,gospel,G2098,Epistles,New Testament,Galatians,ESV
+2,Galatians2:5 ,PHRASE,would remain,G1265,Epistles,New Testament,Galatians,ESV
+2,Galatians2:5 ,WORD,with,G4314,Epistles,New Testament,Galatians,ESV
+2,Galatians2:5 ,WORD,you,G4771,Epistles,New Testament,Galatians,ESV
+2,Galatians2:6 ,WORD,But,G1161,Epistles,New Testament,Galatians,ESV
+2,Galatians2:6 ,WORD,from,G575,Epistles,New Testament,Galatians,ESV
+2,Galatians2:6 ,PHRASE,those who were,G1510,Epistles,New Testament,Galatians,ESV
+2,Galatians2:6 ,PHRASE,of high,G5100,Epistles,New Testament,Galatians,ESV
+2,Galatians2:6 ,WORD,reputation,G1380,Epistles,New Testament,Galatians,ESV
+2,Galatians2:6 ,WORD,(what,G3697,Epistles,New Testament,Galatians,ESV
+2,Galatians2:6 ,PHRASE,they were,G1510,Epistles,New Testament,Galatians,ESV
+2,Galatians2:6 ,WORD,makes,G1308,Epistles,New Testament,Galatians,ESV
+2,Galatians2:6 ,WORD,no,G3762,Epistles,New Testament,Galatians,ESV
+2,Galatians2:6 ,WORD,difference,G1308,Epistles,New Testament,Galatians,ESV
+2,Galatians2:6 ,PHRASE,to me,G1473,Epistles,New Testament,Galatians,ESV
+2,Galatians2:6 ,WORD,God,G2316,Epistles,New Testament,Galatians,ESV
+2,Galatians2:6 ,WORD,shows,G2983,Epistles,New Testament,Galatians,ESV
+2,Galatians2:6 ,WORD,no,G3756,Epistles,New Testament,Galatians,ESV
+2,Galatians2:6 ,WORD,partiality),G4383,Epistles,New Testament,Galatians,ESV
+2,Galatians2:6 ,WORD,,G444,Epistles,New Testament,Galatians,ESV
+2,Galatians2:6 ,WORD,well,G1063,Epistles,New Testament,Galatians,ESV
+2,Galatians2:6 ,PHRASE,those who,G3588,Epistles,New Testament,Galatians,ESV
+2,Galatians2:6 ,PHRASE,were of reputation,G1380,Epistles,New Testament,Galatians,ESV
+2,Galatians2:6 ,WORD,contributed,G4323,Epistles,New Testament,Galatians,ESV
+2,Galatians2:6 ,WORD,nothing,G3762,Epistles,New Testament,Galatians,ESV
+2,Galatians2:6 ,PHRASE,to me,G1473,Epistles,New Testament,Galatians,ESV
+2,Galatians2:7 ,WORD,But,G235,Epistles,New Testament,Galatians,ESV
+2,Galatians2:7 ,PHRASE,on the contrary,G5121,Epistles,New Testament,Galatians,ESV
+2,Galatians2:7 ,WORD,seeing,G3708,Epistles,New Testament,Galatians,ESV
+2,Galatians2:7 ,WORD,that,G3754,Epistles,New Testament,Galatians,ESV
+2,Galatians2:7 ,PHRASE,I had been entrusted with,G4100,Epistles,New Testament,Galatians,ESV
+2,Galatians2:7 ,WORD,the,G3588,Epistles,New Testament,Galatians,ESV
+2,Galatians2:7 ,WORD,gospel,G2098,Epistles,New Testament,Galatians,ESV
+2,Galatians2:7 ,PHRASE,to the,G3588,Epistles,New Testament,Galatians,ESV
+2,Galatians2:7 ,WORD,uncircumcised,G203,Epistles,New Testament,Galatians,ESV
+2,Galatians2:7 ,PHRASE,just as,G2531,Epistles,New Testament,Galatians,ESV
+2,Galatians2:7 ,WORD,Peter,G4074,Epistles,New Testament,Galatians,ESV
+2,Galatians2:7 ,PHRASE,had been,,Epistles,New Testament,Galatians,ESV
+2,Galatians2:7 ,PHRASE,to the,G3588,Epistles,New Testament,Galatians,ESV
+2,Galatians2:7 ,WORD,circumcised,G4061,Epistles,New Testament,Galatians,ESV
+2,Galatians2:8 ,WORD,(for,G1063,Epistles,New Testament,Galatians,ESV
+2,Galatians2:8 ,PHRASE,He who,G3588,Epistles,New Testament,Galatians,ESV
+2,Galatians2:8 ,PHRASE,effectually worked,G1754,Epistles,New Testament,Galatians,ESV
+2,Galatians2:8 ,PHRASE,for Peter,G4074,Epistles,New Testament,Galatians,ESV
+2,Galatians2:8 ,WORD,in,G1519,Epistles,New Testament,Galatians,ESV
+2,Galatians2:8 ,PHRASE,his apostleship,G651,Epistles,New Testament,Galatians,ESV
+2,Galatians2:8 ,PHRASE,to the,G3588,Epistles,New Testament,Galatians,ESV
+2,Galatians2:8 ,WORD,circumcised,G4061,Epistles,New Testament,Galatians,ESV
+2,Galatians2:8 ,PHRASE,effectually worked,G1754,Epistles,New Testament,Galatians,ESV
+2,Galatians2:8 ,PHRASE,for me,G1473,Epistles,New Testament,Galatians,ESV
+2,Galatians2:8 ,WORD,also,G2532,Epistles,New Testament,Galatians,ESV
+2,Galatians2:8 ,WORD,to,G1519,Epistles,New Testament,Galatians,ESV
+2,Galatians2:8 ,WORD,the,G3588,Epistles,New Testament,Galatians,ESV
+2,Galatians2:8 ,WORD,Gentiles),G1484,Epistles,New Testament,Galatians,ESV
+2,Galatians2:9 ,WORD,and,G2532,Epistles,New Testament,Galatians,ESV
+2,Galatians2:9 ,WORD,recognizing,G1097,Epistles,New Testament,Galatians,ESV
+2,Galatians2:9 ,WORD,the,G3588,Epistles,New Testament,Galatians,ESV
+2,Galatians2:9 ,WORD,grace,G5485,Epistles,New Testament,Galatians,ESV
+2,Galatians2:9 ,WORD,that,G3588,Epistles,New Testament,Galatians,ESV
+2,Galatians2:9 ,PHRASE,had been given,G1325,Epistles,New Testament,Galatians,ESV
+2,Galatians2:9 ,PHRASE,to me,G1473,Epistles,New Testament,Galatians,ESV
+2,Galatians2:9 ,WORD,James,G2385,Epistles,New Testament,Galatians,ESV
+2,Galatians2:9 ,WORD,and,G2532,Epistles,New Testament,Galatians,ESV
+2,Galatians2:9 ,WORD,Cephas,G2786,Epistles,New Testament,Galatians,ESV
+2,Galatians2:9 ,WORD,and,G2532,Epistles,New Testament,Galatians,ESV
+2,Galatians2:9 ,WORD,John,G2491,Epistles,New Testament,Galatians,ESV
+2,Galatians2:9 ,WORD,who,G3588,Epistles,New Testament,Galatians,ESV
+2,Galatians2:9 ,PHRASE,were reputed,G1380,Epistles,New Testament,Galatians,ESV
+2,Galatians2:9 ,PHRASE,to be,G1510,Epistles,New Testament,Galatians,ESV
+2,Galatians2:9 ,WORD,pillars,G4769,Epistles,New Testament,Galatians,ESV
+2,Galatians2:9 ,WORD,gave,G1325,Epistles,New Testament,Galatians,ESV
+2,Galatians2:9 ,PHRASE,to me,G1473,Epistles,New Testament,Galatians,ESV
+2,Galatians2:9 ,WORD,and,G2532,Epistles,New Testament,Galatians,ESV
+2,Galatians2:9 ,WORD,Barnabas,G921,Epistles,New Testament,Galatians,ESV
+2,Galatians2:9 ,PHRASE,the right hand,G1188,Epistles,New Testament,Galatians,ESV
+2,Galatians2:9 ,PHRASE,of fellowship,G2842,Epistles,New Testament,Galatians,ESV
+2,Galatians2:9 ,PHRASE,so that,G2443,Epistles,New Testament,Galatians,ESV
+2,Galatians2:9 ,WORD,we,G1473,Epistles,New Testament,Galatians,ESV
+2,Galatians2:9 ,PHRASE,might go to,G1519,Epistles,New Testament,Galatians,ESV
+2,Galatians2:9 ,WORD,the,G3588,Epistles,New Testament,Galatians,ESV
+2,Galatians2:9 ,WORD,Gentiles,G1484,Epistles,New Testament,Galatians,ESV
+2,Galatians2:9 ,WORD,and,G1161,Epistles,New Testament,Galatians,ESV
+2,Galatians2:9 ,WORD,they,G846,Epistles,New Testament,Galatians,ESV
+2,Galatians2:9 ,WORD,to,G1519,Epistles,New Testament,Galatians,ESV
+2,Galatians2:9 ,WORD,the,G3588,Epistles,New Testament,Galatians,ESV
+2,Galatians2:9 ,WORD,circumcised,G4061,Epistles,New Testament,Galatians,ESV
+2,Galatians2:10 ,PHRASE,They only,G3440,Epistles,New Testament,Galatians,ESV
+2,Galatians2:10 ,PHRASE,asked us to remember,G3421,Epistles,New Testament,Galatians,ESV
+2,Galatians2:10 ,WORD,the,G3588,Epistles,New Testament,Galatians,ESV
+2,Galatians2:10 ,WORD,poor,G4434,Epistles,New Testament,Galatians,ESV
+2,Galatians2:10 ,PHRASE,the very,G846,Epistles,New Testament,Galatians,ESV
+2,Galatians2:10 ,WORD,thing,G3778,Epistles,New Testament,Galatians,ESV
+2,Galatians2:10 ,PHRASE,I also,G2532,Epistles,New Testament,Galatians,ESV
+2,Galatians2:10 ,PHRASE,was eager,G4704,Epistles,New Testament,Galatians,ESV
+2,Galatians2:10 ,PHRASE,to do,G4160,Epistles,New Testament,Galatians,ESV
+2,Galatians2:11 ,WORD,But,G1161,Epistles,New Testament,Galatians,ESV
+2,Galatians2:11 ,WORD,when,G3753,Epistles,New Testament,Galatians,ESV
+2,Galatians2:11 ,WORD,Cephas,G2786,Epistles,New Testament,Galatians,ESV
+2,Galatians2:11 ,WORD,came,G2064,Epistles,New Testament,Galatians,ESV
+2,Galatians2:11 ,WORD,to,G1519,Epistles,New Testament,Galatians,ESV
+2,Galatians2:11 ,WORD,Antioch,G490,Epistles,New Testament,Galatians,ESV
+2,Galatians2:11 ,PHRASE,I opposed,G436,Epistles,New Testament,Galatians,ESV
+2,Galatians2:11 ,WORD,him,G846,Epistles,New Testament,Galatians,ESV
+2,Galatians2:11 ,WORD,to,G2596,Epistles,New Testament,Galatians,ESV
+2,Galatians2:11 ,PHRASE,his face,G4383,Epistles,New Testament,Galatians,ESV
+2,Galatians2:11 ,WORD,because,G3754,Epistles,New Testament,Galatians,ESV
+2,Galatians2:11 ,PHRASE,he stood,G1510,Epistles,New Testament,Galatians,ESV
+2,Galatians2:11 ,WORD,condemned,G2607,Epistles,New Testament,Galatians,ESV
+2,Galatians2:12 ,WORD,For,G1063,Epistles,New Testament,Galatians,ESV
+2,Galatians2:12 ,PHRASE,prior to,G4253,Epistles,New Testament,Galatians,ESV
+2,Galatians2:12 ,WORD,the,G3588,Epistles,New Testament,Galatians,ESV
+2,Galatians2:12 ,WORD,coming,G2064,Epistles,New Testament,Galatians,ESV
+2,Galatians2:12 ,PHRASE,of certain men,G5100,Epistles,New Testament,Galatians,ESV
+2,Galatians2:12 ,WORD,from,G575,Epistles,New Testament,Galatians,ESV
+2,Galatians2:12 ,WORD,James,G2385,Epistles,New Testament,Galatians,ESV
+2,Galatians2:12 ,PHRASE,he used to eat,G4906,Epistles,New Testament,Galatians,ESV
+2,Galatians2:12 ,WORD,with,G3326,Epistles,New Testament,Galatians,ESV
+2,Galatians2:12 ,WORD,the,G3588,Epistles,New Testament,Galatians,ESV
+2,Galatians2:12 ,WORD,Gentiles,G1484,Epistles,New Testament,Galatians,ESV
+2,Galatians2:12 ,WORD,but,G1161,Epistles,New Testament,Galatians,ESV
+2,Galatians2:12 ,WORD,when,G3753,Epistles,New Testament,Galatians,ESV
+2,Galatians2:12 ,PHRASE,they came,G2064,Epistles,New Testament,Galatians,ESV
+2,Galatians2:12 ,PHRASE,he began to withdraw,G5288,Epistles,New Testament,Galatians,ESV
+2,Galatians2:12 ,WORD,and,G2532,Epistles,New Testament,Galatians,ESV
+2,Galatians2:12 ,WORD,hold,G873,Epistles,New Testament,Galatians,ESV
+2,Galatians2:12 ,WORD,himself,G1438,Epistles,New Testament,Galatians,ESV
+2,Galatians2:12 ,WORD,aloof,G873,Epistles,New Testament,Galatians,ESV
+2,Galatians2:12 ,WORD,fearing,G5399,Epistles,New Testament,Galatians,ESV
+2,Galatians2:12 ,PHRASE,the party,G3588,Epistles,New Testament,Galatians,ESV
+2,Galatians2:12 ,WORD,of,G1537,Epistles,New Testament,Galatians,ESV
+2,Galatians2:12 ,PHRASE,the circumcision,G4061,Epistles,New Testament,Galatians,ESV
+2,Galatians2:13 ,WORD,The,G3588,Epistles,New Testament,Galatians,ESV
+2,Galatians2:13 ,WORD,rest,G3062,Epistles,New Testament,Galatians,ESV
+2,Galatians2:13 ,PHRASE,of the Jews,G2453,Epistles,New Testament,Galatians,ESV
+2,Galatians2:13 ,WORD,joined,G4942,Epistles,New Testament,Galatians,ESV
+2,Galatians2:13 ,WORD,him,G846,Epistles,New Testament,Galatians,ESV
+2,Galatians2:13 ,PHRASE,in hypocrisy,G4942,Epistles,New Testament,Galatians,ESV
+2,Galatians2:13 ,PHRASE,with the result that,G5620,Epistles,New Testament,Galatians,ESV
+2,Galatians2:13 ,WORD,even,G2532,Epistles,New Testament,Galatians,ESV
+2,Galatians2:13 ,WORD,Barnabas,G921,Epistles,New Testament,Galatians,ESV
+2,Galatians2:13 ,PHRASE,was carried away,G4879,Epistles,New Testament,Galatians,ESV
+2,Galatians2:13 ,PHRASE,by their,G846,Epistles,New Testament,Galatians,ESV
+2,Galatians2:13 ,WORD,hypocrisy,G5272,Epistles,New Testament,Galatians,ESV
+2,Galatians2:14 ,WORD,But,G235,Epistles,New Testament,Galatians,ESV
+2,Galatians2:14 ,WORD,when,G3753,Epistles,New Testament,Galatians,ESV
+2,Galatians2:14 ,PHRASE,I saw,G3708,Epistles,New Testament,Galatians,ESV
+2,Galatians2:14 ,WORD,that,G3754,Epistles,New Testament,Galatians,ESV
+2,Galatians2:14 ,PHRASE,they were not,G3756,Epistles,New Testament,Galatians,ESV
+2,Galatians2:14 ,WORD,straightforward,G3716,Epistles,New Testament,Galatians,ESV
+2,Galatians2:14 ,WORD,about,G4314,Epistles,New Testament,Galatians,ESV
+2,Galatians2:14 ,WORD,the,G3588,Epistles,New Testament,Galatians,ESV
+2,Galatians2:14 ,WORD,truth,G225,Epistles,New Testament,Galatians,ESV
+2,Galatians2:14 ,PHRASE,of the,G3588,Epistles,New Testament,Galatians,ESV
+2,Galatians2:14 ,WORD,gospel,G2098,Epistles,New Testament,Galatians,ESV
+2,Galatians2:14 ,PHRASE,I said,G3004,Epistles,New Testament,Galatians,ESV
+2,Galatians2:14 ,PHRASE,to Cephas,G2786,Epistles,New Testament,Galatians,ESV
+2,Galatians2:14 ,PHRASE,in the presence of,G1715,Epistles,New Testament,Galatians,ESV
+2,Galatians2:14 ,WORD,all,G3956,Epistles,New Testament,Galatians,ESV
+2,Galatians2:14 ,WORD,If,G1487,Epistles,New Testament,Galatians,ESV
+2,Galatians2:14 ,WORD,you,G4771,Epistles,New Testament,Galatians,ESV
+2,Galatians2:14 ,WORD,being,G5225,Epistles,New Testament,Galatians,ESV
+2,Galatians2:14 ,PHRASE,a Jew,G2453,Epistles,New Testament,Galatians,ESV
+2,Galatians2:14 ,WORD,live,G2198,Epistles,New Testament,Galatians,ESV
+2,Galatians2:14 ,PHRASE,like the Gentiles,G1483,Epistles,New Testament,Galatians,ESV
+2,Galatians2:14 ,WORD,and,G2532,Epistles,New Testament,Galatians,ESV
+2,Galatians2:14 ,WORD,not,G3780,Epistles,New Testament,Galatians,ESV
+2,Galatians2:14 ,PHRASE,like the Jews,G2452,Epistles,New Testament,Galatians,ESV
+2,Galatians2:14 ,PHRASE,how is it that,G4459,Epistles,New Testament,Galatians,ESV
+2,Galatians2:14 ,PHRASE,you compel,G315,Epistles,New Testament,Galatians,ESV
+2,Galatians2:14 ,WORD,the,G3588,Epistles,New Testament,Galatians,ESV
+2,Galatians2:14 ,WORD,Gentiles,G1484,Epistles,New Testament,Galatians,ESV
+2,Galatians2:14 ,PHRASE,to live like Jews,G2450,Epistles,New Testament,Galatians,ESV
+2,Galatians2:15 ,WORD,We,G1473,Epistles,New Testament,Galatians,ESV
+2,Galatians2:15 ,PHRASE,are Jews,G2453,Epistles,New Testament,Galatians,ESV
+2,Galatians2:15 ,PHRASE,by nature,G5449,Epistles,New Testament,Galatians,ESV
+2,Galatians2:15 ,WORD,and,G2532,Epistles,New Testament,Galatians,ESV
+2,Galatians2:15 ,WORD,not,G3756,Epistles,New Testament,Galatians,ESV
+2,Galatians2:15 ,WORD,sinners,G268,Epistles,New Testament,Galatians,ESV
+2,Galatians2:15 ,PHRASE,from among,G1537,Epistles,New Testament,Galatians,ESV
+2,Galatians2:15 ,PHRASE,the Gentiles,G1484,Epistles,New Testament,Galatians,ESV
+2,Galatians2:16 ,WORD,nevertheless,G1161,Epistles,New Testament,Galatians,ESV
+2,Galatians2:16 ,WORD,knowing,G1492,Epistles,New Testament,Galatians,ESV
+2,Galatians2:16 ,WORD,that,G3754,Epistles,New Testament,Galatians,ESV
+2,Galatians2:16 ,PHRASE,a man,G444,Epistles,New Testament,Galatians,ESV
+2,Galatians2:16 ,PHRASE,is not,G3756,Epistles,New Testament,Galatians,ESV
+2,Galatians2:16 ,WORD,justified,G1344,Epistles,New Testament,Galatians,ESV
+2,Galatians2:16 ,WORD,by,G1537,Epistles,New Testament,Galatians,ESV
+2,Galatians2:16 ,PHRASE,the works,G2041,Epistles,New Testament,Galatians,ESV
+2,Galatians2:16 ,PHRASE,of the Law,G3551,Epistles,New Testament,Galatians,ESV
+2,Galatians2:16 ,WORD,,G1437,Epistles,New Testament,Galatians,ESV
+2,Galatians2:16 ,WORD,but,G3361,Epistles,New Testament,Galatians,ESV
+2,Galatians2:16 ,WORD,through,G1223,Epistles,New Testament,Galatians,ESV
+2,Galatians2:16 ,WORD,faith,G4102,Epistles,New Testament,Galatians,ESV
+2,Galatians2:16 ,PHRASE,in Christ,G5547,Epistles,New Testament,Galatians,ESV
+2,Galatians2:16 ,WORD,Jesus,G2424,Epistles,New Testament,Galatians,ESV
+2,Galatians2:16 ,WORD,even,G2532,Epistles,New Testament,Galatians,ESV
+2,Galatians2:16 ,WORD,we,G1473,Epistles,New Testament,Galatians,ESV
+2,Galatians2:16 ,PHRASE,have believed,G4100,Epistles,New Testament,Galatians,ESV
+2,Galatians2:16 ,WORD,in,G1519,Epistles,New Testament,Galatians,ESV
+2,Galatians2:16 ,WORD,Christ,G5547,Epistles,New Testament,Galatians,ESV
+2,Galatians2:16 ,WORD,Jesus,G2424,Epistles,New Testament,Galatians,ESV
+2,Galatians2:16 ,PHRASE,so that,G2443,Epistles,New Testament,Galatians,ESV
+2,Galatians2:16 ,PHRASE,we may be justified,G1344,Epistles,New Testament,Galatians,ESV
+2,Galatians2:16 ,WORD,by,G1537,Epistles,New Testament,Galatians,ESV
+2,Galatians2:16 ,WORD,faith,G4102,Epistles,New Testament,Galatians,ESV
+2,Galatians2:16 ,PHRASE,in Christ,G5547,Epistles,New Testament,Galatians,ESV
+2,Galatians2:16 ,WORD,and,G2532,Epistles,New Testament,Galatians,ESV
+2,Galatians2:16 ,WORD,not,G3756,Epistles,New Testament,Galatians,ESV
+2,Galatians2:16 ,WORD,by,G1537,Epistles,New Testament,Galatians,ESV
+2,Galatians2:16 ,PHRASE,the works,G2041,Epistles,New Testament,Galatians,ESV
+2,Galatians2:16 ,PHRASE,of the Law,G3551,Epistles,New Testament,Galatians,ESV
+2,Galatians2:16 ,WORD,since,G3754,Epistles,New Testament,Galatians,ESV
+2,Galatians2:16 ,WORD,by,G1537,Epistles,New Testament,Galatians,ESV
+2,Galatians2:16 ,PHRASE,the works,G2041,Epistles,New Testament,Galatians,ESV
+2,Galatians2:16 ,PHRASE,of the Law,G3551,Epistles,New Testament,Galatians,ESV
+2,Galatians2:16 ,WORD,no,G3756,Epistles,New Testament,Galatians,ESV
+2,Galatians2:16 ,WORD,,G3956,Epistles,New Testament,Galatians,ESV
+2,Galatians2:16 ,WORD,flesh,G4561,Epistles,New Testament,Galatians,ESV
+2,Galatians2:16 ,PHRASE,will be justified,G1344,Epistles,New Testament,Galatians,ESV
+2,Galatians2:17 ,WORD,But,G1161,Epistles,New Testament,Galatians,ESV
+2,Galatians2:17 ,WORD,if,G1487,Epistles,New Testament,Galatians,ESV
+2,Galatians2:17 ,PHRASE,while seeking,G2212,Epistles,New Testament,Galatians,ESV
+2,Galatians2:17 ,PHRASE,to be justified,G1344,Epistles,New Testament,Galatians,ESV
+2,Galatians2:17 ,WORD,in,G1722,Epistles,New Testament,Galatians,ESV
+2,Galatians2:17 ,WORD,Christ,G5547,Epistles,New Testament,Galatians,ESV
+2,Galatians2:17 ,PHRASE,we ourselves,G846,Epistles,New Testament,Galatians,ESV
+2,Galatians2:17 ,PHRASE,have also,G2532,Epistles,New Testament,Galatians,ESV
+2,Galatians2:17 ,PHRASE,been found,G2147,Epistles,New Testament,Galatians,ESV
+2,Galatians2:17 ,WORD,sinners,G268,Epistles,New Testament,Galatians,ESV
+2,Galatians2:17 ,PHRASE,is Christ,G5547,Epistles,New Testament,Galatians,ESV
+2,Galatians2:17 ,WORD,then,G687,Epistles,New Testament,Galatians,ESV
+2,Galatians2:17 ,PHRASE,a minister,G1249,Epistles,New Testament,Galatians,ESV
+2,Galatians2:17 ,PHRASE,of sin,G266,Epistles,New Testament,Galatians,ESV
+2,Galatians2:17 ,PHRASE,May it never,G3361,Epistles,New Testament,Galatians,ESV
+2,Galatians2:17 ,WORD,be,G1096,Epistles,New Testament,Galatians,ESV
+2,Galatians2:18 ,WORD,For,G1063,Epistles,New Testament,Galatians,ESV
+2,Galatians2:18 ,WORD,if,G1487,Epistles,New Testament,Galatians,ESV
+2,Galatians2:18 ,PHRASE,I rebuild,G3618,Epistles,New Testament,Galatians,ESV
+2,Galatians2:18 ,WORD,,G3825,Epistles,New Testament,Galatians,ESV
+2,Galatians2:18 ,WORD,what,G3739,Epistles,New Testament,Galatians,ESV
+2,Galatians2:18 ,WORD,,G3778,Epistles,New Testament,Galatians,ESV
+2,Galatians2:18 ,PHRASE,I have once destroyed,G2647,Epistles,New Testament,Galatians,ESV
+2,Galatians2:18 ,PHRASE,I prove,G4921,Epistles,New Testament,Galatians,ESV
+2,Galatians2:18 ,WORD,myself,G1683,Epistles,New Testament,Galatians,ESV
+2,Galatians2:18 ,PHRASE,to be a transgressor,G3848,Epistles,New Testament,Galatians,ESV
+2,Galatians2:19 ,WORD,For,G1063,Epistles,New Testament,Galatians,ESV
+2,Galatians2:19 ,WORD,through,G1223,Epistles,New Testament,Galatians,ESV
+2,Galatians2:19 ,PHRASE,the Law,G3551,Epistles,New Testament,Galatians,ESV
+2,Galatians2:19 ,WORD,I,G1473,Epistles,New Testament,Galatians,ESV
+2,Galatians2:19 ,WORD,died,G599,Epistles,New Testament,Galatians,ESV
+2,Galatians2:19 ,PHRASE,to the Law,G3551,Epistles,New Testament,Galatians,ESV
+2,Galatians2:19 ,PHRASE,so that,G2443,Epistles,New Testament,Galatians,ESV
+2,Galatians2:19 ,PHRASE,I might live,G2198,Epistles,New Testament,Galatians,ESV
+2,Galatians2:19 ,PHRASE,to God,G2316,Epistles,New Testament,Galatians,ESV
+2,Galatians2:20 ,PHRASE,I have been crucified,G4957,Epistles,New Testament,Galatians,ESV
+2,Galatians2:20 ,PHRASE,with Christ,G5547,Epistles,New Testament,Galatians,ESV
+2,Galatians2:20 ,WORD,and,G1161,Epistles,New Testament,Galatians,ESV
+2,Galatians2:20 ,PHRASE,it is no longer,G3765,Epistles,New Testament,Galatians,ESV
+2,Galatians2:20 ,WORD,I,G1473,Epistles,New Testament,Galatians,ESV
+2,Galatians2:20 ,PHRASE,who live,G2198,Epistles,New Testament,Galatians,ESV
+2,Galatians2:20 ,WORD,but,G1161,Epistles,New Testament,Galatians,ESV
+2,Galatians2:20 ,WORD,Christ,G5547,Epistles,New Testament,Galatians,ESV
+2,Galatians2:20 ,WORD,lives,G2198,Epistles,New Testament,Galatians,ESV
+2,Galatians2:20 ,WORD,in,G1722,Epistles,New Testament,Galatians,ESV
+2,Galatians2:20 ,WORD,me,G1473,Epistles,New Testament,Galatians,ESV
+2,Galatians2:20 ,WORD,and,G1161,Epistles,New Testament,Galatians,ESV
+2,Galatians2:20 ,PHRASE,the life which,G3739,Epistles,New Testament,Galatians,ESV
+2,Galatians2:20 ,PHRASE,I now,G3568,Epistles,New Testament,Galatians,ESV
+2,Galatians2:20 ,WORD,live,G2198,Epistles,New Testament,Galatians,ESV
+2,Galatians2:20 ,WORD,in,G1722,Epistles,New Testament,Galatians,ESV
+2,Galatians2:20 ,PHRASE,the flesh,G4561,Epistles,New Testament,Galatians,ESV
+2,Galatians2:20 ,PHRASE,I live,G2198,Epistles,New Testament,Galatians,ESV
+2,Galatians2:20 ,WORD,by,G1722,Epistles,New Testament,Galatians,ESV
+2,Galatians2:20 ,WORD,faith,G4102,Epistles,New Testament,Galatians,ESV
+2,Galatians2:20 ,PHRASE,in the,G3588,Epistles,New Testament,Galatians,ESV
+2,Galatians2:20 ,WORD,Son,G5207,Epistles,New Testament,Galatians,ESV
+2,Galatians2:20 ,PHRASE,of God,G2316,Epistles,New Testament,Galatians,ESV
+2,Galatians2:20 ,WORD,who,G3588,Epistles,New Testament,Galatians,ESV
+2,Galatians2:20 ,WORD,loved,G25,Epistles,New Testament,Galatians,ESV
+2,Galatians2:20 ,WORD,me,G1473,Epistles,New Testament,Galatians,ESV
+2,Galatians2:20 ,WORD,and,G2532,Epistles,New Testament,Galatians,ESV
+2,Galatians2:20 ,WORD,gave,G3860,Epistles,New Testament,Galatians,ESV
+2,Galatians2:20 ,WORD,Himself,G1438,Epistles,New Testament,Galatians,ESV
+2,Galatians2:20 ,WORD,up,G3860,Epistles,New Testament,Galatians,ESV
+2,Galatians2:20 ,WORD,for,G5228,Epistles,New Testament,Galatians,ESV
+2,Galatians2:20 ,WORD,me,G1473,Epistles,New Testament,Galatians,ESV
+2,Galatians2:21 ,PHRASE,I do not,G3756,Epistles,New Testament,Galatians,ESV
+2,Galatians2:21 ,WORD,nullify,G114,Epistles,New Testament,Galatians,ESV
+2,Galatians2:21 ,WORD,the,G3588,Epistles,New Testament,Galatians,ESV
+2,Galatians2:21 ,WORD,grace,G5485,Epistles,New Testament,Galatians,ESV
+2,Galatians2:21 ,PHRASE,of God,G2316,Epistles,New Testament,Galatians,ESV
+2,Galatians2:21 ,WORD,for,G1063,Epistles,New Testament,Galatians,ESV
+2,Galatians2:21 ,WORD,if,G1487,Epistles,New Testament,Galatians,ESV
+2,Galatians2:21 ,WORD,righteousness,G1343,Epistles,New Testament,Galatians,ESV
+2,Galatians2:21 ,PHRASE,comes through,G1223,Epistles,New Testament,Galatians,ESV
+2,Galatians2:21 ,PHRASE,the Law,G3551,Epistles,New Testament,Galatians,ESV
+2,Galatians2:21 ,WORD,then,G686,Epistles,New Testament,Galatians,ESV
+2,Galatians2:21 ,WORD,Christ,G5547,Epistles,New Testament,Galatians,ESV
+2,Galatians2:21 ,WORD,died,G599,Epistles,New Testament,Galatians,ESV
+2,Galatians2:21 ,WORD,needlessly,G1432,Epistles,New Testament,Galatians,ESV
+3,Galatians3:1 ,WORD,You,G5599,Epistles,New Testament,Galatians,ESV
+3,Galatians3:1 ,WORD,foolish,G453,Epistles,New Testament,Galatians,ESV
+3,Galatians3:1 ,WORD,Galatians,G1052,Epistles,New Testament,Galatians,ESV
+3,Galatians3:1 ,WORD,who,G5101,Epistles,New Testament,Galatians,ESV
+3,Galatians3:1 ,PHRASE,has bewitched,G940,Epistles,New Testament,Galatians,ESV
+3,Galatians3:1 ,WORD,you,G4771,Epistles,New Testament,Galatians,ESV
+3,Galatians3:1 ,WORD,before,G2596,Epistles,New Testament,Galatians,ESV
+3,Galatians3:1 ,WORD,whose,G3739,Epistles,New Testament,Galatians,ESV
+3,Galatians3:1 ,WORD,eyes,G3788,Epistles,New Testament,Galatians,ESV
+3,Galatians3:1 ,WORD,Jesus,G2424,Epistles,New Testament,Galatians,ESV
+3,Galatians3:1 ,WORD,Christ,G5547,Epistles,New Testament,Galatians,ESV
+3,Galatians3:1 ,PHRASE,was publicly portrayed,G4270,Epistles,New Testament,Galatians,ESV
+3,Galatians3:1 ,PHRASE,as crucified,G4717,Epistles,New Testament,Galatians,ESV
+3,Galatians3:2 ,WORD,This,G3778,Epistles,New Testament,Galatians,ESV
+3,Galatians3:2 ,PHRASE,is the only thing,G3441,Epistles,New Testament,Galatians,ESV
+3,Galatians3:2 ,PHRASE,I want,G2309,Epistles,New Testament,Galatians,ESV
+3,Galatians3:2 ,PHRASE,to find out,G3129,Epistles,New Testament,Galatians,ESV
+3,Galatians3:2 ,WORD,from,G575,Epistles,New Testament,Galatians,ESV
+3,Galatians3:2 ,WORD,you,G4771,Epistles,New Testament,Galatians,ESV
+3,Galatians3:2 ,PHRASE,did you receive,G2983,Epistles,New Testament,Galatians,ESV
+3,Galatians3:2 ,WORD,the,G3588,Epistles,New Testament,Galatians,ESV
+3,Galatians3:2 ,WORD,Spirit,G4151,Epistles,New Testament,Galatians,ESV
+3,Galatians3:2 ,WORD,by,G1537,Epistles,New Testament,Galatians,ESV
+3,Galatians3:2 ,PHRASE,the works,G2041,Epistles,New Testament,Galatians,ESV
+3,Galatians3:2 ,PHRASE,of the Law,G3551,Epistles,New Testament,Galatians,ESV
+3,Galatians3:2 ,WORD,or,G2228,Epistles,New Testament,Galatians,ESV
+3,Galatians3:2 ,WORD,by,G1537,Epistles,New Testament,Galatians,ESV
+3,Galatians3:2 ,WORD,hearing,G189,Epistles,New Testament,Galatians,ESV
+3,Galatians3:2 ,PHRASE,with faith,G4102,Epistles,New Testament,Galatians,ESV
+3,Galatians3:3 ,PHRASE,Are you,G1510,Epistles,New Testament,Galatians,ESV
+3,Galatians3:3 ,WORD,so,G3779,Epistles,New Testament,Galatians,ESV
+3,Galatians3:3 ,WORD,foolish,G453,Epistles,New Testament,Galatians,ESV
+3,Galatians3:3 ,PHRASE,Having begun,G1728,Epistles,New Testament,Galatians,ESV
+3,Galatians3:3 ,PHRASE,by the Spirit,G4151,Epistles,New Testament,Galatians,ESV
+3,Galatians3:3 ,PHRASE,are you now,G3568,Epistles,New Testament,Galatians,ESV
+3,Galatians3:3 ,PHRASE,being perfected,G2005,Epistles,New Testament,Galatians,ESV
+3,Galatians3:3 ,PHRASE,by the flesh,G4561,Epistles,New Testament,Galatians,ESV
+3,Galatians3:4 ,PHRASE,Did you suffer,G3958,Epistles,New Testament,Galatians,ESV
+3,Galatians3:4 ,PHRASE,so many things,G5118,Epistles,New Testament,Galatians,ESV
+3,Galatians3:4 ,PHRASE,in vain,G1500,Epistles,New Testament,Galatians,ESV
+3,Galatians3:4 ,WORD,if,G1487,Epistles,New Testament,Galatians,ESV
+3,Galatians3:4 ,WORD,indeed,G1065,Epistles,New Testament,Galatians,ESV
+3,Galatians3:4 ,WORD,,G2532,Epistles,New Testament,Galatians,ESV
+3,Galatians3:4 ,PHRASE,it was in vain,G1500,Epistles,New Testament,Galatians,ESV
+3,Galatians3:5 ,PHRASE,So then,G3767,Epistles,New Testament,Galatians,ESV
+3,Galatians3:5 ,WORD,does,G2023,Epistles,New Testament,Galatians,ESV
+3,Galatians3:5 ,PHRASE,He who,G3588,Epistles,New Testament,Galatians,ESV
+3,Galatians3:5 ,WORD,provides,G2023,Epistles,New Testament,Galatians,ESV
+3,Galatians3:5 ,WORD,you,G4771,Epistles,New Testament,Galatians,ESV
+3,Galatians3:5 ,PHRASE,with the,G3588,Epistles,New Testament,Galatians,ESV
+3,Galatians3:5 ,WORD,Spirit,G4151,Epistles,New Testament,Galatians,ESV
+3,Galatians3:5 ,WORD,and,G2532,Epistles,New Testament,Galatians,ESV
+3,Galatians3:5 ,WORD,works,G1754,Epistles,New Testament,Galatians,ESV
+3,Galatians3:5 ,WORD,miracles,G1411,Epistles,New Testament,Galatians,ESV
+3,Galatians3:5 ,WORD,among,G1722,Epistles,New Testament,Galatians,ESV
+3,Galatians3:5 ,WORD,you,G4771,Epistles,New Testament,Galatians,ESV
+3,Galatians3:5 ,PHRASE,do it by,G1537,Epistles,New Testament,Galatians,ESV
+3,Galatians3:5 ,PHRASE,the works,G2041,Epistles,New Testament,Galatians,ESV
+3,Galatians3:5 ,PHRASE,of the Law,G3551,Epistles,New Testament,Galatians,ESV
+3,Galatians3:5 ,WORD,or,G2228,Epistles,New Testament,Galatians,ESV
+3,Galatians3:5 ,WORD,by,G1537,Epistles,New Testament,Galatians,ESV
+3,Galatians3:5 ,WORD,hearing,G189,Epistles,New Testament,Galatians,ESV
+3,Galatians3:5 ,PHRASE,with faith,G4102,Epistles,New Testament,Galatians,ESV
+3,Galatians3:6 ,PHRASE,Even so,G2531,Epistles,New Testament,Galatians,ESV
+3,Galatians3:6 ,WORD,Abraham,G11,Epistles,New Testament,Galatians,ESV
+3,Galatians3:6 ,WORD,BELIEVED,G4100,Epistles,New Testament,Galatians,ESV
+3,Galatians3:6 ,WORD,GOD,G2316,Epistles,New Testament,Galatians,ESV
+3,Galatians3:6 ,WORD,AND,G2532,Epistles,New Testament,Galatians,ESV
+3,Galatians3:6 ,PHRASE,IT WAS RECKONED,G3049,Epistles,New Testament,Galatians,ESV
+3,Galatians3:6 ,PHRASE,TO HIM,G846,Epistles,New Testament,Galatians,ESV
+3,Galatians3:6 ,WORD,AS,G1519,Epistles,New Testament,Galatians,ESV
+3,Galatians3:6 ,WORD,RIGHTEOUSNESS,G1343,Epistles,New Testament,Galatians,ESV
+3,Galatians3:7 ,WORD,Therefore,G686,Epistles,New Testament,Galatians,ESV
+3,Galatians3:7 ,PHRASE,be sure,G1097,Epistles,New Testament,Galatians,ESV
+3,Galatians3:7 ,WORD,that,G3754,Epistles,New Testament,Galatians,ESV
+3,Galatians3:7 ,PHRASE,it is those,G3588,Epistles,New Testament,Galatians,ESV
+3,Galatians3:7 ,PHRASE,who are of,G1537,Epistles,New Testament,Galatians,ESV
+3,Galatians3:7 ,WORD,faith,G4102,Epistles,New Testament,Galatians,ESV
+3,Galatians3:7 ,WORD,who,G3778,Epistles,New Testament,Galatians,ESV
+3,Galatians3:7 ,WORD,are,G1510,Epistles,New Testament,Galatians,ESV
+3,Galatians3:7 ,WORD,sons,G5207,Epistles,New Testament,Galatians,ESV
+3,Galatians3:7 ,PHRASE,of Abraham,G11,Epistles,New Testament,Galatians,ESV
+3,Galatians3:8 ,WORD,The,G3588,Epistles,New Testament,Galatians,ESV
+3,Galatians3:8 ,WORD,Scripture,G1124,Epistles,New Testament,Galatians,ESV
+3,Galatians3:8 ,WORD,foreseeing,G4275,Epistles,New Testament,Galatians,ESV
+3,Galatians3:8 ,WORD,that,G3754,Epistles,New Testament,Galatians,ESV
+3,Galatians3:8 ,WORD,God,G2316,Epistles,New Testament,Galatians,ESV
+3,Galatians3:8 ,PHRASE,would justify,G1344,Epistles,New Testament,Galatians,ESV
+3,Galatians3:8 ,WORD,the,G3588,Epistles,New Testament,Galatians,ESV
+3,Galatians3:8 ,WORD,Gentiles,G1484,Epistles,New Testament,Galatians,ESV
+3,Galatians3:8 ,WORD,by,G1537,Epistles,New Testament,Galatians,ESV
+3,Galatians3:8 ,WORD,faith,G4102,Epistles,New Testament,Galatians,ESV
+3,Galatians3:8 ,PHRASE,preached the gospel beforehand,G4283,Epistles,New Testament,Galatians,ESV
+3,Galatians3:8 ,PHRASE,to Abraham,G11,Epistles,New Testament,Galatians,ESV
+3,Galatians3:8 ,WORD,saying,G3754,Epistles,New Testament,Galatians,ESV
+3,Galatians3:8 ,WORD,ALL,G3956,Epistles,New Testament,Galatians,ESV
+3,Galatians3:8 ,WORD,THE,G3588,Epistles,New Testament,Galatians,ESV
+3,Galatians3:8 ,WORD,NATIONS,G1484,Epistles,New Testament,Galatians,ESV
+3,Galatians3:8 ,PHRASE,WILL BE BLESSED,G1757,Epistles,New Testament,Galatians,ESV
+3,Galatians3:8 ,WORD,IN,G1722,Epistles,New Testament,Galatians,ESV
+3,Galatians3:8 ,WORD,YOU,G4771,Epistles,New Testament,Galatians,ESV
+3,Galatians3:9 ,PHRASE,So then,G5620,Epistles,New Testament,Galatians,ESV
+3,Galatians3:9 ,WORD,those,G3588,Epistles,New Testament,Galatians,ESV
+3,Galatians3:9 ,PHRASE,who are of,G1537,Epistles,New Testament,Galatians,ESV
+3,Galatians3:9 ,WORD,faith,G4102,Epistles,New Testament,Galatians,ESV
+3,Galatians3:9 ,PHRASE,are blessed,G2127,Epistles,New Testament,Galatians,ESV
+3,Galatians3:9 ,WORD,with,G4862,Epistles,New Testament,Galatians,ESV
+3,Galatians3:9 ,WORD,Abraham,G11,Epistles,New Testament,Galatians,ESV
+3,Galatians3:9 ,WORD,the,G3588,Epistles,New Testament,Galatians,ESV
+3,Galatians3:9 ,WORD,believer,G4103,Epistles,New Testament,Galatians,ESV
+3,Galatians3:10 ,WORD,For,G1063,Epistles,New Testament,Galatians,ESV
+3,Galatians3:10 ,PHRASE,as many as,G3745,Epistles,New Testament,Galatians,ESV
+3,Galatians3:10 ,WORD,are,G1510,Epistles,New Testament,Galatians,ESV
+3,Galatians3:10 ,WORD,of,G1537,Epistles,New Testament,Galatians,ESV
+3,Galatians3:10 ,PHRASE,the works,G2041,Epistles,New Testament,Galatians,ESV
+3,Galatians3:10 ,PHRASE,of the Law,G3551,Epistles,New Testament,Galatians,ESV
+3,Galatians3:10 ,WORD,are,G1510,Epistles,New Testament,Galatians,ESV
+3,Galatians3:10 ,WORD,under,G5259,Epistles,New Testament,Galatians,ESV
+3,Galatians3:10 ,PHRASE,a curse,G2671,Epistles,New Testament,Galatians,ESV
+3,Galatians3:10 ,WORD,for,G1063,Epistles,New Testament,Galatians,ESV
+3,Galatians3:10 ,PHRASE,it is written,G1125,Epistles,New Testament,Galatians,ESV
+3,Galatians3:10 ,WORD,CURSED,G1944,Epistles,New Testament,Galatians,ESV
+3,Galatians3:10 ,PHRASE,IS EVERYONE,G3956,Epistles,New Testament,Galatians,ESV
+3,Galatians3:10 ,WORD,WHO,G3739,Epistles,New Testament,Galatians,ESV
+3,Galatians3:10 ,PHRASE,DOES NOT,G3756,Epistles,New Testament,Galatians,ESV
+3,Galatians3:10 ,WORD,ABIDE,G1696,Epistles,New Testament,Galatians,ESV
+3,Galatians3:10 ,PHRASE,BY ALL THINGS,G3956,Epistles,New Testament,Galatians,ESV
+3,Galatians3:10 ,WORD,WRITTEN,G1125,Epistles,New Testament,Galatians,ESV
+3,Galatians3:10 ,WORD,IN,G1722,Epistles,New Testament,Galatians,ESV
+3,Galatians3:10 ,WORD,THE,G3588,Epistles,New Testament,Galatians,ESV
+3,Galatians3:10 ,WORD,BOOK,G975,Epistles,New Testament,Galatians,ESV
+3,Galatians3:10 ,PHRASE,OF THE,G3588,Epistles,New Testament,Galatians,ESV
+3,Galatians3:10 ,WORD,LAW,G3551,Epistles,New Testament,Galatians,ESV
+3,Galatians3:10 ,PHRASE,TO PERFORM,G4160,Epistles,New Testament,Galatians,ESV
+3,Galatians3:10 ,WORD,THEM,G846,Epistles,New Testament,Galatians,ESV
+3,Galatians3:11 ,WORD,Now,G1161,Epistles,New Testament,Galatians,ESV
+3,Galatians3:11 ,PHRASE,that no one,G3762,Epistles,New Testament,Galatians,ESV
+3,Galatians3:11 ,PHRASE,is justified,G1344,Epistles,New Testament,Galatians,ESV
+3,Galatians3:11 ,WORD,by,G1722,Epistles,New Testament,Galatians,ESV
+3,Galatians3:11 ,PHRASE,the Law,G3551,Epistles,New Testament,Galatians,ESV
+3,Galatians3:11 ,WORD,before,G3844,Epistles,New Testament,Galatians,ESV
+3,Galatians3:11 ,WORD,God,G2316,Epistles,New Testament,Galatians,ESV
+3,Galatians3:11 ,PHRASE,is evident,G1212,Epistles,New Testament,Galatians,ESV
+3,Galatians3:11 ,WORD,for,G3754,Epistles,New Testament,Galatians,ESV
+3,Galatians3:11 ,WORD,THE,G3588,Epistles,New Testament,Galatians,ESV
+3,Galatians3:11 ,PHRASE,RIGHTEOUS MAN,G1342,Epistles,New Testament,Galatians,ESV
+3,Galatians3:11 ,PHRASE,SHALL LIVE,G2198,Epistles,New Testament,Galatians,ESV
+3,Galatians3:11 ,WORD,BY,G1537,Epistles,New Testament,Galatians,ESV
+3,Galatians3:11 ,WORD,FAITH,G4102,Epistles,New Testament,Galatians,ESV
+3,Galatians3:12 ,WORD,However,G1161,Epistles,New Testament,Galatians,ESV
+3,Galatians3:12 ,PHRASE,the Law,G3551,Epistles,New Testament,Galatians,ESV
+3,Galatians3:12 ,WORD,is,G1510,Epistles,New Testament,Galatians,ESV
+3,Galatians3:12 ,WORD,not,G3756,Epistles,New Testament,Galatians,ESV
+3,Galatians3:12 ,WORD,of,G1537,Epistles,New Testament,Galatians,ESV
+3,Galatians3:12 ,WORD,faith,G4102,Epistles,New Testament,Galatians,ESV
+3,Galatians3:12 ,PHRASE,on the contrary,G235,Epistles,New Testament,Galatians,ESV
+3,Galatians3:12 ,PHRASE,HE WHO,G3588,Epistles,New Testament,Galatians,ESV
+3,Galatians3:12 ,WORD,PRACTICES,G4160,Epistles,New Testament,Galatians,ESV
+3,Galatians3:12 ,WORD,THEM,G846,Epistles,New Testament,Galatians,ESV
+3,Galatians3:12 ,PHRASE,SHALL LIVE,G2198,Epistles,New Testament,Galatians,ESV
+3,Galatians3:12 ,WORD,BY,G1722,Epistles,New Testament,Galatians,ESV
+3,Galatians3:12 ,WORD,THEM,G846,Epistles,New Testament,Galatians,ESV
+3,Galatians3:13 ,WORD,Christ,G5547,Epistles,New Testament,Galatians,ESV
+3,Galatians3:13 ,WORD,redeemed,G1805,Epistles,New Testament,Galatians,ESV
+3,Galatians3:13 ,WORD,us,G1473,Epistles,New Testament,Galatians,ESV
+3,Galatians3:13 ,WORD,from,G1537,Epistles,New Testament,Galatians,ESV
+3,Galatians3:13 ,WORD,the,G3588,Epistles,New Testament,Galatians,ESV
+3,Galatians3:13 ,WORD,curse,G2671,Epistles,New Testament,Galatians,ESV
+3,Galatians3:13 ,PHRASE,of the,G3588,Epistles,New Testament,Galatians,ESV
+3,Galatians3:13 ,WORD,Law,G3551,Epistles,New Testament,Galatians,ESV
+3,Galatians3:13 ,PHRASE,having become,G1096,Epistles,New Testament,Galatians,ESV
+3,Galatians3:13 ,PHRASE,a curse,G2671,Epistles,New Testament,Galatians,ESV
+3,Galatians3:13 ,WORD,for,G5228,Epistles,New Testament,Galatians,ESV
+3,Galatians3:13 ,WORD,us,G1473,Epistles,New Testament,Galatians,ESV
+3,Galatians3:13 ,WORD,for,G3754,Epistles,New Testament,Galatians,ESV
+3,Galatians3:13 ,PHRASE,it is written,G1125,Epistles,New Testament,Galatians,ESV
+3,Galatians3:13 ,WORD,CURSED,G1944,Epistles,New Testament,Galatians,ESV
+3,Galatians3:13 ,PHRASE,IS EVERYONE,G3956,Epistles,New Testament,Galatians,ESV
+3,Galatians3:13 ,WORD,WHO,G3588,Epistles,New Testament,Galatians,ESV
+3,Galatians3:13 ,WORD,HANGS,G2910,Epistles,New Testament,Galatians,ESV
+3,Galatians3:13 ,WORD,ON,G1909,Epistles,New Testament,Galatians,ESV
+3,Galatians3:13 ,PHRASE,A TREE,G3586,Epistles,New Testament,Galatians,ESV
+3,Galatians3:14 ,PHRASE,in order that,G2443,Epistles,New Testament,Galatians,ESV
+3,Galatians3:14 ,WORD,in,G1722,Epistles,New Testament,Galatians,ESV
+3,Galatians3:14 ,WORD,Christ,G5547,Epistles,New Testament,Galatians,ESV
+3,Galatians3:14 ,WORD,Jesus,G2424,Epistles,New Testament,Galatians,ESV
+3,Galatians3:14 ,WORD,the,G3588,Epistles,New Testament,Galatians,ESV
+3,Galatians3:14 ,WORD,blessing,G2129,Epistles,New Testament,Galatians,ESV
+3,Galatians3:14 ,PHRASE,of Abraham,G11,Epistles,New Testament,Galatians,ESV
+3,Galatians3:14 ,PHRASE,might come,G1096,Epistles,New Testament,Galatians,ESV
+3,Galatians3:14 ,WORD,to,G1519,Epistles,New Testament,Galatians,ESV
+3,Galatians3:14 ,WORD,the,G3588,Epistles,New Testament,Galatians,ESV
+3,Galatians3:14 ,WORD,Gentiles,G1484,Epistles,New Testament,Galatians,ESV
+3,Galatians3:14 ,PHRASE,so that,G2443,Epistles,New Testament,Galatians,ESV
+3,Galatians3:14 ,PHRASE,we would receive,G2983,Epistles,New Testament,Galatians,ESV
+3,Galatians3:14 ,WORD,the,G3588,Epistles,New Testament,Galatians,ESV
+3,Galatians3:14 ,WORD,promise,G1860,Epistles,New Testament,Galatians,ESV
+3,Galatians3:14 ,PHRASE,of the,G3588,Epistles,New Testament,Galatians,ESV
+3,Galatians3:14 ,WORD,Spirit,G4151,Epistles,New Testament,Galatians,ESV
+3,Galatians3:14 ,WORD,through,G1223,Epistles,New Testament,Galatians,ESV
+3,Galatians3:14 ,WORD,faith,G4102,Epistles,New Testament,Galatians,ESV
+3,Galatians3:15 ,WORD,Brethren,G80,Epistles,New Testament,Galatians,ESV
+3,Galatians3:15 ,PHRASE,I speak,G3004,Epistles,New Testament,Galatians,ESV
+3,Galatians3:15 ,PHRASE,in terms,G2596,Epistles,New Testament,Galatians,ESV
+3,Galatians3:15 ,PHRASE,of human relations,G444,Epistles,New Testament,Galatians,ESV
+3,Galatians3:15 ,PHRASE,even though,G3676,Epistles,New Testament,Galatians,ESV
+3,Galatians3:15 ,PHRASE,it is only a man's,G444,Epistles,New Testament,Galatians,ESV
+3,Galatians3:15 ,WORD,covenant,G1242,Epistles,New Testament,Galatians,ESV
+3,Galatians3:15 ,PHRASE,yet when it has been ratified,G2964,Epistles,New Testament,Galatians,ESV
+3,Galatians3:15 ,PHRASE,no one,G3762,Epistles,New Testament,Galatians,ESV
+3,Galatians3:15 ,PHRASE,sets it aside,G114,Epistles,New Testament,Galatians,ESV
+3,Galatians3:15 ,WORD,or,G2228,Epistles,New Testament,Galatians,ESV
+3,Galatians3:15 ,PHRASE,adds conditions to it,G1928,Epistles,New Testament,Galatians,ESV
+3,Galatians3:16 ,WORD,Now,G1161,Epistles,New Testament,Galatians,ESV
+3,Galatians3:16 ,WORD,the,G3588,Epistles,New Testament,Galatians,ESV
+3,Galatians3:16 ,WORD,promises,G1860,Epistles,New Testament,Galatians,ESV
+3,Galatians3:16 ,PHRASE,were spoken,G3004,Epistles,New Testament,Galatians,ESV
+3,Galatians3:16 ,PHRASE,to Abraham,G11,Epistles,New Testament,Galatians,ESV
+3,Galatians3:16 ,WORD,and,G2532,Epistles,New Testament,Galatians,ESV
+3,Galatians3:16 ,PHRASE,to his,G846,Epistles,New Testament,Galatians,ESV
+3,Galatians3:16 ,WORD,seed,G4690,Epistles,New Testament,Galatians,ESV
+3,Galatians3:16 ,PHRASE,He does not,G3756,Epistles,New Testament,Galatians,ESV
+3,Galatians3:16 ,WORD,say,G3004,Epistles,New Testament,Galatians,ESV
+3,Galatians3:16 ,WORD,And,G2532,Epistles,New Testament,Galatians,ESV
+3,Galatians3:16 ,PHRASE,to seeds,G4690,Epistles,New Testament,Galatians,ESV
+3,Galatians3:16 ,PHRASE,as referring,G5613,Epistles,New Testament,Galatians,ESV
+3,Galatians3:16 ,WORD,to,G1909,Epistles,New Testament,Galatians,ESV
+3,Galatians3:16 ,WORD,many,G4183,Epistles,New Testament,Galatians,ESV
+3,Galatians3:16 ,PHRASE,but rather,G235,Epistles,New Testament,Galatians,ESV
+3,Galatians3:16 ,WORD,,G5613,Epistles,New Testament,Galatians,ESV
+3,Galatians3:16 ,WORD,to,G1909,Epistles,New Testament,Galatians,ESV
+3,Galatians3:16 ,WORD,one,G1520,Epistles,New Testament,Galatians,ESV
+3,Galatians3:16 ,WORD,And,G2532,Epistles,New Testament,Galatians,ESV
+3,Galatians3:16 ,PHRASE,to your,G4771,Epistles,New Testament,Galatians,ESV
+3,Galatians3:16 ,WORD,seed,G4690,Epistles,New Testament,Galatians,ESV
+3,Galatians3:16 ,WORD,that,G3739,Epistles,New Testament,Galatians,ESV
+3,Galatians3:16 ,WORD,is,G1510,Epistles,New Testament,Galatians,ESV
+3,Galatians3:16 ,WORD,Christ,G5547,Epistles,New Testament,Galatians,ESV
+3,Galatians3:17 ,PHRASE,What I am saying,G3004,Epistles,New Testament,Galatians,ESV
+3,Galatians3:17 ,PHRASE,is this,G3778,Epistles,New Testament,Galatians,ESV
+3,Galatians3:17 ,PHRASE,the Law,G3551,Epistles,New Testament,Galatians,ESV
+3,Galatians3:17 ,PHRASE,which came,G1096,Epistles,New Testament,Galatians,ESV
+3,Galatians3:17 ,PHRASE,four hundred,G5071,Epistles,New Testament,Galatians,ESV
+3,Galatians3:17 ,WORD,and,G2532,Epistles,New Testament,Galatians,ESV
+3,Galatians3:17 ,WORD,thirty,G5144,Epistles,New Testament,Galatians,ESV
+3,Galatians3:17 ,WORD,years,G2094,Epistles,New Testament,Galatians,ESV
+3,Galatians3:17 ,WORD,later,G3326,Epistles,New Testament,Galatians,ESV
+3,Galatians3:17 ,PHRASE,does not,G3756,Epistles,New Testament,Galatians,ESV
+3,Galatians3:17 ,WORD,invalidate,G208,Epistles,New Testament,Galatians,ESV
+3,Galatians3:17 ,PHRASE,a covenant,G1242,Epistles,New Testament,Galatians,ESV
+3,Galatians3:17 ,PHRASE,previously ratified,G4300,Epistles,New Testament,Galatians,ESV
+3,Galatians3:17 ,WORD,by,G5259,Epistles,New Testament,Galatians,ESV
+3,Galatians3:17 ,WORD,God,G2316,Epistles,New Testament,Galatians,ESV
+3,Galatians3:17 ,PHRASE,so as,G1519,Epistles,New Testament,Galatians,ESV
+3,Galatians3:17 ,PHRASE,to nullify,G2673,Epistles,New Testament,Galatians,ESV
+3,Galatians3:17 ,WORD,the,G3588,Epistles,New Testament,Galatians,ESV
+3,Galatians3:17 ,WORD,promise,G1860,Epistles,New Testament,Galatians,ESV
+3,Galatians3:18 ,WORD,For,G1063,Epistles,New Testament,Galatians,ESV
+3,Galatians3:18 ,WORD,if,G1487,Epistles,New Testament,Galatians,ESV
+3,Galatians3:18 ,WORD,the,G3588,Epistles,New Testament,Galatians,ESV
+3,Galatians3:18 ,WORD,inheritance,G2817,Epistles,New Testament,Galatians,ESV
+3,Galatians3:18 ,PHRASE,is based on,G1537,Epistles,New Testament,Galatians,ESV
+3,Galatians3:18 ,WORD,law,G3551,Epistles,New Testament,Galatians,ESV
+3,Galatians3:18 ,PHRASE,it is no longer,G3765,Epistles,New Testament,Galatians,ESV
+3,Galatians3:18 ,PHRASE,based on,G1537,Epistles,New Testament,Galatians,ESV
+3,Galatians3:18 ,PHRASE,a promise,G1860,Epistles,New Testament,Galatians,ESV
+3,Galatians3:18 ,WORD,but,G1161,Epistles,New Testament,Galatians,ESV
+3,Galatians3:18 ,WORD,God,G2316,Epistles,New Testament,Galatians,ESV
+3,Galatians3:18 ,PHRASE,has granted it,G5483,Epistles,New Testament,Galatians,ESV
+3,Galatians3:18 ,PHRASE,to Abraham,G11,Epistles,New Testament,Galatians,ESV
+3,Galatians3:18 ,PHRASE,by means of,G1223,Epistles,New Testament,Galatians,ESV
+3,Galatians3:18 ,PHRASE,a promise,G1860,Epistles,New Testament,Galatians,ESV
+3,Galatians3:19 ,WORD,Why,G5101,Epistles,New Testament,Galatians,ESV
+3,Galatians3:19 ,WORD,the,G3588,Epistles,New Testament,Galatians,ESV
+3,Galatians3:19 ,WORD,Law,G3551,Epistles,New Testament,Galatians,ESV
+3,Galatians3:19 ,WORD,then,G3767,Epistles,New Testament,Galatians,ESV
+3,Galatians3:19 ,PHRASE,It was added,G4369,Epistles,New Testament,Galatians,ESV
+3,Galatians3:19 ,PHRASE,because of,G5484,Epistles,New Testament,Galatians,ESV
+3,Galatians3:19 ,WORD,transgressions,G3847,Epistles,New Testament,Galatians,ESV
+3,Galatians3:19 ,PHRASE,having been ordained,G1299,Epistles,New Testament,Galatians,ESV
+3,Galatians3:19 ,WORD,through,G1223,Epistles,New Testament,Galatians,ESV
+3,Galatians3:19 ,WORD,angels,G32,Epistles,New Testament,Galatians,ESV
+3,Galatians3:19 ,WORD,by,G1722,Epistles,New Testament,Galatians,ESV
+3,Galatians3:19 ,PHRASE,the agency,G5495,Epistles,New Testament,Galatians,ESV
+3,Galatians3:19 ,PHRASE,of a mediator,G3316,Epistles,New Testament,Galatians,ESV
+3,Galatians3:19 ,WORD,until,G891,Epistles,New Testament,Galatians,ESV
+3,Galatians3:19 ,WORD,the,G3588,Epistles,New Testament,Galatians,ESV
+3,Galatians3:19 ,WORD,seed,G4690,Epistles,New Testament,Galatians,ESV
+3,Galatians3:19 ,PHRASE,would come,G2064,Epistles,New Testament,Galatians,ESV
+3,Galatians3:19 ,PHRASE,to whom,G3739,Epistles,New Testament,Galatians,ESV
+3,Galatians3:19 ,PHRASE,the promise had been made,G1861,Epistles,New Testament,Galatians,ESV
+3,Galatians3:20 ,WORD,Now,G1161,Epistles,New Testament,Galatians,ESV
+3,Galatians3:20 ,PHRASE,a mediator,G3316,Epistles,New Testament,Galatians,ESV
+3,Galatians3:20 ,WORD,is,G1510,Epistles,New Testament,Galatians,ESV
+3,Galatians3:20 ,WORD,not,G3756,Epistles,New Testament,Galatians,ESV
+3,Galatians3:20 ,PHRASE,for one party only,G1520,Epistles,New Testament,Galatians,ESV
+3,Galatians3:20 ,WORD,whereas,G1161,Epistles,New Testament,Galatians,ESV
+3,Galatians3:20 ,WORD,God,G2316,Epistles,New Testament,Galatians,ESV
+3,Galatians3:20 ,WORD,is,G1510,Epistles,New Testament,Galatians,ESV
+3,Galatians3:20 ,PHRASE,only one,G1520,Epistles,New Testament,Galatians,ESV
+3,Galatians3:21 ,PHRASE,Is the,G3588,Epistles,New Testament,Galatians,ESV
+3,Galatians3:21 ,WORD,Law,G3551,Epistles,New Testament,Galatians,ESV
+3,Galatians3:21 ,WORD,then,G3767,Epistles,New Testament,Galatians,ESV
+3,Galatians3:21 ,PHRASE,contrary to,G2596,Epistles,New Testament,Galatians,ESV
+3,Galatians3:21 ,WORD,the,G3588,Epistles,New Testament,Galatians,ESV
+3,Galatians3:21 ,WORD,promises,G1860,Epistles,New Testament,Galatians,ESV
+3,Galatians3:21 ,PHRASE,of God,G2316,Epistles,New Testament,Galatians,ESV
+3,Galatians3:21 ,PHRASE,May it never,G3361,Epistles,New Testament,Galatians,ESV
+3,Galatians3:21 ,WORD,be,G1096,Epistles,New Testament,Galatians,ESV
+3,Galatians3:21 ,WORD,For,G1063,Epistles,New Testament,Galatians,ESV
+3,Galatians3:21 ,WORD,if,G1487,Epistles,New Testament,Galatians,ESV
+3,Galatians3:21 ,PHRASE,a law,G3551,Epistles,New Testament,Galatians,ESV
+3,Galatians3:21 ,PHRASE,had been given,G1325,Epistles,New Testament,Galatians,ESV
+3,Galatians3:21 ,WORD,which,G3588,Epistles,New Testament,Galatians,ESV
+3,Galatians3:21 ,PHRASE,was able,G1410,Epistles,New Testament,Galatians,ESV
+3,Galatians3:21 ,PHRASE,to impart life,G2227,Epistles,New Testament,Galatians,ESV
+3,Galatians3:21 ,PHRASE,then righteousness,G1343,Epistles,New Testament,Galatians,ESV
+3,Galatians3:21 ,WORD,would,G302,Epistles,New Testament,Galatians,ESV
+3,Galatians3:21 ,WORD,indeed,G3689,Epistles,New Testament,Galatians,ESV
+3,Galatians3:21 ,PHRASE,have been,G1510,Epistles,New Testament,Galatians,ESV
+3,Galatians3:21 ,PHRASE,based on,G1537,Epistles,New Testament,Galatians,ESV
+3,Galatians3:21 ,WORD,law,G3551,Epistles,New Testament,Galatians,ESV
+3,Galatians3:22 ,WORD,But,G235,Epistles,New Testament,Galatians,ESV
+3,Galatians3:22 ,WORD,the,G3588,Epistles,New Testament,Galatians,ESV
+3,Galatians3:22 ,WORD,Scripture,G1124,Epistles,New Testament,Galatians,ESV
+3,Galatians3:22 ,PHRASE,has shut up,G4788,Epistles,New Testament,Galatians,ESV
+3,Galatians3:22 ,WORD,everyone,G3956,Epistles,New Testament,Galatians,ESV
+3,Galatians3:22 ,WORD,under,G5259,Epistles,New Testament,Galatians,ESV
+3,Galatians3:22 ,WORD,sin,G266,Epistles,New Testament,Galatians,ESV
+3,Galatians3:22 ,PHRASE,so that,G2443,Epistles,New Testament,Galatians,ESV
+3,Galatians3:22 ,WORD,the,G3588,Epistles,New Testament,Galatians,ESV
+3,Galatians3:22 ,WORD,promise,G1860,Epistles,New Testament,Galatians,ESV
+3,Galatians3:22 ,WORD,by,G1537,Epistles,New Testament,Galatians,ESV
+3,Galatians3:22 ,WORD,faith,G4102,Epistles,New Testament,Galatians,ESV
+3,Galatians3:22 ,PHRASE,in Jesus,G2424,Epistles,New Testament,Galatians,ESV
+3,Galatians3:22 ,WORD,Christ,G5547,Epistles,New Testament,Galatians,ESV
+3,Galatians3:22 ,PHRASE,might be given,G1325,Epistles,New Testament,Galatians,ESV
+3,Galatians3:22 ,PHRASE,to those,G3588,Epistles,New Testament,Galatians,ESV
+3,Galatians3:22 ,PHRASE,who believe,G4100,Epistles,New Testament,Galatians,ESV
+3,Galatians3:23 ,WORD,But,G1161,Epistles,New Testament,Galatians,ESV
+3,Galatians3:23 ,WORD,before,G4253,Epistles,New Testament,Galatians,ESV
+3,Galatians3:23 ,WORD,faith,G4102,Epistles,New Testament,Galatians,ESV
+3,Galatians3:23 ,WORD,came,G2064,Epistles,New Testament,Galatians,ESV
+3,Galatians3:23 ,PHRASE,we were kept in custody,G5432,Epistles,New Testament,Galatians,ESV
+3,Galatians3:23 ,WORD,under,G5259,Epistles,New Testament,Galatians,ESV
+3,Galatians3:23 ,PHRASE,the law,G3551,Epistles,New Testament,Galatians,ESV
+3,Galatians3:23 ,PHRASE,being shut up,G4788,Epistles,New Testament,Galatians,ESV
+3,Galatians3:23 ,WORD,to,G1519,Epistles,New Testament,Galatians,ESV
+3,Galatians3:23 ,PHRASE,the faith,G4102,Epistles,New Testament,Galatians,ESV
+3,Galatians3:23 ,WORD,which,G3588,Epistles,New Testament,Galatians,ESV
+3,Galatians3:23 ,PHRASE,was later,G3195,Epistles,New Testament,Galatians,ESV
+3,Galatians3:23 ,PHRASE,to be revealed,G601,Epistles,New Testament,Galatians,ESV
+3,Galatians3:24 ,WORD,Therefore,G5620,Epistles,New Testament,Galatians,ESV
+3,Galatians3:24 ,WORD,the,G3588,Epistles,New Testament,Galatians,ESV
+3,Galatians3:24 ,WORD,Law,G3551,Epistles,New Testament,Galatians,ESV
+3,Galatians3:24 ,PHRASE,has become,G1096,Epistles,New Testament,Galatians,ESV
+3,Galatians3:24 ,WORD,our,G1473,Epistles,New Testament,Galatians,ESV
+3,Galatians3:24 ,WORD,tutor,G3807,Epistles,New Testament,Galatians,ESV
+3,Galatians3:24 ,PHRASE,to lead us to,G1519,Epistles,New Testament,Galatians,ESV
+3,Galatians3:24 ,WORD,Christ,G5547,Epistles,New Testament,Galatians,ESV
+3,Galatians3:24 ,PHRASE,so that,G2443,Epistles,New Testament,Galatians,ESV
+3,Galatians3:24 ,PHRASE,we may be justified,G1344,Epistles,New Testament,Galatians,ESV
+3,Galatians3:24 ,WORD,by,G1537,Epistles,New Testament,Galatians,ESV
+3,Galatians3:24 ,WORD,faith,G4102,Epistles,New Testament,Galatians,ESV
+3,Galatians3:25 ,PHRASE,But now,G1161,Epistles,New Testament,Galatians,ESV
+3,Galatians3:25 ,WORD,that,G3588,Epistles,New Testament,Galatians,ESV
+3,Galatians3:25 ,WORD,faith,G4102,Epistles,New Testament,Galatians,ESV
+3,Galatians3:25 ,PHRASE,has come,G2064,Epistles,New Testament,Galatians,ESV
+3,Galatians3:25 ,PHRASE,we are,G1510,Epistles,New Testament,Galatians,ESV
+3,Galatians3:25 ,PHRASE,no longer,G3765,Epistles,New Testament,Galatians,ESV
+3,Galatians3:25 ,WORD,under,G5259,Epistles,New Testament,Galatians,ESV
+3,Galatians3:25 ,PHRASE,a tutor,G3807,Epistles,New Testament,Galatians,ESV
+3,Galatians3:26 ,WORD,For,G1063,Epistles,New Testament,Galatians,ESV
+3,Galatians3:26 ,PHRASE,you are,G1510,Epistles,New Testament,Galatians,ESV
+3,Galatians3:26 ,WORD,all,G3956,Epistles,New Testament,Galatians,ESV
+3,Galatians3:26 ,WORD,sons,G5207,Epistles,New Testament,Galatians,ESV
+3,Galatians3:26 ,PHRASE,of God,G2316,Epistles,New Testament,Galatians,ESV
+3,Galatians3:26 ,WORD,through,G1223,Epistles,New Testament,Galatians,ESV
+3,Galatians3:26 ,WORD,faith,G4102,Epistles,New Testament,Galatians,ESV
+3,Galatians3:26 ,WORD,in,G1722,Epistles,New Testament,Galatians,ESV
+3,Galatians3:26 ,WORD,Christ,G5547,Epistles,New Testament,Galatians,ESV
+3,Galatians3:26 ,WORD,Jesus,G2424,Epistles,New Testament,Galatians,ESV
+3,Galatians3:27 ,WORD,For,G1063,Epistles,New Testament,Galatians,ESV
+3,Galatians3:27 ,PHRASE,all of you who,G3745,Epistles,New Testament,Galatians,ESV
+3,Galatians3:27 ,PHRASE,were baptized,G907,Epistles,New Testament,Galatians,ESV
+3,Galatians3:27 ,WORD,into,G1519,Epistles,New Testament,Galatians,ESV
+3,Galatians3:27 ,WORD,Christ,G5547,Epistles,New Testament,Galatians,ESV
+3,Galatians3:27 ,PHRASE,have clothed yourselves,G1746,Epistles,New Testament,Galatians,ESV
+3,Galatians3:27 ,PHRASE,with Christ,G5547,Epistles,New Testament,Galatians,ESV
+3,Galatians3:28 ,WORD,There,G1762,Epistles,New Testament,Galatians,ESV
+3,Galatians3:28 ,PHRASE,is neither,G3756,Epistles,New Testament,Galatians,ESV
+3,Galatians3:28 ,WORD,Jew,G2453,Epistles,New Testament,Galatians,ESV
+3,Galatians3:28 ,WORD,nor,G3761,Epistles,New Testament,Galatians,ESV
+3,Galatians3:28 ,WORD,Greek,G1672,Epistles,New Testament,Galatians,ESV
+3,Galatians3:28 ,WORD,there,G1762,Epistles,New Testament,Galatians,ESV
+3,Galatians3:28 ,PHRASE,is neither,G3756,Epistles,New Testament,Galatians,ESV
+3,Galatians3:28 ,WORD,slave,G1401,Epistles,New Testament,Galatians,ESV
+3,Galatians3:28 ,WORD,nor,G3761,Epistles,New Testament,Galatians,ESV
+3,Galatians3:28 ,PHRASE,free man,G1658,Epistles,New Testament,Galatians,ESV
+3,Galatians3:28 ,WORD,there,G1762,Epistles,New Testament,Galatians,ESV
+3,Galatians3:28 ,PHRASE,is neither,G3756,Epistles,New Testament,Galatians,ESV
+3,Galatians3:28 ,WORD,male,G730,Epistles,New Testament,Galatians,ESV
+3,Galatians3:28 ,WORD,nor,G2532,Epistles,New Testament,Galatians,ESV
+3,Galatians3:28 ,WORD,female,G2338,Epistles,New Testament,Galatians,ESV
+3,Galatians3:28 ,WORD,for,G1063,Epistles,New Testament,Galatians,ESV
+3,Galatians3:28 ,PHRASE,you are,G1510,Epistles,New Testament,Galatians,ESV
+3,Galatians3:28 ,WORD,all,G3956,Epistles,New Testament,Galatians,ESV
+3,Galatians3:28 ,WORD,one,G1520,Epistles,New Testament,Galatians,ESV
+3,Galatians3:28 ,WORD,in,G1722,Epistles,New Testament,Galatians,ESV
+3,Galatians3:28 ,WORD,Christ,G5547,Epistles,New Testament,Galatians,ESV
+3,Galatians3:28 ,WORD,Jesus,G2424,Epistles,New Testament,Galatians,ESV
+3,Galatians3:29 ,WORD,And,G1161,Epistles,New Testament,Galatians,ESV
+3,Galatians3:29 ,WORD,if,G1487,Epistles,New Testament,Galatians,ESV
+3,Galatians3:29 ,WORD,you,G4771,Epistles,New Testament,Galatians,ESV
+3,Galatians3:29 ,PHRASE,belong to Christ,G5547,Epistles,New Testament,Galatians,ESV
+3,Galatians3:29 ,WORD,then,G686,Epistles,New Testament,Galatians,ESV
+3,Galatians3:29 ,PHRASE,you are,G1510,Epistles,New Testament,Galatians,ESV
+3,Galatians3:29 ,WORD,Abraham's,G11,Epistles,New Testament,Galatians,ESV
+3,Galatians3:29 ,WORD,descendants,G4690,Epistles,New Testament,Galatians,ESV
+3,Galatians3:29 ,WORD,heirs,G2818,Epistles,New Testament,Galatians,ESV
+3,Galatians3:29 ,PHRASE,according to,G2596,Epistles,New Testament,Galatians,ESV
+3,Galatians3:29 ,WORD,promise,G1860,Epistles,New Testament,Galatians,ESV
+4,Galatians4:1 ,WORD,Now,G1161,Epistles,New Testament,Galatians,ESV
+4,Galatians4:1 ,PHRASE,I say,G3004,Epistles,New Testament,Galatians,ESV
+4,Galatians4:1 ,PHRASE,as long as,G1909,Epistles,New Testament,Galatians,ESV
+4,Galatians4:1 ,WORD,,G3745,Epistles,New Testament,Galatians,ESV
+4,Galatians4:1 ,WORD,,G5550,Epistles,New Testament,Galatians,ESV
+4,Galatians4:1 ,WORD,the,G3588,Epistles,New Testament,Galatians,ESV
+4,Galatians4:1 ,WORD,heir,G2818,Epistles,New Testament,Galatians,ESV
+4,Galatians4:1 ,PHRASE,is a child,G3516,Epistles,New Testament,Galatians,ESV
+4,Galatians4:1 ,PHRASE,he does,G1510,Epistles,New Testament,Galatians,ESV
+4,Galatians4:1 ,PHRASE,not differ,G1308,Epistles,New Testament,Galatians,ESV
+4,Galatians4:1 ,PHRASE,at all,G3762,Epistles,New Testament,Galatians,ESV
+4,Galatians4:1 ,PHRASE,from a slave,G1401,Epistles,New Testament,Galatians,ESV
+4,Galatians4:1 ,PHRASE,although he is,G1510,Epistles,New Testament,Galatians,ESV
+4,Galatians4:1 ,WORD,owner,G2962,Epistles,New Testament,Galatians,ESV
+4,Galatians4:1 ,PHRASE,of everything,G3956,Epistles,New Testament,Galatians,ESV
+4,Galatians4:2 ,WORD,but,G235,Epistles,New Testament,Galatians,ESV
+4,Galatians4:2 ,PHRASE,he is,G1510,Epistles,New Testament,Galatians,ESV
+4,Galatians4:2 ,WORD,under,G5259,Epistles,New Testament,Galatians,ESV
+4,Galatians4:2 ,WORD,guardians,G2012,Epistles,New Testament,Galatians,ESV
+4,Galatians4:2 ,WORD,and,G2532,Epistles,New Testament,Galatians,ESV
+4,Galatians4:2 ,WORD,managers,G3623,Epistles,New Testament,Galatians,ESV
+4,Galatians4:2 ,WORD,until,G891,Epistles,New Testament,Galatians,ESV
+4,Galatians4:2 ,WORD,the,G3588,Epistles,New Testament,Galatians,ESV
+4,Galatians4:2 ,PHRASE,date set,G4287,Epistles,New Testament,Galatians,ESV
+4,Galatians4:2 ,PHRASE,by the,G3588,Epistles,New Testament,Galatians,ESV
+4,Galatians4:2 ,WORD,father,G3962,Epistles,New Testament,Galatians,ESV
+4,Galatians4:3 ,WORD,So,G3779,Epistles,New Testament,Galatians,ESV
+4,Galatians4:3 ,WORD,also,G2532,Epistles,New Testament,Galatians,ESV
+4,Galatians4:3 ,WORD,we,G1473,Epistles,New Testament,Galatians,ESV
+4,Galatians4:3 ,WORD,while,G3753,Epistles,New Testament,Galatians,ESV
+4,Galatians4:3 ,PHRASE,we were,G1510,Epistles,New Testament,Galatians,ESV
+4,Galatians4:3 ,WORD,children,G3516,Epistles,New Testament,Galatians,ESV
+4,Galatians4:3 ,WORD,were,G1510,Epistles,New Testament,Galatians,ESV
+4,Galatians4:3 ,PHRASE,held in bondage,G1402,Epistles,New Testament,Galatians,ESV
+4,Galatians4:3 ,WORD,under,G5259,Epistles,New Testament,Galatians,ESV
+4,Galatians4:3 ,WORD,the,G3588,Epistles,New Testament,Galatians,ESV
+4,Galatians4:3 ,PHRASE,elemental things,G4747,Epistles,New Testament,Galatians,ESV
+4,Galatians4:3 ,PHRASE,of the,G3588,Epistles,New Testament,Galatians,ESV
+4,Galatians4:3 ,WORD,world,G2889,Epistles,New Testament,Galatians,ESV
+4,Galatians4:4 ,WORD,But,G1161,Epistles,New Testament,Galatians,ESV
+4,Galatians4:4 ,WORD,when,G3753,Epistles,New Testament,Galatians,ESV
+4,Galatians4:4 ,WORD,the,G3588,Epistles,New Testament,Galatians,ESV
+4,Galatians4:4 ,WORD,fullness,G4138,Epistles,New Testament,Galatians,ESV
+4,Galatians4:4 ,PHRASE,of the,G3588,Epistles,New Testament,Galatians,ESV
+4,Galatians4:4 ,WORD,time,G5550,Epistles,New Testament,Galatians,ESV
+4,Galatians4:4 ,WORD,came,G2064,Epistles,New Testament,Galatians,ESV
+4,Galatians4:4 ,WORD,God,G2316,Epistles,New Testament,Galatians,ESV
+4,Galatians4:4 ,PHRASE,sent forth,G1821,Epistles,New Testament,Galatians,ESV
+4,Galatians4:4 ,WORD,His,G846,Epistles,New Testament,Galatians,ESV
+4,Galatians4:4 ,WORD,Son,G5207,Epistles,New Testament,Galatians,ESV
+4,Galatians4:4 ,WORD,born,G1096,Epistles,New Testament,Galatians,ESV
+4,Galatians4:4 ,WORD,of,G1537,Epistles,New Testament,Galatians,ESV
+4,Galatians4:4 ,PHRASE,a woman,G1135,Epistles,New Testament,Galatians,ESV
+4,Galatians4:4 ,WORD,born,G1096,Epistles,New Testament,Galatians,ESV
+4,Galatians4:4 ,WORD,under,G5259,Epistles,New Testament,Galatians,ESV
+4,Galatians4:4 ,PHRASE,the Law,G3551,Epistles,New Testament,Galatians,ESV
+4,Galatians4:5 ,PHRASE,so that,G2443,Epistles,New Testament,Galatians,ESV
+4,Galatians4:5 ,PHRASE,He might redeem,G1805,Epistles,New Testament,Galatians,ESV
+4,Galatians4:5 ,WORD,those,G3588,Epistles,New Testament,Galatians,ESV
+4,Galatians4:5 ,PHRASE,who were under,G5259,Epistles,New Testament,Galatians,ESV
+4,Galatians4:5 ,PHRASE,the Law,G3551,Epistles,New Testament,Galatians,ESV
+4,Galatians4:5 ,WORD,that,G2443,Epistles,New Testament,Galatians,ESV
+4,Galatians4:5 ,PHRASE,we might receive,G618,Epistles,New Testament,Galatians,ESV
+4,Galatians4:5 ,WORD,the,G3588,Epistles,New Testament,Galatians,ESV
+4,Galatians4:5 ,PHRASE,adoption as sons,G5206,Epistles,New Testament,Galatians,ESV
+4,Galatians4:6 ,WORD,Because,G3754,Epistles,New Testament,Galatians,ESV
+4,Galatians4:6 ,PHRASE,you are,G1510,Epistles,New Testament,Galatians,ESV
+4,Galatians4:6 ,WORD,sons,G5207,Epistles,New Testament,Galatians,ESV
+4,Galatians4:6 ,WORD,God,G2316,Epistles,New Testament,Galatians,ESV
+4,Galatians4:6 ,PHRASE,has sent forth,G1821,Epistles,New Testament,Galatians,ESV
+4,Galatians4:6 ,WORD,the,G3588,Epistles,New Testament,Galatians,ESV
+4,Galatians4:6 ,WORD,Spirit,G4151,Epistles,New Testament,Galatians,ESV
+4,Galatians4:6 ,PHRASE,of His,G846,Epistles,New Testament,Galatians,ESV
+4,Galatians4:6 ,WORD,Son,G5207,Epistles,New Testament,Galatians,ESV
+4,Galatians4:6 ,WORD,into,G1519,Epistles,New Testament,Galatians,ESV
+4,Galatians4:6 ,WORD,our,G1473,Epistles,New Testament,Galatians,ESV
+4,Galatians4:6 ,WORD,hearts,G2588,Epistles,New Testament,Galatians,ESV
+4,Galatians4:6 ,WORD,crying,G2896,Epistles,New Testament,Galatians,ESV
+4,Galatians4:6 ,WORD,Abba,G5,Epistles,New Testament,Galatians,ESV
+4,Galatians4:6 ,WORD,Father,G3962,Epistles,New Testament,Galatians,ESV
+4,Galatians4:7 ,WORD,Therefore,G5620,Epistles,New Testament,Galatians,ESV
+4,Galatians4:7 ,PHRASE,you are,G1510,Epistles,New Testament,Galatians,ESV
+4,Galatians4:7 ,PHRASE,no longer,G3765,Epistles,New Testament,Galatians,ESV
+4,Galatians4:7 ,PHRASE,a slave,G1401,Epistles,New Testament,Galatians,ESV
+4,Galatians4:7 ,WORD,but,G235,Epistles,New Testament,Galatians,ESV
+4,Galatians4:7 ,PHRASE,a son,G5207,Epistles,New Testament,Galatians,ESV
+4,Galatians4:7 ,WORD,and,G1161,Epistles,New Testament,Galatians,ESV
+4,Galatians4:7 ,WORD,if,G1487,Epistles,New Testament,Galatians,ESV
+4,Galatians4:7 ,PHRASE,a son,G5207,Epistles,New Testament,Galatians,ESV
+4,Galatians4:7 ,WORD,then,G2532,Epistles,New Testament,Galatians,ESV
+4,Galatians4:7 ,PHRASE,an heir,G2818,Epistles,New Testament,Galatians,ESV
+4,Galatians4:7 ,WORD,through,G1223,Epistles,New Testament,Galatians,ESV
+4,Galatians4:7 ,WORD,God,G2316,Epistles,New Testament,Galatians,ESV
+4,Galatians4:8 ,WORD,However,G235,Epistles,New Testament,Galatians,ESV
+4,Galatians4:8 ,PHRASE,at that time,G5119,Epistles,New Testament,Galatians,ESV
+4,Galatians4:8 ,PHRASE,when you did,G1492,Epistles,New Testament,Galatians,ESV
+4,Galatians4:8 ,WORD,not,G3756,Epistles,New Testament,Galatians,ESV
+4,Galatians4:8 ,WORD,know,G1492,Epistles,New Testament,Galatians,ESV
+4,Galatians4:8 ,WORD,God,G2316,Epistles,New Testament,Galatians,ESV
+4,Galatians4:8 ,PHRASE,you were slaves,G1398,Epistles,New Testament,Galatians,ESV
+4,Galatians4:8 ,PHRASE,to those which,G3588,Epistles,New Testament,Galatians,ESV
+4,Galatians4:8 ,PHRASE,by nature,G5449,Epistles,New Testament,Galatians,ESV
+4,Galatians4:8 ,WORD,are,G1510,Epistles,New Testament,Galatians,ESV
+4,Galatians4:8 ,WORD,no,G3361,Epistles,New Testament,Galatians,ESV
+4,Galatians4:8 ,WORD,gods,G2316,Epistles,New Testament,Galatians,ESV
+4,Galatians4:9 ,WORD,But,G1161,Epistles,New Testament,Galatians,ESV
+4,Galatians4:9 ,WORD,now,G3568,Epistles,New Testament,Galatians,ESV
+4,Galatians4:9 ,PHRASE,that you have come to know,G1097,Epistles,New Testament,Galatians,ESV
+4,Galatians4:9 ,WORD,God,G2316,Epistles,New Testament,Galatians,ESV
+4,Galatians4:9 ,WORD,or,G1161,Epistles,New Testament,Galatians,ESV
+4,Galatians4:9 ,WORD,rather,G3123,Epistles,New Testament,Galatians,ESV
+4,Galatians4:9 ,PHRASE,to be known,G1097,Epistles,New Testament,Galatians,ESV
+4,Galatians4:9 ,WORD,by,G5259,Epistles,New Testament,Galatians,ESV
+4,Galatians4:9 ,WORD,God,G2316,Epistles,New Testament,Galatians,ESV
+4,Galatians4:9 ,PHRASE,how is it,G4459,Epistles,New Testament,Galatians,ESV
+4,Galatians4:9 ,PHRASE,that you turn back,G1994,Epistles,New Testament,Galatians,ESV
+4,Galatians4:9 ,WORD,again,G3825,Epistles,New Testament,Galatians,ESV
+4,Galatians4:9 ,WORD,to,G1909,Epistles,New Testament,Galatians,ESV
+4,Galatians4:9 ,WORD,the,G3588,Epistles,New Testament,Galatians,ESV
+4,Galatians4:9 ,WORD,weak,G772,Epistles,New Testament,Galatians,ESV
+4,Galatians4:9 ,WORD,and,G2532,Epistles,New Testament,Galatians,ESV
+4,Galatians4:9 ,WORD,worthless,G4434,Epistles,New Testament,Galatians,ESV
+4,Galatians4:9 ,PHRASE,elemental things,G4747,Epistles,New Testament,Galatians,ESV
+4,Galatians4:9 ,PHRASE,to which,G3739,Epistles,New Testament,Galatians,ESV
+4,Galatians4:9 ,PHRASE,you desire,G2309,Epistles,New Testament,Galatians,ESV
+4,Galatians4:9 ,PHRASE,to be enslaved,G1398,Epistles,New Testament,Galatians,ESV
+4,Galatians4:9 ,PHRASE,all over,G509,Epistles,New Testament,Galatians,ESV
+4,Galatians4:9 ,WORD,again,G3825,Epistles,New Testament,Galatians,ESV
+4,Galatians4:10 ,PHRASE,You observe,G3906,Epistles,New Testament,Galatians,ESV
+4,Galatians4:10 ,WORD,days,G2250,Epistles,New Testament,Galatians,ESV
+4,Galatians4:10 ,WORD,and,G2532,Epistles,New Testament,Galatians,ESV
+4,Galatians4:10 ,WORD,months,G3376,Epistles,New Testament,Galatians,ESV
+4,Galatians4:10 ,WORD,and,G2532,Epistles,New Testament,Galatians,ESV
+4,Galatians4:10 ,WORD,seasons,G2540,Epistles,New Testament,Galatians,ESV
+4,Galatians4:10 ,WORD,and,G2532,Epistles,New Testament,Galatians,ESV
+4,Galatians4:10 ,WORD,years,G1763,Epistles,New Testament,Galatians,ESV
+4,Galatians4:11 ,PHRASE,I fear,G5399,Epistles,New Testament,Galatians,ESV
+4,Galatians4:11 ,PHRASE,for you,G4771,Epistles,New Testament,Galatians,ESV
+4,Galatians4:11 ,PHRASE,that perhaps,G3361,Epistles,New Testament,Galatians,ESV
+4,Galatians4:11 ,WORD,,G4458,Epistles,New Testament,Galatians,ESV
+4,Galatians4:11 ,PHRASE,I have labored,G2872,Epistles,New Testament,Galatians,ESV
+4,Galatians4:11 ,WORD,over,G1519,Epistles,New Testament,Galatians,ESV
+4,Galatians4:11 ,WORD,you,G4771,Epistles,New Testament,Galatians,ESV
+4,Galatians4:11 ,PHRASE,in vain,G1500,Epistles,New Testament,Galatians,ESV
+4,Galatians4:12 ,PHRASE,I beg,G1189,Epistles,New Testament,Galatians,ESV
+4,Galatians4:12 ,PHRASE,of you,G4771,Epistles,New Testament,Galatians,ESV
+4,Galatians4:12 ,WORD,brethren,G80,Epistles,New Testament,Galatians,ESV
+4,Galatians4:12 ,WORD,become,G1096,Epistles,New Testament,Galatians,ESV
+4,Galatians4:12 ,WORD,as,G5613,Epistles,New Testament,Galatians,ESV
+4,Galatians4:12 ,PHRASE,I am,G1473,Epistles,New Testament,Galatians,ESV
+4,Galatians4:12 ,WORD,for,G3754,Epistles,New Testament,Galatians,ESV
+4,Galatians4:12 ,PHRASE,I also,G2504,Epistles,New Testament,Galatians,ESV
+4,Galatians4:12 ,PHRASE,have become as,G5613,Epistles,New Testament,Galatians,ESV
+4,Galatians4:12 ,PHRASE,you are,G4771,Epistles,New Testament,Galatians,ESV
+4,Galatians4:12 ,PHRASE,You have done,G91,Epistles,New Testament,Galatians,ESV
+4,Galatians4:12 ,WORD,me,G1473,Epistles,New Testament,Galatians,ESV
+4,Galatians4:12 ,WORD,no,G3762,Epistles,New Testament,Galatians,ESV
+4,Galatians4:12 ,WORD,wrong,G91,Epistles,New Testament,Galatians,ESV
+4,Galatians4:13 ,WORD,but,G1161,Epistles,New Testament,Galatians,ESV
+4,Galatians4:13 ,PHRASE,you know,G1492,Epistles,New Testament,Galatians,ESV
+4,Galatians4:13 ,WORD,that,G3754,Epistles,New Testament,Galatians,ESV
+4,Galatians4:13 ,PHRASE,it was because of,G1223,Epistles,New Testament,Galatians,ESV
+4,Galatians4:13 ,PHRASE,a bodily,G4561,Epistles,New Testament,Galatians,ESV
+4,Galatians4:13 ,WORD,illness,G769,Epistles,New Testament,Galatians,ESV
+4,Galatians4:13 ,PHRASE,that I,G3588,Epistles,New Testament,Galatians,ESV
+4,Galatians4:13 ,PHRASE,preached the gospel,G2097,Epistles,New Testament,Galatians,ESV
+4,Galatians4:13 ,PHRASE,to you,G4771,Epistles,New Testament,Galatians,ESV
+4,Galatians4:13 ,WORD,the,G3588,Epistles,New Testament,Galatians,ESV
+4,Galatians4:13 ,PHRASE,first time,G4386,Epistles,New Testament,Galatians,ESV
+4,Galatians4:14 ,WORD,and,G2532,Epistles,New Testament,Galatians,ESV
+4,Galatians4:14 ,PHRASE,that which,G3588,Epistles,New Testament,Galatians,ESV
+4,Galatians4:14 ,PHRASE,was a trial,G3986,Epistles,New Testament,Galatians,ESV
+4,Galatians4:14 ,PHRASE,to you,G4771,Epistles,New Testament,Galatians,ESV
+4,Galatians4:14 ,WORD,in,G1722,Epistles,New Testament,Galatians,ESV
+4,Galatians4:14 ,WORD,my,G1473,Epistles,New Testament,Galatians,ESV
+4,Galatians4:14 ,PHRASE,bodily condition,G4561,Epistles,New Testament,Galatians,ESV
+4,Galatians4:14 ,PHRASE,you did not,G3756,Epistles,New Testament,Galatians,ESV
+4,Galatians4:14 ,WORD,despise,G1848,Epistles,New Testament,Galatians,ESV
+4,Galatians4:14 ,WORD,or,G3761,Epistles,New Testament,Galatians,ESV
+4,Galatians4:14 ,WORD,loathe,G1609,Epistles,New Testament,Galatians,ESV
+4,Galatians4:14 ,WORD,but,G235,Epistles,New Testament,Galatians,ESV
+4,Galatians4:14 ,PHRASE,you received,G1209,Epistles,New Testament,Galatians,ESV
+4,Galatians4:14 ,WORD,me,G1473,Epistles,New Testament,Galatians,ESV
+4,Galatians4:14 ,WORD,as,G5613,Epistles,New Testament,Galatians,ESV
+4,Galatians4:14 ,PHRASE,an angel,G32,Epistles,New Testament,Galatians,ESV
+4,Galatians4:14 ,PHRASE,of God,G2316,Epistles,New Testament,Galatians,ESV
+4,Galatians4:14 ,WORD,as,G5613,Epistles,New Testament,Galatians,ESV
+4,Galatians4:14 ,WORD,Christ,G5547,Epistles,New Testament,Galatians,ESV
+4,Galatians4:14 ,PHRASE,Jesus Himself,G2424,Epistles,New Testament,Galatians,ESV
+4,Galatians4:15 ,WORD,Where,G4226,Epistles,New Testament,Galatians,ESV
+4,Galatians4:15 ,WORD,then,G3767,Epistles,New Testament,Galatians,ESV
+4,Galatians4:15 ,PHRASE,is that sense of blessing,G3108,Epistles,New Testament,Galatians,ESV
+4,Galatians4:15 ,PHRASE,you had,G4771,Epistles,New Testament,Galatians,ESV
+4,Galatians4:15 ,WORD,For,G1063,Epistles,New Testament,Galatians,ESV
+4,Galatians4:15 ,PHRASE,I bear,G3140,Epistles,New Testament,Galatians,ESV
+4,Galatians4:15 ,WORD,you,G4771,Epistles,New Testament,Galatians,ESV
+4,Galatians4:15 ,WORD,witness,G3140,Epistles,New Testament,Galatians,ESV
+4,Galatians4:15 ,WORD,that,G3754,Epistles,New Testament,Galatians,ESV
+4,Galatians4:15 ,WORD,if,G1487,Epistles,New Testament,Galatians,ESV
+4,Galatians4:15 ,WORD,possible,G1415,Epistles,New Testament,Galatians,ESV
+4,Galatians4:15 ,PHRASE,you would have plucked out,G1846,Epistles,New Testament,Galatians,ESV
+4,Galatians4:15 ,WORD,your,G4771,Epistles,New Testament,Galatians,ESV
+4,Galatians4:15 ,WORD,eyes,G3788,Epistles,New Testament,Galatians,ESV
+4,Galatians4:15 ,PHRASE,and given them,G1325,Epistles,New Testament,Galatians,ESV
+4,Galatians4:15 ,PHRASE,to me,G1473,Epistles,New Testament,Galatians,ESV
+4,Galatians4:16 ,WORD,So,G5620,Epistles,New Testament,Galatians,ESV
+4,Galatians4:16 ,PHRASE,have I become,G1096,Epistles,New Testament,Galatians,ESV
+4,Galatians4:16 ,WORD,your,G4771,Epistles,New Testament,Galatians,ESV
+4,Galatians4:16 ,WORD,enemy,G2190,Epistles,New Testament,Galatians,ESV
+4,Galatians4:16 ,PHRASE,by telling,G226,Epistles,New Testament,Galatians,ESV
+4,Galatians4:16 ,WORD,you,G4771,Epistles,New Testament,Galatians,ESV
+4,Galatians4:16 ,PHRASE,the truth,G226,Epistles,New Testament,Galatians,ESV
+4,Galatians4:17 ,PHRASE,They eagerly seek,G2206,Epistles,New Testament,Galatians,ESV
+4,Galatians4:17 ,WORD,you,G4771,Epistles,New Testament,Galatians,ESV
+4,Galatians4:17 ,WORD,not,G3756,Epistles,New Testament,Galatians,ESV
+4,Galatians4:17 ,WORD,commendably,G2573,Epistles,New Testament,Galatians,ESV
+4,Galatians4:17 ,WORD,but,G235,Epistles,New Testament,Galatians,ESV
+4,Galatians4:17 ,PHRASE,they wish,G2309,Epistles,New Testament,Galatians,ESV
+4,Galatians4:17 ,PHRASE,to shut,G1576,Epistles,New Testament,Galatians,ESV
+4,Galatians4:17 ,WORD,you,G4771,Epistles,New Testament,Galatians,ESV
+4,Galatians4:17 ,WORD,out,G1576,Epistles,New Testament,Galatians,ESV
+4,Galatians4:17 ,PHRASE,so that,G2443,Epistles,New Testament,Galatians,ESV
+4,Galatians4:17 ,PHRASE,you will seek,G2206,Epistles,New Testament,Galatians,ESV
+4,Galatians4:17 ,WORD,them,G846,Epistles,New Testament,Galatians,ESV
+4,Galatians4:18 ,WORD,But,G1161,Epistles,New Testament,Galatians,ESV
+4,Galatians4:18 ,PHRASE,it is good,G2570,Epistles,New Testament,Galatians,ESV
+4,Galatians4:18 ,WORD,always,G3842,Epistles,New Testament,Galatians,ESV
+4,Galatians4:18 ,PHRASE,to be eagerly sought,G2206,Epistles,New Testament,Galatians,ESV
+4,Galatians4:18 ,WORD,in,G1722,Epistles,New Testament,Galatians,ESV
+4,Galatians4:18 ,PHRASE,a commendable manner,G2570,Epistles,New Testament,Galatians,ESV
+4,Galatians4:18 ,WORD,and,G2532,Epistles,New Testament,Galatians,ESV
+4,Galatians4:18 ,WORD,not,G3361,Epistles,New Testament,Galatians,ESV
+4,Galatians4:18 ,WORD,only,G3440,Epistles,New Testament,Galatians,ESV
+4,Galatians4:18 ,WORD,when,G1722,Epistles,New Testament,Galatians,ESV
+4,Galatians4:18 ,WORD,I,G1473,Epistles,New Testament,Galatians,ESV
+4,Galatians4:18 ,PHRASE,am present,G3918,Epistles,New Testament,Galatians,ESV
+4,Galatians4:18 ,WORD,with,G4314,Epistles,New Testament,Galatians,ESV
+4,Galatians4:18 ,WORD,you,G4771,Epistles,New Testament,Galatians,ESV
+4,Galatians4:19 ,WORD,My,G1473,Epistles,New Testament,Galatians,ESV
+4,Galatians4:19 ,WORD,children,G5043,Epistles,New Testament,Galatians,ESV
+4,Galatians4:19 ,PHRASE,with whom,G3739,Epistles,New Testament,Galatians,ESV
+4,Galatians4:19 ,PHRASE,I am,G5605,Epistles,New Testament,Galatians,ESV
+4,Galatians4:19 ,WORD,again,G3825,Epistles,New Testament,Galatians,ESV
+4,Galatians4:19 ,PHRASE,in labor,G5605,Epistles,New Testament,Galatians,ESV
+4,Galatians4:19 ,WORD,until,G3360,Epistles,New Testament,Galatians,ESV
+4,Galatians4:19 ,WORD,,G3739,Epistles,New Testament,Galatians,ESV
+4,Galatians4:19 ,WORD,Christ,G5547,Epistles,New Testament,Galatians,ESV
+4,Galatians4:19 ,PHRASE,is formed,G3445,Epistles,New Testament,Galatians,ESV
+4,Galatians4:19 ,WORD,in,G1722,Epistles,New Testament,Galatians,ESV
+4,Galatians4:19 ,WORD,you,G4771,Epistles,New Testament,Galatians,ESV
+4,Galatians4:20 ,WORD,but,G1161,Epistles,New Testament,Galatians,ESV
+4,Galatians4:20 ,PHRASE,I could wish,G2309,Epistles,New Testament,Galatians,ESV
+4,Galatians4:20 ,PHRASE,to be present,G3918,Epistles,New Testament,Galatians,ESV
+4,Galatians4:20 ,WORD,with,G4314,Epistles,New Testament,Galatians,ESV
+4,Galatians4:20 ,WORD,you,G4771,Epistles,New Testament,Galatians,ESV
+4,Galatians4:20 ,WORD,now,G737,Epistles,New Testament,Galatians,ESV
+4,Galatians4:20 ,WORD,and,G2532,Epistles,New Testament,Galatians,ESV
+4,Galatians4:20 ,PHRASE,to change,G236,Epistles,New Testament,Galatians,ESV
+4,Galatians4:20 ,WORD,my,G1473,Epistles,New Testament,Galatians,ESV
+4,Galatians4:20 ,WORD,tone,G5456,Epistles,New Testament,Galatians,ESV
+4,Galatians4:20 ,WORD,for,G3754,Epistles,New Testament,Galatians,ESV
+4,Galatians4:20 ,PHRASE,I am perplexed,G639,Epistles,New Testament,Galatians,ESV
+4,Galatians4:20 ,WORD,about,G1722,Epistles,New Testament,Galatians,ESV
+4,Galatians4:20 ,WORD,you,G4771,Epistles,New Testament,Galatians,ESV
+4,Galatians4:21 ,WORD,Tell,G3004,Epistles,New Testament,Galatians,ESV
+4,Galatians4:21 ,WORD,me,G1473,Epistles,New Testament,Galatians,ESV
+4,Galatians4:21 ,PHRASE,you who,G3588,Epistles,New Testament,Galatians,ESV
+4,Galatians4:21 ,WORD,want,G2309,Epistles,New Testament,Galatians,ESV
+4,Galatians4:21 ,PHRASE,to be,G1510,Epistles,New Testament,Galatians,ESV
+4,Galatians4:21 ,WORD,under,G5259,Epistles,New Testament,Galatians,ESV
+4,Galatians4:21 ,WORD,law,G3551,Epistles,New Testament,Galatians,ESV
+4,Galatians4:21 ,PHRASE,do you not,G3756,Epistles,New Testament,Galatians,ESV
+4,Galatians4:21 ,WORD,listen,G191,Epistles,New Testament,Galatians,ESV
+4,Galatians4:21 ,PHRASE,to the,G3588,Epistles,New Testament,Galatians,ESV
+4,Galatians4:21 ,WORD,law,G3551,Epistles,New Testament,Galatians,ESV
+4,Galatians4:22 ,WORD,For,G1063,Epistles,New Testament,Galatians,ESV
+4,Galatians4:22 ,PHRASE,it is written,G1125,Epistles,New Testament,Galatians,ESV
+4,Galatians4:22 ,WORD,that,G3754,Epistles,New Testament,Galatians,ESV
+4,Galatians4:22 ,WORD,Abraham,G11,Epistles,New Testament,Galatians,ESV
+4,Galatians4:22 ,WORD,had,G2192,Epistles,New Testament,Galatians,ESV
+4,Galatians4:22 ,WORD,two,G1417,Epistles,New Testament,Galatians,ESV
+4,Galatians4:22 ,WORD,sons,G5207,Epistles,New Testament,Galatians,ESV
+4,Galatians4:22 ,WORD,one,G1520,Epistles,New Testament,Galatians,ESV
+4,Galatians4:22 ,WORD,by,G1537,Epistles,New Testament,Galatians,ESV
+4,Galatians4:22 ,WORD,the,G3588,Epistles,New Testament,Galatians,ESV
+4,Galatians4:22 ,WORD,bondwoman,G3814,Epistles,New Testament,Galatians,ESV
+4,Galatians4:22 ,WORD,and,G2532,Epistles,New Testament,Galatians,ESV
+4,Galatians4:22 ,WORD,one,G1520,Epistles,New Testament,Galatians,ESV
+4,Galatians4:22 ,WORD,by,G1537,Epistles,New Testament,Galatians,ESV
+4,Galatians4:22 ,WORD,the,G3588,Epistles,New Testament,Galatians,ESV
+4,Galatians4:22 ,PHRASE,free woman,G1658,Epistles,New Testament,Galatians,ESV
+4,Galatians4:23 ,WORD,But,G235,Epistles,New Testament,Galatians,ESV
+4,Galatians4:23 ,PHRASE,the son,G3588,Epistles,New Testament,Galatians,ESV
+4,Galatians4:23 ,WORD,by,G1537,Epistles,New Testament,Galatians,ESV
+4,Galatians4:23 ,WORD,the,G3588,Epistles,New Testament,Galatians,ESV
+4,Galatians4:23 ,WORD,bondwoman,G3814,Epistles,New Testament,Galatians,ESV
+4,Galatians4:23 ,PHRASE,was born,G1080,Epistles,New Testament,Galatians,ESV
+4,Galatians4:23 ,PHRASE,according to,G2596,Epistles,New Testament,Galatians,ESV
+4,Galatians4:23 ,PHRASE,the flesh,G4561,Epistles,New Testament,Galatians,ESV
+4,Galatians4:23 ,WORD,and,G1161,Epistles,New Testament,Galatians,ESV
+4,Galatians4:23 ,PHRASE,the son,G3588,Epistles,New Testament,Galatians,ESV
+4,Galatians4:23 ,WORD,by,G1537,Epistles,New Testament,Galatians,ESV
+4,Galatians4:23 ,WORD,the,G3588,Epistles,New Testament,Galatians,ESV
+4,Galatians4:23 ,PHRASE,free woman,G1658,Epistles,New Testament,Galatians,ESV
+4,Galatians4:23 ,WORD,through,G1223,Epistles,New Testament,Galatians,ESV
+4,Galatians4:23 ,PHRASE,the promise,G1860,Epistles,New Testament,Galatians,ESV
+4,Galatians4:24 ,WORD,This,G3748,Epistles,New Testament,Galatians,ESV
+4,Galatians4:24 ,WORD,is,G1510,Epistles,New Testament,Galatians,ESV
+4,Galatians4:24 ,PHRASE,allegorically speaking,G238,Epistles,New Testament,Galatians,ESV
+4,Galatians4:24 ,WORD,for,G1063,Epistles,New Testament,Galatians,ESV
+4,Galatians4:24 ,WORD,these,G3778,Epistles,New Testament,Galatians,ESV
+4,Galatians4:24 ,PHRASE,women are,G1510,Epistles,New Testament,Galatians,ESV
+4,Galatians4:24 ,WORD,two,G1417,Epistles,New Testament,Galatians,ESV
+4,Galatians4:24 ,WORD,covenants,G1242,Epistles,New Testament,Galatians,ESV
+4,Galatians4:24 ,WORD,one,G1520,Epistles,New Testament,Galatians,ESV
+4,Galatians4:24 ,PHRASE,proceeding from,G575,Epistles,New Testament,Galatians,ESV
+4,Galatians4:24 ,WORD,Mount,G3735,Epistles,New Testament,Galatians,ESV
+4,Galatians4:24 ,WORD,Sinai,G4614,Epistles,New Testament,Galatians,ESV
+4,Galatians4:24 ,PHRASE,bearing children,G1080,Epistles,New Testament,Galatians,ESV
+4,Galatians4:24 ,PHRASE,who are to be,G1519,Epistles,New Testament,Galatians,ESV
+4,Galatians4:24 ,WORD,slaves,G1397,Epistles,New Testament,Galatians,ESV
+4,Galatians4:24 ,WORD,she,G3748,Epistles,New Testament,Galatians,ESV
+4,Galatians4:24 ,WORD,is,G1510,Epistles,New Testament,Galatians,ESV
+4,Galatians4:24 ,WORD,Hagar,G28,Epistles,New Testament,Galatians,ESV
+4,Galatians4:25 ,WORD,Now,G1161,Epistles,New Testament,Galatians,ESV
+4,Galatians4:25 ,WORD,this,G3588,Epistles,New Testament,Galatians,ESV
+4,Galatians4:25 ,WORD,Hagar,G28,Epistles,New Testament,Galatians,ESV
+4,Galatians4:25 ,WORD,is,G1510,Epistles,New Testament,Galatians,ESV
+4,Galatians4:25 ,WORD,Mount,G3735,Epistles,New Testament,Galatians,ESV
+4,Galatians4:25 ,WORD,Sinai,G4614,Epistles,New Testament,Galatians,ESV
+4,Galatians4:25 ,WORD,in,G1722,Epistles,New Testament,Galatians,ESV
+4,Galatians4:25 ,WORD,Arabia,G688,Epistles,New Testament,Galatians,ESV
+4,Galatians4:25 ,WORD,and,G1161,Epistles,New Testament,Galatians,ESV
+4,Galatians4:25 ,WORD,corresponds,G4960,Epistles,New Testament,Galatians,ESV
+4,Galatians4:25 ,PHRASE,to the,G3588,Epistles,New Testament,Galatians,ESV
+4,Galatians4:25 ,WORD,present,G3568,Epistles,New Testament,Galatians,ESV
+4,Galatians4:25 ,WORD,Jerusalem,G2419,Epistles,New Testament,Galatians,ESV
+4,Galatians4:25 ,WORD,for,G1063,Epistles,New Testament,Galatians,ESV
+4,Galatians4:25 ,PHRASE,she is in slavery,G1398,Epistles,New Testament,Galatians,ESV
+4,Galatians4:25 ,WORD,with,G3326,Epistles,New Testament,Galatians,ESV
+4,Galatians4:25 ,WORD,her,G846,Epistles,New Testament,Galatians,ESV
+4,Galatians4:25 ,WORD,children,G5043,Epistles,New Testament,Galatians,ESV
+4,Galatians4:26 ,WORD,But,G1161,Epistles,New Testament,Galatians,ESV
+4,Galatians4:26 ,PHRASE,the Jerusalem,G2419,Epistles,New Testament,Galatians,ESV
+4,Galatians4:26 ,WORD,above,G507,Epistles,New Testament,Galatians,ESV
+4,Galatians4:26 ,WORD,is,G1510,Epistles,New Testament,Galatians,ESV
+4,Galatians4:26 ,WORD,free,G1658,Epistles,New Testament,Galatians,ESV
+4,Galatians4:26 ,WORD,she,G3748,Epistles,New Testament,Galatians,ESV
+4,Galatians4:26 ,WORD,is,G1510,Epistles,New Testament,Galatians,ESV
+4,Galatians4:26 ,WORD,our,G1473,Epistles,New Testament,Galatians,ESV
+4,Galatians4:26 ,WORD,mother,G3384,Epistles,New Testament,Galatians,ESV
+4,Galatians4:27 ,WORD,For,G1063,Epistles,New Testament,Galatians,ESV
+4,Galatians4:27 ,PHRASE,it is written,G1125,Epistles,New Testament,Galatians,ESV
+4,Galatians4:27 ,WORD,REJOICE,G2165,Epistles,New Testament,Galatians,ESV
+4,Galatians4:27 ,PHRASE,BARREN WOMAN,G4723,Epistles,New Testament,Galatians,ESV
+4,Galatians4:27 ,WORD,WHO,G3588,Epistles,New Testament,Galatians,ESV
+4,Galatians4:27 ,PHRASE,DOES NOT,G3756,Epistles,New Testament,Galatians,ESV
+4,Galatians4:27 ,WORD,BEAR,G5088,Epistles,New Testament,Galatians,ESV
+4,Galatians4:27 ,PHRASE,BREAK FORTH,G4486,Epistles,New Testament,Galatians,ESV
+4,Galatians4:27 ,WORD,AND,G2532,Epistles,New Testament,Galatians,ESV
+4,Galatians4:27 ,WORD,SHOUT,G994,Epistles,New Testament,Galatians,ESV
+4,Galatians4:27 ,PHRASE,YOU WHO ARE,G3588,Epistles,New Testament,Galatians,ESV
+4,Galatians4:27 ,WORD,NOT,G3756,Epistles,New Testament,Galatians,ESV
+4,Galatians4:27 ,PHRASE,IN LABOR,G5605,Epistles,New Testament,Galatians,ESV
+4,Galatians4:27 ,WORD,FOR,G3754,Epistles,New Testament,Galatians,ESV
+4,Galatians4:27 ,WORD,MORE,G3123,Epistles,New Testament,Galatians,ESV
+4,Galatians4:27 ,WORD,NUMEROUS,G4183,Epistles,New Testament,Galatians,ESV
+4,Galatians4:27 ,PHRASE,ARE THE,G3588,Epistles,New Testament,Galatians,ESV
+4,Galatians4:27 ,WORD,CHILDREN,G5043,Epistles,New Testament,Galatians,ESV
+4,Galatians4:27 ,PHRASE,OF THE,G3588,Epistles,New Testament,Galatians,ESV
+4,Galatians4:27 ,WORD,DESOLATE,G2048,Epistles,New Testament,Galatians,ESV
+4,Galatians4:27 ,WORD,THAN,G2228,Epistles,New Testament,Galatians,ESV
+4,Galatians4:27 ,PHRASE,OF THE,G3588,Epistles,New Testament,Galatians,ESV
+4,Galatians4:27 ,PHRASE,ONE WHO HAS,G2192,Epistles,New Testament,Galatians,ESV
+4,Galatians4:27 ,WORD,A,G3588,Epistles,New Testament,Galatians,ESV
+4,Galatians4:27 ,WORD,HUSBAND,G435,Epistles,New Testament,Galatians,ESV
+4,Galatians4:28 ,WORD,And,G1161,Epistles,New Testament,Galatians,ESV
+4,Galatians4:28 ,WORD,you,G4771,Epistles,New Testament,Galatians,ESV
+4,Galatians4:28 ,WORD,brethren,G80,Epistles,New Testament,Galatians,ESV
+4,Galatians4:28 ,WORD,like,G2596,Epistles,New Testament,Galatians,ESV
+4,Galatians4:28 ,WORD,Isaac,G2464,Epistles,New Testament,Galatians,ESV
+4,Galatians4:28 ,WORD,are,G1510,Epistles,New Testament,Galatians,ESV
+4,Galatians4:28 ,WORD,children,G5043,Epistles,New Testament,Galatians,ESV
+4,Galatians4:28 ,PHRASE,of promise,G1860,Epistles,New Testament,Galatians,ESV
+4,Galatians4:29 ,WORD,But,G235,Epistles,New Testament,Galatians,ESV
+4,Galatians4:29 ,WORD,as,G5618,Epistles,New Testament,Galatians,ESV
+4,Galatians4:29 ,PHRASE,at that time,G5119,Epistles,New Testament,Galatians,ESV
+4,Galatians4:29 ,PHRASE,he who was born,G1080,Epistles,New Testament,Galatians,ESV
+4,Galatians4:29 ,PHRASE,according to,G2596,Epistles,New Testament,Galatians,ESV
+4,Galatians4:29 ,PHRASE,the flesh,G4561,Epistles,New Testament,Galatians,ESV
+4,Galatians4:29 ,WORD,persecuted,G1377,Epistles,New Testament,Galatians,ESV
+4,Galatians4:29 ,PHRASE,him who,G3588,Epistles,New Testament,Galatians,ESV
+4,Galatians4:29 ,PHRASE,was born according to,G2596,Epistles,New Testament,Galatians,ESV
+4,Galatians4:29 ,PHRASE,the Spirit,G4151,Epistles,New Testament,Galatians,ESV
+4,Galatians4:29 ,WORD,so,G3779,Epistles,New Testament,Galatians,ESV
+4,Galatians4:29 ,PHRASE,it is now,G3568,Epistles,New Testament,Galatians,ESV
+4,Galatians4:29 ,WORD,also,G2532,Epistles,New Testament,Galatians,ESV
+4,Galatians4:30 ,WORD,But,G235,Epistles,New Testament,Galatians,ESV
+4,Galatians4:30 ,PHRASE,what does,G5101,Epistles,New Testament,Galatians,ESV
+4,Galatians4:30 ,WORD,the,G3588,Epistles,New Testament,Galatians,ESV
+4,Galatians4:30 ,WORD,Scripture,G1124,Epistles,New Testament,Galatians,ESV
+4,Galatians4:30 ,WORD,say,G3004,Epistles,New Testament,Galatians,ESV
+4,Galatians4:30 ,PHRASE,CAST OUT,G1544,Epistles,New Testament,Galatians,ESV
+4,Galatians4:30 ,WORD,THE,G3588,Epistles,New Testament,Galatians,ESV
+4,Galatians4:30 ,WORD,BONDWOMAN,G3814,Epistles,New Testament,Galatians,ESV
+4,Galatians4:30 ,WORD,AND,G2532,Epistles,New Testament,Galatians,ESV
+4,Galatians4:30 ,WORD,HER,G846,Epistles,New Testament,Galatians,ESV
+4,Galatians4:30 ,WORD,SON,G5207,Epistles,New Testament,Galatians,ESV
+4,Galatians4:30 ,WORD,FOR,G1063,Epistles,New Testament,Galatians,ESV
+4,Galatians4:30 ,WORD,THE,G3588,Epistles,New Testament,Galatians,ESV
+4,Galatians4:30 ,WORD,SON,G5207,Epistles,New Testament,Galatians,ESV
+4,Galatians4:30 ,PHRASE,OF THE,G3588,Epistles,New Testament,Galatians,ESV
+4,Galatians4:30 ,WORD,BONDWOMAN,G3814,Epistles,New Testament,Galatians,ESV
+4,Galatians4:30 ,WORD,,G3756,Epistles,New Testament,Galatians,ESV
+4,Galatians4:30 ,PHRASE,SHALL NOT,G3361,Epistles,New Testament,Galatians,ESV
+4,Galatians4:30 ,PHRASE,BE AN HEIR,G2816,Epistles,New Testament,Galatians,ESV
+4,Galatians4:30 ,WORD,WITH,G3326,Epistles,New Testament,Galatians,ESV
+4,Galatians4:30 ,WORD,THE,G3588,Epistles,New Testament,Galatians,ESV
+4,Galatians4:30 ,WORD,SON,G5207,Epistles,New Testament,Galatians,ESV
+4,Galatians4:30 ,PHRASE,OF THE,G3588,Epistles,New Testament,Galatians,ESV
+4,Galatians4:30 ,PHRASE,FREE WOMAN,G1658,Epistles,New Testament,Galatians,ESV
+4,Galatians4:31 ,PHRASE,So then,G1352,Epistles,New Testament,Galatians,ESV
+4,Galatians4:31 ,WORD,brethren,G80,Epistles,New Testament,Galatians,ESV
+4,Galatians4:31 ,PHRASE,we are,G1510,Epistles,New Testament,Galatians,ESV
+4,Galatians4:31 ,WORD,not,G3756,Epistles,New Testament,Galatians,ESV
+4,Galatians4:31 ,WORD,children,G5043,Epistles,New Testament,Galatians,ESV
+4,Galatians4:31 ,PHRASE,of a bondwoman,G3814,Epistles,New Testament,Galatians,ESV
+4,Galatians4:31 ,WORD,but,G235,Epistles,New Testament,Galatians,ESV
+4,Galatians4:31 ,PHRASE,of the,G3588,Epistles,New Testament,Galatians,ESV
+4,Galatians4:31 ,PHRASE,free woman,G1658,Epistles,New Testament,Galatians,ESV
+5,Galatians5:1 ,PHRASE,It was for freedom,G1657,Epistles,New Testament,Galatians,ESV
+5,Galatians5:1 ,PHRASE,that Christ,G5547,Epistles,New Testament,Galatians,ESV
+5,Galatians5:1 ,WORD,set,G1659,Epistles,New Testament,Galatians,ESV
+5,Galatians5:1 ,WORD,us,G1473,Epistles,New Testament,Galatians,ESV
+5,Galatians5:1 ,WORD,free,G1659,Epistles,New Testament,Galatians,ESV
+5,Galatians5:1 ,WORD,therefore,G3767,Epistles,New Testament,Galatians,ESV
+5,Galatians5:1 ,PHRASE,keep standing firm,G4739,Epistles,New Testament,Galatians,ESV
+5,Galatians5:1 ,WORD,and,G2532,Epistles,New Testament,Galatians,ESV
+5,Galatians5:1 ,PHRASE,do not,G3361,Epistles,New Testament,Galatians,ESV
+5,Galatians5:1 ,PHRASE,be subject,G1758,Epistles,New Testament,Galatians,ESV
+5,Galatians5:1 ,WORD,again,G3825,Epistles,New Testament,Galatians,ESV
+5,Galatians5:1 ,PHRASE,to a yoke,G2218,Epistles,New Testament,Galatians,ESV
+5,Galatians5:1 ,PHRASE,of slavery,G1397,Epistles,New Testament,Galatians,ESV
+5,Galatians5:2 ,WORD,Behold,G2396,Epistles,New Testament,Galatians,ESV
+5,Galatians5:2 ,WORD,I,G1473,Epistles,New Testament,Galatians,ESV
+5,Galatians5:2 ,WORD,Paul,G3972,Epistles,New Testament,Galatians,ESV
+5,Galatians5:2 ,WORD,say,G3004,Epistles,New Testament,Galatians,ESV
+5,Galatians5:2 ,PHRASE,to you,G4771,Epistles,New Testament,Galatians,ESV
+5,Galatians5:2 ,WORD,that,G3754,Epistles,New Testament,Galatians,ESV
+5,Galatians5:2 ,WORD,if,G1437,Epistles,New Testament,Galatians,ESV
+5,Galatians5:2 ,PHRASE,you receive circumcision,G4059,Epistles,New Testament,Galatians,ESV
+5,Galatians5:2 ,WORD,Christ,G5547,Epistles,New Testament,Galatians,ESV
+5,Galatians5:2 ,PHRASE,will be of no,G3762,Epistles,New Testament,Galatians,ESV
+5,Galatians5:2 ,WORD,benefit,G5623,Epistles,New Testament,Galatians,ESV
+5,Galatians5:2 ,PHRASE,to you,G4771,Epistles,New Testament,Galatians,ESV
+5,Galatians5:3 ,WORD,And,G1161,Epistles,New Testament,Galatians,ESV
+5,Galatians5:3 ,PHRASE,I testify,G3143,Epistles,New Testament,Galatians,ESV
+5,Galatians5:3 ,WORD,again,G3825,Epistles,New Testament,Galatians,ESV
+5,Galatians5:3 ,PHRASE,to every,G3956,Epistles,New Testament,Galatians,ESV
+5,Galatians5:3 ,WORD,man,G444,Epistles,New Testament,Galatians,ESV
+5,Galatians5:3 ,PHRASE,who receives circumcision,G4059,Epistles,New Testament,Galatians,ESV
+5,Galatians5:3 ,WORD,that,G3754,Epistles,New Testament,Galatians,ESV
+5,Galatians5:3 ,PHRASE,he is,G1510,Epistles,New Testament,Galatians,ESV
+5,Galatians5:3 ,PHRASE,under obligation,G3781,Epistles,New Testament,Galatians,ESV
+5,Galatians5:3 ,PHRASE,to keep,G4160,Epistles,New Testament,Galatians,ESV
+5,Galatians5:3 ,WORD,the,G3588,Epistles,New Testament,Galatians,ESV
+5,Galatians5:3 ,WORD,whole,G3650,Epistles,New Testament,Galatians,ESV
+5,Galatians5:3 ,WORD,Law,G3551,Epistles,New Testament,Galatians,ESV
+5,Galatians5:4 ,PHRASE,You have been severed,G2673,Epistles,New Testament,Galatians,ESV
+5,Galatians5:4 ,WORD,from,G575,Epistles,New Testament,Galatians,ESV
+5,Galatians5:4 ,WORD,Christ,G5547,Epistles,New Testament,Galatians,ESV
+5,Galatians5:4 ,PHRASE,you who,G3748,Epistles,New Testament,Galatians,ESV
+5,Galatians5:4 ,PHRASE,are seeking to be justified,G1344,Epistles,New Testament,Galatians,ESV
+5,Galatians5:4 ,WORD,by,G1722,Epistles,New Testament,Galatians,ESV
+5,Galatians5:4 ,WORD,law,G3551,Epistles,New Testament,Galatians,ESV
+5,Galatians5:4 ,PHRASE,you have fallen,G1601,Epistles,New Testament,Galatians,ESV
+5,Galatians5:4 ,PHRASE,from grace,G5485,Epistles,New Testament,Galatians,ESV
+5,Galatians5:5 ,WORD,For,G1063,Epistles,New Testament,Galatians,ESV
+5,Galatians5:5 ,WORD,we,G1473,Epistles,New Testament,Galatians,ESV
+5,Galatians5:5 ,PHRASE,through the Spirit,G4151,Epistles,New Testament,Galatians,ESV
+5,Galatians5:5 ,WORD,by,G1537,Epistles,New Testament,Galatians,ESV
+5,Galatians5:5 ,WORD,faith,G4102,Epistles,New Testament,Galatians,ESV
+5,Galatians5:5 ,PHRASE,are waiting,G553,Epistles,New Testament,Galatians,ESV
+5,Galatians5:5 ,PHRASE,for the hope,G1680,Epistles,New Testament,Galatians,ESV
+5,Galatians5:5 ,PHRASE,of righteousness,G1343,Epistles,New Testament,Galatians,ESV
+5,Galatians5:6 ,WORD,For,G1063,Epistles,New Testament,Galatians,ESV
+5,Galatians5:6 ,WORD,in,G1722,Epistles,New Testament,Galatians,ESV
+5,Galatians5:6 ,WORD,Christ,G5547,Epistles,New Testament,Galatians,ESV
+5,Galatians5:6 ,WORD,Jesus,G2424,Epistles,New Testament,Galatians,ESV
+5,Galatians5:6 ,WORD,neither,G3777,Epistles,New Testament,Galatians,ESV
+5,Galatians5:6 ,WORD,circumcision,G4061,Epistles,New Testament,Galatians,ESV
+5,Galatians5:6 ,WORD,nor,G3777,Epistles,New Testament,Galatians,ESV
+5,Galatians5:6 ,WORD,uncircumcision,G203,Epistles,New Testament,Galatians,ESV
+5,Galatians5:6 ,WORD,means,G2480,Epistles,New Testament,Galatians,ESV
+5,Galatians5:6 ,WORD,anything,G5100,Epistles,New Testament,Galatians,ESV
+5,Galatians5:6 ,WORD,but,G235,Epistles,New Testament,Galatians,ESV
+5,Galatians5:6 ,WORD,faith,G4102,Epistles,New Testament,Galatians,ESV
+5,Galatians5:6 ,WORD,working,G1754,Epistles,New Testament,Galatians,ESV
+5,Galatians5:6 ,WORD,through,G1223,Epistles,New Testament,Galatians,ESV
+5,Galatians5:6 ,WORD,love,G26,Epistles,New Testament,Galatians,ESV
+5,Galatians5:7 ,PHRASE,You were running,G5143,Epistles,New Testament,Galatians,ESV
+5,Galatians5:7 ,WORD,well,G2573,Epistles,New Testament,Galatians,ESV
+5,Galatians5:7 ,WORD,who,G5101,Epistles,New Testament,Galatians,ESV
+5,Galatians5:7 ,WORD,hindered,G1465,Epistles,New Testament,Galatians,ESV
+5,Galatians5:7 ,WORD,you,G4771,Epistles,New Testament,Galatians,ESV
+5,Galatians5:7 ,WORD,from,G3361,Epistles,New Testament,Galatians,ESV
+5,Galatians5:7 ,WORD,obeying,G3982,Epistles,New Testament,Galatians,ESV
+5,Galatians5:7 ,WORD,the,G3588,Epistles,New Testament,Galatians,ESV
+5,Galatians5:7 ,WORD,truth,G225,Epistles,New Testament,Galatians,ESV
+5,Galatians5:8 ,WORD,This,G3588,Epistles,New Testament,Galatians,ESV
+5,Galatians5:8 ,WORD,persuasion,G3988,Epistles,New Testament,Galatians,ESV
+5,Galatians5:8 ,PHRASE,did not,G3756,Epistles,New Testament,Galatians,ESV
+5,Galatians5:8 ,PHRASE,come from,G1537,Epistles,New Testament,Galatians,ESV
+5,Galatians5:8 ,PHRASE,Him who,G3588,Epistles,New Testament,Galatians,ESV
+5,Galatians5:8 ,WORD,calls,G2564,Epistles,New Testament,Galatians,ESV
+5,Galatians5:8 ,WORD,you,G4771,Epistles,New Testament,Galatians,ESV
+5,Galatians5:9 ,PHRASE,A little,G3398,Epistles,New Testament,Galatians,ESV
+5,Galatians5:9 ,WORD,leaven,G2219,Epistles,New Testament,Galatians,ESV
+5,Galatians5:9 ,WORD,leavens,G2220,Epistles,New Testament,Galatians,ESV
+5,Galatians5:9 ,PHRASE,the whole,G3650,Epistles,New Testament,Galatians,ESV
+5,Galatians5:9 ,PHRASE,lump of dough,G5445,Epistles,New Testament,Galatians,ESV
+5,Galatians5:10 ,WORD,I,G1473,Epistles,New Testament,Galatians,ESV
+5,Galatians5:10 ,PHRASE,have confidence,G3982,Epistles,New Testament,Galatians,ESV
+5,Galatians5:10 ,WORD,in,G1519,Epistles,New Testament,Galatians,ESV
+5,Galatians5:10 ,WORD,you,G4771,Epistles,New Testament,Galatians,ESV
+5,Galatians5:10 ,WORD,in,G1722,Epistles,New Testament,Galatians,ESV
+5,Galatians5:10 ,PHRASE,the Lord,G2962,Epistles,New Testament,Galatians,ESV
+5,Galatians5:10 ,WORD,that,G3754,Epistles,New Testament,Galatians,ESV
+5,Galatians5:10 ,PHRASE,you will adopt,G5426,Epistles,New Testament,Galatians,ESV
+5,Galatians5:10 ,WORD,no,G3762,Epistles,New Testament,Galatians,ESV
+5,Galatians5:10 ,WORD,other,G243,Epistles,New Testament,Galatians,ESV
+5,Galatians5:10 ,WORD,view,G5426,Epistles,New Testament,Galatians,ESV
+5,Galatians5:10 ,WORD,but,G1161,Epistles,New Testament,Galatians,ESV
+5,Galatians5:10 ,PHRASE,the one who is disturbing,G5015,Epistles,New Testament,Galatians,ESV
+5,Galatians5:10 ,WORD,you,G4771,Epistles,New Testament,Galatians,ESV
+5,Galatians5:10 ,PHRASE,will bear,G941,Epistles,New Testament,Galatians,ESV
+5,Galatians5:10 ,PHRASE,his judgment,G2917,Epistles,New Testament,Galatians,ESV
+5,Galatians5:10 ,WORD,whoever,G3748,Epistles,New Testament,Galatians,ESV
+5,Galatians5:10 ,WORD,,G1437,Epistles,New Testament,Galatians,ESV
+5,Galatians5:10 ,PHRASE,he is,G1510,Epistles,New Testament,Galatians,ESV
+5,Galatians5:11 ,WORD,But,G1161,Epistles,New Testament,Galatians,ESV
+5,Galatians5:11 ,WORD,I,G1473,Epistles,New Testament,Galatians,ESV
+5,Galatians5:11 ,WORD,brethren,G80,Epistles,New Testament,Galatians,ESV
+5,Galatians5:11 ,WORD,if,G1487,Epistles,New Testament,Galatians,ESV
+5,Galatians5:11 ,PHRASE,I still,G2089,Epistles,New Testament,Galatians,ESV
+5,Galatians5:11 ,WORD,preach,G2784,Epistles,New Testament,Galatians,ESV
+5,Galatians5:11 ,WORD,circumcision,G4061,Epistles,New Testament,Galatians,ESV
+5,Galatians5:11 ,WORD,why,G5101,Epistles,New Testament,Galatians,ESV
+5,Galatians5:11 ,PHRASE,am I still,G2089,Epistles,New Testament,Galatians,ESV
+5,Galatians5:11 ,WORD,persecuted,G1377,Epistles,New Testament,Galatians,ESV
+5,Galatians5:11 ,WORD,Then,G686,Epistles,New Testament,Galatians,ESV
+5,Galatians5:11 ,WORD,the,G3588,Epistles,New Testament,Galatians,ESV
+5,Galatians5:11 ,PHRASE,stumbling block,G4625,Epistles,New Testament,Galatians,ESV
+5,Galatians5:11 ,PHRASE,of the,G3588,Epistles,New Testament,Galatians,ESV
+5,Galatians5:11 ,WORD,cross,G4716,Epistles,New Testament,Galatians,ESV
+5,Galatians5:11 ,PHRASE,has been abolished,G2673,Epistles,New Testament,Galatians,ESV
+5,Galatians5:12 ,PHRASE,I wish that,G3785,Epistles,New Testament,Galatians,ESV
+5,Galatians5:12 ,PHRASE,those who,G3588,Epistles,New Testament,Galatians,ESV
+5,Galatians5:12 ,PHRASE,are troubling,G387,Epistles,New Testament,Galatians,ESV
+5,Galatians5:12 ,WORD,you,G4771,Epistles,New Testament,Galatians,ESV
+5,Galatians5:12 ,PHRASE,would even,G2532,Epistles,New Testament,Galatians,ESV
+5,Galatians5:12 ,PHRASE,mutilate themselves,G609,Epistles,New Testament,Galatians,ESV
+5,Galatians5:13 ,WORD,For,G1063,Epistles,New Testament,Galatians,ESV
+5,Galatians5:13 ,WORD,you,G4771,Epistles,New Testament,Galatians,ESV
+5,Galatians5:13 ,PHRASE,were called,G2564,Epistles,New Testament,Galatians,ESV
+5,Galatians5:13 ,WORD,to,G1909,Epistles,New Testament,Galatians,ESV
+5,Galatians5:13 ,WORD,freedom,G1657,Epistles,New Testament,Galatians,ESV
+5,Galatians5:13 ,WORD,brethren,G80,Epistles,New Testament,Galatians,ESV
+5,Galatians5:13 ,WORD,only,G3440,Epistles,New Testament,Galatians,ESV
+5,Galatians5:13 ,PHRASE,do not turn,G3361,Epistles,New Testament,Galatians,ESV
+5,Galatians5:13 ,PHRASE,your freedom,G1657,Epistles,New Testament,Galatians,ESV
+5,Galatians5:13 ,WORD,into,G1519,Epistles,New Testament,Galatians,ESV
+5,Galatians5:13 ,PHRASE,an opportunity,G874,Epistles,New Testament,Galatians,ESV
+5,Galatians5:13 ,PHRASE,for the,G3588,Epistles,New Testament,Galatians,ESV
+5,Galatians5:13 ,WORD,flesh,G4561,Epistles,New Testament,Galatians,ESV
+5,Galatians5:13 ,WORD,but,G235,Epistles,New Testament,Galatians,ESV
+5,Galatians5:13 ,WORD,through,G1223,Epistles,New Testament,Galatians,ESV
+5,Galatians5:13 ,WORD,love,G26,Epistles,New Testament,Galatians,ESV
+5,Galatians5:13 ,WORD,serve,G1398,Epistles,New Testament,Galatians,ESV
+5,Galatians5:13 ,PHRASE,one another,G240,Epistles,New Testament,Galatians,ESV
+5,Galatians5:14 ,WORD,For,G1063,Epistles,New Testament,Galatians,ESV
+5,Galatians5:14 ,WORD,the,G3588,Epistles,New Testament,Galatians,ESV
+5,Galatians5:14 ,WORD,whole,G3956,Epistles,New Testament,Galatians,ESV
+5,Galatians5:14 ,WORD,Law,G3551,Epistles,New Testament,Galatians,ESV
+5,Galatians5:14 ,PHRASE,is fulfilled,G4137,Epistles,New Testament,Galatians,ESV
+5,Galatians5:14 ,WORD,in,G1722,Epistles,New Testament,Galatians,ESV
+5,Galatians5:14 ,WORD,one,G1520,Epistles,New Testament,Galatians,ESV
+5,Galatians5:14 ,WORD,word,G3056,Epistles,New Testament,Galatians,ESV
+5,Galatians5:14 ,WORD,in,G1722,Epistles,New Testament,Galatians,ESV
+5,Galatians5:14 ,PHRASE,the statement,G3588,Epistles,New Testament,Galatians,ESV
+5,Galatians5:14 ,PHRASE,YOU SHALL LOVE,G25,Epistles,New Testament,Galatians,ESV
+5,Galatians5:14 ,WORD,YOUR,G4771,Epistles,New Testament,Galatians,ESV
+5,Galatians5:14 ,WORD,NEIGHBOR,G4139,Epistles,New Testament,Galatians,ESV
+5,Galatians5:14 ,WORD,AS,G5613,Epistles,New Testament,Galatians,ESV
+5,Galatians5:14 ,WORD,YOURSELF,G4572,Epistles,New Testament,Galatians,ESV
+5,Galatians5:15 ,WORD,But,G1161,Epistles,New Testament,Galatians,ESV
+5,Galatians5:15 ,WORD,if,G1487,Epistles,New Testament,Galatians,ESV
+5,Galatians5:15 ,PHRASE,you bite,G1143,Epistles,New Testament,Galatians,ESV
+5,Galatians5:15 ,WORD,and,G2532,Epistles,New Testament,Galatians,ESV
+5,Galatians5:15 ,WORD,devour,G2719,Epistles,New Testament,Galatians,ESV
+5,Galatians5:15 ,PHRASE,one another,G240,Epistles,New Testament,Galatians,ESV
+5,Galatians5:15 ,PHRASE,take care,G991,Epistles,New Testament,Galatians,ESV
+5,Galatians5:15 ,PHRASE,that you are,G355,Epistles,New Testament,Galatians,ESV
+5,Galatians5:15 ,WORD,not,G3361,Epistles,New Testament,Galatians,ESV
+5,Galatians5:15 ,WORD,consumed,G355,Epistles,New Testament,Galatians,ESV
+5,Galatians5:15 ,WORD,by,G5259,Epistles,New Testament,Galatians,ESV
+5,Galatians5:15 ,PHRASE,one another,G240,Epistles,New Testament,Galatians,ESV
+5,Galatians5:16 ,WORD,But,G1161,Epistles,New Testament,Galatians,ESV
+5,Galatians5:16 ,PHRASE,I say,G3004,Epistles,New Testament,Galatians,ESV
+5,Galatians5:16 ,WORD,walk,G4043,Epistles,New Testament,Galatians,ESV
+5,Galatians5:16 ,PHRASE,by the Spirit,G4151,Epistles,New Testament,Galatians,ESV
+5,Galatians5:16 ,WORD,and,G2532,Epistles,New Testament,Galatians,ESV
+5,Galatians5:16 ,WORD,you,G5055,Epistles,New Testament,Galatians,ESV
+5,Galatians5:16 ,WORD,,G3756,Epistles,New Testament,Galatians,ESV
+5,Galatians5:16 ,PHRASE,will not,G3361,Epistles,New Testament,Galatians,ESV
+5,Galatians5:16 ,PHRASE,carry out,G5055,Epistles,New Testament,Galatians,ESV
+5,Galatians5:16 ,PHRASE,the desire,G1939,Epistles,New Testament,Galatians,ESV
+5,Galatians5:16 ,PHRASE,of the flesh,G4561,Epistles,New Testament,Galatians,ESV
+5,Galatians5:17 ,WORD,For,G1063,Epistles,New Testament,Galatians,ESV
+5,Galatians5:17 ,WORD,the,G3588,Epistles,New Testament,Galatians,ESV
+5,Galatians5:17 ,WORD,flesh,G4561,Epistles,New Testament,Galatians,ESV
+5,Galatians5:17 ,PHRASE,sets its desire,G1937,Epistles,New Testament,Galatians,ESV
+5,Galatians5:17 ,WORD,against,G2596,Epistles,New Testament,Galatians,ESV
+5,Galatians5:17 ,WORD,the,G3588,Epistles,New Testament,Galatians,ESV
+5,Galatians5:17 ,WORD,Spirit,G4151,Epistles,New Testament,Galatians,ESV
+5,Galatians5:17 ,WORD,and,G1161,Epistles,New Testament,Galatians,ESV
+5,Galatians5:17 ,WORD,the,G3588,Epistles,New Testament,Galatians,ESV
+5,Galatians5:17 ,WORD,Spirit,G4151,Epistles,New Testament,Galatians,ESV
+5,Galatians5:17 ,WORD,against,G2596,Epistles,New Testament,Galatians,ESV
+5,Galatians5:17 ,WORD,the,G3588,Epistles,New Testament,Galatians,ESV
+5,Galatians5:17 ,WORD,flesh,G4561,Epistles,New Testament,Galatians,ESV
+5,Galatians5:17 ,WORD,for,G1063,Epistles,New Testament,Galatians,ESV
+5,Galatians5:17 ,WORD,these,G3778,Epistles,New Testament,Galatians,ESV
+5,Galatians5:17 ,PHRASE,are in opposition,G480,Epistles,New Testament,Galatians,ESV
+5,Galatians5:17 ,PHRASE,to one another,G240,Epistles,New Testament,Galatians,ESV
+5,Galatians5:17 ,PHRASE,so that,G2443,Epistles,New Testament,Galatians,ESV
+5,Galatians5:17 ,PHRASE,you may,G4160,Epistles,New Testament,Galatians,ESV
+5,Galatians5:17 ,WORD,not,G3361,Epistles,New Testament,Galatians,ESV
+5,Galatians5:17 ,WORD,do,G4160,Epistles,New Testament,Galatians,ESV
+5,Galatians5:17 ,PHRASE,the things,G3778,Epistles,New Testament,Galatians,ESV
+5,Galatians5:17 ,WORD,that,G3739,Epistles,New Testament,Galatians,ESV
+5,Galatians5:17 ,PHRASE,you please,G2309,Epistles,New Testament,Galatians,ESV
+5,Galatians5:18 ,WORD,But,G1161,Epistles,New Testament,Galatians,ESV
+5,Galatians5:18 ,WORD,if,G1487,Epistles,New Testament,Galatians,ESV
+5,Galatians5:18 ,PHRASE,you are led,G71,Epistles,New Testament,Galatians,ESV
+5,Galatians5:18 ,PHRASE,by the Spirit,G4151,Epistles,New Testament,Galatians,ESV
+5,Galatians5:18 ,PHRASE,you are,G1510,Epistles,New Testament,Galatians,ESV
+5,Galatians5:18 ,WORD,not,G3756,Epistles,New Testament,Galatians,ESV
+5,Galatians5:18 ,WORD,under,G5259,Epistles,New Testament,Galatians,ESV
+5,Galatians5:18 ,PHRASE,the Law,G3551,Epistles,New Testament,Galatians,ESV
+5,Galatians5:19 ,WORD,Now,G1161,Epistles,New Testament,Galatians,ESV
+5,Galatians5:19 ,WORD,the,G3588,Epistles,New Testament,Galatians,ESV
+5,Galatians5:19 ,WORD,deeds,G2041,Epistles,New Testament,Galatians,ESV
+5,Galatians5:19 ,PHRASE,of the,G3588,Epistles,New Testament,Galatians,ESV
+5,Galatians5:19 ,WORD,flesh,G4561,Epistles,New Testament,Galatians,ESV
+5,Galatians5:19 ,WORD,are,G1510,Epistles,New Testament,Galatians,ESV
+5,Galatians5:19 ,WORD,evident,G5318,Epistles,New Testament,Galatians,ESV
+5,Galatians5:19 ,WORD,which,G3748,Epistles,New Testament,Galatians,ESV
+5,Galatians5:19 ,WORD,are,G1510,Epistles,New Testament,Galatians,ESV
+5,Galatians5:19 ,WORD,immorality,G4202,Epistles,New Testament,Galatians,ESV
+5,Galatians5:19 ,WORD,impurity,G167,Epistles,New Testament,Galatians,ESV
+5,Galatians5:19 ,WORD,sensuality,G766,Epistles,New Testament,Galatians,ESV
+5,Galatians5:20 ,WORD,idolatry,G1495,Epistles,New Testament,Galatians,ESV
+5,Galatians5:20 ,WORD,sorcery,G5331,Epistles,New Testament,Galatians,ESV
+5,Galatians5:20 ,WORD,enmities,G2189,Epistles,New Testament,Galatians,ESV
+5,Galatians5:20 ,WORD,strife,G2054,Epistles,New Testament,Galatians,ESV
+5,Galatians5:20 ,WORD,jealousy,G2205,Epistles,New Testament,Galatians,ESV
+5,Galatians5:20 ,PHRASE,outbursts of anger,G2372,Epistles,New Testament,Galatians,ESV
+5,Galatians5:20 ,WORD,disputes,G2052,Epistles,New Testament,Galatians,ESV
+5,Galatians5:20 ,WORD,dissensions,G1370,Epistles,New Testament,Galatians,ESV
+5,Galatians5:20 ,WORD,factions,G139,Epistles,New Testament,Galatians,ESV
+5,Galatians5:21 ,WORD,envying,G5355,Epistles,New Testament,Galatians,ESV
+5,Galatians5:21 ,WORD,drunkenness,G3178,Epistles,New Testament,Galatians,ESV
+5,Galatians5:21 ,WORD,carousing,G2970,Epistles,New Testament,Galatians,ESV
+5,Galatians5:21 ,WORD,and,G2532,Epistles,New Testament,Galatians,ESV
+5,Galatians5:21 ,PHRASE,things like,G3664,Epistles,New Testament,Galatians,ESV
+5,Galatians5:21 ,WORD,these,G3778,Epistles,New Testament,Galatians,ESV
+5,Galatians5:21 ,PHRASE,of which,G3739,Epistles,New Testament,Galatians,ESV
+5,Galatians5:21 ,PHRASE,I forewarn,G4277,Epistles,New Testament,Galatians,ESV
+5,Galatians5:21 ,WORD,you,G4771,Epistles,New Testament,Galatians,ESV
+5,Galatians5:21 ,PHRASE,just as,G2531,Epistles,New Testament,Galatians,ESV
+5,Galatians5:21 ,PHRASE,I have forewarned you,G4277,Epistles,New Testament,Galatians,ESV
+5,Galatians5:21 ,WORD,that,G3754,Epistles,New Testament,Galatians,ESV
+5,Galatians5:21 ,PHRASE,those who practice,G4238,Epistles,New Testament,Galatians,ESV
+5,Galatians5:21 ,PHRASE,such things,G5108,Epistles,New Testament,Galatians,ESV
+5,Galatians5:21 ,PHRASE,will not,G3756,Epistles,New Testament,Galatians,ESV
+5,Galatians5:21 ,WORD,inherit,G2816,Epistles,New Testament,Galatians,ESV
+5,Galatians5:21 ,PHRASE,the kingdom,G932,Epistles,New Testament,Galatians,ESV
+5,Galatians5:21 ,PHRASE,of God,G2316,Epistles,New Testament,Galatians,ESV
+5,Galatians5:22 ,WORD,But,G1161,Epistles,New Testament,Galatians,ESV
+5,Galatians5:22 ,WORD,the,G3588,Epistles,New Testament,Galatians,ESV
+5,Galatians5:22 ,WORD,fruit,G2590,Epistles,New Testament,Galatians,ESV
+5,Galatians5:22 ,PHRASE,of the,G3588,Epistles,New Testament,Galatians,ESV
+5,Galatians5:22 ,WORD,Spirit,G4151,Epistles,New Testament,Galatians,ESV
+5,Galatians5:22 ,WORD,is,G1510,Epistles,New Testament,Galatians,ESV
+5,Galatians5:22 ,WORD,love,G26,Epistles,New Testament,Galatians,ESV
+5,Galatians5:22 ,WORD,joy,G5479,Epistles,New Testament,Galatians,ESV
+5,Galatians5:22 ,WORD,peace,G1515,Epistles,New Testament,Galatians,ESV
+5,Galatians5:22 ,WORD,patience,G3115,Epistles,New Testament,Galatians,ESV
+5,Galatians5:22 ,WORD,kindness,G5544,Epistles,New Testament,Galatians,ESV
+5,Galatians5:22 ,WORD,goodness,G19,Epistles,New Testament,Galatians,ESV
+5,Galatians5:22 ,WORD,faithfulness,G4102,Epistles,New Testament,Galatians,ESV
+5,Galatians5:23 ,WORD,gentleness,G4240,Epistles,New Testament,Galatians,ESV
+5,Galatians5:23 ,WORD,self-control,G1466,Epistles,New Testament,Galatians,ESV
+5,Galatians5:23 ,WORD,against,G2596,Epistles,New Testament,Galatians,ESV
+5,Galatians5:23 ,PHRASE,such things,G5108,Epistles,New Testament,Galatians,ESV
+5,Galatians5:23 ,PHRASE,there is,G1510,Epistles,New Testament,Galatians,ESV
+5,Galatians5:23 ,WORD,no,G3756,Epistles,New Testament,Galatians,ESV
+5,Galatians5:23 ,WORD,law,G3551,Epistles,New Testament,Galatians,ESV
+5,Galatians5:24 ,WORD,Now,G1161,Epistles,New Testament,Galatians,ESV
+5,Galatians5:24 ,PHRASE,those who belong,G3588,Epistles,New Testament,Galatians,ESV
+5,Galatians5:24 ,PHRASE,to Christ,G5547,Epistles,New Testament,Galatians,ESV
+5,Galatians5:24 ,WORD,Jesus,G2424,Epistles,New Testament,Galatians,ESV
+5,Galatians5:24 ,PHRASE,have crucified,G4717,Epistles,New Testament,Galatians,ESV
+5,Galatians5:24 ,WORD,the,G3588,Epistles,New Testament,Galatians,ESV
+5,Galatians5:24 ,WORD,flesh,G4561,Epistles,New Testament,Galatians,ESV
+5,Galatians5:24 ,WORD,with,G4862,Epistles,New Testament,Galatians,ESV
+5,Galatians5:24 ,PHRASE,its passions,G3804,Epistles,New Testament,Galatians,ESV
+5,Galatians5:24 ,WORD,and,G2532,Epistles,New Testament,Galatians,ESV
+5,Galatians5:24 ,WORD,desires,G1939,Epistles,New Testament,Galatians,ESV
+5,Galatians5:25 ,WORD,If,G1487,Epistles,New Testament,Galatians,ESV
+5,Galatians5:25 ,PHRASE,we live,G2198,Epistles,New Testament,Galatians,ESV
+5,Galatians5:25 ,PHRASE,by the Spirit,G4151,Epistles,New Testament,Galatians,ESV
+5,Galatians5:25 ,PHRASE,let us,G4748,Epistles,New Testament,Galatians,ESV
+5,Galatians5:25 ,WORD,also,G2532,Epistles,New Testament,Galatians,ESV
+5,Galatians5:25 ,WORD,walk,G4748,Epistles,New Testament,Galatians,ESV
+5,Galatians5:25 ,PHRASE,by the Spirit,G4151,Epistles,New Testament,Galatians,ESV
+5,Galatians5:26 ,PHRASE,Let us,G1096,Epistles,New Testament,Galatians,ESV
+5,Galatians5:26 ,WORD,not,G3361,Epistles,New Testament,Galatians,ESV
+5,Galatians5:26 ,WORD,become,G1096,Epistles,New Testament,Galatians,ESV
+5,Galatians5:26 ,WORD,boastful,G2755,Epistles,New Testament,Galatians,ESV
+5,Galatians5:26 ,WORD,challenging,G4292,Epistles,New Testament,Galatians,ESV
+5,Galatians5:26 ,PHRASE,one another,G240,Epistles,New Testament,Galatians,ESV
+5,Galatians5:26 ,WORD,envying,G5354,Epistles,New Testament,Galatians,ESV
+5,Galatians5:26 ,PHRASE,one another,G240,Epistles,New Testament,Galatians,ESV
+6,Galatians6:1 ,WORD,Brethren,G80,Epistles,New Testament,Galatians,ESV
+6,Galatians6:1 ,WORD,even,G2532,Epistles,New Testament,Galatians,ESV
+6,Galatians6:1 ,WORD,if,G1437,Epistles,New Testament,Galatians,ESV
+6,Galatians6:1 ,WORD,anyone,G444,Epistles,New Testament,Galatians,ESV
+6,Galatians6:1 ,PHRASE,is caught,G4301,Epistles,New Testament,Galatians,ESV
+6,Galatians6:1 ,WORD,in,G1722,Epistles,New Testament,Galatians,ESV
+6,Galatians6:1 ,WORD,any,G5100,Epistles,New Testament,Galatians,ESV
+6,Galatians6:1 ,WORD,trespass,G3900,Epistles,New Testament,Galatians,ESV
+6,Galatians6:1 ,WORD,you,G4771,Epistles,New Testament,Galatians,ESV
+6,Galatians6:1 ,WORD,who,G3588,Epistles,New Testament,Galatians,ESV
+6,Galatians6:1 ,PHRASE,are spiritual,G4152,Epistles,New Testament,Galatians,ESV
+6,Galatians6:1 ,WORD,restore,G2675,Epistles,New Testament,Galatians,ESV
+6,Galatians6:1 ,PHRASE,such a one,G5108,Epistles,New Testament,Galatians,ESV
+6,Galatians6:1 ,WORD,in,G1722,Epistles,New Testament,Galatians,ESV
+6,Galatians6:1 ,PHRASE,a spirit,G4151,Epistles,New Testament,Galatians,ESV
+6,Galatians6:1 ,PHRASE,of gentleness,G4240,Epistles,New Testament,Galatians,ESV
+6,Galatians6:1 ,PHRASE,each one looking,G4648,Epistles,New Testament,Galatians,ESV
+6,Galatians6:1 ,PHRASE,to yourself,G4572,Epistles,New Testament,Galatians,ESV
+6,Galatians6:1 ,PHRASE,so that,G3361,Epistles,New Testament,Galatians,ESV
+6,Galatians6:1 ,WORD,you,G4771,Epistles,New Testament,Galatians,ESV
+6,Galatians6:1 ,WORD,too,G2532,Epistles,New Testament,Galatians,ESV
+6,Galatians6:1 ,PHRASE,will not,G3361,Epistles,New Testament,Galatians,ESV
+6,Galatians6:1 ,PHRASE,be tempted,G3985,Epistles,New Testament,Galatians,ESV
+6,Galatians6:2 ,WORD,Bear,G941,Epistles,New Testament,Galatians,ESV
+6,Galatians6:2 ,PHRASE,one another's,G240,Epistles,New Testament,Galatians,ESV
+6,Galatians6:2 ,WORD,burdens,G922,Epistles,New Testament,Galatians,ESV
+6,Galatians6:2 ,WORD,and,G2532,Epistles,New Testament,Galatians,ESV
+6,Galatians6:2 ,WORD,thereby,G3779,Epistles,New Testament,Galatians,ESV
+6,Galatians6:2 ,WORD,fulfill,G378,Epistles,New Testament,Galatians,ESV
+6,Galatians6:2 ,WORD,the,G3588,Epistles,New Testament,Galatians,ESV
+6,Galatians6:2 ,WORD,law,G3551,Epistles,New Testament,Galatians,ESV
+6,Galatians6:2 ,PHRASE,of Christ,G5547,Epistles,New Testament,Galatians,ESV
+6,Galatians6:3 ,WORD,For,G1063,Epistles,New Testament,Galatians,ESV
+6,Galatians6:3 ,WORD,if,G1487,Epistles,New Testament,Galatians,ESV
+6,Galatians6:3 ,WORD,anyone,G5100,Epistles,New Testament,Galatians,ESV
+6,Galatians6:3 ,WORD,thinks,G1380,Epistles,New Testament,Galatians,ESV
+6,Galatians6:3 ,PHRASE,he is,G1510,Epistles,New Testament,Galatians,ESV
+6,Galatians6:3 ,WORD,something,G5100,Epistles,New Testament,Galatians,ESV
+6,Galatians6:3 ,PHRASE,when he is,G1510,Epistles,New Testament,Galatians,ESV
+6,Galatians6:3 ,WORD,nothing,G3367,Epistles,New Testament,Galatians,ESV
+6,Galatians6:3 ,PHRASE,he deceives,G5422,Epistles,New Testament,Galatians,ESV
+6,Galatians6:3 ,WORD,himself,G1438,Epistles,New Testament,Galatians,ESV
+6,Galatians6:4 ,WORD,But,G1161,Epistles,New Testament,Galatians,ESV
+6,Galatians6:4 ,PHRASE,each one,G1538,Epistles,New Testament,Galatians,ESV
+6,Galatians6:4 ,PHRASE,must examine,G1381,Epistles,New Testament,Galatians,ESV
+6,Galatians6:4 ,PHRASE,his own,G1438,Epistles,New Testament,Galatians,ESV
+6,Galatians6:4 ,WORD,work,G2041,Epistles,New Testament,Galatians,ESV
+6,Galatians6:4 ,WORD,and,G2532,Epistles,New Testament,Galatians,ESV
+6,Galatians6:4 ,WORD,then,G5119,Epistles,New Testament,Galatians,ESV
+6,Galatians6:4 ,PHRASE,he will have,G2192,Epistles,New Testament,Galatians,ESV
+6,Galatians6:4 ,PHRASE,reason for boasting,G2745,Epistles,New Testament,Galatians,ESV
+6,Galatians6:4 ,PHRASE,in regard to,G1519,Epistles,New Testament,Galatians,ESV
+6,Galatians6:4 ,WORD,himself,G1438,Epistles,New Testament,Galatians,ESV
+6,Galatians6:4 ,WORD,alone,G3441,Epistles,New Testament,Galatians,ESV
+6,Galatians6:4 ,WORD,and,G2532,Epistles,New Testament,Galatians,ESV
+6,Galatians6:4 ,WORD,not,G3756,Epistles,New Testament,Galatians,ESV
+6,Galatians6:4 ,PHRASE,in regard to,G1519,Epistles,New Testament,Galatians,ESV
+6,Galatians6:4 ,WORD,another,G2087,Epistles,New Testament,Galatians,ESV
+6,Galatians6:5 ,WORD,For,G1063,Epistles,New Testament,Galatians,ESV
+6,Galatians6:5 ,PHRASE,each one,G1538,Epistles,New Testament,Galatians,ESV
+6,Galatians6:5 ,PHRASE,will bear,G941,Epistles,New Testament,Galatians,ESV
+6,Galatians6:5 ,PHRASE,his own,G2398,Epistles,New Testament,Galatians,ESV
+6,Galatians6:5 ,WORD,load,G5413,Epistles,New Testament,Galatians,ESV
+6,Galatians6:6 ,PHRASE,The one who,G3588,Epistles,New Testament,Galatians,ESV
+6,Galatians6:6 ,PHRASE,is taught,G2727,Epistles,New Testament,Galatians,ESV
+6,Galatians6:6 ,WORD,the,G3588,Epistles,New Testament,Galatians,ESV
+6,Galatians6:6 ,WORD,word,G3056,Epistles,New Testament,Galatians,ESV
+6,Galatians6:6 ,PHRASE,is to share,G2841,Epistles,New Testament,Galatians,ESV
+6,Galatians6:6 ,WORD,,G1722,Epistles,New Testament,Galatians,ESV
+6,Galatians6:6 ,WORD,all,G3956,Epistles,New Testament,Galatians,ESV
+6,Galatians6:6 ,PHRASE,good things,G18,Epistles,New Testament,Galatians,ESV
+6,Galatians6:6 ,PHRASE,with the one who,G3588,Epistles,New Testament,Galatians,ESV
+6,Galatians6:6 ,PHRASE,teaches him,G2727,Epistles,New Testament,Galatians,ESV
+6,Galatians6:7 ,PHRASE,Do not,G3361,Epistles,New Testament,Galatians,ESV
+6,Galatians6:7 ,PHRASE,be deceived,G4105,Epistles,New Testament,Galatians,ESV
+6,Galatians6:7 ,WORD,God,G2316,Epistles,New Testament,Galatians,ESV
+6,Galatians6:7 ,PHRASE,is not,G3756,Epistles,New Testament,Galatians,ESV
+6,Galatians6:7 ,WORD,mocked,G3456,Epistles,New Testament,Galatians,ESV
+6,Galatians6:7 ,WORD,for,G1063,Epistles,New Testament,Galatians,ESV
+6,Galatians6:7 ,WORD,whatever,G3739,Epistles,New Testament,Galatians,ESV
+6,Galatians6:7 ,WORD,,G1437,Epistles,New Testament,Galatians,ESV
+6,Galatians6:7 ,PHRASE,a man,G444,Epistles,New Testament,Galatians,ESV
+6,Galatians6:7 ,WORD,sows,G4687,Epistles,New Testament,Galatians,ESV
+6,Galatians6:7 ,WORD,this,G3778,Epistles,New Testament,Galatians,ESV
+6,Galatians6:7 ,PHRASE,he will also,G2532,Epistles,New Testament,Galatians,ESV
+6,Galatians6:7 ,WORD,reap,G2325,Epistles,New Testament,Galatians,ESV
+6,Galatians6:8 ,WORD,For,G3754,Epistles,New Testament,Galatians,ESV
+6,Galatians6:8 ,PHRASE,the one who,G3588,Epistles,New Testament,Galatians,ESV
+6,Galatians6:8 ,WORD,sows,G4687,Epistles,New Testament,Galatians,ESV
+6,Galatians6:8 ,WORD,to,G1519,Epistles,New Testament,Galatians,ESV
+6,Galatians6:8 ,PHRASE,his own,G1438,Epistles,New Testament,Galatians,ESV
+6,Galatians6:8 ,WORD,flesh,G4561,Epistles,New Testament,Galatians,ESV
+6,Galatians6:8 ,PHRASE,will from,G1537,Epistles,New Testament,Galatians,ESV
+6,Galatians6:8 ,WORD,the,G3588,Epistles,New Testament,Galatians,ESV
+6,Galatians6:8 ,WORD,flesh,G4561,Epistles,New Testament,Galatians,ESV
+6,Galatians6:8 ,WORD,reap,G2325,Epistles,New Testament,Galatians,ESV
+6,Galatians6:8 ,WORD,corruption,G5356,Epistles,New Testament,Galatians,ESV
+6,Galatians6:8 ,WORD,but,G1161,Epistles,New Testament,Galatians,ESV
+6,Galatians6:8 ,PHRASE,the one who,G3588,Epistles,New Testament,Galatians,ESV
+6,Galatians6:8 ,WORD,sows,G4687,Epistles,New Testament,Galatians,ESV
+6,Galatians6:8 ,WORD,to,G1519,Epistles,New Testament,Galatians,ESV
+6,Galatians6:8 ,WORD,the,G3588,Epistles,New Testament,Galatians,ESV
+6,Galatians6:8 ,WORD,Spirit,G4151,Epistles,New Testament,Galatians,ESV
+6,Galatians6:8 ,PHRASE,will from,G1537,Epistles,New Testament,Galatians,ESV
+6,Galatians6:8 ,WORD,the,G3588,Epistles,New Testament,Galatians,ESV
+6,Galatians6:8 ,WORD,Spirit,G4151,Epistles,New Testament,Galatians,ESV
+6,Galatians6:8 ,WORD,reap,G2325,Epistles,New Testament,Galatians,ESV
+6,Galatians6:8 ,WORD,eternal,G166,Epistles,New Testament,Galatians,ESV
+6,Galatians6:8 ,WORD,life,G2222,Epistles,New Testament,Galatians,ESV
+6,Galatians6:9 ,PHRASE,Let us,G1573,Epistles,New Testament,Galatians,ESV
+6,Galatians6:9 ,WORD,not,G3361,Epistles,New Testament,Galatians,ESV
+6,Galatians6:9 ,PHRASE,lose heart,G1573,Epistles,New Testament,Galatians,ESV
+6,Galatians6:9 ,PHRASE,in doing,G4160,Epistles,New Testament,Galatians,ESV
+6,Galatians6:9 ,WORD,good,G2570,Epistles,New Testament,Galatians,ESV
+6,Galatians6:9 ,WORD,for,G1063,Epistles,New Testament,Galatians,ESV
+6,Galatians6:9 ,PHRASE,in due,G2398,Epistles,New Testament,Galatians,ESV
+6,Galatians6:9 ,WORD,time,G2540,Epistles,New Testament,Galatians,ESV
+6,Galatians6:9 ,PHRASE,we will reap,G2325,Epistles,New Testament,Galatians,ESV
+6,Galatians6:9 ,PHRASE,if we do not,G3361,Epistles,New Testament,Galatians,ESV
+6,Galatians6:9 ,PHRASE,grow weary,G1590,Epistles,New Testament,Galatians,ESV
+6,Galatians6:10 ,WORD,So,G686,Epistles,New Testament,Galatians,ESV
+6,Galatians6:10 ,WORD,then,G3767,Epistles,New Testament,Galatians,ESV
+6,Galatians6:10 ,WORD,while,G5613,Epistles,New Testament,Galatians,ESV
+6,Galatians6:10 ,PHRASE,we have,G2192,Epistles,New Testament,Galatians,ESV
+6,Galatians6:10 ,WORD,opportunity,G2540,Epistles,New Testament,Galatians,ESV
+6,Galatians6:10 ,PHRASE,let us do,G2038,Epistles,New Testament,Galatians,ESV
+6,Galatians6:10 ,WORD,good,G18,Epistles,New Testament,Galatians,ESV
+6,Galatians6:10 ,WORD,to,G4314,Epistles,New Testament,Galatians,ESV
+6,Galatians6:10 ,PHRASE,all people,G3956,Epistles,New Testament,Galatians,ESV
+6,Galatians6:10 ,WORD,and,G1161,Epistles,New Testament,Galatians,ESV
+6,Galatians6:10 ,WORD,especially,G3122,Epistles,New Testament,Galatians,ESV
+6,Galatians6:10 ,WORD,to,G4314,Epistles,New Testament,Galatians,ESV
+6,Galatians6:10 ,PHRASE,those who,G3588,Epistles,New Testament,Galatians,ESV
+6,Galatians6:10 ,PHRASE,are of the household,G3609,Epistles,New Testament,Galatians,ESV
+6,Galatians6:10 ,PHRASE,of the,G3588,Epistles,New Testament,Galatians,ESV
+6,Galatians6:10 ,WORD,faith,G4102,Epistles,New Testament,Galatians,ESV
+6,Galatians6:11 ,WORD,See,G3708,Epistles,New Testament,Galatians,ESV
+6,Galatians6:11 ,PHRASE,with what large,G4080,Epistles,New Testament,Galatians,ESV
+6,Galatians6:11 ,WORD,letters,G1121,Epistles,New Testament,Galatians,ESV
+6,Galatians6:11 ,PHRASE,I am writing,G1125,Epistles,New Testament,Galatians,ESV
+6,Galatians6:11 ,PHRASE,to you,G4771,Epistles,New Testament,Galatians,ESV
+6,Galatians6:11 ,PHRASE,with my own,G1699,Epistles,New Testament,Galatians,ESV
+6,Galatians6:11 ,WORD,hand,G5495,Epistles,New Testament,Galatians,ESV
+6,Galatians6:12 ,PHRASE,Those who,G3745,Epistles,New Testament,Galatians,ESV
+6,Galatians6:12 ,WORD,desire,G2309,Epistles,New Testament,Galatians,ESV
+6,Galatians6:12 ,PHRASE,to make a good showing,G2146,Epistles,New Testament,Galatians,ESV
+6,Galatians6:12 ,WORD,in,G1722,Epistles,New Testament,Galatians,ESV
+6,Galatians6:12 ,PHRASE,the flesh,G4561,Epistles,New Testament,Galatians,ESV
+6,Galatians6:12 ,PHRASE,try to compel,G315,Epistles,New Testament,Galatians,ESV
+6,Galatians6:12 ,WORD,you,G4771,Epistles,New Testament,Galatians,ESV
+6,Galatians6:12 ,PHRASE,to be circumcised,G4059,Epistles,New Testament,Galatians,ESV
+6,Galatians6:12 ,WORD,simply,G3441,Epistles,New Testament,Galatians,ESV
+6,Galatians6:12 ,PHRASE,so that,G2443,Epistles,New Testament,Galatians,ESV
+6,Galatians6:12 ,PHRASE,they will not,G3361,Epistles,New Testament,Galatians,ESV
+6,Galatians6:12 ,PHRASE,be persecuted,G1377,Epistles,New Testament,Galatians,ESV
+6,Galatians6:12 ,PHRASE,for the,G3588,Epistles,New Testament,Galatians,ESV
+6,Galatians6:12 ,WORD,cross,G4716,Epistles,New Testament,Galatians,ESV
+6,Galatians6:12 ,PHRASE,of Christ,G5547,Epistles,New Testament,Galatians,ESV
+6,Galatians6:13 ,WORD,For,G1063,Epistles,New Testament,Galatians,ESV
+6,Galatians6:13 ,PHRASE,those who,G3588,Epistles,New Testament,Galatians,ESV
+6,Galatians6:13 ,PHRASE,are circumcised,G4059,Epistles,New Testament,Galatians,ESV
+6,Galatians6:13 ,PHRASE,do not even,G3761,Epistles,New Testament,Galatians,ESV
+6,Galatians6:13 ,WORD,keep,G5442,Epistles,New Testament,Galatians,ESV
+6,Galatians6:13 ,PHRASE,the Law,G3551,Epistles,New Testament,Galatians,ESV
+6,Galatians6:13 ,WORD,themselves,G846,Epistles,New Testament,Galatians,ESV
+6,Galatians6:13 ,WORD,but,G235,Epistles,New Testament,Galatians,ESV
+6,Galatians6:13 ,PHRASE,they desire,G2309,Epistles,New Testament,Galatians,ESV
+6,Galatians6:13 ,PHRASE,to have,G4059,Epistles,New Testament,Galatians,ESV
+6,Galatians6:13 ,WORD,you,G4771,Epistles,New Testament,Galatians,ESV
+6,Galatians6:13 ,WORD,circumcised,G4059,Epistles,New Testament,Galatians,ESV
+6,Galatians6:13 ,PHRASE,so that,G2443,Epistles,New Testament,Galatians,ESV
+6,Galatians6:13 ,PHRASE,they may boast,G2744,Epistles,New Testament,Galatians,ESV
+6,Galatians6:13 ,WORD,in,G1722,Epistles,New Testament,Galatians,ESV
+6,Galatians6:13 ,WORD,your,G5212,Epistles,New Testament,Galatians,ESV
+6,Galatians6:13 ,WORD,flesh,G4561,Epistles,New Testament,Galatians,ESV
+6,Galatians6:14 ,WORD,But,G1161,Epistles,New Testament,Galatians,ESV
+6,Galatians6:14 ,PHRASE,may it never,G3361,Epistles,New Testament,Galatians,ESV
+6,Galatians6:14 ,WORD,be,G1096,Epistles,New Testament,Galatians,ESV
+6,Galatians6:14 ,PHRASE,that I,G1473,Epistles,New Testament,Galatians,ESV
+6,Galatians6:14 ,PHRASE,would boast,G2744,Epistles,New Testament,Galatians,ESV
+6,Galatians6:14 ,WORD,,G1487,Epistles,New Testament,Galatians,ESV
+6,Galatians6:14 ,WORD,except,G3361,Epistles,New Testament,Galatians,ESV
+6,Galatians6:14 ,WORD,in,G1722,Epistles,New Testament,Galatians,ESV
+6,Galatians6:14 ,WORD,the,G3588,Epistles,New Testament,Galatians,ESV
+6,Galatians6:14 ,WORD,cross,G4716,Epistles,New Testament,Galatians,ESV
+6,Galatians6:14 ,PHRASE,of our,G1473,Epistles,New Testament,Galatians,ESV
+6,Galatians6:14 ,WORD,Lord,G2962,Epistles,New Testament,Galatians,ESV
+6,Galatians6:14 ,WORD,Jesus,G2424,Epistles,New Testament,Galatians,ESV
+6,Galatians6:14 ,WORD,Christ,G5547,Epistles,New Testament,Galatians,ESV
+6,Galatians6:14 ,WORD,through,G1223,Epistles,New Testament,Galatians,ESV
+6,Galatians6:14 ,WORD,which,G3739,Epistles,New Testament,Galatians,ESV
+6,Galatians6:14 ,PHRASE,the world,G2889,Epistles,New Testament,Galatians,ESV
+6,Galatians6:14 ,PHRASE,has been crucified,G4717,Epistles,New Testament,Galatians,ESV
+6,Galatians6:14 ,PHRASE,to me,G1473,Epistles,New Testament,Galatians,ESV
+6,Galatians6:14 ,PHRASE,and I,G2504,Epistles,New Testament,Galatians,ESV
+6,Galatians6:14 ,PHRASE,to the world,G2889,Epistles,New Testament,Galatians,ESV
+6,Galatians6:15 ,WORD,For,G1063,Epistles,New Testament,Galatians,ESV
+6,Galatians6:15 ,WORD,neither,G3777,Epistles,New Testament,Galatians,ESV
+6,Galatians6:15 ,WORD,is,G1510,Epistles,New Testament,Galatians,ESV
+6,Galatians6:15 ,WORD,circumcision,G4061,Epistles,New Testament,Galatians,ESV
+6,Galatians6:15 ,WORD,anything,G5101,Epistles,New Testament,Galatians,ESV
+6,Galatians6:15 ,WORD,nor,G3777,Epistles,New Testament,Galatians,ESV
+6,Galatians6:15 ,WORD,uncircumcision,G203,Epistles,New Testament,Galatians,ESV
+6,Galatians6:15 ,WORD,but,G235,Epistles,New Testament,Galatians,ESV
+6,Galatians6:15 ,PHRASE,a new,G2537,Epistles,New Testament,Galatians,ESV
+6,Galatians6:15 ,WORD,creation,G2937,Epistles,New Testament,Galatians,ESV
+6,Galatians6:16 ,WORD,And,G2532,Epistles,New Testament,Galatians,ESV
+6,Galatians6:16 ,PHRASE,those who,G3745,Epistles,New Testament,Galatians,ESV
+6,Galatians6:16 ,PHRASE,will walk,G4748,Epistles,New Testament,Galatians,ESV
+6,Galatians6:16 ,PHRASE,by this,G3778,Epistles,New Testament,Galatians,ESV
+6,Galatians6:16 ,WORD,rule,G2583,Epistles,New Testament,Galatians,ESV
+6,Galatians6:16 ,WORD,peace,G1515,Epistles,New Testament,Galatians,ESV
+6,Galatians6:16 ,WORD,and,G2532,Epistles,New Testament,Galatians,ESV
+6,Galatians6:16 ,WORD,mercy,G1656,Epistles,New Testament,Galatians,ESV
+6,Galatians6:16 ,PHRASE,be upon,G1909,Epistles,New Testament,Galatians,ESV
+6,Galatians6:16 ,WORD,them,G846,Epistles,New Testament,Galatians,ESV
+6,Galatians6:16 ,WORD,and,G2532,Epistles,New Testament,Galatians,ESV
+6,Galatians6:16 ,WORD,upon,G1909,Epistles,New Testament,Galatians,ESV
+6,Galatians6:16 ,WORD,the,G3588,Epistles,New Testament,Galatians,ESV
+6,Galatians6:16 ,WORD,Israel,G2474,Epistles,New Testament,Galatians,ESV
+6,Galatians6:16 ,PHRASE,of God,G2316,Epistles,New Testament,Galatians,ESV
+6,Galatians6:17 ,PHRASE,From now on,G3062,Epistles,New Testament,Galatians,ESV
+6,Galatians6:17 ,PHRASE,let no one,G3367,Epistles,New Testament,Galatians,ESV
+6,Galatians6:17 ,WORD,cause,G3930,Epistles,New Testament,Galatians,ESV
+6,Galatians6:17 ,WORD,trouble,G2873,Epistles,New Testament,Galatians,ESV
+6,Galatians6:17 ,PHRASE,for me,G1473,Epistles,New Testament,Galatians,ESV
+6,Galatians6:17 ,WORD,for,G1063,Epistles,New Testament,Galatians,ESV
+6,Galatians6:17 ,WORD,I,G1473,Epistles,New Testament,Galatians,ESV
+6,Galatians6:17 ,WORD,bear,G941,Epistles,New Testament,Galatians,ESV
+6,Galatians6:17 ,WORD,on,G1722,Epistles,New Testament,Galatians,ESV
+6,Galatians6:17 ,WORD,my,G1473,Epistles,New Testament,Galatians,ESV
+6,Galatians6:17 ,WORD,body,G4983,Epistles,New Testament,Galatians,ESV
+6,Galatians6:17 ,WORD,the,G3588,Epistles,New Testament,Galatians,ESV
+6,Galatians6:17 ,WORD,brand-marks,G4742,Epistles,New Testament,Galatians,ESV
+6,Galatians6:17 ,PHRASE,of Jesus,G2424,Epistles,New Testament,Galatians,ESV
+6,Galatians6:18 ,WORD,The,G3588,Epistles,New Testament,Galatians,ESV
+6,Galatians6:18 ,WORD,grace,G5485,Epistles,New Testament,Galatians,ESV
+6,Galatians6:18 ,PHRASE,of our,G1473,Epistles,New Testament,Galatians,ESV
+6,Galatians6:18 ,WORD,Lord,G2962,Epistles,New Testament,Galatians,ESV
+6,Galatians6:18 ,WORD,Jesus,G2424,Epistles,New Testament,Galatians,ESV
+6,Galatians6:18 ,WORD,Christ,G5547,Epistles,New Testament,Galatians,ESV
+6,Galatians6:18 ,PHRASE,be with,G3326,Epistles,New Testament,Galatians,ESV
+6,Galatians6:18 ,WORD,your,G4771,Epistles,New Testament,Galatians,ESV
+6,Galatians6:18 ,WORD,spirit,G4151,Epistles,New Testament,Galatians,ESV
+6,Galatians6:18 ,WORD,brethren,G80,Epistles,New Testament,Galatians,ESV
+6,Galatians6:18 ,WORD,Amen,G281,Epistles,New Testament,Galatians,ESV
