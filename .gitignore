@@ -136,6 +136,7 @@ dmypy.json
 # project specific folders
 already_scraped/
 notebooks/
+git_access_token
 
 
 
