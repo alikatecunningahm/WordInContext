@@ -1,4 +1,5 @@
 from bs4 import BeautifulSoup
+from selenium.common.exceptions import TimeoutException
 from pathlib import Path
 import pandas as pd
 import logging
@@ -42,28 +43,39 @@ class StrongsIDScraper:
             for id_link in id_links:
                 full_id_link = "https://biblehub.com/" + id_link["href"]
                 logger.info(f"📖 Scraping: {full_id_link}")
-                self.driver.get(full_id_link)
-                soup = BeautifulSoup(self.driver.page_source, "lxml")
 
-                id_data = {}
-                match = re.search(rf"(?<={id_type.lower()}/)\d+", full_id_link)
-                if not match:
-                    continue  # Skip if no ID found
+                while True:
+                    try:
+                        self.driver.refresh()
+                        self.driver.get(full_id_link)
+                        soup = BeautifulSoup(self.driver.page_source, "lxml")
 
-                id_data["strongs_id"] = id_type.upper()[0] + match.group()
+                        id_data = {}
+                        match = re.search(rf"(?<={id_type.lower()}/)\d+", full_id_link)
+                        if not match:
+                            continue  # Skip if no ID found
 
-                for tag in soup.find_all("span", class_="tophdg"):
-                    label = tag.get_text(strip=True).rstrip(":")
-                    if label == "Original Word":
-                        lang_tag = tag.find_next_sibling("span", class_=id_type.lower())
-                        value = lang_tag.get_text(strip=True) if lang_tag else ""
-                    else:
-                        next_node = tag.next_sibling
-                        while next_node and (getattr(next_node, "name", None) or str(next_node).strip() == ""):
-                            next_node = next_node.next_sibling
-                        value = str(next_node).strip() if next_node else ""
+                        id_data["strongs_id"] = id_type.upper()[0] + match.group()
 
-                    id_data[label] = value
+                        for tag in soup.find_all("span", class_="tophdg"):
+                            label = tag.get_text(strip=True).rstrip(":")
+                            if label == "Original Word":
+                                lang_tag = tag.find_next_sibling("span", class_=id_type.lower())
+                                value = lang_tag.get_text(strip=True) if lang_tag else ""
+                            else:
+                                next_node = tag.next_sibling
+                                while next_node and (getattr(next_node, "name", None) or str(next_node).strip() == ""):
+                                    next_node = next_node.next_sibling
+                                value = str(next_node).strip() if next_node else ""
+
+                            id_data[label] = value
+
+                        # Success - exit loop
+                        break
+
+                    except Exception as e:
+                        logging.warning(f"Error processing {full_id_link} - {e}. Retrying in 30s...")
+                        time.sleep(30)
 
                 all_data.append(id_data)
 

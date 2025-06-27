@@ -10,13 +10,12 @@ def define_driver():
 	driver_dir = os.path.dirname(os.path.realpath(__file__))
 
 	driver_path = [file for file in glob.glob(driver_dir + "/gecko*")][0]
-	print(driver_path)
-
+	
 	# Instantiate options
 	options = Options()
 
 	# Run headless
-	# options.headless = True
+	options.headless = True
 
 	# Automatically download files 
 	profile = webdriver.FirefoxProfile()
