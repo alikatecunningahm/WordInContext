@@ -5,10 +5,12 @@ import pandas as pd
 import json
 from elasticsearch import Elasticsearch
 from elasticsearch.helpers import bulk
-from config import base as cfg  # Custom config file with paths and ES settings
+from src.config import base as cfg  # Custom config file with paths and ES settings
 
 # Define the directory containing Elasticsearch index mappings (JSON format)
 CONFIG_DIR = os.path.join(os.path.dirname(__file__), '..', 'config', 'es_mappings')
+# Define the directory containing scraped verse & strong id data
+BASE_DATA_DIR = os.path.join(os.path.dirname(__file__), '..', '..', 'scraped_docs')
 
 
 def wait_for_es():
@@ -108,7 +110,7 @@ def ingest_csvs_in_folder(es, index_name, folder, nested=False):
                 ingest_csv(es, index_name, filepath)
     else:
         # Ingest directly from flat directory
-        filenames = [f for f in os.listdir(folder) if f.endswith(".csv")]
+        filenames = [f for f in os.listdir(folder) if "DS_Store" not in f]
         for file in filenames:
             filepath = os.path.join(folder, file)
             ingest_csv(es, index_name, filepath)
@@ -118,13 +120,15 @@ def ingest_csvs_in_folder(es, index_name, folder, nested=False):
 if __name__ == "__main__":
     # Establish connection to Elasticsearch
     es = wait_for_es()
+    base_data_folder = os.path.join(os.path.dirname(__file__), '..', '..')
 
     # ---- STEP 1: Ingest Bible Verse Parts ----
-    verse_mapping = load_mapping("verse_part_mapping.json")  # Load verse mapping definition
+    verse_mapping = load_mapping("verse_mapping.json")  # Load verse mapping definition
     create_index(es, cfg.ES_VERSE_INDEX_NAME, verse_mapping)  # Create verse index
-    ingest_csvs_in_folder(es, cfg.ES_VERSE_INDEX_NAME, cfg.VERSE_DATA_FOLDER, nested=True)  # Ingest nested CSVs
+    ingest_csvs_in_folder(es, cfg.ES_VERSE_INDEX_NAME, os.path.join(BASE_DATA_DIR,cfg.VERSE_DATA_FOLDER), nested=True)  # Ingest nested CSVs
 
     # ---- STEP 2: Ingest Strongs ID Data ----
     strongs_mapping = load_mapping("strongs_id_mapping.json")  # Load strongs mapping definition
     create_index(es, cfg.ES_STRONGS_INDEX_NAME, strongs_mapping)  # Create strongs index
-    ingest_csvs_in_folder(es, cfg.ES_STRONGS_INDEX_NAME, cfg.STRONGS_DATA_FOLDER, nested=False)  # Ingest flat CSVs
+    ingest_csvs_in_folder(es, cfg.ES_STRONGS_INDEX_NAME, os.path.join(BASE_DATA_DIR,cfg.STRONGS_DATA_FOLDER,'Hebrew'), nested=False)  # Ingest Hebrew ID csvs
+    ingest_csvs_in_folder(es, cfg.ES_STRONGS_INDEX_NAME, os.path.join(BASE_DATA_DIR,cfg.STRONGS_DATA_FOLDER,'Greek'), nested=False)  # Ingest Greek ID csvs

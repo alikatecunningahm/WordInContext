@@ -1,5 +1,6 @@
 import streamlit as st
 from elasticsearch import Elasticsearch
+from src.config import base as cfg
 from elasticsearch.helpers import scan
 from wordcloud import WordCloud, STOPWORDS
 from pyvis.network import Network
@@ -12,8 +13,9 @@ import re
 import networkx as nx
 
 # --- Connect to Elasticsearch ---
-es = Elasticsearch("http://localhost:9200")
-index_name = "bible_search_index"
+es = Elasticsearch(cfg.ES_HOST)
+es_verse_index = cfg.ES_VERSE_INDEX_NAME
+es_strongs_id_index = cfg.ES_VERSE_INDEX_NAME
 
 st.set_page_config(page_title="Bible Word Explorer", layout="wide")
 st.title("📖 Bible Word Explorer")
@@ -71,7 +73,7 @@ if st.session_state.base_query:
             }
         }
     }
-    res_wc = es.search(index=index_name, body=query_wc)
+    res_wc = es.search(index=cfg.ES_VERSE_INDEX_NAME, body=query_wc)
     buckets_wc = res_wc.get("aggregations", {}).get("unique_translations", {}).get("buckets", [])
 
     if buckets_wc:
@@ -99,7 +101,7 @@ if st.session_state.base_query:
             }
         }
     }
-    res_book = es.search(index=index_name, body=agg_book)
+    res_book = es.search(index=cfg.ES_VERSE_INDEX_NAME, body=agg_book)
     df_book = pd.DataFrame(res_book["aggregations"]["by_book"]["buckets"])
     if not df_book.empty:
         df_book.columns = ["Book", "Count"]
@@ -118,7 +120,7 @@ if st.session_state.base_query:
             }
         }
     }
-    res_test = es.search(index=index_name, body=agg_test)
+    res_test = es.search(index=cfg.ES_VERSE_INDEX_NAME, body=agg_test)
     df_test = pd.DataFrame(res_test["aggregations"]["by_testament"]["buckets"])
     if not df_test.empty:
         df_test.columns = ["Testament", "Count"]
@@ -140,7 +142,7 @@ if st.session_state.base_query:
             }
         }
     }
-    res_lit = es.search(index=index_name, body=agg_lit)
+    res_lit = es.search(index=cfg.ES_VERSE_INDEX_NAME, body=agg_lit)
     df_lit = pd.DataFrame(res_lit["aggregations"]["by_lit"]["buckets"])
     if not df_lit.empty:
         df_lit.columns = ["Literary Type", "Count"]
@@ -163,14 +165,14 @@ if st.session_state.base_query:
             }
         }
     }
-    res_unique_verses = es.search(index=index_name, body=unique_verses_query)
+    res_unique_verses = es.search(index=cfg.ES_VERSE_INDEX_NAME, body=unique_verses_query)
     buckets_unique_verses = res_unique_verses.get("aggregations", {}).get("unique_verses", {}).get("buckets", [])
     unique_verses = [bucket["key"] for bucket in buckets_unique_verses]
 
     # Use scan helper to handle scroll + batching
     all_verse_parts_results = scan(
         client=es,
-        index=index_name,
+        index=cfg.ES_VERSE_INDEX_NAME,
         query={
             "query": {
                 "bool": {
@@ -297,7 +299,7 @@ if st.session_state.base_query:
                 }
             }
 
-            verse_query_results = es.search(index=index_name, body=verse_query)
+            verse_query_results = es.search(index=cfg.ES_VERSE_INDEX_NAME, body=verse_query)
             search_word = verse_query_results['hits']['hits'][0]['_source']['verse_part']
 
         pattern = re.compile(re.escape(search_word), re.IGNORECASE)
@@ -309,4 +311,3 @@ if st.session_state.base_query:
         
         # Display verse with highlighted term
         st.markdown(f"**{verse_id}**: {highlighted_text}", unsafe_allow_html=True)
-
