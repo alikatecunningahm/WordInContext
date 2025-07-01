@@ -1,0 +1,19 @@
+{
+        "mappings": {
+            "properties": {
+                "bible_book": {"type": "keyword"},
+                "bible_chapter": {"type": "integer"},
+                "bible_verse": {"type": "keyword"},
+                "verse_part_type": {"type": "keyword"},
+                "verse_part": {"type": "text",
+                	"fields": {
+                    			"keyword": {"type": "keyword"}
+                			}
+            	},
+                "hebrew_id": {"type": "keyword"},
+                "lit_type": {"type": "keyword"},
+                "testament_type": {"type": "keyword"},
+                "version": {"type": "keyword"}
+            }
+        }
+    }
