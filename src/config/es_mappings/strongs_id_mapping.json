@@ -1,0 +1,18 @@
+{
+    "mappings": {
+        "properties": {
+            "strongs_id": {"type": "keyword"},
+            "original_word": {
+                "type": "text",
+                "fields": {"keyword": {"type": "keyword"}}
+            },
+            "part_of_speech": {"type": "keyword"},
+            "transliteration": {"type": "keyword"},
+            "pronunciation": {"type": "keyword"},
+            "phonetic_spelling": {"type": "keyword"},
+            "kjv": {"type": "text"},
+            "nasb": {"type": "text"},
+            "word_origin": {"type": "text"}
+        }
+    }
+}

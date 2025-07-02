@@ -23,7 +23,7 @@ class VerseScraper:
         self.search_terms = search_terms
         self.versions = versions
         self.home_page = home_page
-
+ 
     # Determine the book name from the first search term
     def _determine_bible_book(self):
         """Extract the Bible book name from the first search term."""
@@ -70,7 +70,7 @@ class VerseScraper:
     # Create output directory for saving scraped data
     def _create_dir(self, version):
         """Create the output directory if it doesn't exist yet."""
-        out_dir = Path(__file__).resolve().parents[1] / "scraped_docs" / version
+        out_dir = Path(__file__).resolve().parents[1] / "scraped_docs" / "verse_data" / version
         if not os.path.exists(out_dir):
             logger.info(f"📁 Creating directory: {out_dir}")
             os.makedirs(out_dir)
@@ -97,8 +97,10 @@ class VerseScraper:
 
     # Parse the table of verse parts (words/phrases) from a concordance view
     def _extract_verse_part_data(self, soup):
+
         """Extract individual word/phrase entries from a verse page."""
         table = soup.find("div", {"id": "concTable"})
+
         if not table:
             return []
 
@@ -130,39 +132,33 @@ class VerseScraper:
 
         soup = BeautifulSoup(self.driver.page_source, "lxml")
         trows = soup.find_all("div", id=re.compile("verse_*"))
+
         if not trows:
             return pd.DataFrame()
 
         all_parts = []
 
         for trow in trows:
-            reference_link = trow.find_all("div")[1].find("a")["href"]
-            ref_id = reference_link.split("_")[1]
-            ref_url = f"https://www.blueletterbible.org/{'/'.join(reference_link.split('/')[:-1])}/t_conc_{ref_id}"
 
-            logger.info(f"🔗 Accessing: {ref_url}")
-            self.driver.get(ref_url)
-            time.sleep(10)
-
-            soup = BeautifulSoup(self.driver.page_source, "lxml")
+            # For each row in table, find tag that contains verse number / detail link
+            top_level_data = trow.find('a', attrs={'data-ev-label': lambda val: val and 'Verse Row [REF] BibleID' in val})
 
             # Determine verse number
-            if self.testament_type == "Old Testament":
-                try:
-                    verse = self.driver.find_element_by_xpath('//*[@id="HebText_Formatted"]').text.split(" ")[0]
-                except NoSuchElementException:
-                    verse = "Omitted"
-            else:
-                try:
-                    verse = soup.find("div", class_="greekNT").find_all("p")[1].text.split(" ")[0].replace("¬†", "")
-                except Exception:
-                    logger.warning("⚠️ Cannot find New Testament verse")
-                    verse = "Unknown"
+            try:
+                verse = top_level_data.text
+            except NoSuchElementException:
+                verse = "Omitted"
+
+            details_link = self.driver.find_element("xpath", f"//a[@href='{top_level_data['href']}']")
+            details_link.click()
+            time.sleep(5)
+
+            details_soup = BeautifulSoup(self.driver.page_source, "lxml")
 
             logger.info(f"🧩 Parsing verse: {verse}")
 
             # Extract parts
-            parts = self._extract_verse_part_data(soup)
+            parts = self._extract_verse_part_data(details_soup)
             for p in parts:
                 if re.match(r"^\d", self.search_terms[0]):
                     p["bible_chapter"] = search_term.split(" ")[2]
@@ -170,6 +166,11 @@ class VerseScraper:
                     p["bible_chapter"] = search_term.split(" ")[1]
                 p["bible_verse"] = self.bible_book + verse
                 all_parts.append(p)
+            
+            # Close details pop-up
+            close_button = self.driver.find_element("xpath",'//*[@id="interClose"]')
+            close_button.click()
+            time.sleep(5)
 
         return pd.DataFrame(all_parts)
 

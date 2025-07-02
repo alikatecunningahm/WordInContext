@@ -8,13 +8,12 @@ import os
 driver = define_driver()
 
 # Build lookups for Strong's ID terms 
-# strongs_id_scraper = StrongsIDScraper(driver=driver)
-# strongs_id_scraper.run()
+strongs_id_scraper = StrongsIDScraper(driver=driver)
+strongs_id_scraper.run()
 
 # Define bible versions to iterate over
 versions = pd.read_csv(Path.joinpath(Path(__file__).resolve().parents[1], 'versions', 'versions.csv'))
 versions = versions['versions'].tolist()
-versions = versions[2:]
 
 search_term_dir = Path.joinpath(Path(__file__).resolve().parents[1], 'documents')
 # Convert search_terms / versions to lists
