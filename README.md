@@ -44,8 +44,6 @@ Streamlit powers the user interface for search, context viewing, and visualizati
    git clone https://github.com/alikatecunningahm/WordInContext.git
    cd WordInContext```
 
-   ## ⚙️ Installation
-
 2. **Install Python Requirements
 
    ```pip install -r requirements.txt```
