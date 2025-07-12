@@ -1,0 +1,10 @@
+streamlit==1.45.1
+elasticsearch==8.13.0
+wordcloud==1.9.4
+pyvis==0.3.2
+pandas==2.2.3
+matplotlib==3.10.3
+seaborn==0.13.2
+plotly==6.1.2
+networkx==3.5
+numpy==2.2.6
