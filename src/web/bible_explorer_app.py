@@ -66,7 +66,7 @@ if st.session_state.base_query:
     base_query = st.session_state.base_query
 
     # --- Summary Stats Panel ---
-    st.subheader("📌 Summary Statistics")
+    st.subheader(f"📌 Summary Statistics: {search_input}")
 
     # Total number of occurrences
     total_occurrences_query = {
@@ -211,32 +211,50 @@ if st.session_state.base_query:
             st.info("No literary type data available.")
 
     # --- Word Cloud ---
-    st.subheader("☁️ Word Cloud of Translations")
-    query_wc = {
-        "size": 0,
-        "query": base_query,
-        "aggs": {
-            "unique_translations": {
-                "terms": {"field": "verse_part.keyword", "size": 1000}
+    st.subheader("☁️ Word Cloud")
+
+    if search_type == "Strong's ID":
+        # Word cloud based on English words related to the Strong's ID
+        query_wc = {
+            "size": 0,
+            "query": base_query,
+            "aggs": {
+                "unique_translations": {
+                    "terms": {"field": "verse_part.keyword", "size": 1000}
+                }
             }
         }
-    }
-    res_wc = es.search(index=cfg.ES_VERSE_INDEX_NAME, body=query_wc)
-    buckets_wc = res_wc.get("aggregations", {}).get("unique_translations", {}).get("buckets", [])
-
-    if buckets_wc:
+        res_wc = es.search(index=cfg.ES_VERSE_INDEX_NAME, body=query_wc)
+        buckets_wc = res_wc.get("aggregations", {}).get("unique_translations", {}).get("buckets", [])
         text_wc = " ".join([b["key"] for b in buckets_wc if b["key"]])
+
+    else:
+        # Word cloud based on Strong's IDs associated with the English word
+        strongs_id_agg_query = {
+            "size": 0,
+            "query": base_query,
+            "aggs": {
+                "unique_strongs_ids": {
+                    "terms": {"field": "hebrew_id", "size": 1000}
+                }
+            }
+        }
+        res_strongs = es.search(index=cfg.ES_VERSE_INDEX_NAME, body=strongs_id_agg_query)
+        buckets_strongs = res_strongs.get("aggregations", {}).get("unique_strongs_ids", {}).get("buckets", [])
+        text_wc = " ".join([b["key"] for b in buckets_strongs if b["key"]])
+
+    if text_wc:
         wordcloud = WordCloud(
             width=800, height=400, background_color="white",
             stopwords=STOPWORDS, collocations=False
         ).generate(text_wc)
-        fig, ax = plt.subplots()
+        fig, ax = plt.subplots(figsize=(8, 4))
         ax.imshow(wordcloud, interpolation="bilinear")
         ax.axis("off")
         st.pyplot(fig)
-
     else:
-        st.info("No translation results found.")
+        st.info("No word cloud data found.")
+
 
     # --- Surrounding Words + Co-occurrence ---
     st.subheader("🔍 Surrounding Word Frequency & Co-occurrence Network")
