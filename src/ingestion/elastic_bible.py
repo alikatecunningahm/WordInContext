@@ -3,6 +3,7 @@ import os
 import time
 import pandas as pd
 import json
+from dotenv import load_dotenv
 from elasticsearch import Elasticsearch
 from elasticsearch.helpers import bulk
 from src.config import base as cfg  # Custom config file with paths and ES settings
@@ -12,6 +13,8 @@ CONFIG_DIR = os.path.join(os.path.dirname(__file__), '..', 'config', 'es_mapping
 # Define the directory containing scraped verse & strong id data
 BASE_DATA_DIR = os.path.join(os.path.dirname(__file__), '..', '..', 'scraped_docs')
 
+# Load variables from .env file
+load_dotenv()
 
 def wait_for_es():
     """
@@ -19,11 +22,11 @@ def wait_for_es():
     Tries to ping the Elasticsearch host up to 30 times with 2-second intervals.
     Raises a RuntimeError if ES is not reachable after all attempts.
     """
-    # print("🔌 Waiting for Elasticsearch to be available...")
+    print("🔌 Waiting for Elasticsearch to be available...")
 
     es = Elasticsearch(
-    hosts=cfg.ES_HOST,
-    api_key=cfg.ES_API_KEY,
+    hosts=os.getenv('ES_HOST'),
+    api_key=os.getenv('ES_API_KEY'),
     verify_certs=True
     )
     for i in range(30):
