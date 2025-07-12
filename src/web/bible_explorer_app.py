@@ -13,6 +13,7 @@ import networkx as nx
 import seaborn as sns
 import numpy as np
 import matplotlib.pyplot as plt
+import plotly.express as px
 
 # --- Connect to Elasticsearch ---
 es = Elasticsearch(cfg.ES_HOST)
@@ -161,7 +162,16 @@ if st.session_state.base_query:
     df_book = pd.DataFrame(res_book["aggregations"]["by_book"]["buckets"])
     if not df_book.empty:
         df_book.columns = ["Book", "Count"]
-        st.bar_chart(df_book.set_index("Book"))
+        df_book_sorted = df_book.sort_values("Count", ascending=False)
+        fig = px.bar(
+            df_book_sorted,
+            x="Book",
+            y="Count",
+            title="Frequency by Bible Book",
+            labels={"Count": "Occurrences"},
+        )
+        fig.update_layout(xaxis={'categoryorder':'total descending'})  # Ensures x-axis is sorted
+        st.plotly_chart(fig, use_container_width=True)
     else:
         st.info("No book frequency data available.")
 
