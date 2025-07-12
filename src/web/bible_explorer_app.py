@@ -6,11 +6,13 @@ from wordcloud import WordCloud, STOPWORDS
 from pyvis.network import Network
 from collections import defaultdict, Counter
 import re
-import matplotlib.pyplot as plt
 import pandas as pd
 from collections import Counter
 import re
 import networkx as nx
+import seaborn as sns
+import numpy as np
+import matplotlib.pyplot as plt
 
 # --- Connect to Elasticsearch ---
 es = Elasticsearch(cfg.ES_HOST)
@@ -217,12 +219,12 @@ if st.session_state.base_query:
     word_counter = Counter()
     cooc_counter = Counter()
 
-    custom_stopwords = STOPWORDS.union({"thee", "thou", "thy", "ye", "unto", "shall", "hath"})
+    custom_stopwords = STOPWORDS.union({"thee", "thou", "thy", "ye", "unto", "shall", "hath", ""})
     for verse_id, verse_text in concatenated_verses.items():
         words = [word for word in verse_text.split(" ") if word.lower().strip() not in custom_stopwords and word.lower().strip() != search_input]
         word_counter.update(words) 
     
-    top_words = set([w for w, _ in word_counter.most_common(50)])
+    top_words = set([w for w, _ in word_counter.most_common(30)])
 
     for wlist in concatenated_verses.values():
         unique = set([w for w in wlist.split(" ") if w in top_words])
@@ -233,36 +235,29 @@ if st.session_state.base_query:
 
     edges = [(w1, w2, c) for (w1, w2), c in cooc_counter.items() if c >= 1]
 
-   # --- Build graph G_nx as before ---
-    G_nx = nx.Graph()
-    for w in top_words:
-        G_nx.add_node(w, size=word_counter[w])
-    for w1, w2, c in edges:
-        G_nx.add_edge(w1, w2, weight=c)
+    # Convert top_words to a sorted list
+    top_words_list = sorted(top_words)
+    word_index = {word: i for i, word in enumerate(top_words_list)}
 
-    # Create PyVis network
-    net = Network(notebook=False, height="700px", width="100%", bgcolor="#222222", font_color="white")
+    # Initialize co-occurrence matrix
+    cooc_matrix = np.zeros((len(top_words_list), len(top_words_list)))
 
-    # Load NetworkX graph into PyVis
-    net.from_nx(G_nx)
+    # Fill matrix using cooc_counter
+    for (w1, w2), count in cooc_counter.items():
+        if w1 in word_index and w2 in word_index:
+            i, j = word_index[w1], word_index[w2]
+            cooc_matrix[i, j] = count
+            cooc_matrix[j, i] = count  # Symmetric
 
-    # Compute fixed layout with spring_layout and a fixed seed
-    pos = nx.spring_layout(G_nx, seed=42, k=0.5, iterations=50)
+    # Create DataFrame for seaborn
+    df_cooc = pd.DataFrame(cooc_matrix, index=top_words_list, columns=top_words_list)
 
-    # Assign positions to nodes in PyVis (scale up positions for better display)
-    for node in net.nodes:
-        node_id = node["id"]
-        if node_id in pos:
-            node["x"] = pos[node_id][0] * 1000
-            node["y"] = pos[node_id][1] * 1000
-
-    # Disable physics so layout stays fixed and does not bounce
-    net.toggle_physics(False)
-
-    # Save and render in Streamlit
-    net.save_graph("network.html")
-    st.components.v1.html(open("network.html").read(), height=750, scrolling=False)
-
+    fig3, ax3 = plt.subplots(figsize=(12, 10))
+    sns.heatmap(df_cooc, cmap="YlGnBu", linewidths=0.5, ax=ax3)
+    plt.xticks(rotation=90)
+    plt.yticks(rotation=0)
+    st.pyplot(fig3)
+    
     # --- Verses using this search term ---
     # Section header
     st.markdown(f"## Verses using *{search_input}*")
