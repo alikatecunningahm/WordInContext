@@ -93,14 +93,30 @@ if st.session_state.base_query:
     res_books = es.search(index=cfg.ES_VERSE_INDEX_NAME, body=distinct_books_query)
     distinct_books = res_books.get("aggregations", {}).get("distinct_books", {}).get("value", 0)
 
+    # Unique verses
+    unique_verses_query = {
+        "size": 0,
+        "query": base_query,
+        "aggs": {
+            "unique_verses": {
+                "cardinality": {"field": "bible_verse"}
+            }
+        }
+    }
+    res_unique_verses = es.search(index=cfg.ES_VERSE_INDEX_NAME, body=unique_verses_query)
+    unique_verse_count = res_unique_verses.get("aggregations", {}).get("unique_verses", {}).get("value", 0)
+
     # Display in two columns
-    col1, col2 = st.columns(2)
+    col1, col2, col3 = st.columns(3)
 
     with col1:
         st.metric(label="📚 Total Occurrences", value=f"{int(total_occurrences):,}")
 
     with col2:
         st.metric(label="📖 Books Containing Term", value=f"{int(distinct_books)}")
+
+    with col3:
+        st.metric(label="🔢 Unique Verses", value=f"{int(unique_verse_count)}")
 
     # --- Word Cloud ---
     st.subheader("☁️ Word Cloud of Translations")
