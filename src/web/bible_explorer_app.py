@@ -335,11 +335,22 @@ if st.session_state.base_query:
     # Create DataFrame for seaborn
     df_cooc = pd.DataFrame(cooc_matrix, index=top_words_list, columns=top_words_list)
 
-    fig3, ax3 = plt.subplots(figsize=(12, 10))
-    sns.heatmap(df_cooc, cmap="YlGnBu", linewidths=0.5, ax=ax3)
-    plt.xticks(rotation=90)
-    plt.yticks(rotation=0)
-    st.pyplot(fig3)
+    fig_heat = px.imshow(
+    df_cooc,
+    labels=dict(x="Word", y="Word", color="Co-occurrence"),
+    x=top_words_list,
+    y=top_words_list,
+    color_continuous_scale="YlGnBu",
+    aspect="auto"
+)
+
+    fig_heat.update_layout(
+        title="🧠 Word Co-occurrence Matrix",
+        height=600,
+        margin=dict(l=50, r=50, t=50, b=50)
+    )
+
+    st.plotly_chart(fig_heat, use_container_width=True)
     
     # --- Verses using this search term ---
     # Section header
