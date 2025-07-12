@@ -196,7 +196,7 @@ if st.session_state.base_query:
             st.info("No testament data available.")
 
     with col2:
-        st.subheader("📖 Frequency by Literary Type")
+        st.subheader("✍️ Frequency by Literary Type")
         if not df_lit.empty:
             fig2 = px.pie(
                 df_lit,
@@ -211,7 +211,7 @@ if st.session_state.base_query:
             st.info("No literary type data available.")
 
     # --- Word Cloud ---
-    st.subheader("☁️ Word Cloud")
+    st.subheader("☁️ Word Cloud of Translations")
 
     if search_type == "Strong's ID":
         # Word cloud based on English words related to the Strong's ID
@@ -257,7 +257,7 @@ if st.session_state.base_query:
 
 
     # --- Surrounding Words + Co-occurrence ---
-    st.subheader("🔍 Surrounding Word Frequency & Co-occurrence Network")
+    st.subheader("🔍 Surrounding Word Co-occurrence Heatmap")
     # --- Find Unique verses ---
     unique_verses_query = {
         "size": 0,
@@ -363,7 +363,7 @@ if st.session_state.base_query:
 )
 
     fig_heat.update_layout(
-        title="🧠 Word Co-occurrence Matrix",
+        title="",
         height=600,
         margin=dict(l=50, r=50, t=50, b=50)
     )
@@ -417,4 +417,4 @@ if st.session_state.base_query:
         )
         
         # Display verse with highlighted term
-        st.markdown(f"**{verse_id}**: {highlighted_text}", unsafe_allow_html=True)
+        st.markdown(f"{verse_id}: {highlighted_text}", unsafe_allow_html=True)
