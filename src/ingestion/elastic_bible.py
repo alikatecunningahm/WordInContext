@@ -19,11 +19,12 @@ def wait_for_es():
     Tries to ping the Elasticsearch host up to 30 times with 2-second intervals.
     Raises a RuntimeError if ES is not reachable after all attempts.
     """
-    print("🔌 Waiting for Elasticsearch to be available...")
+    # print("🔌 Waiting for Elasticsearch to be available...")
+
     es = Elasticsearch(
-        cfg.ES_HOST,
-        verify_certs=False,
-        ssl_show_warn=False
+    hosts=cfg.ES_HOST,
+    api_key=cfg.ES_API_KEY,
+    verify_certs=True
     )
     for i in range(30):
         try:
