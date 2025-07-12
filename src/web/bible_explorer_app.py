@@ -119,34 +119,6 @@ if st.session_state.base_query:
     with col3:
         st.metric(label="🔢 Unique Verses", value=f"{int(unique_verse_count)}")
 
-    # --- Word Cloud ---
-    st.subheader("☁️ Word Cloud of Translations")
-    query_wc = {
-        "size": 0,
-        "query": base_query,
-        "aggs": {
-            "unique_translations": {
-                "terms": {"field": "verse_part.keyword", "size": 1000}
-            }
-        }
-    }
-    res_wc = es.search(index=cfg.ES_VERSE_INDEX_NAME, body=query_wc)
-    buckets_wc = res_wc.get("aggregations", {}).get("unique_translations", {}).get("buckets", [])
-
-    if buckets_wc:
-        text_wc = " ".join([b["key"] for b in buckets_wc if b["key"]])
-        wordcloud = WordCloud(
-            width=800, height=400, background_color="white",
-            stopwords=STOPWORDS, collocations=False
-        ).generate(text_wc)
-        fig, ax = plt.subplots()
-        ax.imshow(wordcloud, interpolation="bilinear")
-        ax.axis("off")
-        st.pyplot(fig)
-
-    else:
-        st.info("No translation results found.")
-
     # --- Frequency by Book ---
     st.subheader("📊 Frequency by Bible Book")
     agg_book = {
@@ -176,7 +148,6 @@ if st.session_state.base_query:
         st.info("No book frequency data available.")
 
     # --- Frequency by Testament ---
-    st.subheader("🕊️ Frequency by Testament Type")
     agg_test = {
         "size": 0,
         "query": base_query,
@@ -190,15 +161,8 @@ if st.session_state.base_query:
     df_test = pd.DataFrame(res_test["aggregations"]["by_testament"]["buckets"])
     if not df_test.empty:
         df_test.columns = ["Testament", "Count"]
-        fig1, ax1 = plt.subplots()
-        ax1.pie(df_test["Count"], labels=df_test["Testament"], autopct="%1.1f%%", startangle=90)
-        ax1.axis("equal")
-        st.pyplot(fig1)
-    else:
-        st.info("No testament data available.")
 
     # --- Frequency by Literary Type ---
-    st.subheader("📖 Frequency by Literary Type")
     agg_lit = {
         "size": 0,
         "query": base_query,
@@ -212,12 +176,67 @@ if st.session_state.base_query:
     df_lit = pd.DataFrame(res_lit["aggregations"]["by_lit"]["buckets"])
     if not df_lit.empty:
         df_lit.columns = ["Literary Type", "Count"]
-        fig2, ax2 = plt.subplots()
-        ax2.pie(df_lit["Count"], labels=df_lit["Literary Type"], autopct="%1.1f%%", startangle=90)
-        ax2.axis("equal")
-        st.pyplot(fig2)
+
+    # --- Display side-by-side pie charts ---
+    col1, col2 = st.columns(2)
+
+    with col1:
+        st.subheader("🕊️ Frequency by Testament Type")
+        if not df_test.empty:
+            fig1 = px.pie(
+                df_test,
+                names="Testament",
+                values="Count",
+                title="",
+                hole=0,  # Set >0 for donut chart
+                color_discrete_sequence=px.colors.qualitative.Pastel
+            )
+            st.plotly_chart(fig1, use_container_width=True)
+        else:
+            st.info("No testament data available.")
+
+    with col2:
+        st.subheader("📖 Frequency by Literary Type")
+        if not df_lit.empty:
+            fig2 = px.pie(
+                df_lit,
+                names="Literary Type",
+                values="Count",
+                title="",
+                hole=0,
+                color_discrete_sequence=px.colors.qualitative.Pastel
+            )
+            st.plotly_chart(fig2, use_container_width=True)
+        else:
+            st.info("No literary type data available.")
+
+    # --- Word Cloud ---
+    st.subheader("☁️ Word Cloud of Translations")
+    query_wc = {
+        "size": 0,
+        "query": base_query,
+        "aggs": {
+            "unique_translations": {
+                "terms": {"field": "verse_part.keyword", "size": 1000}
+            }
+        }
+    }
+    res_wc = es.search(index=cfg.ES_VERSE_INDEX_NAME, body=query_wc)
+    buckets_wc = res_wc.get("aggregations", {}).get("unique_translations", {}).get("buckets", [])
+
+    if buckets_wc:
+        text_wc = " ".join([b["key"] for b in buckets_wc if b["key"]])
+        wordcloud = WordCloud(
+            width=800, height=400, background_color="white",
+            stopwords=STOPWORDS, collocations=False
+        ).generate(text_wc)
+        fig, ax = plt.subplots()
+        ax.imshow(wordcloud, interpolation="bilinear")
+        ax.axis("off")
+        st.pyplot(fig)
+
     else:
-        st.info("No literary type data available.")
+        st.info("No translation results found.")
 
     # --- Surrounding Words + Co-occurrence ---
     st.subheader("🔍 Surrounding Word Frequency & Co-occurrence Network")
