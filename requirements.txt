@@ -1,3 +1,4 @@
+-e .
 streamlit==1.45.1
 elasticsearch==8.13.0
 wordcloud==1.9.4
