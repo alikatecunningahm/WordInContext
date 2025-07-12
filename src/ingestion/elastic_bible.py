@@ -3,18 +3,15 @@ import os
 import time
 import pandas as pd
 import json
-from dotenv import load_dotenv
 from elasticsearch import Elasticsearch
 from elasticsearch.helpers import bulk
+import streamlit as st
 from src.config import base as cfg  # Custom config file with paths and ES settings
 
 # Define the directory containing Elasticsearch index mappings (JSON format)
 CONFIG_DIR = os.path.join(os.path.dirname(__file__), '..', 'config', 'es_mappings')
 # Define the directory containing scraped verse & strong id data
 BASE_DATA_DIR = os.path.join(os.path.dirname(__file__), '..', '..', 'scraped_docs')
-
-# Load variables from .env file
-load_dotenv()
 
 def wait_for_es():
     """
@@ -25,8 +22,8 @@ def wait_for_es():
     print("🔌 Waiting for Elasticsearch to be available...")
 
     es = Elasticsearch(
-    hosts=os.getenv('ES_HOST'),
-    api_key=os.getenv('ES_API_KEY'),
+    hosts=st.secrets["ES_HOST"],
+    api_key=st.secrets["ES_API_KEY"],
     verify_certs=True
     )
     for i in range(30):
