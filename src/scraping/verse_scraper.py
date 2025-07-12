@@ -70,7 +70,7 @@ class VerseScraper:
     # Create output directory for saving scraped data
     def _create_dir(self, version):
         """Create the output directory if it doesn't exist yet."""
-        out_dir = Path(__file__).resolve().parents[1] / "scraped_docs" / "verse_data" / version
+        out_dir = Path(__file__).resolve().parents[2] / "scraped_docs" / "verse_data" / version
         if not os.path.exists(out_dir):
             logger.info(f"📁 Creating directory: {out_dir}")
             os.makedirs(out_dir)
@@ -145,7 +145,7 @@ class VerseScraper:
 
             # Determine verse number
             try:
-                verse = top_level_data.text
+                verse = re.search(r'\d{1,3}:\d{1,3}', top_level_data.text).group()
             except NoSuchElementException:
                 verse = "Omitted"
 
