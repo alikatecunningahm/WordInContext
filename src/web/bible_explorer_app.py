@@ -64,6 +64,44 @@ if search_triggered:
 if st.session_state.base_query:
     base_query = st.session_state.base_query
 
+    # --- Summary Stats Panel ---
+    st.subheader("📌 Summary Statistics")
+
+    # Total number of occurrences
+    total_occurrences_query = {
+        "size": 0,
+        "query": base_query,
+        "aggs": {
+            "total_occurrences": {
+                "value_count": {"field": "verse_part.keyword"}
+            }
+        }
+    }
+    res_total = es.search(index=cfg.ES_VERSE_INDEX_NAME, body=total_occurrences_query)
+    total_occurrences = res_total.get("aggregations", {}).get("total_occurrences", {}).get("value", 0)
+
+    # Distinct number of books
+    distinct_books_query = {
+        "size": 0,
+        "query": base_query,
+        "aggs": {
+            "distinct_books": {
+                "cardinality": {"field": "bible_book"}
+            }
+        }
+    }
+    res_books = es.search(index=cfg.ES_VERSE_INDEX_NAME, body=distinct_books_query)
+    distinct_books = res_books.get("aggregations", {}).get("distinct_books", {}).get("value", 0)
+
+    # Display in two columns
+    col1, col2 = st.columns(2)
+
+    with col1:
+        st.metric(label="📚 Total Occurrences", value=f"{int(total_occurrences):,}")
+
+    with col2:
+        st.metric(label="📖 Books Containing Term", value=f"{int(distinct_books)}")
+
     # --- Word Cloud ---
     st.subheader("☁️ Word Cloud of Translations")
     query_wc = {
