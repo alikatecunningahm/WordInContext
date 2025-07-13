@@ -22,6 +22,8 @@ es = Elasticsearch(
     verify_certs=True
     )
 
+st.write(st.secrets["ES_HOST"])
+
 es_verse_index = cfg.ES_VERSE_INDEX_NAME
 es_strongs_id_index = cfg.ES_VERSE_INDEX_NAME
 
