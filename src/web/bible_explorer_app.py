@@ -18,6 +18,7 @@ import plotly.express as px
 # --- Connect to Elasticsearch ---
 
 st.write(st.secrets["ES_HOST"])
+st.write(st.secrets["ES_API_KEY"])
 
 es = Elasticsearch(
     hosts=st.secrets["ES_HOST"],
