@@ -17,6 +17,18 @@ import plotly.express as px
 
 # --- Connect to Elasticsearch ---
 
+import socket
+import streamlit as st
+
+host = st.secrets["ES_HOST"].replace("https://", "").replace("http://", "").split("/")[0]
+port = 443  # default HTTPS port for ES Cloud
+
+try:
+    sock = socket.create_connection((host, port), timeout=5)
+    st.success(f"✅ Connection to {host}:{port} successful!")
+except Exception as e:
+    st.error(f"❌ Cannot connect to {host}:{port} — {e}")
+
 st.write(st.secrets["ES_HOST"])
 st.write(st.secrets["ES_API_KEY"])
 
