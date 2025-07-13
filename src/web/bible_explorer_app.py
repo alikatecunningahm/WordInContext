@@ -16,13 +16,14 @@ import matplotlib.pyplot as plt
 import plotly.express as px
 
 # --- Connect to Elasticsearch ---
+
+st.write(st.secrets["ES_HOST"])
+
 es = Elasticsearch(
     hosts=st.secrets["ES_HOST"],
     api_key=st.secrets["ES_API_KEY"],
     verify_certs=True
     )
-
-st.write(st.secrets["ES_HOST"])
 
 es_verse_index = cfg.ES_VERSE_INDEX_NAME
 es_strongs_id_index = cfg.ES_VERSE_INDEX_NAME
