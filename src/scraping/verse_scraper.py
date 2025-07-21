@@ -23,7 +23,7 @@ class VerseScraper:
         self.search_terms = search_terms
         self.versions = versions
         self.home_page = home_page
- 
+
     # Determine the book name from the first search term
     def _determine_bible_book(self):
         """Extract the Bible book name from the first search term."""
@@ -97,7 +97,6 @@ class VerseScraper:
 
     # Parse the table of verse parts (words/phrases) from a concordance view
     def _extract_verse_part_data(self, soup):
-
         """Extract individual word/phrase entries from a verse page."""
         table = soup.find("div", {"id": "concTable"})
 
@@ -137,40 +136,78 @@ class VerseScraper:
             return pd.DataFrame()
 
         all_parts = []
+        expected_verses = set()
+        scraped_verses = set()
+        retry_limit = 10
+        retries = {}
 
+        # Gather expected verses from trows
         for trow in trows:
-
-            # For each row in table, find tag that contains verse number / detail link
-            top_level_data = trow.find('a', attrs={'data-ev-label': lambda val: val and 'Verse Row [REF] BibleID' in val})
-
-            # Determine verse number
             try:
+                top_level_data = trow.find('a', attrs={'data-ev-label': lambda val: val and 'Verse Row [REF] BibleID' in val})
+                verse_match = re.search(r'\d{1,3}:\d{1,3}', top_level_data.text)
+                if verse_match:
+                    expected_verses.add(verse_match.group())
+            except Exception:
+                continue
+
+        def scrape_verse(top_level_data):
+            verse = re.search(r'\d{1,3}:\d{1,3}', top_level_data.text).group()
+            try:
+                details_link = self.driver.find_element("xpath", f"//a[@href='{top_level_data['href']}']")
+                details_link.click()
+                time.sleep(5)
+
+                details_soup = BeautifulSoup(self.driver.page_source, "lxml")
+                logger.info(f"🧩 Parsing verse: {verse}")
+                parts = self._extract_verse_part_data(details_soup)
+                if not parts:
+                    logger.warning(f"⚠️ No parts found for verse {verse}")
+                    return None
+
+                for p in parts:
+                    if re.match(r"^\d", self.search_terms[0]):
+                        p["bible_chapter"] = search_term.split(" ")[2]
+                    else:
+                        p["bible_chapter"] = search_term.split(" ")[1]
+                    p["bible_verse"] = self.bible_book + " " + verse
+                    all_parts.append(p)
+
+                # Close details pop-up
+                close_button = self.driver.find_element("xpath",'//*[@id="interClose"]')
+                close_button.click()
+                time.sleep(5)
+                return verse
+            except Exception as e:
+                logger.error(f"Error scraping verse {verse}: {e}")
+                return None
+
+        # Scrape each verse with retry logic
+        for trow in trows:
+            try:
+                top_level_data = trow.find('a', attrs={'data-ev-label': lambda val: val and 'Verse Row [REF] BibleID' in val})
                 verse = re.search(r'\d{1,3}:\d{1,3}', top_level_data.text).group()
-            except NoSuchElementException:
-                verse = "Omitted"
+                retries[verse] = 0
 
-            details_link = self.driver.find_element("xpath", f"//a[@href='{top_level_data['href']}']")
-            details_link.click()
-            time.sleep(5)
+                while retries[verse] <= retry_limit:
+                    scraped_verse = scrape_verse(top_level_data)
+                    if scraped_verse:
+                        scraped_verses.add(scraped_verse)
+                        break
+                    else:
+                        retries[verse] += 1
+                        logger.info(f"Retry {retries[verse]} for verse {verse}")
+                        time.sleep(5)
 
-            details_soup = BeautifulSoup(self.driver.page_source, "lxml")
+                if retries[verse] == retry_limit and verse not in scraped_verses:
+                    logger.error(f"Failed to scrape verse {verse} after {retry_limit} retries.")
+            except Exception as e:
+                logger.error(f"Unexpected error processing verse row: {e}")
 
-            logger.info(f"🧩 Parsing verse: {verse}")
-
-            # Extract parts
-            parts = self._extract_verse_part_data(details_soup)
-            for p in parts:
-                if re.match(r"^\d", self.search_terms[0]):
-                    p["bible_chapter"] = search_term.split(" ")[2]
-                else:
-                    p["bible_chapter"] = search_term.split(" ")[1]
-                p["bible_verse"] = self.bible_book + verse
-                all_parts.append(p)
-            
-            # Close details pop-up
-            close_button = self.driver.find_element("xpath",'//*[@id="interClose"]')
-            close_button.click()
-            time.sleep(5)
+        # After scraping all, compare expected and scraped verses
+        missing_verses = expected_verses - scraped_verses
+        if missing_verses:
+            logger.warning(f"⚠️ Missing verses after scraping: {missing_verses}")
 
         return pd.DataFrame(all_parts)
 
@@ -205,7 +242,7 @@ class VerseScraper:
         book_df["version"] = version
 
         out_dir = self._create_dir(version)
-        out_path = out_dir / f"{self.bible_book}.csv"
+        out_path = out_dir / f"{self.bible_book}_2.csv"
         book_df.to_csv(out_path, index=False)
         logger.info(f"✅ Saved: {out_path}")
 
