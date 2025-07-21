@@ -242,7 +242,7 @@ class VerseScraper:
         book_df["version"] = version
 
         out_dir = self._create_dir(version)
-        out_path = out_dir / f"{self.bible_book}_2.csv"
+        out_path = out_dir / f"{self.bible_book}.csv"
         book_df.to_csv(out_path, index=False)
         logger.info(f"✅ Saved: {out_path}")
 
