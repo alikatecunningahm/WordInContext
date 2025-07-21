@@ -3989,12 +3989,12 @@ bible_chapter,bible_verse,verse_part_type,verse_part,hebrew_id,lit_type,testamen
 7,Mark7:15 ,WORD,defile,G2840,Gospels,New Testament,Mark,ESV
 7,Mark7:15 ,WORD,the,G3588,Gospels,New Testament,Mark,ESV
 7,Mark7:15 ,WORD,man,G444,Gospels,New Testament,Mark,ESV
-7,MarkThis,WORD,[If,G1487,Gospels,New Testament,Mark,ESV
-7,MarkThis,WORD,anyone,G5100,Gospels,New Testament,Mark,ESV
-7,MarkThis,WORD,has,G2192,Gospels,New Testament,Mark,ESV
-7,MarkThis,WORD,ears,G3775,Gospels,New Testament,Mark,ESV
-7,MarkThis,PHRASE,to hear,G191,Gospels,New Testament,Mark,ESV
-7,MarkThis,PHRASE,let him hear],G191,Gospels,New Testament,Mark,ESV
+7,Mark7:16,WORD,[If,G1487,Gospels,New Testament,Mark,ESV
+7,Mark7:16,WORD,anyone,G5100,Gospels,New Testament,Mark,ESV
+7,Mark7:16,WORD,has,G2192,Gospels,New Testament,Mark,ESV
+7,Mark7:16,WORD,ears,G3775,Gospels,New Testament,Mark,ESV
+7,Mark7:16,PHRASE,to hear,G191,Gospels,New Testament,Mark,ESV
+7,Mark7:16,PHRASE,let him hear],G191,Gospels,New Testament,Mark,ESV
 7,Mark7:17 ,WORD,When,G3753,Gospels,New Testament,Mark,ESV
 7,Mark7:17 ,PHRASE,he had left,G575,Gospels,New Testament,Mark,ESV
 7,Mark7:17 ,WORD,the,G3588,Gospels,New Testament,Mark,ESV
@@ -5585,16 +5585,16 @@ bible_chapter,bible_verse,verse_part_type,verse_part,hebrew_id,lit_type,testamen
 9,Mark9:43 ,WORD,the,G3588,Gospels,New Testament,Mark,ESV
 9,Mark9:43 ,WORD,unquenchable,G762,Gospels,New Testament,Mark,ESV
 9,Mark9:43 ,WORD,fire,G4442,Gospels,New Testament,Mark,ESV
-9,MarkThis,WORD,[where,G3699,Gospels,New Testament,Mark,ESV
-9,MarkThis,WORD,THEIR,G846,Gospels,New Testament,Mark,ESV
-9,MarkThis,WORD,WORM,G4663,Gospels,New Testament,Mark,ESV
-9,MarkThis,PHRASE,DOES NOT,G3756,Gospels,New Testament,Mark,ESV
-9,MarkThis,WORD,DIE,G5053,Gospels,New Testament,Mark,ESV
-9,MarkThis,WORD,AND,G2532,Gospels,New Testament,Mark,ESV
-9,MarkThis,PHRASE,THE FIRE,G4442,Gospels,New Testament,Mark,ESV
-9,MarkThis,WORD,IS,G4570,Gospels,New Testament,Mark,ESV
-9,MarkThis,WORD,NOT,G3756,Gospels,New Testament,Mark,ESV
-9,MarkThis,WORD,QUENCHED.],G4570,Gospels,New Testament,Mark,ESV
+9,Mark9:44,WORD,[where,G3699,Gospels,New Testament,Mark,ESV
+9,Mark9:44,WORD,THEIR,G846,Gospels,New Testament,Mark,ESV
+9,Mark9:44,WORD,WORM,G4663,Gospels,New Testament,Mark,ESV
+9,Mark9:44,PHRASE,DOES NOT,G3756,Gospels,New Testament,Mark,ESV
+9,Mark9:44,WORD,DIE,G5053,Gospels,New Testament,Mark,ESV
+9,Mark9:44,WORD,AND,G2532,Gospels,New Testament,Mark,ESV
+9,Mark9:44,PHRASE,THE FIRE,G4442,Gospels,New Testament,Mark,ESV
+9,Mark9:44,WORD,IS,G4570,Gospels,New Testament,Mark,ESV
+9,Mark9:44,WORD,NOT,G3756,Gospels,New Testament,Mark,ESV
+9,Mark9:44,WORD,QUENCHED.],G4570,Gospels,New Testament,Mark,ESV
 9,Mark9:45 ,WORD,If,G1437,Gospels,New Testament,Mark,ESV
 9,Mark9:45 ,WORD,your,G4771,Gospels,New Testament,Mark,ESV
 9,Mark9:45 ,WORD,foot,G4228,Gospels,New Testament,Mark,ESV
@@ -5618,16 +5618,16 @@ bible_chapter,bible_verse,verse_part_type,verse_part,hebrew_id,lit_type,testamen
 9,Mark9:45 ,PHRASE,to be cast,G906,Gospels,New Testament,Mark,ESV
 9,Mark9:45 ,WORD,into,G1519,Gospels,New Testament,Mark,ESV
 9,Mark9:45 ,WORD,hell,G1067,Gospels,New Testament,Mark,ESV
-9,MarkThis,WORD,[where,G3699,Gospels,New Testament,Mark,ESV
-9,MarkThis,WORD,THEIR,G846,Gospels,New Testament,Mark,ESV
-9,MarkThis,WORD,WORM,G4663,Gospels,New Testament,Mark,ESV
-9,MarkThis,PHRASE,DOES NOT,G3756,Gospels,New Testament,Mark,ESV
-9,MarkThis,WORD,DIE,G5053,Gospels,New Testament,Mark,ESV
-9,MarkThis,WORD,AND,G2532,Gospels,New Testament,Mark,ESV
-9,MarkThis,PHRASE,THE FIRE,G4442,Gospels,New Testament,Mark,ESV
-9,MarkThis,WORD,IS,G4570,Gospels,New Testament,Mark,ESV
-9,MarkThis,WORD,NOT,G3756,Gospels,New Testament,Mark,ESV
-9,MarkThis,WORD,QUENCHED.],G4570,Gospels,New Testament,Mark,ESV
+9,Mark9:46,WORD,[where,G3699,Gospels,New Testament,Mark,ESV
+9,Mark9:46,WORD,THEIR,G846,Gospels,New Testament,Mark,ESV
+9,Mark9:46,WORD,WORM,G4663,Gospels,New Testament,Mark,ESV
+9,Mark9:46,PHRASE,DOES NOT,G3756,Gospels,New Testament,Mark,ESV
+9,Mark9:46,WORD,DIE,G5053,Gospels,New Testament,Mark,ESV
+9,Mark9:46,WORD,AND,G2532,Gospels,New Testament,Mark,ESV
+9,Mark9:46,PHRASE,THE FIRE,G4442,Gospels,New Testament,Mark,ESV
+9,Mark9:46,WORD,IS,G4570,Gospels,New Testament,Mark,ESV
+9,Mark9:46,WORD,NOT,G3756,Gospels,New Testament,Mark,ESV
+9,Mark9:46,WORD,QUENCHED.],G4570,Gospels,New Testament,Mark,ESV
 9,Mark9:47 ,WORD,If,G1437,Gospels,New Testament,Mark,ESV
 9,Mark9:47 ,WORD,your,G4771,Gospels,New Testament,Mark,ESV
 9,Mark9:47 ,WORD,eye,G3788,Gospels,New Testament,Mark,ESV
@@ -6871,20 +6871,20 @@ bible_chapter,bible_verse,verse_part_type,verse_part,hebrew_id,lit_type,testamen
 11,Mark11:25 ,WORD,you,G4771,Gospels,New Testament,Mark,ESV
 11,Mark11:25 ,WORD,your,G4771,Gospels,New Testament,Mark,ESV
 11,Mark11:25 ,WORD,transgressions,G3900,Gospels,New Testament,Mark,ESV
-11,MarkThis,WORD,[But,G1161,Gospels,New Testament,Mark,ESV
-11,MarkThis,WORD,if,G1487,Gospels,New Testament,Mark,ESV
-11,MarkThis,WORD,you,G4771,Gospels,New Testament,Mark,ESV
-11,MarkThis,PHRASE,do not,G3756,Gospels,New Testament,Mark,ESV
-11,MarkThis,WORD,forgive,G863,Gospels,New Testament,Mark,ESV
-11,MarkThis,WORD,neither,G3761,Gospels,New Testament,Mark,ESV
-11,MarkThis,PHRASE,will your,G4771,Gospels,New Testament,Mark,ESV
-11,MarkThis,WORD,Father,G3962,Gospels,New Testament,Mark,ESV
-11,MarkThis,WORD,who,G3588,Gospels,New Testament,Mark,ESV
-11,MarkThis,PHRASE,is in,G1722,Gospels,New Testament,Mark,ESV
-11,MarkThis,WORD,heaven,G3772,Gospels,New Testament,Mark,ESV
-11,MarkThis,WORD,forgive,G863,Gospels,New Testament,Mark,ESV
-11,MarkThis,WORD,your,G4771,Gospels,New Testament,Mark,ESV
-11,MarkThis,WORD,transgressions],G3900,Gospels,New Testament,Mark,ESV
+11,Mark11:26,WORD,[But,G1161,Gospels,New Testament,Mark,ESV
+11,Mark11:26,WORD,if,G1487,Gospels,New Testament,Mark,ESV
+11,Mark11:26,WORD,you,G4771,Gospels,New Testament,Mark,ESV
+11,Mark11:26,PHRASE,do not,G3756,Gospels,New Testament,Mark,ESV
+11,Mark11:26,WORD,forgive,G863,Gospels,New Testament,Mark,ESV
+11,Mark11:26,WORD,neither,G3761,Gospels,New Testament,Mark,ESV
+11,Mark11:26,PHRASE,will your,G4771,Gospels,New Testament,Mark,ESV
+11,Mark11:26,WORD,Father,G3962,Gospels,New Testament,Mark,ESV
+11,Mark11:26,WORD,who,G3588,Gospels,New Testament,Mark,ESV
+11,Mark11:26,PHRASE,is in,G1722,Gospels,New Testament,Mark,ESV
+11,Mark11:26,WORD,heaven,G3772,Gospels,New Testament,Mark,ESV
+11,Mark11:26,WORD,forgive,G863,Gospels,New Testament,Mark,ESV
+11,Mark11:26,WORD,your,G4771,Gospels,New Testament,Mark,ESV
+11,Mark11:26,WORD,transgressions],G3900,Gospels,New Testament,Mark,ESV
 11,Mark11:27 ,PHRASE,They came,G2064,Gospels,New Testament,Mark,ESV
 11,Mark11:27 ,WORD,again,G3825,Gospels,New Testament,Mark,ESV
 11,Mark11:27 ,WORD,to,G1519,Gospels,New Testament,Mark,ESV
@@ -9659,15 +9659,15 @@ bible_chapter,bible_verse,verse_part_type,verse_part,hebrew_id,lit_type,testamen
 15,Mark15:27 ,WORD,on,G1537,Gospels,New Testament,Mark,ESV
 15,Mark15:27 ,WORD,His,G846,Gospels,New Testament,Mark,ESV
 15,Mark15:27 ,WORD,left,G2176,Gospels,New Testament,Mark,ESV
-15,MarkThis,WORD,[And,G2532,Gospels,New Testament,Mark,ESV
-15,MarkThis,PHRASE,the Scripture,G1124,Gospels,New Testament,Mark,ESV
-15,MarkThis,PHRASE,was fulfilled,G4137,Gospels,New Testament,Mark,ESV
-15,MarkThis,WORD,which,G3588,Gospels,New Testament,Mark,ESV
-15,MarkThis,WORD,says,G3004,Gospels,New Testament,Mark,ESV
-15,MarkThis,WORD,And,G2532,Gospels,New Testament,Mark,ESV
-15,MarkThis,PHRASE,He was numbered,G3049,Gospels,New Testament,Mark,ESV
-15,MarkThis,WORD,with,G3326,Gospels,New Testament,Mark,ESV
-15,MarkThis,WORD,transgressors],G459,Gospels,New Testament,Mark,ESV
+15,Mark15:28,WORD,[And,G2532,Gospels,New Testament,Mark,ESV
+15,Mark15:28,PHRASE,the Scripture,G1124,Gospels,New Testament,Mark,ESV
+15,Mark15:28,PHRASE,was fulfilled,G4137,Gospels,New Testament,Mark,ESV
+15,Mark15:28,WORD,which,G3588,Gospels,New Testament,Mark,ESV
+15,Mark15:28,WORD,says,G3004,Gospels,New Testament,Mark,ESV
+15,Mark15:28,WORD,And,G2532,Gospels,New Testament,Mark,ESV
+15,Mark15:28,PHRASE,He was numbered,G3049,Gospels,New Testament,Mark,ESV
+15,Mark15:28,WORD,with,G3326,Gospels,New Testament,Mark,ESV
+15,Mark15:28,WORD,transgressors],G459,Gospels,New Testament,Mark,ESV
 15,Mark15:29 ,PHRASE,Those passing by,G3899,Gospels,New Testament,Mark,ESV
 15,Mark15:29 ,PHRASE,were hurling abuse,G987,Gospels,New Testament,Mark,ESV
 15,Mark15:29 ,PHRASE,at Him,G846,Gospels,New Testament,Mark,ESV

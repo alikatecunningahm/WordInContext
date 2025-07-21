@@ -4819,24 +4819,24 @@ bible_chapter,bible_verse,verse_part_type,verse_part,hebrew_id,lit_type,testamen
 8,Acts8:36 ,WORD,prevents,G2967,Epistles,New Testament,Acts,LXX
 8,Acts8:36 ,WORD,me,G1473,Epistles,New Testament,Acts,LXX
 8,Acts8:36 ,PHRASE,from being baptized,G907,Epistles,New Testament,Acts,LXX
-8,ActsThis,WORD,[And,G1161,Epistles,New Testament,Acts,LXX
-8,ActsThis,WORD,Philip,G5376,Epistles,New Testament,Acts,LXX
-8,ActsThis,WORD,said,G3004,Epistles,New Testament,Acts,LXX
-8,ActsThis,WORD,If,G1487,Epistles,New Testament,Acts,LXX
-8,ActsThis,PHRASE,you believe,G4100,Epistles,New Testament,Acts,LXX
-8,ActsThis,WORD,with,G1537,Epistles,New Testament,Acts,LXX
-8,ActsThis,WORD,all,G3650,Epistles,New Testament,Acts,LXX
-8,ActsThis,PHRASE,your heart,G2588,Epistles,New Testament,Acts,LXX
-8,ActsThis,PHRASE,you may,G1832,Epistles,New Testament,Acts,LXX
-8,ActsThis,WORD,And,G1161,Epistles,New Testament,Acts,LXX
-8,ActsThis,PHRASE,he answered,G611,Epistles,New Testament,Acts,LXX
-8,ActsThis,PHRASE,and said,G3004,Epistles,New Testament,Acts,LXX
-8,ActsThis,PHRASE,I believe,G4100,Epistles,New Testament,Acts,LXX
-8,ActsThis,PHRASE,that Jesus,G2424,Epistles,New Testament,Acts,LXX
-8,ActsThis,WORD,Christ,G5547,Epistles,New Testament,Acts,LXX
-8,ActsThis,WORD,is,G1510,Epistles,New Testament,Acts,LXX
-8,ActsThis,PHRASE,the Son,G5207,Epistles,New Testament,Acts,LXX
-8,ActsThis,PHRASE,of God],G2316,Epistles,New Testament,Acts,LXX
+8,Acts8:37,WORD,[And,G1161,Epistles,New Testament,Acts,LXX
+8,Acts8:37,WORD,Philip,G5376,Epistles,New Testament,Acts,LXX
+8,Acts8:37,WORD,said,G3004,Epistles,New Testament,Acts,LXX
+8,Acts8:37,WORD,If,G1487,Epistles,New Testament,Acts,LXX
+8,Acts8:37,PHRASE,you believe,G4100,Epistles,New Testament,Acts,LXX
+8,Acts8:37,WORD,with,G1537,Epistles,New Testament,Acts,LXX
+8,Acts8:37,WORD,all,G3650,Epistles,New Testament,Acts,LXX
+8,Acts8:37,PHRASE,your heart,G2588,Epistles,New Testament,Acts,LXX
+8,Acts8:37,PHRASE,you may,G1832,Epistles,New Testament,Acts,LXX
+8,Acts8:37,WORD,And,G1161,Epistles,New Testament,Acts,LXX
+8,Acts8:37,PHRASE,he answered,G611,Epistles,New Testament,Acts,LXX
+8,Acts8:37,PHRASE,and said,G3004,Epistles,New Testament,Acts,LXX
+8,Acts8:37,PHRASE,I believe,G4100,Epistles,New Testament,Acts,LXX
+8,Acts8:37,PHRASE,that Jesus,G2424,Epistles,New Testament,Acts,LXX
+8,Acts8:37,WORD,Christ,G5547,Epistles,New Testament,Acts,LXX
+8,Acts8:37,WORD,is,G1510,Epistles,New Testament,Acts,LXX
+8,Acts8:37,PHRASE,the Son,G5207,Epistles,New Testament,Acts,LXX
+8,Acts8:37,PHRASE,of God],G2316,Epistles,New Testament,Acts,LXX
 8,Acts8:38 ,WORD,And,G2532,Epistles,New Testament,Acts,LXX
 8,Acts8:38 ,PHRASE,he ordered,G2753,Epistles,New Testament,Acts,LXX
 8,Acts8:38 ,WORD,the,G3588,Epistles,New Testament,Acts,LXX
@@ -9134,11 +9134,11 @@ bible_chapter,bible_verse,verse_part_type,verse_part,hebrew_id,lit_type,testamen
 15,Acts15:33 ,PHRASE,had sent,G649,Epistles,New Testament,Acts,LXX
 15,Acts15:33 ,WORD,them,G846,Epistles,New Testament,Acts,LXX
 15,Acts15:33 ,WORD,out,G649,Epistles,New Testament,Acts,LXX
-15,ActsThis,WORD,[But,G1161,Epistles,New Testament,Acts,LXX
-15,ActsThis,PHRASE,it seemed good,G1380,Epistles,New Testament,Acts,LXX
-15,ActsThis,PHRASE,to Silas,G4609,Epistles,New Testament,Acts,LXX
-15,ActsThis,PHRASE,to remain,G1961,Epistles,New Testament,Acts,LXX
-15,ActsThis,WORD,there.],G847,Epistles,New Testament,Acts,LXX
+15,Acts15:34,WORD,[But,G1161,Epistles,New Testament,Acts,LXX
+15,Acts15:34,PHRASE,it seemed good,G1380,Epistles,New Testament,Acts,LXX
+15,Acts15:34,PHRASE,to Silas,G4609,Epistles,New Testament,Acts,LXX
+15,Acts15:34,PHRASE,to remain,G1961,Epistles,New Testament,Acts,LXX
+15,Acts15:34,WORD,there.],G847,Epistles,New Testament,Acts,LXX
 15,Acts15:35 ,WORD,But,G1161,Epistles,New Testament,Acts,LXX
 15,Acts15:35 ,WORD,Paul,G3972,Epistles,New Testament,Acts,LXX
 15,Acts15:35 ,WORD,and,G2532,Epistles,New Testament,Acts,LXX
@@ -14191,17 +14191,17 @@ bible_chapter,bible_verse,verse_part_type,verse_part,hebrew_id,lit_type,testamen
 24,Acts24:6 ,PHRASE,according to,G2596,Epistles,New Testament,Acts,LXX
 24,Acts24:6 ,PHRASE,our own,G1473,Epistles,New Testament,Acts,LXX
 24,Acts24:6 ,WORD,Law,G3551,Epistles,New Testament,Acts,LXX
-24,ActsThis,WORD,But,G1161,Epistles,New Testament,Acts,LXX
-24,ActsThis,WORD,Lysias,G3079,Epistles,New Testament,Acts,LXX
-24,ActsThis,PHRASE,the commander,G5506,Epistles,New Testament,Acts,LXX
-24,ActsThis,PHRASE,came along,G3928,Epistles,New Testament,Acts,LXX
-24,ActsThis,PHRASE,and with,G3326,Epistles,New Testament,Acts,LXX
-24,ActsThis,WORD,much,G4183,Epistles,New Testament,Acts,LXX
-24,ActsThis,WORD,violence,G970,Epistles,New Testament,Acts,LXX
-24,ActsThis,PHRASE,took him,G520,Epistles,New Testament,Acts,LXX
-24,ActsThis,PHRASE,out of,G1537,Epistles,New Testament,Acts,LXX
-24,ActsThis,WORD,our,G1473,Epistles,New Testament,Acts,LXX
-24,ActsThis,WORD,hands,G5495,Epistles,New Testament,Acts,LXX
+24,Acts24:7,WORD,But,G1161,Epistles,New Testament,Acts,LXX
+24,Acts24:7,WORD,Lysias,G3079,Epistles,New Testament,Acts,LXX
+24,Acts24:7,PHRASE,the commander,G5506,Epistles,New Testament,Acts,LXX
+24,Acts24:7,PHRASE,came along,G3928,Epistles,New Testament,Acts,LXX
+24,Acts24:7,PHRASE,and with,G3326,Epistles,New Testament,Acts,LXX
+24,Acts24:7,WORD,much,G4183,Epistles,New Testament,Acts,LXX
+24,Acts24:7,WORD,violence,G970,Epistles,New Testament,Acts,LXX
+24,Acts24:7,PHRASE,took him,G520,Epistles,New Testament,Acts,LXX
+24,Acts24:7,PHRASE,out of,G1537,Epistles,New Testament,Acts,LXX
+24,Acts24:7,WORD,our,G1473,Epistles,New Testament,Acts,LXX
+24,Acts24:7,WORD,hands,G5495,Epistles,New Testament,Acts,LXX
 24,Acts24:8 ,WORD,ordering,G2753,Epistles,New Testament,Acts,LXX
 24,Acts24:8 ,WORD,his,G846,Epistles,New Testament,Acts,LXX
 24,Acts24:8 ,WORD,accusers,G2725,Epistles,New Testament,Acts,LXX
@@ -16765,16 +16765,16 @@ bible_chapter,bible_verse,verse_part_type,verse_part,hebrew_id,lit_type,testamen
 28,Acts28:28 ,WORD,they,G846,Epistles,New Testament,Acts,LXX
 28,Acts28:28 ,PHRASE,will also,G2532,Epistles,New Testament,Acts,LXX
 28,Acts28:28 ,WORD,listen,G191,Epistles,New Testament,Acts,LXX
-28,ActsThis,PHRASE,[When he,G846,Epistles,New Testament,Acts,LXX
-28,ActsThis,PHRASE,had spoken,G3004,Epistles,New Testament,Acts,LXX
-28,ActsThis,PHRASE,these words,G3778,Epistles,New Testament,Acts,LXX
-28,ActsThis,PHRASE,the Jews,G2453,Epistles,New Testament,Acts,LXX
-28,ActsThis,WORD,departed,G565,Epistles,New Testament,Acts,LXX
-28,ActsThis,WORD,having,G2192,Epistles,New Testament,Acts,LXX
-28,ActsThis,PHRASE,a great,G4183,Epistles,New Testament,Acts,LXX
-28,ActsThis,WORD,dispute,G4803,Epistles,New Testament,Acts,LXX
-28,ActsThis,WORD,among,G1722,Epistles,New Testament,Acts,LXX
-28,ActsThis,WORD,themselves.],G1438,Epistles,New Testament,Acts,LXX
+28,Acts28:29,PHRASE,[When he,G846,Epistles,New Testament,Acts,LXX
+28,Acts28:29,PHRASE,had spoken,G3004,Epistles,New Testament,Acts,LXX
+28,Acts28:29,PHRASE,these words,G3778,Epistles,New Testament,Acts,LXX
+28,Acts28:29,PHRASE,the Jews,G2453,Epistles,New Testament,Acts,LXX
+28,Acts28:29,WORD,departed,G565,Epistles,New Testament,Acts,LXX
+28,Acts28:29,WORD,having,G2192,Epistles,New Testament,Acts,LXX
+28,Acts28:29,PHRASE,a great,G4183,Epistles,New Testament,Acts,LXX
+28,Acts28:29,WORD,dispute,G4803,Epistles,New Testament,Acts,LXX
+28,Acts28:29,WORD,among,G1722,Epistles,New Testament,Acts,LXX
+28,Acts28:29,WORD,themselves.],G1438,Epistles,New Testament,Acts,LXX
 28,Acts28:30 ,WORD,And,G1161,Epistles,New Testament,Acts,LXX
 28,Acts28:30 ,PHRASE,he stayed,G1696,Epistles,New Testament,Acts,LXX
 28,Acts28:30 ,WORD,two,G1333,Epistles,New Testament,Acts,LXX

@@ -9434,17 +9434,17 @@ bible_chapter,bible_verse,verse_part_type,verse_part,hebrew_id,lit_type,testamen
 17,Matthew17:20 ,WORD,nothing,G3762,Gospels,New Testament,Matthew,ESV
 17,Matthew17:20 ,PHRASE,will be impossible,G101,Gospels,New Testament,Matthew,ESV
 17,Matthew17:20 ,PHRASE,to you,G4771,Gospels,New Testament,Matthew,ESV
-17,MatthewThis,WORD,But,G1161,Gospels,New Testament,Matthew,ESV
-17,MatthewThis,WORD,this,G3778,Gospels,New Testament,Matthew,ESV
-17,MatthewThis,WORD,kind,G1085,Gospels,New Testament,Matthew,ESV
-17,MatthewThis,PHRASE,does not,G3756,Gospels,New Testament,Matthew,ESV
-17,MatthewThis,PHRASE,go out,G1607,Gospels,New Testament,Matthew,ESV
-17,MatthewThis,WORD,,G1487,Gospels,New Testament,Matthew,ESV
-17,MatthewThis,WORD,except,G3361,Gospels,New Testament,Matthew,ESV
-17,MatthewThis,WORD,by,G1722,Gospels,New Testament,Matthew,ESV
-17,MatthewThis,WORD,prayer,G4335,Gospels,New Testament,Matthew,ESV
-17,MatthewThis,WORD,and,G2532,Gospels,New Testament,Matthew,ESV
-17,MatthewThis,WORD,fasting,G3521,Gospels,New Testament,Matthew,ESV
+17,Matthew17:21,WORD,But,G1161,Gospels,New Testament,Matthew,ESV
+17,Matthew17:21,WORD,this,G3778,Gospels,New Testament,Matthew,ESV
+17,Matthew17:21,WORD,kind,G1085,Gospels,New Testament,Matthew,ESV
+17,Matthew17:21,PHRASE,does not,G3756,Gospels,New Testament,Matthew,ESV
+17,Matthew17:21,PHRASE,go out,G1607,Gospels,New Testament,Matthew,ESV
+17,Matthew17:21,WORD,,G1487,Gospels,New Testament,Matthew,ESV
+17,Matthew17:21,WORD,except,G3361,Gospels,New Testament,Matthew,ESV
+17,Matthew17:21,WORD,by,G1722,Gospels,New Testament,Matthew,ESV
+17,Matthew17:21,WORD,prayer,G4335,Gospels,New Testament,Matthew,ESV
+17,Matthew17:21,WORD,and,G2532,Gospels,New Testament,Matthew,ESV
+17,Matthew17:21,WORD,fasting,G3521,Gospels,New Testament,Matthew,ESV
 17,Matthew17:22 ,WORD,And,G1161,Gospels,New Testament,Matthew,ESV
 17,Matthew17:22 ,PHRASE,while they,G846,Gospels,New Testament,Matthew,ESV
 17,Matthew17:22 ,PHRASE,were gathering together,G4962,Gospels,New Testament,Matthew,ESV
@@ -9771,13 +9771,13 @@ bible_chapter,bible_verse,verse_part_type,verse_part,hebrew_id,lit_type,testamen
 18,Matthew18:10 ,WORD,who,G3588,Gospels,New Testament,Matthew,ESV
 18,Matthew18:10 ,PHRASE,is in,G1722,Gospels,New Testament,Matthew,ESV
 18,Matthew18:10 ,WORD,heaven,G3772,Gospels,New Testament,Matthew,ESV
-18,MatthewThis,WORD,For,G1063,Gospels,New Testament,Matthew,ESV
-18,MatthewThis,PHRASE,the Son,G5207,Gospels,New Testament,Matthew,ESV
-18,MatthewThis,PHRASE,of Man,G444,Gospels,New Testament,Matthew,ESV
-18,MatthewThis,PHRASE,has come,G2064,Gospels,New Testament,Matthew,ESV
-18,MatthewThis,PHRASE,to save,G4982,Gospels,New Testament,Matthew,ESV
-18,MatthewThis,PHRASE,that which,G3588,Gospels,New Testament,Matthew,ESV
-18,MatthewThis,PHRASE,was lost,G622,Gospels,New Testament,Matthew,ESV
+18,Matthew18:11,WORD,For,G1063,Gospels,New Testament,Matthew,ESV
+18,Matthew18:11,PHRASE,the Son,G5207,Gospels,New Testament,Matthew,ESV
+18,Matthew18:11,PHRASE,of Man,G444,Gospels,New Testament,Matthew,ESV
+18,Matthew18:11,PHRASE,has come,G2064,Gospels,New Testament,Matthew,ESV
+18,Matthew18:11,PHRASE,to save,G4982,Gospels,New Testament,Matthew,ESV
+18,Matthew18:11,PHRASE,that which,G3588,Gospels,New Testament,Matthew,ESV
+18,Matthew18:11,PHRASE,was lost,G622,Gospels,New Testament,Matthew,ESV
 18,Matthew18:12 ,WORD,What,G5101,Gospels,New Testament,Matthew,ESV
 18,Matthew18:12 ,PHRASE,do you,G4771,Gospels,New Testament,Matthew,ESV
 18,Matthew18:12 ,WORD,think,G1380,Gospels,New Testament,Matthew,ESV
@@ -12704,26 +12704,26 @@ bible_chapter,bible_verse,verse_part_type,verse_part,hebrew_id,lit_type,testamen
 23,Matthew23:13 ,PHRASE,those who,G3588,Gospels,New Testament,Matthew,ESV
 23,Matthew23:13 ,PHRASE,are entering,G1525,Gospels,New Testament,Matthew,ESV
 23,Matthew23:13 ,PHRASE,to go in,G1525,Gospels,New Testament,Matthew,ESV
-23,MatthewThis,WORD,Woe,G3759,Gospels,New Testament,Matthew,ESV
-23,MatthewThis,PHRASE,to you,G4771,Gospels,New Testament,Matthew,ESV
-23,MatthewThis,WORD,scribes,G1122,Gospels,New Testament,Matthew,ESV
-23,MatthewThis,WORD,and,G2532,Gospels,New Testament,Matthew,ESV
-23,MatthewThis,WORD,Pharisees,G5330,Gospels,New Testament,Matthew,ESV
-23,MatthewThis,WORD,hypocrites,G5273,Gospels,New Testament,Matthew,ESV
-23,MatthewThis,WORD,because,G3754,Gospels,New Testament,Matthew,ESV
-23,MatthewThis,PHRASE,you devour,G2719,Gospels,New Testament,Matthew,ESV
-23,MatthewThis,WORD,widows,G5503,Gospels,New Testament,Matthew,ESV
-23,MatthewThis,WORD,houses,G3614,Gospels,New Testament,Matthew,ESV
-23,MatthewThis,WORD,and,G2532,Gospels,New Testament,Matthew,ESV
-23,MatthewThis,PHRASE,for a pretense,G4392,Gospels,New Testament,Matthew,ESV
-23,MatthewThis,PHRASE,you make,G4336,Gospels,New Testament,Matthew,ESV
-23,MatthewThis,WORD,long,G3117,Gospels,New Testament,Matthew,ESV
-23,MatthewThis,WORD,prayers,G4336,Gospels,New Testament,Matthew,ESV
-23,MatthewThis,WORD,therefore,G1223,Gospels,New Testament,Matthew,ESV
-23,MatthewThis,WORD,,G3778,Gospels,New Testament,Matthew,ESV
-23,MatthewThis,PHRASE,you will receive,G2983,Gospels,New Testament,Matthew,ESV
-23,MatthewThis,WORD,greater,G4053,Gospels,New Testament,Matthew,ESV
-23,MatthewThis,WORD,condemnation,G2917,Gospels,New Testament,Matthew,ESV
+23,Matthew23:14,WORD,Woe,G3759,Gospels,New Testament,Matthew,ESV
+23,Matthew23:14,PHRASE,to you,G4771,Gospels,New Testament,Matthew,ESV
+23,Matthew23:14,WORD,scribes,G1122,Gospels,New Testament,Matthew,ESV
+23,Matthew23:14,WORD,and,G2532,Gospels,New Testament,Matthew,ESV
+23,Matthew23:14,WORD,Pharisees,G5330,Gospels,New Testament,Matthew,ESV
+23,Matthew23:14,WORD,hypocrites,G5273,Gospels,New Testament,Matthew,ESV
+23,Matthew23:14,WORD,because,G3754,Gospels,New Testament,Matthew,ESV
+23,Matthew23:14,PHRASE,you devour,G2719,Gospels,New Testament,Matthew,ESV
+23,Matthew23:14,WORD,widows,G5503,Gospels,New Testament,Matthew,ESV
+23,Matthew23:14,WORD,houses,G3614,Gospels,New Testament,Matthew,ESV
+23,Matthew23:14,WORD,and,G2532,Gospels,New Testament,Matthew,ESV
+23,Matthew23:14,PHRASE,for a pretense,G4392,Gospels,New Testament,Matthew,ESV
+23,Matthew23:14,PHRASE,you make,G4336,Gospels,New Testament,Matthew,ESV
+23,Matthew23:14,WORD,long,G3117,Gospels,New Testament,Matthew,ESV
+23,Matthew23:14,WORD,prayers,G4336,Gospels,New Testament,Matthew,ESV
+23,Matthew23:14,WORD,therefore,G1223,Gospels,New Testament,Matthew,ESV
+23,Matthew23:14,WORD,,G3778,Gospels,New Testament,Matthew,ESV
+23,Matthew23:14,PHRASE,you will receive,G2983,Gospels,New Testament,Matthew,ESV
+23,Matthew23:14,WORD,greater,G4053,Gospels,New Testament,Matthew,ESV
+23,Matthew23:14,WORD,condemnation,G2917,Gospels,New Testament,Matthew,ESV
 23,Matthew23:15 ,WORD,Woe,G3759,Gospels,New Testament,Matthew,ESV
 23,Matthew23:15 ,PHRASE,to you,G4771,Gospels,New Testament,Matthew,ESV
 23,Matthew23:15 ,WORD,scribes,G1122,Gospels,New Testament,Matthew,ESV

@@ -12689,16 +12689,16 @@ bible_chapter,bible_verse,verse_part_type,verse_part,hebrew_id,lit_type,testamen
 17,Luke17:35 ,WORD,and,G1161,Gospels,New Testament,Luke,NLT
 17,Luke17:35 ,PHRASE,the other,G2087,Gospels,New Testament,Luke,NLT
 17,Luke17:35 ,PHRASE,will be left,G863,Gospels,New Testament,Luke,NLT
-17,LukeThis,WORD,[Two,G1417,Gospels,New Testament,Luke,NLT
-17,LukeThis,WORD,men,G1417,Gospels,New Testament,Luke,NLT
-17,LukeThis,PHRASE,will be,G1510,Gospels,New Testament,Luke,NLT
-17,LukeThis,WORD,in,G1722,Gospels,New Testament,Luke,NLT
-17,LukeThis,PHRASE,the field,G68,Gospels,New Testament,Luke,NLT
-17,LukeThis,WORD,one,G1520,Gospels,New Testament,Luke,NLT
-17,LukeThis,PHRASE,will be taken,G3880,Gospels,New Testament,Luke,NLT
-17,LukeThis,WORD,and,G2532,Gospels,New Testament,Luke,NLT
-17,LukeThis,PHRASE,the other,G2087,Gospels,New Testament,Luke,NLT
-17,LukeThis,PHRASE,will be left],G863,Gospels,New Testament,Luke,NLT
+17,Luke17:36,WORD,[Two,G1417,Gospels,New Testament,Luke,NLT
+17,Luke17:36,WORD,men,G1417,Gospels,New Testament,Luke,NLT
+17,Luke17:36,PHRASE,will be,G1510,Gospels,New Testament,Luke,NLT
+17,Luke17:36,WORD,in,G1722,Gospels,New Testament,Luke,NLT
+17,Luke17:36,PHRASE,the field,G68,Gospels,New Testament,Luke,NLT
+17,Luke17:36,WORD,one,G1520,Gospels,New Testament,Luke,NLT
+17,Luke17:36,PHRASE,will be taken,G3880,Gospels,New Testament,Luke,NLT
+17,Luke17:36,WORD,and,G2532,Gospels,New Testament,Luke,NLT
+17,Luke17:36,PHRASE,the other,G2087,Gospels,New Testament,Luke,NLT
+17,Luke17:36,PHRASE,will be left],G863,Gospels,New Testament,Luke,NLT
 17,Luke17:37 ,WORD,And,G2532,Gospels,New Testament,Luke,NLT
 17,Luke17:37 ,WORD,answering,G611,Gospels,New Testament,Luke,NLT
 17,Luke17:37 ,PHRASE,they said,G3004,Gospels,New Testament,Luke,NLT
@@ -16422,14 +16422,14 @@ bible_chapter,bible_verse,verse_part_type,verse_part,hebrew_id,lit_type,testamen
 23,Luke23:16 ,PHRASE,I will punish,G3811,Gospels,New Testament,Luke,NLT
 23,Luke23:16 ,WORD,Him,G846,Gospels,New Testament,Luke,NLT
 23,Luke23:16 ,PHRASE,and release Him,G630,Gospels,New Testament,Luke,NLT
-23,LukeThis,WORD,[Now,G1161,Gospels,New Testament,Luke,NLT
-23,LukeThis,PHRASE,he was,G2192,Gospels,New Testament,Luke,NLT
-23,LukeThis,WORD,obliged,G318,Gospels,New Testament,Luke,NLT
-23,LukeThis,PHRASE,to release,G630,Gospels,New Testament,Luke,NLT
-23,LukeThis,PHRASE,to them,G846,Gospels,New Testament,Luke,NLT
-23,LukeThis,WORD,at,G2596,Gospels,New Testament,Luke,NLT
-23,LukeThis,PHRASE,the feast,G1859,Gospels,New Testament,Luke,NLT
-23,LukeThis,PHRASE,one prisoner.],G1520,Gospels,New Testament,Luke,NLT
+23,Luke23:17,WORD,[Now,G1161,Gospels,New Testament,Luke,NLT
+23,Luke23:17,PHRASE,he was,G2192,Gospels,New Testament,Luke,NLT
+23,Luke23:17,WORD,obliged,G318,Gospels,New Testament,Luke,NLT
+23,Luke23:17,PHRASE,to release,G630,Gospels,New Testament,Luke,NLT
+23,Luke23:17,PHRASE,to them,G846,Gospels,New Testament,Luke,NLT
+23,Luke23:17,WORD,at,G2596,Gospels,New Testament,Luke,NLT
+23,Luke23:17,PHRASE,the feast,G1859,Gospels,New Testament,Luke,NLT
+23,Luke23:17,PHRASE,one prisoner.],G1520,Gospels,New Testament,Luke,NLT
 23,Luke23:18 ,WORD,But,G1161,Gospels,New Testament,Luke,NLT
 23,Luke23:18 ,PHRASE,they cried out,G349,Gospels,New Testament,Luke,NLT
 23,Luke23:18 ,PHRASE,all together,G3826,Gospels,New Testament,Luke,NLT
