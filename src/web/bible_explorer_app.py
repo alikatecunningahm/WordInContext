@@ -23,19 +23,41 @@ es = Elasticsearch(
     )
 
 es_verse_index = cfg.ES_VERSE_INDEX_NAME
-es_strongs_id_index = cfg.ES_VERSE_INDEX_NAME
+es_strongs_id_index = cfg.ES_STRONGS_INDEX_NAME
 
 st.set_page_config(page_title="Bible Word Explorer", layout="wide")
 st.title("📖 Bible Word Explorer")
+
+# Fetch Strong's IDs for dropdown
+def get_strongs_options():
+    query = {
+        "size": 10000,
+        "_source": ["strongs_id", "Original Word", "Transliteration"],
+        "query": {"match_all": {}}
+    }
+    res = es.search(index=es_strongs_id_index, body=query)
+    options = res.get("hits", {}).get("hits", [])
+    
+    # Map: "Transliteration – Original Word (Strong's ID)" -> strongs_id
+    return {
+        f"{doc['_source'].get('Transliteration', '')} – {doc['_source'].get('Original Word', '')} ({doc['_source']['strongs_id']})":
+        doc['_source']['strongs_id']
+        for doc in options if 'strongs_id' in doc['_source']
+    }
 
 # --- Sidebar ---
 with st.sidebar:
     st.header("Search Filters")
     search_type = st.radio("Search for:", ["Strong's ID", "English word"])
-    search_input = st.text_input(
-        "Enter Strong's ID or English word:",
-        value="G1411" if search_type == "Strong's ID" else ""
-    )
+    
+    search_input = ""
+    if search_type == "Strong's ID":
+        strongs_options = get_strongs_options()
+        selected_option = st.selectbox("Choose Strong's ID:", list(strongs_options.keys()))
+        search_input = strongs_options[selected_option]
+    else:
+        search_input = st.text_input("Enter English word:", "")
+
     version_filter = st.selectbox(
         "Filter by version:",
         ["ASV", "KJV", "ESV", "NIV", "NLT", "LXX"]
@@ -83,7 +105,7 @@ if st.session_state.base_query:
             }
         }
     }
-    res_total = es.search(index=cfg.ES_VERSE_INDEX_NAME, body=total_occurrences_query)
+    res_total = es.search(index=es_verse_index, body=total_occurrences_query)
     total_occurrences = res_total.get("aggregations", {}).get("total_occurrences", {}).get("value", 0)
 
     # Distinct number of books
@@ -96,7 +118,7 @@ if st.session_state.base_query:
             }
         }
     }
-    res_books = es.search(index=cfg.ES_VERSE_INDEX_NAME, body=distinct_books_query)
+    res_books = es.search(index=es_verse_index, body=distinct_books_query)
     distinct_books = res_books.get("aggregations", {}).get("distinct_books", {}).get("value", 0)
 
     # Unique verses
@@ -109,7 +131,7 @@ if st.session_state.base_query:
             }
         }
     }
-    res_unique_verses = es.search(index=cfg.ES_VERSE_INDEX_NAME, body=unique_verses_query)
+    res_unique_verses = es.search(index=es_verse_index, body=unique_verses_query)
     unique_verse_count = res_unique_verses.get("aggregations", {}).get("unique_verses", {}).get("value", 0)
 
     # Display in two columns
@@ -135,7 +157,7 @@ if st.session_state.base_query:
             }
         }
     }
-    res_book = es.search(index=cfg.ES_VERSE_INDEX_NAME, body=agg_book)
+    res_book = es.search(index=es_verse_index, body=agg_book)
     df_book = pd.DataFrame(res_book["aggregations"]["by_book"]["buckets"])
     if not df_book.empty:
         df_book.columns = ["Book", "Count"]
@@ -162,7 +184,7 @@ if st.session_state.base_query:
             }
         }
     }
-    res_test = es.search(index=cfg.ES_VERSE_INDEX_NAME, body=agg_test)
+    res_test = es.search(index=es_verse_index, body=agg_test)
     df_test = pd.DataFrame(res_test["aggregations"]["by_testament"]["buckets"])
     if not df_test.empty:
         df_test.columns = ["Testament", "Count"]
@@ -177,7 +199,7 @@ if st.session_state.base_query:
             }
         }
     }
-    res_lit = es.search(index=cfg.ES_VERSE_INDEX_NAME, body=agg_lit)
+    res_lit = es.search(index=es_verse_index, body=agg_lit)
     df_lit = pd.DataFrame(res_lit["aggregations"]["by_lit"]["buckets"])
     if not df_lit.empty:
         df_lit.columns = ["Literary Type", "Count"]
@@ -229,7 +251,7 @@ if st.session_state.base_query:
                 }
             }
         }
-        res_wc = es.search(index=cfg.ES_VERSE_INDEX_NAME, body=query_wc)
+        res_wc = es.search(index=es_verse_index, body=query_wc)
         buckets_wc = res_wc.get("aggregations", {}).get("unique_translations", {}).get("buckets", [])
         text_wc = " ".join([b["key"] for b in buckets_wc if b["key"]])
 
@@ -244,7 +266,7 @@ if st.session_state.base_query:
                 }
             }
         }
-        res_strongs = es.search(index=cfg.ES_VERSE_INDEX_NAME, body=strongs_id_agg_query)
+        res_strongs = es.search(index=es_verse_index, body=strongs_id_agg_query)
         buckets_strongs = res_strongs.get("aggregations", {}).get("unique_strongs_ids", {}).get("buckets", [])
         text_wc = " ".join([b["key"] for b in buckets_strongs if b["key"]])
 
@@ -273,14 +295,14 @@ if st.session_state.base_query:
             }
         }
     }
-    res_unique_verses = es.search(index=cfg.ES_VERSE_INDEX_NAME, body=unique_verses_query)
+    res_unique_verses = es.search(index=es_verse_index, body=unique_verses_query)
     buckets_unique_verses = res_unique_verses.get("aggregations", {}).get("unique_verses", {}).get("buckets", [])
     unique_verses = [bucket["key"] for bucket in buckets_unique_verses]
 
     # Use scan helper to handle scroll + batching
     all_verse_parts_results = scan(
         client=es,
-        index=cfg.ES_VERSE_INDEX_NAME,
+        index=es_verse_index,
         query={
             "query": {
                 "bool": {
@@ -411,7 +433,7 @@ if st.session_state.base_query:
                 }
             }
 
-            verse_query_results = es.search(index=cfg.ES_VERSE_INDEX_NAME, body=verse_query)
+            verse_query_results = es.search(index=es_verse_index, body=verse_query)
             search_word = verse_query_results['hits']['hits'][0]['_source']['verse_part']
 
         pattern = re.compile(re.escape(search_word), re.IGNORECASE)
