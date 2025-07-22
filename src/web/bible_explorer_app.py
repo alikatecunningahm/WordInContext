@@ -15,15 +15,16 @@ import numpy as np
 import matplotlib.pyplot as plt
 import plotly.express as px
 
+# --- Read in cfg vars ---
+es_verse_index = cfg.ES_VERSE_INDEX_NAME
+es_strongs_id_index = cfg.ES_STRONGS_INDEX_NAME
+
 # --- Connect to Elasticsearch ---
 es = Elasticsearch(
     hosts=st.secrets["ES_HOST"],
     api_key=st.secrets["ES_API_KEY"],
     verify_certs=True
     )
-
-es_verse_index = cfg.ES_VERSE_INDEX_NAME
-es_strongs_id_index = cfg.ES_STRONGS_INDEX_NAME
 
 st.set_page_config(page_title="Bible Word Explorer", layout="wide")
 st.title("📖 Bible Word Explorer")
@@ -76,6 +77,14 @@ if "base_query" not in st.session_state:
 if "book_selection" not in st.session_state:
     st.session_state.book_selection = None
 
+if "filter_path" not in st.session_state:
+    st.session_state.filter_path = []
+
+if st.session_state.get("filter_path"):
+    display_term = " → ".join(st.session_state["filter_path"])
+else:
+    display_term = search_input  # fallback to initial input
+
 # --- Build Query ---
 if search_triggered:
     if not search_input.strip():
@@ -90,10 +99,53 @@ if search_triggered:
 
 # --- Perform Search ---
 if st.session_state.base_query:
+    # Helper to rebuild base_query from a term
+    def build_base_query(term):
+        if search_type == "Strong's ID":
+            return {
+                "bool": {
+                    "must": [{"term": {"hebrew_id": term}}],
+                    "filter": [{"term": {"version": version_filter}}]
+                }
+            }
+        else:
+            return {
+                "bool": {
+                    "must": [{"match_phrase": {"verse_part": term}}],
+                    "filter": [{"term": {"version": version_filter}}]
+                }
+            }
+
+    # Display current filter path
+    if st.session_state.get("filter_path"):
+        path_str = " → ".join(st.session_state["filter_path"])
+        st.markdown(f"### Current Filter Path: *{path_str}*")
+
+        # Show controls only if more than one filter has been applied
+        if len(st.session_state["filter_path"]) > 1:
+            col1, col2 = st.columns([1, 1])
+
+            with col1:
+                if st.button("🔙 Step Back One Level"):
+                    st.session_state.filter_path.pop()
+                    last_term = st.session_state.filter_path[-1]
+                    st.session_state.base_query = build_base_query(last_term)
+                    st.session_state.search_input_filtered = last_term
+                    st.rerun()
+
+            with col2:
+                if st.button("🔄 Reset Filters"):
+                    original_term = st.session_state.filter_path[0]
+                    st.session_state.filter_path = [original_term]
+                    st.session_state.base_query = build_base_query(original_term)
+                    st.session_state.search_input_filtered = original_term
+                    st.rerun()
+
+    # 💡 REFRESH base_query in local scope
     base_query = st.session_state.base_query
 
     # --- Summary Stats Panel ---
-    st.subheader(f"📌 Summary Statistics: {search_input}")
+    st.subheader(f"📌 Summary Statistics: {display_term}")
 
     # Total number of occurrences
     total_occurrences_query = {
@@ -239,6 +291,9 @@ if st.session_state.base_query:
 
     # --- Word Cloud ---
     st.subheader("☁️ Word Cloud of Translations")
+    # Word cloud terms with counts
+    term_counts = []
+    text_wc = ""
 
     if search_type == "Strong's ID":
         # Word cloud based on English words related to the Strong's ID
@@ -253,6 +308,7 @@ if st.session_state.base_query:
         }
         res_wc = es.search(index=es_verse_index, body=query_wc)
         buckets_wc = res_wc.get("aggregations", {}).get("unique_translations", {}).get("buckets", [])
+        term_counts = [(b["key"], b["doc_count"]) for b in buckets_wc]
         text_wc = " ".join([b["key"] for b in buckets_wc if b["key"]])
 
     else:
@@ -268,20 +324,57 @@ if st.session_state.base_query:
         }
         res_strongs = es.search(index=es_verse_index, body=strongs_id_agg_query)
         buckets_strongs = res_strongs.get("aggregations", {}).get("unique_strongs_ids", {}).get("buckets", [])
-        text_wc = " ".join([b["key"] for b in buckets_strongs if b["key"]])
+        term_counts = [(b["key"], b["doc_count"]) for b in buckets_strongs]
 
-    if text_wc:
-        wordcloud = WordCloud(
-            width=800, height=400, background_color="white",
-            stopwords=STOPWORDS, collocations=False
-        ).generate(text_wc)
-        fig, ax = plt.subplots(figsize=(8, 4))
-        ax.imshow(wordcloud, interpolation="bilinear")
-        ax.axis("off")
-        st.pyplot(fig)
-    else:
-        st.info("No word cloud data found.")
+    # Sort by count descending
+    term_counts = sorted(term_counts, key=lambda x: -x[1])
 
+    # Prepare dict for word cloud
+    wc_freqs = {term: count for term, count in term_counts}
+
+    col_wc, col_filter = st.columns([2, 1])
+
+    with col_wc:
+        if wc_freqs:
+            wordcloud = WordCloud(
+                width=800, height=400, background_color="white",
+                stopwords=STOPWORDS, collocations=False
+            ).generate_from_frequencies(wc_freqs)
+            
+            fig, ax = plt.subplots(figsize=(8, 4))
+            ax.imshow(wordcloud, interpolation="bilinear")
+            ax.axis("off")
+            st.pyplot(fig)
+        else:
+            st.info("No word cloud data found.")
+
+
+    with col_filter:
+        st.subheader("🔎 Filter Word Cloud Terms")
+
+        filter_labels = [f"{term} ({count})" for term, count in term_counts]
+        term_lookup = {f"{term} ({count})": term for term, count in term_counts}
+
+        selected = st.selectbox(
+            "Choose a word cloud term to filter by:",
+            filter_labels,
+            index=None,
+            placeholder="Select a term...",
+        )
+
+        if selected:
+            term = term_lookup[selected]
+
+            if search_type == "English word":
+                st.session_state.base_query["bool"]["must"].append({"term": {"hebrew_id": term}})
+            else:
+                st.session_state.base_query["bool"]["must"].append({"term": {"verse_part.keyword": term}})
+
+            if not st.session_state.filter_path:
+                st.session_state.filter_path.append(search_input)
+            st.session_state.filter_path.append(term)
+            st.session_state.search_input_filtered = term
+            st.rerun()
 
     # --- Surrounding Words + Co-occurrence ---
     st.subheader("🔍 Surrounding Word Co-occurrence Heatmap")
@@ -399,7 +492,7 @@ if st.session_state.base_query:
     
     # --- Verses using this search term ---
     # Section header
-    st.markdown(f"## Verses using *{search_input}*")
+    st.markdown(f"## Verses using *{display_term}*")
 
     # Iterate over concatenated verses and display
     for verse_id, text in concatenated_verses.items():
