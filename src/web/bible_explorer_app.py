@@ -494,47 +494,60 @@ if st.session_state.base_query:
     # Section header
     st.markdown(f"## Verses using *{display_term}*")
 
-    # Iterate over concatenated verses and display
+    # --- Extract book names from verse_id ---
+    book_names = set()
+    for v_id in concatenated_verses.keys():
+        match = re.match(r"([1-3]?[A-Za-z]+)\d+:\d+", v_id)
+        if match:
+            book_names.add(match.group(1))
+
+    book_list = sorted(book_names)
+
+    # --- Sidebar filters or inline UI ---
+    st.markdown("### 🔎 Filter Verses")
+
+    col1, col2 = st.columns([1, 2])
+
+    with col1:
+        selected_book = st.selectbox("Filter by Bible Book:", ["All"] + book_list)
+
+    with col2:
+        search_text = st.text_input("Search verse text (case-insensitive):", "")
+
     for verse_id, text in concatenated_verses.items():
-        # Use regex to highlight all occurrences (case-insensitive)
+        # Skip if book is filtered
+        if selected_book != "All" and not verse_id.startswith(selected_book):
+            continue
+
+        # Skip if search_text is present and not found
+        if search_text.strip() and search_text.lower() not in text.lower():
+            continue
+
+        # --- Highlight search_word ---
         if search_type == "English word":
             search_word = search_input
         else:
             verse_query = {
                 "query": {
                     "bool": {
-                        "must": [
-                            {
-                                "term": {
-                                    "bible_verse": verse_id
-                                }
-                            }
-                        ],
+                        "must": [{"term": {"bible_verse": verse_id}}],
                         "filter": [
-                            {
-                                "term": {
-                                    "version": version_filter
-                                }
-                            },
-                            {
-                                "term": {
-                                    "hebrew_id": search_input
-                                }
-                            }
+                            {"term": {"version": version_filter}},
+                            {"term": {"hebrew_id": search_input}}
                         ]
                     }
                 }
             }
-
             verse_query_results = es.search(index=es_verse_index, body=verse_query)
             search_word = verse_query_results['hits']['hits'][0]['_source']['verse_part']
 
         pattern = re.compile(re.escape(search_word), re.IGNORECASE)
-        
         highlighted_text = pattern.sub(
             lambda m: f"<span style='background-color: #ccffcc; color: #006600'><b>{m.group(0)}</b></span>",
             text
         )
-        
-        # Display verse with highlighted term
-        st.markdown(f"{verse_id}: {highlighted_text}", unsafe_allow_html=True)
+
+        # Format verse_id to add space
+        formatted_verse_id = re.sub(r"^((?:[1-3]?[A-Za-z]+))(\d+:\d+)$", r"\1 \2", verse_id)
+
+        st.markdown(f"<b><u>{formatted_verse_id}</u></b>: {highlighted_text}", unsafe_allow_html=True)
