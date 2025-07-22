@@ -144,8 +144,6 @@ if st.session_state.base_query:
     # 💡 REFRESH base_query in local scope
     base_query = st.session_state.base_query
 
-
-
     # --- Summary Stats Panel ---
     st.subheader(f"📌 Summary Statistics: {display_term}")
 
@@ -327,25 +325,29 @@ if st.session_state.base_query:
         res_strongs = es.search(index=es_verse_index, body=strongs_id_agg_query)
         buckets_strongs = res_strongs.get("aggregations", {}).get("unique_strongs_ids", {}).get("buckets", [])
         term_counts = [(b["key"], b["doc_count"]) for b in buckets_strongs]
-        text_wc = " ".join([b["key"] for b in buckets_strongs if b["key"]])
 
     # Sort by count descending
     term_counts = sorted(term_counts, key=lambda x: -x[1])
 
+    # Prepare dict for word cloud
+    wc_freqs = {term: count for term, count in term_counts}
+
     col_wc, col_filter = st.columns([2, 1])
 
     with col_wc:
-        if text_wc:
+        if wc_freqs:
             wordcloud = WordCloud(
                 width=800, height=400, background_color="white",
                 stopwords=STOPWORDS, collocations=False
-            ).generate(text_wc)
+            ).generate_from_frequencies(wc_freqs)
+            
             fig, ax = plt.subplots(figsize=(8, 4))
             ax.imshow(wordcloud, interpolation="bilinear")
             ax.axis("off")
             st.pyplot(fig)
         else:
             st.info("No word cloud data found.")
+
 
     with col_filter:
         st.subheader("🔎 Filter Word Cloud Terms")
@@ -366,7 +368,7 @@ if st.session_state.base_query:
             if search_type == "English word":
                 st.session_state.base_query["bool"]["must"].append({"term": {"hebrew_id": term}})
             else:
-                st.session_state.base_query["bool"]["must"].append({"match_phrase": {"verse_part": term}})
+                st.session_state.base_query["bool"]["must"].append({"term": {"verse_part.keyword": term}})
 
             if not st.session_state.filter_path:
                 st.session_state.filter_path.append(search_input)
